@@ -26,7 +26,7 @@ def fetch(api_key: str, sport: str, regions: str, bookmakers: list[str], log=pri
         params.pop("regions")
     r = requests.get(URL.format(sport=sport), params=params, timeout=60)
     if r.status_code == 401:
-        raise RuntimeError("Odds API rejected the key (401). Check the ODDS_API_KEY secret.")
+        raise RuntimeError(f"Odds API rejected the key (401): {r.text[:200]} -- check the ODDS_API_KEY secret.")
     r.raise_for_status()
     log(f"Odds API: {len(r.json())} events, credits used {r.headers.get('x-requests-used')}, "
         f"remaining {r.headers.get('x-requests-remaining')}")
