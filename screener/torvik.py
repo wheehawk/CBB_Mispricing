@@ -23,7 +23,44 @@ def season_year(day: dt.date) -> int:
     return day.year + 1 if day.month >= 8 else day.year
 
 
-def _get_json(url: str, tries: int = 3):
+def _get_json_browser(url: str):
+    """Torvik sometimes answers plain downloads with a "Verifying your browser" page (403),
+    e.g. from GitHub's servers. A headless browser passes that check, then downloads the file
+    with the same cookies."""
+    import asyncio
+    import json
+
+    from playwright.async_api import async_playwright
+
+    async def run():
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(args=["--disable-blink-features=AutomationControlled"])
+            ctx = await browser.new_context(user_agent=UA)
+            page = await ctx.new_page()
+            await page.goto(f"{BASE}/", timeout=60000)
+            for _ in range(10):  # the check auto-submits and reloads
+                await page.wait_for_timeout(3000)
+                if "verifying" not in (await page.title()).lower():
+                    break
+            # Download from inside the verified page (same cookies, same network path).
+            status, body = await page.evaluate(
+                "async u => { const r = await fetch(u, {credentials: 'include'}); return [r.status, await r.text()]; }",
+                url,
+            )
+            if status != 200 or body.lstrip()[:1] != "[":
+                # Fall back to loading the file as a page.
+                resp = await page.goto(url, timeout=120000)
+                status = resp.status if resp else status
+                body = await page.evaluate("document.body.innerText")
+            await browser.close()
+            if body.lstrip()[:1] != "[":
+                raise RuntimeError(f"HTTP {status}, got a non-data page: {body[:120]!r}")
+            return json.loads(body)
+
+    return asyncio.run(run())
+
+
+def _get_json(url: str, tries: int = 2):
     last = None
     for i in range(tries):
         try:
@@ -32,8 +69,12 @@ def _get_json(url: str, tries: int = 3):
             return r.json()
         except Exception as e:  # network blip or bot-check page
             last = e
-            time.sleep(5 * (i + 1))
-    raise RuntimeError(f"Torvik download failed for {url}: {last}")
+            time.sleep(3 * (i + 1))
+    try:
+        print(f"[screener] Plain Torvik download blocked ({last}); retrying with a headless browser", flush=True)
+        return _get_json_browser(url)
+    except Exception as e:
+        raise RuntimeError(f"Torvik download failed for {url}: {last}; browser attempt: {e}") from e
 
 
 def _num(v):
