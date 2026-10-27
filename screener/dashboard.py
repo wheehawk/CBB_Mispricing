@@ -1,0 +1,235 @@
+"""Render the static dashboard (docs/index.html), published via GitHub Pages."""
+from __future__ import annotations
+
+import datetime as dt
+import html
+import json
+from zoneinfo import ZoneInfo
+
+from .history import clv
+
+
+def _line(home_margin):
+    """Projected margin -> spread notation on the home team (home by 5 -> -5.0)."""
+    return None if home_margin is None else round(-home_margin, 1)
+
+
+def _r(x, n=1):
+    return None if x is None else round(x, n)
+
+
+def render(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetime, notes: list[str]) -> str:
+    tz = ZoneInfo(cfg["display"]["timezone"])
+    games = []
+    for r in rows:
+        se, te = r.get("spread_edge") or {}, r.get("total_edge") or {}
+        games.append({
+            "time": r["start"].astimezone(tz).strftime("%a %-I:%M %p"),
+            "away": r["torvik_away"], "home": r["torvik_home"], "neutral": r["neutral"],
+            "spread": r["spread"], "total": r["total"], "books": r["books"],
+            "tv_spread": _line(r["torvik_margin"]), "kp_spread": _line(r["kp_margin"]),
+            "bl_spread": _line(r["blend_margin"]),
+            "tv_total": _r(r["torvik_total"]), "kp_total": _r(r["kp_total"]), "bl_total": _r(r["blend_total"]),
+            "s_edge": _r(se.get("blend")), "t_edge": _r(te.get("blend")),
+            "s_flag": r["spread_flag"], "t_flag": r["total_flag"],
+            "s_side": r.get("spread_side"), "t_side": r.get("total_side"),
+            "kp_src": r.get("kp_source"),
+            "best": {k: r[k] for k in ("best_home", "best_away", "best_over", "best_under")},
+        })
+    plist = []
+    for p in picks:
+        plist.append({**p, "clv": clv(p)})
+    graded = [p for p in picks if p["status"] in ("win", "loss", "push")]
+    w = sum(p["status"] == "win" for p in graded)
+    l = sum(p["status"] == "loss" for p in graded)
+    pu = sum(p["status"] == "push" for p in graded)
+    units = sum(float(p["units"]) for p in graded) if graded else 0.0
+    clvs = [clv(p) for p in graded if clv(p) is not None]
+    kp_src = sorted({r.get("kp_source") for r in rows if r.get("kp_source")})
+    summary = {
+        "updated": now.astimezone(tz).strftime("%b %-d, %Y %-I:%M %p ET"),
+        "today_plays": sum(g["s_flag"] + g["t_flag"] for g in games),
+        "games": len(games),
+        "record": f"{w}-{l}" + (f"-{pu}" if pu else ""),
+        "win_pct": None if w + l == 0 else round(100 * w / (w + l), 1),
+        "units": round(units, 2),
+        "avg_clv": None if not clvs else round(sum(clvs) / len(clvs), 2),
+        "kp_source": ", ".join(kp_src) if kp_src else "unavailable",
+        "thresholds": cfg["thresholds"],
+    }
+    payload = json.dumps({"games": games, "picks": plist, "summary": summary, "notes": notes}, default=str)
+    title = html.escape(cfg["display"]["title"])
+    return TEMPLATE.replace("__TITLE__", title).replace("__DATA__", payload.replace("</", "<\\/"))
+
+
+TEMPLATE = r"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#16181d; --muted:#666b75; --line:#e3e1da;
+  --accent:#d9480f; --accent-soft:#fff0e8; --good:#2b8a3e; --good-soft:#e9f7ec;
+  --bad:#c92a2a; --bad-soft:#fdecec; --chip:#efeee9;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#111317; --panel:#1a1d23; --ink:#eceae4; --muted:#9aa0aa; --line:#2b2f37;
+    --accent:#ff7a3d; --accent-soft:#2c1c13; --good:#51cf66; --good-soft:#15291a;
+    --bad:#ff6b6b; --bad-soft:#2e1617; --chip:#23272e;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#111317; --panel:#1a1d23; --ink:#eceae4; --muted:#9aa0aa; --line:#2b2f37;
+  --accent:#ff7a3d; --accent-soft:#2c1c13; --good:#51cf66; --good-soft:#15291a;
+  --bad:#ff6b6b; --bad-soft:#2e1617; --chip:#23272e;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 "IBM Plex Sans",system-ui,sans-serif}
+.wrap{max-width:1240px;margin:0 auto;padding:28px 16px 60px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;border-bottom:3px solid var(--ink);padding-bottom:14px}
+h1{font-size:28px;letter-spacing:-.02em;margin:0;font-weight:700}
+h1 span{color:var(--accent)}
+.meta{color:var(--muted);font-size:13px;text-align:right}
+.mono,td.n,.tile b{font-family:"IBM Plex Mono",ui-monospace,monospace}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:20px 0}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.tile small{display:block;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+.tile b{font-size:24px;font-weight:600}
+.pos{color:var(--good)} .neg{color:var(--bad)}
+nav{display:flex;gap:6px;margin:8px 0 12px;flex-wrap:wrap}
+nav button{font:inherit;font-weight:500;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer}
+nav button[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+section{display:none} section.on{display:block}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600;background:var(--panel);position:sticky;top:0}
+td.n,th.n{text-align:right}
+tr:last-child td{border-bottom:0}
+.flag{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.pick{font-weight:600}
+.chip{display:inline-block;background:var(--chip);border-radius:4px;padding:1px 6px;font-size:11px;color:var(--muted);margin-left:6px}
+.st-win{color:var(--good);font-weight:600} .st-loss{color:var(--bad);font-weight:600} .st-open{color:var(--muted)}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+.notes{margin-top:16px;font-size:13px;color:var(--muted)}
+.notes li{margin:2px 0}
+.filter{display:flex;gap:10px;align-items:center;margin-bottom:10px;font-size:14px;color:var(--muted)}
+.filter input{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink);min-width:200px}
+footer{margin-top:28px;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
+@media (max-width:640px){ h1{font-size:22px} .meta{text-align:left} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>CBB <span>Mispricing</span> Screener</h1>
+    <div class="meta" id="meta"></div>
+  </header>
+  <div class="tiles" id="tiles"></div>
+  <nav role="tablist">
+    <button role="tab" aria-selected="true" data-t="plays">Today's plays</button>
+    <button role="tab" aria-selected="false" data-t="all">All games</button>
+    <button role="tab" aria-selected="false" data-t="results">Results</button>
+  </nav>
+  <section id="plays" class="on"><div class="card" id="playsT"></div></section>
+  <section id="all">
+    <div class="filter"><input id="q" placeholder="Filter by team…" aria-label="Filter by team"><label><input type="checkbox" id="fo"> Flagged only</label></div>
+    <div class="card" id="allT"></div>
+  </section>
+  <section id="results"><div class="card" id="resT"></div></section>
+  <ul class="notes" id="notes"></ul>
+  <footer>
+    Model lines are shown like the market: on the home team (−5.5 = home favored). Edge = blended model vs. consensus (median) line.
+    A play is locked at the line when first flagged and graded at −110 from Torvik final scores. CLV = points the line moved toward the pick before tip-off.
+    For information only, not betting advice.
+  </footer>
+</div>
+<script>
+const D = __DATA__;
+const S = D.summary;
+const f = (x, d=1) => x === null || x === undefined ? "—" : (+x).toFixed(d);
+const sp = x => { if (x === null || x === undefined || isNaN(x)) return "—"; const r = Math.round(x * 10) / 10;
+  return (r > 0 ? "+" : r < 0 ? "−" : "") + Math.abs(r).toFixed(1).replace(/\.0$/, ""); };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const best = (b, tot) => b ? `${tot ? f(b[0]) : sp(b[0])} (${b[1] > 0 ? "+" : ""}${b[1]}) <span class="chip">${esc(b[2])}</span>` : "—";
+
+document.getElementById("meta").innerHTML =
+  `Updated ${esc(S.updated)}<br>KenPom source: ${esc(S.kp_source)} · Thresholds: spread ${S.thresholds.spread_edge}, total ${S.thresholds.total_edge}`;
+
+const tile = (k, v, cls="") => `<div class="tile"><small>${k}</small><b class="${cls}">${v}</b></div>`;
+document.getElementById("tiles").innerHTML =
+  tile("Plays today", S.today_plays) + tile("Games screened", S.games) + tile("Season record", S.record) +
+  tile("Win %", S.win_pct === null ? "—" : S.win_pct + "%") +
+  tile("Units", (S.units > 0 ? "+" : "") + S.units.toFixed(2), S.units > 0 ? "pos" : S.units < 0 ? "neg" : "") +
+  tile("Avg CLV (pts)", S.avg_clv === null ? "—" : sp(S.avg_clv), S.avg_clv >= 0.05 ? "pos" : S.avg_clv <= -0.05 ? "neg" : "");
+
+const matchup = g => `${esc(g.away)} ${g.neutral ? "vs" : "at"} ${esc(g.home)}${g.neutral ? '<span class="chip">neutral</span>' : ""}`;
+
+// Today's plays
+const plays = [];
+for (const g of D.games) {
+  if (g.s_flag) {
+    // Show every number from the picked team's side (Louisville −2 next to market −2, not +2).
+    const home = g.s_side === "home", k = home ? 1 : -1, side = x => x === null ? null : k * x;
+    plays.push({g, market: "Spread", pick: `${home ? g.home : g.away} ${sp(side(g.spread))}`, mkt: sp(side(g.spread)),
+      tv: sp(side(g.tv_spread)), kp: sp(side(g.kp_spread)), bl: sp(side(g.bl_spread)), edge: Math.abs(g.s_edge), best: best(home ? g.best.best_home : g.best.best_away)});
+  }
+  if (g.t_flag) {
+    const over = g.t_side === "over";
+    plays.push({g, market: "Total", pick: `${over ? "Over" : "Under"} ${f(g.total)}`, mkt: f(g.total),
+      tv: f(g.tv_total), kp: f(g.kp_total), bl: f(g.bl_total), edge: Math.abs(g.t_edge), best: best(over ? g.best.best_over : g.best.best_under, true)});
+  }
+}
+plays.sort((a, b) => b.edge - a.edge);
+document.getElementById("playsT").innerHTML = plays.length ? `<table><thead><tr>
+  <th>Tip</th><th>Game</th><th>Play</th><th class="n">Edge</th><th class="n">Market</th>
+  <th class="n">Torvik</th><th class="n">KenPom</th><th class="n">Blend</th><th>Best available</th></tr></thead><tbody>` +
+  plays.map(p => `<tr><td>${esc(p.g.time)}</td><td>${matchup(p.g)}</td>
+  <td class="pick">${esc(p.pick)}</td><td class="n flag">${f(p.edge)}</td><td class="n">${p.mkt}</td>
+  <td class="n">${p.tv}</td><td class="n">${p.kp}</td><td class="n">${p.bl}</td><td class="mono">${p.best}</td></tr>`).join("") +
+  "</tbody></table>" : `<div class="empty">No plays clear the thresholds right now${D.games.length ? "" : " — no upcoming games with lines"}.</div>`;
+
+// All games
+function renderAll() {
+  const q = document.getElementById("q").value.toLowerCase(), fo = document.getElementById("fo").checked;
+  const gs = D.games.filter(g => (!q || (g.home + " " + g.away).toLowerCase().includes(q)) && (!fo || g.s_flag || g.t_flag));
+  document.getElementById("allT").innerHTML = gs.length ? `<table><thead><tr><th>Tip</th><th>Game</th>
+    <th class="n">Spread</th><th class="n">Torvik</th><th class="n">KenPom</th><th class="n">Edge</th>
+    <th class="n">Total</th><th class="n">Torvik</th><th class="n">KenPom</th><th class="n">Edge</th><th class="n">Books</th></tr></thead><tbody>` +
+    gs.map(g => `<tr><td>${esc(g.time)}</td><td>${matchup(g)}</td>
+    <td class="n">${sp(g.spread)}</td><td class="n">${sp(g.tv_spread)}</td><td class="n">${sp(g.kp_spread)}</td>
+    <td class="n ${g.s_flag ? "flag" : ""}">${sp(g.s_edge)}</td>
+    <td class="n">${f(g.total)}</td><td class="n">${f(g.tv_total)}</td><td class="n">${f(g.kp_total)}</td>
+    <td class="n ${g.t_flag ? "flag" : ""}">${sp(g.t_edge)}</td><td class="n">${g.books}</td></tr>`).join("") +
+    "</tbody></table>" : `<div class="empty">No games to show.</div>`;
+}
+document.getElementById("q").addEventListener("input", renderAll);
+document.getElementById("fo").addEventListener("change", renderAll);
+renderAll();
+
+// Results
+const ps = [...D.picks].sort((a, b) => (b.start_utc || "").localeCompare(a.start_utc || ""));
+document.getElementById("resT").innerHTML = ps.length ? `<table><thead><tr><th>Date</th><th>Game</th><th>Play</th>
+  <th class="n">Edge</th><th class="n">Last line</th><th class="n">CLV</th><th>Final</th><th>Result</th><th class="n">Units</th></tr></thead><tbody>` +
+  ps.map(p => `<tr><td>${esc(p.game_date)}</td><td>${esc(p.torvik_away || p.away)} at ${esc(p.torvik_home || p.home)}</td><td class="pick">${esc(p.pick_label)}</td>
+  <td class="n">${f(p.edge)}</td><td class="n">${p.market === "spread" ? sp(+p.last_line) : f(p.last_line)}</td>
+  <td class="n ${p.clv > 0 ? "pos" : p.clv < 0 ? "neg" : ""}">${p.clv === null ? "—" : sp(p.clv)}</td>
+  <td class="mono">${p.final_away !== "" && p.final_away !== undefined ? esc(p.final_away) + "–" + esc(p.final_home) : "—"}</td>
+  <td class="st-${esc(p.status)}">${esc(p.status)}</td><td class="n">${p.units === "" ? "—" : f(p.units, 2)}</td></tr>`).join("") +
+  "</tbody></table>" : `<div class="empty">No plays logged yet. Results appear here once flagged games finish.</div>`;
+
+document.getElementById("notes").innerHTML = D.notes.map(n => `<li>${esc(n)}</li>`).join("");
+
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
+  document.querySelectorAll("section").forEach(s => s.classList.toggle("on", s.id === b.dataset.t));
+}));
+</script>
+</body>
+</html>
+"""

@@ -1,0 +1,34 @@
+# CBB Screener settings. Edit these to tune the screener; no code changes needed.
+# Secrets (Odds API key, KenPom login) are NOT stored here. They go in GitHub
+# repository secrets: ODDS_API_KEY, KENPOM_EMAIL, KENPOM_PASSWORD.
+
+[thresholds]
+# Minimum gap (in points) between the blended model and the market line to flag a play.
+spread_edge = 3.0
+total_edge = 5.0
+# When both models are available, require them to agree on the side, and each
+# to show at least this much edge on its own.
+require_model_agreement = true
+min_single_model_edge = 1.5
+
+[model]
+# Weight on each model in the blend (normalized when one is missing).
+torvik_weight = 0.5
+kenpom_weight = 0.5
+# Home-court advantage in points, used only when KenPom projections are computed
+# from public ratings (i.e. no KenPom login / FanMatch unavailable).
+kenpom_hca = 3.0
+
+[odds]
+sport = "basketball_ncaab"
+# Odds API bookmaker regions: "us", "us2", "uk", "eu", "au" (comma-separated).
+# Each region costs extra credits per request.
+regions = "us"
+# Leave empty for all books in the region, or list keys like ["draftkings","fanduel"].
+bookmakers = []
+# Assumed price when grading units (American odds).
+grading_price = -110
+
+[display]
+timezone = "America/New_York"
+title = "CBB Mispricing Screener"
