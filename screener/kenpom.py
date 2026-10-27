@@ -118,8 +118,20 @@ async def _fetch(email: str | None, password: str | None, dates: list[dt.date], 
                 await page.click("#login input[name=submit]")
                 await page.wait_for_load_state("domcontentloaded")
                 await page.goto("https://kenpom.com/", timeout=60000)
-                if "Logged in as" not in await page.content() and "logout" not in (await page.content()).lower():
-                    log("KenPom login did not succeed; using public ratings instead of FanMatch.")
+                after = await page.content()
+                if "Logged in as" not in after and "logout" not in after.lower():
+                    # Explain why, without ever printing the credentials.
+                    text = BeautifulSoup(after, "lxml").get_text(" ", strip=True).lower()
+                    hint = ""
+                    for phrase in ("incorrect", "invalid", "not found", "expired", "too many", "subscription"):
+                        i = text.find(phrase)
+                        if i >= 0:
+                            hint = text[max(0, i - 60): i + 60]
+                            break
+                    has_form = await page.locator("#login input[name=password]").count() > 0
+                    log("KenPom login did not succeed; using public ratings instead of FanMatch. "
+                        f"(page: {await page.title()!r}, login form still shown: {has_form}"
+                        + (f", site says: '...{hint}...'" if hint else "") + ")")
                 else:
                     log("KenPom login OK; using FanMatch predictions.")
                     for d in dates:
