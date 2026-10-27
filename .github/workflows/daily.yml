@@ -6,7 +6,11 @@ on:
     #                22:17 UTC =  6:17 PM EDT /  5:17 PM EST (refresh before the evening slate)
     - cron: "17 15 * * *"
     - cron: "17 22 * * *"
-  workflow_dispatch: {}  # adds a "Run workflow" button on the Actions tab
+  workflow_dispatch:  # adds a "Run workflow" button on the Actions tab
+    inputs:
+      hours:
+        description: "Hours ahead to screen (36 normally; 168 = one week, for testing)"
+        default: "36"
 
 permissions:
   contents: write
@@ -37,6 +41,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           KENPOM_EMAIL: ${{ secrets.KENPOM_EMAIL }}
           KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          LOOKAHEAD_HOURS: ${{ inputs.hours }}
         run: python -m screener.main
 
       - name: Save results and dashboard

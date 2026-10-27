@@ -121,6 +121,7 @@ async def _fetch(email: str | None, password: str | None, dates: list[dt.date], 
                 if "Logged in as" not in await page.content() and "logout" not in (await page.content()).lower():
                     log("KenPom login did not succeed; using public ratings instead of FanMatch.")
                 else:
+                    log("KenPom login OK; using FanMatch predictions.")
                     for d in dates:
                         await page.goto(f"https://kenpom.com/fanmatch.php?d={d.isoformat()}", timeout=60000)
                         await page.wait_for_timeout(1500)

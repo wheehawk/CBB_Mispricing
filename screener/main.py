@@ -34,6 +34,7 @@ def main(argv=None) -> int:
     ap.add_argument("--odds-file")
     ap.add_argument("--now")
     ap.add_argument("--no-kenpom", action="store_true")
+    ap.add_argument("--hours", type=float, default=float(os.environ.get("LOOKAHEAD_HOURS") or LOOKAHEAD_HOURS))
     args = ap.parse_args(argv)
 
     cfg = tomllib.loads((ROOT / "config.toml").read_text())
@@ -64,10 +65,10 @@ def main(argv=None) -> int:
             return 1
         oc = cfg["odds"]
         raw = odds.fetch(key, oc["sport"], oc["regions"], oc["bookmakers"], log)
-    horizon = now + dt.timedelta(hours=LOOKAHEAD_HOURS)
+    horizon = now + dt.timedelta(hours=args.hours)
     events = [odds.summarize(e) for e in raw]
     events = [e for e in events if now < e["start"] <= horizon and (e["spread"] is not None or e["total"] is not None)]
-    log(f"{len(events)} upcoming games with lines in the next {LOOKAHEAD_HOURS}h")
+    log(f"{len(events)} upcoming games with lines in the next {args.hours:g}h")
 
     # 3. Match books -> Torvik
     aliases_path = DATA / "aliases.json"
@@ -77,9 +78,10 @@ def main(argv=None) -> int:
         note(f"Unmatched game: {ev['away']} at {ev['home']} (add to data/aliases.json if needed)")
 
     # 4. KenPom
-    dates = sorted({ev["start"].astimezone(tz).date() for ev, _, _ in matched})
+    # With no games, still check today's FanMatch so a bad KenPom login shows up early.
+    dates = sorted({ev["start"].astimezone(tz).date() for ev, _, _ in matched}) or [today]
     kp = {"ratings": {}, "fanmatch": {}}
-    if not args.no_kenpom and matched:
+    if not args.no_kenpom and (matched or os.environ.get("KENPOM_EMAIL")):
         kp = kenpom.load(os.environ.get("KENPOM_EMAIL"), os.environ.get("KENPOM_PASSWORD"), dates, note)
         log(f"KenPom: {len(kp['ratings'])} team ratings, FanMatch days: {len(kp['fanmatch'])}")
 
