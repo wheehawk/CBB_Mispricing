@@ -10,7 +10,9 @@ The {year}_super_sked.json file holds one row per game. Field positions used her
 from __future__ import annotations
 
 import datetime as dt
+import json
 import time
+from pathlib import Path
 
 import requests
 
@@ -28,7 +30,6 @@ def _get_json_browser(url: str):
     e.g. from GitHub's servers. A headless browser passes that check, then downloads the file
     with the same cookies."""
     import asyncio
-    import json
 
     from playwright.async_api import async_playwright
 
@@ -84,8 +85,42 @@ def _num(v):
         return None
 
 
-def load_schedule(year: int) -> list[dict]:
-    rows = _get_json(f"{BASE}/{year}_super_sked.json")
+CACHE_DAYS_BACK, CACHE_DAYS_AHEAD = 5, 9
+
+
+def load_schedule(year: int, cache_path=None, log=print) -> list[dict]:
+    """Live Torvik schedule; if Torvik blocks this machine (it blocks GitHub's servers),
+    fall back to the stored copy in data/torvik_cache.json written by `python -m screener.torvik_feed`."""
+    try:
+        return parse_rows(_get_json(f"{BASE}/{year}_super_sked.json"))
+    except Exception as e:
+        if not cache_path or not Path(cache_path).exists():
+            raise
+        cache = json.loads(Path(cache_path).read_text())
+        fetched = dt.datetime.fromisoformat(cache["fetched_utc"])
+        age_h = (dt.datetime.now(dt.timezone.utc) - fetched).total_seconds() / 3600
+        log(f"Torvik live download unavailable ({str(e)[:80]}...); using stored copy from {age_h:.0f}h ago")
+        if age_h > 30:
+            log(f"WARNING: stored Torvik data is {age_h:.0f} hours old; projections may be stale.")
+        games = []
+        for g in cache["games"]:
+            g = dict(g)
+            g["date"] = dt.date.fromisoformat(g["date"])
+            games.append(g)
+        return games
+
+
+def write_cache(path, games: list[dict], today: dt.date) -> int:
+    """Save a compact copy of games near today (keeps the repo small)."""
+    lo, hi = today - dt.timedelta(days=CACHE_DAYS_BACK), today + dt.timedelta(days=CACHE_DAYS_AHEAD)
+    keep = [{**g, "date": g["date"].isoformat()} for g in games if lo <= g["date"] <= hi]
+    payload = {"fetched_utc": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "games": keep}
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    Path(path).write_text(json.dumps(payload, separators=(",", ":")))
+    return len(keep)
+
+
+def parse_rows(rows) -> list[dict]:
     games = []
     for r in rows:
         if len(r) < 29:

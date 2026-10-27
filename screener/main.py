@@ -52,7 +52,7 @@ def main(argv=None) -> int:
         notes.append(msg)
 
     # 1. Torvik schedule + predictions + finals
-    games = torvik.load_schedule(torvik.season_year(today))
+    games = torvik.load_schedule(torvik.season_year(today), DATA / "torvik_cache.json", note)
     log(f"Torvik: {len(games)} games, {sum(g['final'] for g in games)} final")
 
     # 2. Sportsbook lines
