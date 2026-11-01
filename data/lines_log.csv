@@ -1,3 +1,8 @@
 run_utc,event_id,start_utc,away,home,neutral,spread,total,torvik_margin,torvik_total,kp_margin,kp_total,kp_source,books
 2026-10-31T19:19+00:00,5bee3fb00be225402b2d2d7842398207,2026-11-01T14:30:00+00:00,Villanova Wildcats,Notre Dame Fighting Irish,1,7.5,147.5,-6.49,149.69,-6.51,147.49,ratings,7
 2026-10-31T19:19+00:00,d961840cf470389306fa79cf82f5d46c,2026-11-02T07:00:00+00:00,High Point Panthers,Liberty Flames,1,7.0,155.0,-8.09,152.42,-8.74,154.98,ratings,6
+2026-11-01T01:11+00:00,5bee3fb00be225402b2d2d7842398207,2026-11-01T14:30:00+00:00,Villanova Wildcats,Notre Dame Fighting Irish,1,7.25,147.5,-6.49,149.69,-6.51,147.49,ratings,8
+2026-11-01T01:11+00:00,d961840cf470389306fa79cf82f5d46c,2026-11-02T05:00:00+00:00,High Point Panthers,Liberty Flames,1,7.5,155.0,-8.09,152.42,-8.67,155.05,ratings,7
+2026-11-01T01:11+00:00,7dc58df9af17b42764b2571a22a8f309,2026-11-02T08:00:00+00:00,Grambling St Tigers,Northern Illinois Huskies,1,-5.5,147.5,6.52,149.93,1.32,148.71,ratings,1
+2026-11-01T01:11+00:00,cbbce01a444134baf2a8fa533eca853e,2026-11-02T11:00:00+00:00,Merrimack Warriors,Appalachian St Mountaineers,1,4.0,135.5,-5.26,133.14,-2.82,134.99,ratings,3
+2026-11-01T01:11+00:00,38f469202f748211c7d5bf585a0f4458,2026-11-02T13:00:00+00:00,Winthrop Eagles,Queens University Royals,1,-1.5,165.5,2.51,168.1,0.7,167.22,ratings,1
