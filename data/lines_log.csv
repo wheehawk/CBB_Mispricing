@@ -389,3 +389,16 @@ run_utc,event_id,start_utc,away,home,neutral,spread,total,torvik_margin,torvik_t
 2026-11-03T21:00+00:00,e85d3465ae2091684b88bf4a3d04337e,2026-11-05T01:00:00+00:00,Northern Kentucky Norse,South Dakota Coyotes,0,1.75,159.0,0.85,160.05,-0.06,157.49,ratings,4
 2026-11-03T21:00+00:00,c1141fbe152494d369ada36710e91b55,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,0,-18.0,159.5,18.02,160.09,19.22,161.05,ratings,4
 2026-11-03T21:00+00:00,54080f4106befd3a23a86b2cbfee1a53,2026-11-05T03:00:00+00:00,North Dakota St Bison,Saint Mary's Gaels,0,-12.25,149.5,13.23,144.2,12.76,145.21,ratings,4
+2026-11-04T02:21+00:00,e031a72df23e6b0e1a17d9398e7189fe,2026-11-04T03:00:00+00:00,CSU Fullerton Titans,San Diego St Aztecs,0,-13.5,155.5,22.07,154.81,14.07,153.25,ratings,8
+2026-11-04T02:21+00:00,e98c6cb854c679627ea67744c87c80e6,2026-11-04T03:00:00+00:00,North Florida Ospreys,Cal Baptist Lancers,0,-10.5,155.5,13.24,152.84,7.53,156.95,ratings,7
+2026-11-04T02:21+00:00,80e148489a44ada538f600e7db5d27d9,2026-11-04T03:00:00+00:00,Northern Arizona Lumberjacks,UNLV Rebels,0,-20.5,153.75,22.63,154.64,17.41,145.4,ratings,8
+2026-11-04T02:21+00:00,549bc17969103d4acc5b6378eca5602f,2026-11-05T00:00:00+00:00,Fairleigh Dickinson Knights,Butler Bulldogs,0,-24.0,152.5,25.56,151.54,21.42,149.83,ratings,5
+2026-11-04T02:21+00:00,3bc95ac74a5ada7d2739e050f53eb5d2,2026-11-05T00:00:00+00:00,Maryland-Eastern Shore Hawks,High Point Panthers,0,-29.0,149.5,34.61,148.15,27.63,144.26,ratings,5
+2026-11-04T02:21+00:00,9eb9f1ae70ff2e191c1322b68ee0458a,2026-11-05T00:00:00+00:00,Longwood Lancers,Saint Joseph's Hawks,0,-9.5,149.5,10.27,146.25,8.55,147.56,ratings,5
+2026-11-04T02:21+00:00,55ce7fcc3c7a9e642c63450e4df10a75,2026-11-05T00:30:00+00:00,CSU Northridge Matadors,Wichita St Shockers,0,-14.5,161.5,18.45,162.16,12.71,160.59,ratings,7
+2026-11-04T02:21+00:00,ee64dfa732b4b3e3bcc3d257c1836b94,2026-11-05T01:00:00+00:00,SE Louisiana Lions,Auburn Tigers,0,-26.5,151.5,25.32,153.31,24.96,148.5,ratings,6
+2026-11-04T02:21+00:00,e85d3465ae2091684b88bf4a3d04337e,2026-11-05T01:00:00+00:00,Northern Kentucky Norse,South Dakota Coyotes,0,2.5,160.5,0.85,160.05,0.02,157.13,ratings,8
+2026-11-04T02:21+00:00,eccb8794e834a22613f2c0a1e603ec73,2026-11-05T02:00:00+00:00,Radford Highlanders,California Golden Bears,0,-15.5,156.5,20.18,157.42,15.48,154.94,ratings,5
+2026-11-04T02:21+00:00,dc8830b8a32f0650fc6dc1d128f71fda,2026-11-05T03:00:00+00:00,Queens University Royals,Loyola Marymount Lions,0,-7.5,157.5,8.56,161.52,5.5,159.62,ratings,5
+2026-11-04T02:21+00:00,c1141fbe152494d369ada36710e91b55,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,0,-18.0,159.5,18.02,160.09,19.2,160.83,ratings,7
+2026-11-04T02:21+00:00,54080f4106befd3a23a86b2cbfee1a53,2026-11-05T03:00:00+00:00,North Dakota St Bison,Saint Mary's Gaels,0,-12.25,149.5,13.23,144.2,12.8,144.72,ratings,7
