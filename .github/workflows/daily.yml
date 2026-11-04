@@ -1,9 +1,15 @@
 name: Daily screener
 
 on:
+  # Main trigger: starts within seconds whenever the Torvik copy is refreshed (the Claude
+  # scheduled task does that at set times). GitHub's own schedule below often runs hours late,
+  # so it is only a backup in case a refresh is missed.
+  push:
+    branches: [main]
+    paths: ["data/torvik_cache.json"]
   schedule:
-    # Times are UTC. 15:17 UTC = 11:17 AM EDT / 10:17 AM EST (morning lines)
-    #                22:17 UTC =  6:17 PM EDT /  5:17 PM EST (refresh before the evening slate)
+    # Times are UTC. 15:17 UTC = 11:17 AM EDT / 10:17 AM EST
+    #                22:17 UTC =  6:17 PM EDT /  5:17 PM EST
     - cron: "17 15 * * *"
     - cron: "17 22 * * *"
   workflow_dispatch:  # adds a "Run workflow" button on the Actions tab
