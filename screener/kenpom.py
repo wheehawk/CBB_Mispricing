@@ -97,6 +97,14 @@ def parse_fanmatch(html: str) -> list[dict]:
     return games
 
 
+async def _wait_for_bot_check(page, seconds: int = 45):
+    """KenPom's bot check ("Just a moment...") can appear again after logging in; wait it out."""
+    for _ in range(seconds // 3):
+        if "moment" not in (await page.title()).lower():
+            return
+        await page.wait_for_timeout(3000)
+
+
 async def _fetch(email: str | None, password: str | None, dates: list[dt.date], log) -> tuple[str, dict]:
     from playwright.async_api import async_playwright
 
@@ -117,7 +125,9 @@ async def _fetch(email: str | None, password: str | None, dates: list[dt.date], 
                 await page.fill("#login input[name=password]", password)
                 await page.click("#login input[name=submit]")
                 await page.wait_for_load_state("domcontentloaded")
+                await _wait_for_bot_check(page)
                 await page.goto("https://kenpom.com/", timeout=60000)
+                await _wait_for_bot_check(page)
                 after = await page.content()
                 if "Logged in as" not in after and "logout" not in after.lower():
                     # Explain why, without ever printing the credentials.
@@ -136,6 +146,7 @@ async def _fetch(email: str | None, password: str | None, dates: list[dt.date], 
                     log("KenPom login OK; using FanMatch predictions.")
                     for d in dates:
                         await page.goto(f"https://kenpom.com/fanmatch.php?d={d.isoformat()}", timeout=60000)
+                        await _wait_for_bot_check(page)
                         await page.wait_for_timeout(1500)
                         fanmatch_html[d] = await page.content()
             except Exception as e:
