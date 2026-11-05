@@ -8,10 +8,11 @@ on:
     branches: [main]
     paths: ["data/torvik_cache.json"]
   schedule:
-    # Times are UTC. 15:17 UTC = 11:17 AM EDT / 10:17 AM EST
-    #                22:17 UTC =  6:17 PM EDT /  5:17 PM EST
-    - cron: "17 15 * * *"
-    - cron: "17 22 * * *"
+    # Backup only. Times are UTC: 11:07 UTC = 6:07 AM EST / 7:07 AM EDT
+    #                             23:07 UTC = 6:07 PM EST / 7:07 PM EDT
+    # (Main runs: Torvik refresh at 4:45 AM and 5:15 PM Eastern -> screener starts right after.)
+    - cron: "7 11 * * *"
+    - cron: "7 23 * * *"
   workflow_dispatch:  # adds a "Run workflow" button on the Actions tab
     inputs:
       hours:
