@@ -1,6 +1,6 @@
 # CBB Mispricing Screener
 
-A daily college basketball screener that compares sportsbook **spreads and totals** against two
+A daily college basketball screener that compares sportsbook **point spreads** against two
 analytics models, **Torvik (T-Rank)** and **KenPom**, and flags games where the market looks off.
 It runs itself twice a day on GitHub and publishes a dashboard you can open on any device.
 
@@ -75,8 +75,11 @@ In the offseason it simply shows no games.
 
 Edit `config.toml` in your repository (click the file → pencil icon → **Commit changes**):
 
-- `spread_edge` / `total_edge`: points of disagreement needed to flag a play (default 3 and 5).
-- `require_model_agreement`: only flag when Torvik and KenPom point the same way.
+- `markets`: `["spread"]` (default). Add `"total"` to also screen totals.
+- `min_single_model_edge`: a play is flagged only when **both** Torvik and KenPom disagree with the
+  market by at least this many points, on the same side (default 3).
+- `star_edge`: plays where both models are at or above this many points get a `*` in the
+  **5+ both** column of the dashboard and of `data/picks.csv` (default 5).
 - `torvik_weight` / `kenpom_weight`: how much each model counts in the blend.
 - `regions` / `bookmakers`: which sportsbooks to compare. More regions use more Odds API credits.
 
@@ -104,7 +107,7 @@ Use Torvik's spelling exactly as it appears on barttorvik.com.
 2. **KenPom**: opens kenpom.com in a headless browser, logs in with your account if provided, and reads
    FanMatch predictions; otherwise computes projections from the public ratings (adjusted offense, defense,
    tempo, with a home-court adjustment).
-3. **The Odds API**: pulls current spreads and totals from US sportsbooks (2 credits per run, ~120/month).
+3. **The Odds API**: pulls current spreads from US sportsbooks (1 credit per run; 2 if totals are turned on).
 4. Matches each sportsbook game to the Torvik schedule by date and both team names, computes the edges,
    logs any new plays, grades finished games, and rebuilds the dashboard.
 

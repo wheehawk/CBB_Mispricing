@@ -8,17 +8,29 @@ from pathlib import Path
 
 FIELDS = [
     "pick_id", "game_date", "start_utc", "away", "home", "torvik_away", "torvik_home",
-    "market", "side", "pick_label", "line", "best_line", "best_price", "best_book",
+    "market", "side", "pick_label", "both_5plus", "line", "best_line", "best_price", "best_book",
     "edge", "torvik_edge", "kp_edge", "kp_source", "flagged_at", "last_line",
     "status", "units", "final_away", "final_home",
 ]
+
+
+def star(p: dict, star_edge: float = 5.0) -> str:
+    """'*' when both models' edges are at least star_edge points."""
+    try:
+        return "*" if min(abs(float(p["torvik_edge"])), abs(float(p["kp_edge"]))) >= star_edge else ""
+    except (KeyError, TypeError, ValueError):
+        return ""
 
 
 def load(path: Path) -> list[dict]:
     if not path.exists():
         return []
     with path.open(newline="") as f:
-        return list(csv.DictReader(f))
+        picks = list(csv.DictReader(f))
+    for p in picks:  # older logs predate the 5+ column
+        if not p.get("both_5plus"):
+            p["both_5plus"] = star(p)
+    return picks
 
 
 def save(path: Path, picks: list[dict]) -> None:
@@ -65,7 +77,8 @@ def add_and_update(picks: list[dict], rows: list[dict], now: dt.datetime) -> int
                 "pick_id": pid, "game_date": row["local_date"], "start_utc": row["start"].isoformat(),
                 "away": row["away"], "home": row["home"],
                 "torvik_away": row["torvik_away"], "torvik_home": row["torvik_home"],
-                "market": market, "side": side, "pick_label": label, "line": _r(line),
+                "market": market, "side": side, "pick_label": label,
+                "both_5plus": "*" if row.get(f"{market}_star") else "", "line": _r(line),
                 "best_line": _r(best[0]) if best else "", "best_price": best[1] if best else "",
                 "best_book": best[2] if best else "",
                 "edge": _r(abs(edges["blend"])), "torvik_edge": _r(edges["torvik"]),

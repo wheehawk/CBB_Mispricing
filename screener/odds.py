@@ -13,11 +13,11 @@ import requests
 URL = "https://api.the-odds-api.com/v4/sports/{sport}/odds"
 
 
-def fetch(api_key: str, sport: str, regions: str, bookmakers: list[str], log=print) -> list[dict]:
+def fetch(api_key: str, sport: str, regions: str, bookmakers: list[str], log=print, markets=("spread", "total")) -> list[dict]:
     params = {
         "apiKey": api_key,
         "regions": regions,
-        "markets": "spreads,totals",
+        "markets": ",".join({"spread": "spreads", "total": "totals"}[m] for m in markets),
         "oddsFormat": "american",
         "dateFormat": "iso",
     }

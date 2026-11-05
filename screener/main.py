@@ -64,7 +64,7 @@ def main(argv=None) -> int:
             log("ODDS_API_KEY is not set. Add it as a repository secret.")
             return 1
         oc = cfg["odds"]
-        raw = odds.fetch(key, oc["sport"], oc["regions"], oc["bookmakers"], log)
+        raw = odds.fetch(key, oc["sport"], oc["regions"], oc["bookmakers"], log, cfg["thresholds"].get("markets", ["spread", "total"]))
     horizon = now + dt.timedelta(hours=args.hours)
     events = [odds.summarize(e) for e in raw]
     events = [e for e in events if now < e["start"] <= horizon and (e["spread"] is not None or e["total"] is not None)]

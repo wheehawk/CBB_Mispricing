@@ -39,37 +39,44 @@ def blend(values: list[tuple[float | None, float]]):
 
 
 def evaluate(row: dict, cfg: dict) -> dict:
-    """Add edges and flags to a game row that already has market + model numbers."""
+    """Add edges and flags to a game row that already has market + model numbers.
+
+    Flag rule: Torvik and KenPom must BOTH be available, agree on the side, and each
+    disagree with the market by at least min_single_model_edge points (and the blend
+    by at least spread_edge / total_edge). "star" = both models at star_edge or more.
+    """
     th, md = cfg["thresholds"], cfg["model"]
     tw, kw = md["torvik_weight"], md["kenpom_weight"]
+    markets = th.get("markets", ["spread", "total"])
+    min_single = th["min_single_model_edge"]
+    star_edge = th.get("star_edge", 5.0)
 
     row["blend_margin"] = blend([(row["torvik_margin"], tw), (row["kp_margin"], kw)])
     row["blend_total"] = blend([(row["torvik_total"], tw), (row["kp_total"], kw)])
 
-    def edges(kind, market, keys, threshold):
+    def edges(kind, market, threshold):
         if market is None:
-            return None
+            return None, False, False
         e = {}
-        for k in keys:
+        for k in ("torvik", "kp", "blend"):
             v = row[f"{k}_{kind}"]
-            if v is None:
-                e[k] = None
-            else:
-                e[k] = (v + market) if kind == "margin" else (v - market)
-        blend_e = e["blend"]
-        flagged = blend_e is not None and abs(blend_e) >= threshold
-        singles = [e[k] for k in ("torvik", "kp") if e[k] is not None]
-        if flagged and th["require_model_agreement"] and len(singles) == 2:
-            same_side = (singles[0] > 0) == (singles[1] > 0)
-            flagged = same_side and min(abs(x) for x in singles) >= th["min_single_model_edge"]
-        return e, flagged
+            e[k] = None if v is None else ((v + market) if kind == "margin" else (v - market))
+        tv, kp, bl = e["torvik"], e["kp"], e["blend"]
+        if tv is None or kp is None or bl is None:
+            return e, False, False  # need both models to flag
+        same_side = (tv > 0) == (kp > 0)
+        flagged = abs(bl) >= threshold and min(abs(tv), abs(kp)) >= min_single
+        if th.get("require_model_agreement", True):
+            flagged = flagged and same_side
+        star = flagged and min(abs(tv), abs(kp)) >= star_edge
+        return e, flagged, star
 
-    s = edges("margin", row["spread"], ("torvik", "kp", "blend"), th["spread_edge"])
-    t = edges("total", row["total"], ("torvik", "kp", "blend"), th["total_edge"])
-    row["spread_edge"] = s[0] if s else None
-    row["spread_flag"] = bool(s and s[1])
-    row["total_edge"] = t[0] if t else None
-    row["total_flag"] = bool(t and t[1])
+    row["spread_edge"], row["spread_flag"], row["spread_star"] = edges("margin", row["spread"], th["spread_edge"])
+    if "spread" not in markets:
+        row["spread_flag"] = row["spread_star"] = False
+    row["total_edge"], row["total_flag"], row["total_star"] = edges("total", row["total"], th["total_edge"])
+    if "total" not in markets:
+        row["total_flag"] = row["total_star"] = False
     if row["spread_flag"]:
         row["spread_side"] = "home" if row["spread_edge"]["blend"] > 0 else "away"
     if row["total_flag"]:

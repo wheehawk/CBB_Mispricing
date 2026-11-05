@@ -3,13 +3,17 @@
 # repository secrets: ODDS_API_KEY, KENPOM_EMAIL, KENPOM_PASSWORD.
 
 [thresholds]
-# Minimum gap (in points) between the blended model and the market line to flag a play.
+# Which markets to screen: "spread" and/or "total". Totals are off; add "total" to turn them back on.
+markets = ["spread"]
+# A play is flagged only when BOTH Torvik and KenPom disagree with the market line by at
+# least this many points, on the same side.
+min_single_model_edge = 3.0
+# Plays where both models are at or above this many points get a * in the "5+ both" column.
+star_edge = 5.0
+# Blended-edge minimums (the blend is the average of the two models).
 spread_edge = 3.0
 total_edge = 5.0
-# When both models are available, require them to agree on the side, and each
-# to show at least this much edge on its own.
 require_model_agreement = true
-min_single_model_edge = 1.5
 
 [model]
 # Weight on each model in the blend (normalized when one is missing).
