@@ -1820,3 +1820,27 @@ run_utc,event_id,start_utc,away,home,neutral,spread,total,torvik_margin,torvik_t
 2026-11-12T09:49+00:00,1fbeee2eb0b578203e3e4eb56899c6ea,2026-11-13T02:00:00+00:00,Montana St Bobcats,BYU Cougars,0,-23.5,,17.61,155.33,16.79,161.49,ratings,8
 2026-11-12T09:49+00:00,36b964d987dcf869d0b46b1cd61a1363,2026-11-13T02:00:00+00:00,New Mexico St Aggies,UTEP Miners,0,-4.75,,3.52,146.8,0.76,142.06,ratings,8
 2026-11-12T09:49+00:00,41ff76ffb87fd6a1186e8bd6e4e78efa,2026-11-13T03:00:00+00:00,UC Riverside Highlanders,San José St Spartans,0,-8.5,,7.42,154.24,6.97,150.35,ratings,8
+2026-11-12T18:48+00:00,1ee47a3559104cb9fdb52dce0dd26728,2026-11-12T20:00:00+00:00,UMKC Kangaroos,George Mason Patriots,1,-15.5,,13.28,144.74,10.48,142.72,ratings,8
+2026-11-12T18:48+00:00,d5ffc3709a43565e263ddd08e42c27c0,2026-11-12T23:00:00+00:00,Coppin St Eagles,Bradley Braves,1,-12.5,,10.17,141.08,9.64,133.03,ratings,7
+2026-11-12T18:48+00:00,864a50f3559f070e6e8d914cd49a80b4,2026-11-12T23:00:00+00:00,Morgan St Bears,UMBC Retrievers,0,-6.5,,8.08,160.55,6.37,163.85,ratings,6
+2026-11-12T18:48+00:00,dce2f501e790814a83c007c4bfeaf299,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,0,-25.0,,24.73,161.75,19.55,165.7,ratings,8
+2026-11-12T18:48+00:00,c62dc747fca57d00af7e4fe8f1326f58,2026-11-12T23:30:00+00:00,Mercyhurst Lakers,Penn State Nittany Lions,0,-21.0,,20.98,150.64,17.73,150.12,ratings,7
+2026-11-12T18:48+00:00,71ca9c50715c68ca7ed96094f62a20ce,2026-11-13T00:00:00+00:00,Niagara Purple Eagles,Bowling Green Falcons,0,-14.75,,14.71,149.73,12.45,148.83,ratings,8
+2026-11-12T18:48+00:00,60340e8a19f88be7b0c22c5428810081,2026-11-13T00:00:00+00:00,Canisius Golden Griffins,Brown Bears,0,-13.0,,10.61,140.05,11.52,135.48,ratings,8
+2026-11-12T18:48+00:00,bb076258b9d68ac93facc485d09f8f17,2026-11-13T00:00:00+00:00,CSU Bakersfield Roadrunners,Western Illinois Leathernecks,0,9.0,,-1.94,145.19,-8.45,148.08,ratings,8
+2026-11-12T18:48+00:00,fc5d4e08c0f15ae40d18fe46c8cab1f4,2026-11-13T00:00:00+00:00,Central Connecticut St Blue Devils,Sacred Heart Pioneers,0,-6.0,,6.67,143.0,5.48,142.97,ratings,7
+2026-11-12T18:48+00:00,cc1a52a6180b8ba1dae6567964f928fa,2026-11-13T00:00:00+00:00,Western Michigan Broncos,Fort Wayne Mastodons,0,3.0,,-2.13,155.06,-0.5,151.0,ratings,8
+2026-11-12T18:48+00:00,ddcf26810b7aa3e03d38719931c1d035,2026-11-13T00:00:00+00:00,Southern Utah Thunderbirds,High Point Panthers,0,-23.0,,20.15,158.39,17.81,154.44,ratings,7
+2026-11-12T18:48+00:00,1898e50ec19d9c95f900cd2487cb18ae,2026-11-13T00:00:00+00:00,Stetson Hatters,Howard Bison,0,-9.5,,10.06,150.24,7.59,149.72,ratings,7
+2026-11-12T18:48+00:00,daa2c49d2dbe8e2048ae3574d63eb7f0,2026-11-13T00:00:00+00:00,Loyola (MD) Greyhounds,Towson Tigers,0,-13.5,,14.33,135.96,14.18,135.18,ratings,7
+2026-11-12T18:48+00:00,acfcff07d0a7ec0e61020263a6fafdb8,2026-11-13T00:00:00+00:00,Maryland-Eastern Shore Hawks,Rhode Island Rams,0,-23.0,,25.16,138.41,19.93,138.48,ratings,7
+2026-11-12T18:48+00:00,aedc154c22609923dadd12582547db3a,2026-11-13T00:00:00+00:00,Mercer Bears,West Virginia Mountaineers,0,-24.5,,23.4,149.44,21.1,149.73,ratings,8
+2026-11-12T18:48+00:00,c409b126f22e031f8c8cc074af6563ce,2026-11-13T00:00:00+00:00,Monmouth Hawks,Quinnipiac Bobcats,0,-1.0,,2.39,148.21,1.5,147.35,ratings,8
+2026-11-12T18:48+00:00,7d106785bb452a99d872a4a1233edf17,2026-11-13T01:00:00+00:00,West Florida Argonauts,Alabama A&M Bulldogs,0,-6.0,,12.17,148.71,5.83,146.23,ratings,5
+2026-11-12T18:48+00:00,941f2cdc3c144d4d6ec9d98620c4804c,2026-11-13T01:00:00+00:00,Loyola Marymount Lions,South Alabama Jaguars,1,-1.5,,-6.7,143.97,-3.31,141.84,ratings,8
+2026-11-12T18:48+00:00,b1475de379dc7a6760a16fea0af94a6f,2026-11-13T01:00:00+00:00,Southern Jaguars,Minnesota Golden Gophers,0,-25.5,,23.36,140.43,23.35,138.91,ratings,7
+2026-11-12T18:48+00:00,4dd17035607c57aff8b475d30545a677,2026-11-13T01:00:00+00:00,Oklahoma St Cowboys,Texas A&M Aggies,0,-8.25,,6.12,167.55,5.11,173.94,ratings,8
+2026-11-12T18:48+00:00,5003f1022ff5701d7b72662678604d83,2026-11-13T01:00:00+00:00,Richmond Spiders,Southern Illinois Salukis,0,2.5,,-4.59,146.33,-4.37,158.27,ratings,8
+2026-11-12T18:48+00:00,1fbeee2eb0b578203e3e4eb56899c6ea,2026-11-13T02:00:00+00:00,Montana St Bobcats,BYU Cougars,0,-22.5,,17.61,155.33,16.79,161.49,ratings,8
+2026-11-12T18:48+00:00,36b964d987dcf869d0b46b1cd61a1363,2026-11-13T02:00:00+00:00,New Mexico St Aggies,UTEP Miners,0,-5.0,,3.52,146.8,0.76,142.06,ratings,8
+2026-11-12T18:48+00:00,41ff76ffb87fd6a1186e8bd6e4e78efa,2026-11-13T03:00:00+00:00,UC Riverside Highlanders,San José St Spartans,0,-8.5,,7.42,154.24,6.97,150.35,ratings,8
