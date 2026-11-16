@@ -128,8 +128,17 @@ def transcribe_audio(url: str) -> str:
             with path.open("wb") as f:
                 for chunk in r.iter_content(1 << 20):
                     f.write(chunk)
+        # Decode with the ffmpeg program (preinstalled on GitHub's runners) instead of the PyAV library,
+        # whose newer releases don't work with faster-whisper.
+        import subprocess
+
+        import numpy as np
+
+        pcm = subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-i", str(path), "-ac", "1", "-ar", "16000",
+                              "-f", "s16le", "-"], check=True, capture_output=True).stdout
+        audio = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
         model = WhisperModel(WHISPER_MODEL, device="cpu", compute_type="int8")
-        segs, info = model.transcribe(str(path), vad_filter=True, beam_size=1)
+        segs, info = model.transcribe(audio, vad_filter=True, beam_size=1)
         lines = []
         for s in segs:
             t = int(s.start)
