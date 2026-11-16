@@ -170,6 +170,9 @@ def main() -> int:
                 got_youtube = True
             except Exception as e:
                 log(f"YouTube transcript unavailable for {ep['title']!r}: {str(e)[:160]}")
+                if "not a bot" in str(e):
+                    log("YouTube is blocking this server; skipping the rest of YouTube.")
+                    break
     except Exception as e:
         log(f"could not read the YouTube playlist feed: {e}")
     if got_youtube:

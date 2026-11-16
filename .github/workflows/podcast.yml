@@ -35,7 +35,7 @@ jobs:
           path: ~/.cache/huggingface
           key: whisper-base-en
       - name: Install
-        run: pip install requests youtube-transcript-api yt-dlp faster-whisper
+        run: pip install requests youtube-transcript-api yt-dlp faster-whisper "av<15"
       - name: Fetch new transcripts
         run: python -m screener.podcast_feed
       - name: Save
