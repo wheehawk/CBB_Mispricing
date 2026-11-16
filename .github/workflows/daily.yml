@@ -6,7 +6,7 @@ on:
   # so it is only a backup in case a refresh is missed.
   push:
     branches: [main]
-    paths: ["data/torvik_cache.json"]
+    paths: ["data/torvik_cache.json", "data/podcast_picks.json"]  # also re-run when podcast locks are added
   schedule:
     # Backup only. Times are UTC: 11:07 UTC = 6:07 AM EST / 7:07 AM EDT
     #                             23:07 UTC = 6:07 PM EST / 7:07 PM EDT
