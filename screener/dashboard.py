@@ -66,6 +66,75 @@ def render(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetime, not
     return TEMPLATE.replace("__TITLE__", title).replace("__DATA__", payload.replace("</", "<\\/"))
 
 
+def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetime, notes: list[str]) -> str:
+    """Plain-text version of the dashboard for the morning email (written to docs/summary.txt)."""
+    tz = ZoneInfo(cfg["display"]["timezone"])
+    th = cfg["thresholds"]
+    star_edge = th.get("star_edge", 5.0)
+    sp = lambda x: "—" if x is None else (f"{x:+.1f}".replace(".0", "") if x else "PK")
+    out = [f"{cfg['display']['title']} — {now.astimezone(tz).strftime('%a %b %-d, %-I:%M %p ET')}",
+           "Dashboard: https://wheehawk.github.io/CBB_Mispricing/", ""]
+
+    graded = [p for p in picks if p["status"] in ("win", "loss", "push") and p["market"] in th.get("markets", ["spread"])]
+    w = sum(p["status"] == "win" for p in graded); l = sum(p["status"] == "loss" for p in graded)
+    units = sum(float(p["units"]) for p in graded) if graded else 0.0
+    out.append(f"Season: {w}-{l}, {units:+.2f} units")
+    yday = (now.astimezone(tz).date() - dt.timedelta(days=1)).isoformat()
+    yd = [p for p in graded if p["game_date"] == yday]
+    if yd:
+        yw = sum(p["status"] == "win" for p in yd); yl = sum(p["status"] == "loss" for p in yd)
+        yu = sum(float(p["units"]) for p in yd)
+        out.append(f"Yesterday: {yw}-{yl}, {yu:+.2f} units")
+        for p in yd:
+            out.append(f"  {p['status'].upper():4} {p['pick_label']}  ({p.get('final_away','')}-{p.get('final_home','')})"
+                       + (f"  [podcast: {p['podcast']}]" if p.get("podcast") else ""))
+    out.append("")
+
+    def side_vals(r, side):
+        k = 1 if side == "home" else -1
+        f = lambda m: None if m is None else k * -m  # home margin -> line from that side
+        return (k * r["spread"] if r["spread"] is not None else None), f(r["torvik_margin"]), f(r["kp_margin"])
+
+    plays = [r for r in rows if r.get("spread_flag")]
+    plays.sort(key=lambda r: (not r.get("spread_star"), r["start"]))
+    out.append(f"PLAYS ({len(plays)}) — both models {th['min_single_model_edge']:g}+ pts off the line, * = both {star_edge:g}+")
+    for r in plays:
+        side = r["spread_side"]
+        team = r["torvik_home"] if side == "home" else r["torvik_away"]
+        mkt, tv, kp = side_vals(r, side)
+        e = r["spread_edge"]
+        best = r.get("best_" + side)
+        pod = r.get("podcast")
+        podtxt = "" if not pod else f"  | Podcast: {'AGREES' if pod['side'] == side else 'OPPOSES'} ({pod['category']} {pod['team']})"
+        out.append(f"{'*' if r.get('spread_star') else ' '} {r['start'].astimezone(tz).strftime('%a %-I:%M%p')}  {team} {sp(mkt)}"
+                   f"  vs {r['torvik_home'] if side == 'away' else r['torvik_away']}"
+                   f"  | Torvik {sp(tv)} ({abs(e['torvik']):.1f})  KenPom {sp(kp)} ({abs(e['kp']):.1f})"
+                   + (f"  | best {sp(best[0])} ({best[1]}) {best[2]}" if best else "") + podtxt)
+    if not plays:
+        out.append("  No plays clear the thresholds.")
+    out.append("")
+
+    pods = [r for r in rows if r.get("podcast")]
+    if pods:
+        order = {"3/3 lock": 0, "2/3 lock": 1, "2/2 agree": 2}
+        pods.sort(key=lambda r: (order.get(r["podcast"]["category"], 9), r["start"]))
+        out.append(f"PODCAST LOCKS ({len(pods)})")
+        for r in pods:
+            pod = r["podcast"]
+            mkt, tv, kp = side_vals(r, pod["side"])
+            e = r.get("spread_edge") or {}
+            models = ""
+            if e.get("torvik") is not None and e.get("kp") is not None:
+                agree = lambda x: (x > 0) == (pod["side"] == "home")
+                models = f"  | models: Torvik {'agree' if agree(e['torvik']) else 'disagree'} {abs(e['torvik']):.1f}, KenPom {'agree' if agree(e['kp']) else 'disagree'} {abs(e['kp']):.1f}"
+            out.append(f"  {pod['category']:9} {pod['team']} {sp(mkt)}  ({r['start'].astimezone(tz).strftime('%a %-I:%M%p')}){models}")
+        out.append("")
+    if notes:
+        out.append("Notes:")
+        out += [f"  - {n}" for n in notes]
+    return "\n".join(out) + "\n"
+
+
 TEMPLATE = r"""<!doctype html>
 <html lang="en">
 <head>

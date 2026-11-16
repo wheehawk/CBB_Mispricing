@@ -146,6 +146,7 @@ def main(argv=None) -> int:
     out = dashboard.render(rows, picks, cfg, now, notes)
     (ROOT / "docs").mkdir(exist_ok=True)
     (ROOT / "docs" / "index.html").write_text(out)
+    (ROOT / "docs" / "summary.txt").write_text(dashboard.text_summary(rows, picks, cfg, now, notes))
     log("Dashboard written to docs/index.html")
     return 0
 
