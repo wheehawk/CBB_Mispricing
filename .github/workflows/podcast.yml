@@ -1,0 +1,43 @@
+name: Podcast transcripts
+
+# Grabs the transcript of each new "The College Experience: Basketball" episode (posted ~2-5 AM ET)
+# and saves it to data/podcast/transcripts/. A Claude scheduled task then reads it and records the
+# hosts' locks in data/podcast_picks.json, which re-runs the screener (see daily.yml).
+on:
+  schedule:
+    # Times are UTC. 10:41 = 5:41 AM EST, 11:41 = 6:41 AM EST, 12:41 = 7:41 AM EST, 14:41 = 9:41 AM EST.
+    # Several tries because YouTube's captions can take a while to appear after upload.
+    - cron: "41 10 * * *"
+    - cron: "41 11 * * *"
+    - cron: "41 12 * * *"
+    - cron: "41 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: screener
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install requests youtube-transcript-api yt-dlp
+      - name: Fetch new transcripts
+        run: python -m screener.podcast_feed
+      - name: Save
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/podcast
+          git diff --cached --quiet && exit 0
+          git commit -m "Podcast transcript $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main && git push
