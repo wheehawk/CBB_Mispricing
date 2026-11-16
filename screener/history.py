@@ -9,7 +9,7 @@ from pathlib import Path
 FIELDS = [
     "pick_id", "game_date", "start_utc", "away", "home", "torvik_away", "torvik_home",
     "market", "side", "pick_label", "both_5plus", "line", "best_line", "best_price", "best_book",
-    "edge", "torvik_line", "torvik_edge", "kp_line", "kp_edge", "kp_source", "flagged_at", "last_line",
+    "podcast", "edge", "torvik_line", "torvik_edge", "kp_line", "kp_edge", "kp_source", "flagged_at", "last_line",
     "status", "units", "final_away", "final_home",
 ]
 
@@ -58,6 +58,14 @@ def pick_line(row: dict, market: str, side: str):
     return row["total"]
 
 
+def podcast_tag(row: dict, market: str, side: str) -> str:
+    """'3/3 lock' when the podcast picked the same side as the play, 'vs 3/3 lock' when the other side."""
+    pod = row.get("podcast")
+    if market != "spread" or not pod:
+        return ""
+    return pod["category"] if pod["side"] == side else f"vs {pod['category']}"
+
+
 def model_line(row: dict, market: str, side: str, model: str):
     """A model's projected line from the pick's perspective (same notation as the pick line)."""
     if market == "total":
@@ -79,6 +87,8 @@ def add_and_update(picks: list[dict], rows: list[dict], now: dt.datetime) -> int
                 # Track the latest line until tip-off (approximate closing line).
                 if row["start"] > now and row[market] is not None:
                     existing["last_line"] = _r(pick_line(row, market, existing["side"]))
+                if row["start"] > now and row.get("podcast"):
+                    existing["podcast"] = podcast_tag(row, market, existing["side"])
                 continue
             if not row.get(f"{market}_flag") or row["start"] <= now:
                 continue
@@ -96,6 +106,7 @@ def add_and_update(picks: list[dict], rows: list[dict], now: dt.datetime) -> int
                 "both_5plus": "*" if row.get(f"{market}_star") else "", "line": _r(line),
                 "best_line": _r(best[0]) if best else "", "best_price": best[1] if best else "",
                 "best_book": best[2] if best else "",
+                "podcast": podcast_tag(row, market, side),
                 "edge": _r(abs(edges["blend"])),
                 "torvik_line": _r(model_line(row, market, side, "torvik")), "torvik_edge": _r(edges["torvik"]),
                 "kp_line": _r(model_line(row, market, side, "kp")), "kp_edge": _r(edges["kp"]), "kp_source": row.get("kp_source") or "",

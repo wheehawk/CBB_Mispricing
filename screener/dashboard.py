@@ -35,6 +35,7 @@ def render(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetime, not
             "tv_edge": _r(se.get("torvik")), "kp_edge": _r(se.get("kp")),
             "s_side": r.get("spread_side"), "t_side": r.get("total_side"),
             "kp_src": r.get("kp_source"),
+            "pod": r.get("podcast"),
             "best": {k: r[k] for k in ("best_home", "best_away", "best_over", "best_under")},
         })
     plist = []
@@ -113,6 +114,7 @@ table{width:100%;border-collapse:collapse;font-size:14px}
 th,td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
 th{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600;background:var(--panel);position:sticky;top:0}
 td.n,th.n{text-align:right}
+td.pod{white-space:nowrap;font-size:13px}
 tr:last-child td{border-bottom:0}
 .flag{background:var(--accent-soft);color:var(--accent);font-weight:600}
 .pick{font-weight:600}
@@ -174,6 +176,14 @@ document.getElementById("tiles").innerHTML =
 
 const matchup = g => `${esc(g.away)} ${g.neutral ? "vs" : "at"} ${esc(g.home)}${g.neutral ? '<span class="chip">neutral</span>' : ""}`;
 
+// Podcast column: category + team; on a model play, ✓ = same side, ✗ = podcast took the other side.
+const podCell = (pod, side) => {
+  if (!pod) return `<td class="pod">—</td>`;
+  const mark = side ? (pod.side === side ? '<span class="pos">✓</span> ' : '<span class="neg">✗</span> ') : "";
+  const hosts = pod.hosts && pod.hosts.length ? ` title="${esc(pod.hosts.join(", "))}${pod.line ? " · " + esc(pod.line) : ""}"` : "";
+  return `<td class="pod"${hosts}>${mark}<b>${esc(pod.category)}</b> ${esc(pod.team)}</td>`;
+};
+
 // Today's plays
 const plays = [];
 for (const g of D.games) {
@@ -189,10 +199,10 @@ plays.sort((a, b) => (b.star - a.star) || (Math.min(b.tve, b.kpe) - Math.min(a.t
 const starCell = s => `<td class="star">${s ? "*" : ""}</td>`;
 document.getElementById("playsT").innerHTML = plays.length ? `<table><thead><tr>
   <th>Tip</th><th>Game</th><th>Play</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th>
-  <th class="n">Market</th><th class="n">Torvik line</th><th class="n">Torvik edge</th><th class="n">KenPom line</th><th class="n">KenPom edge</th><th>Best available</th></tr></thead><tbody>` +
+  <th class="n">Market</th><th class="n">Torvik line</th><th class="n">Torvik edge</th><th class="n">KenPom line</th><th class="n">KenPom edge</th><th>Podcast</th><th>Best available</th></tr></thead><tbody>` +
   plays.map(p => `<tr><td>${esc(p.g.time)}</td><td>${matchup(p.g)}</td>
   <td class="pick">${esc(p.pick)}</td>${starCell(p.star)}
-  <td class="n">${p.mkt}</td><td class="n">${p.tv}</td><td class="n flag">${f(p.tve)}</td><td class="n">${p.kp}</td><td class="n flag">${f(p.kpe)}</td><td class="mono">${p.best}</td></tr>`).join("") +
+  <td class="n">${p.mkt}</td><td class="n">${p.tv}</td><td class="n flag">${f(p.tve)}</td><td class="n">${p.kp}</td><td class="n flag">${f(p.kpe)}</td>${podCell(p.g.pod, p.g.s_side)}<td class="mono">${p.best}</td></tr>`).join("") +
   "</tbody></table>" : `<div class="empty">No plays clear the thresholds right now${D.games.length ? "" : " — no upcoming games with lines"}.</div>`;
 
 // All games
@@ -202,7 +212,7 @@ function renderAll() {
   const gs = D.games.filter(g => (!q || (g.home + " " + g.away).toLowerCase().includes(q)) && (!fo || g.s_flag));
   document.getElementById("allT").innerHTML = gs.length ? `<table><thead><tr><th>Tip</th><th>Game</th>
     <th class="n">Spread (home)</th><th class="n">Torvik line</th><th class="n">Torvik edge</th>
-    <th class="n">KenPom line</th><th class="n">KenPom edge</th><th>Model side</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th><th class="n">Books</th></tr></thead><tbody>` +
+    <th class="n">KenPom line</th><th class="n">KenPom edge</th><th>Model side</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th><th>Podcast</th><th class="n">Books</th></tr></thead><tbody>` +
     gs.map(g => {
       // Edge cells: points each model disagrees with the market; highlighted when 3+.
       const hit = e => e !== null && Math.abs(e) >= MIN ? "flag" : "";
@@ -214,7 +224,7 @@ function renderAll() {
       <td class="n">${sp(g.kp_spread)}</td>
       <td class="n ${hit(g.kp_edge)}">${g.kp_edge === null ? "—" : f(Math.abs(g.kp_edge))}</td>
       <td>${agree ? sideOf(g.tv_edge) : g.tv_edge === null || g.kp_edge === null ? "—" : "split"}</td>
-      ${starCell(g.s_star)}<td class="n">${g.books}</td></tr>`; }).join("") +
+      ${starCell(g.s_star)}${podCell(g.pod, agree ? (g.tv_edge > 0 ? "home" : "away") : null)}<td class="n">${g.books}</td></tr>`; }).join("") +
     "</tbody></table>" : `<div class="empty">No games to show.</div>`;
 }
 document.getElementById("q").addEventListener("input", renderAll);
@@ -225,10 +235,11 @@ renderAll();
 const ml = (p, v) => v === "" || v === undefined || v === null ? "—" : p.market === "spread" ? sp(+v) : f(+v);
 const ps = [...D.picks].sort((a, b) => (b.start_utc || "").localeCompare(a.start_utc || ""));
 document.getElementById("resT").innerHTML = ps.length ? `<table><thead><tr><th>Date</th><th>Game</th><th>Play</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th>
-  <th class="n">Line</th><th class="n">Torvik line</th><th class="n">Torvik edge</th><th class="n">KenPom line</th><th class="n">KenPom edge</th><th class="n">Last line</th><th class="n">CLV</th><th>Final</th><th>Result</th><th class="n">Units</th></tr></thead><tbody>` +
+  <th class="n">Line</th><th class="n">Torvik line</th><th class="n">Torvik edge</th><th class="n">KenPom line</th><th class="n">KenPom edge</th><th class="n">Last line</th><th>Podcast</th><th class="n">CLV</th><th>Final</th><th>Result</th><th class="n">Units</th></tr></thead><tbody>` +
   ps.map(p => `<tr><td>${esc((p.game_date || "").slice(5).replace("-", "/"))}</td><td>${esc(p.torvik_away || p.away)} at ${esc(p.torvik_home || p.home)}</td><td class="pick">${esc(p.pick_label)}</td>${starCell(p.both_5plus === "*")}
   <td class="n">${ml(p, p.line)}</td><td class="n">${ml(p, p.torvik_line)}</td><td class="n">${p.torvik_edge === "" ? "—" : f(Math.abs(p.torvik_edge))}</td>
   <td class="n">${ml(p, p.kp_line)}</td><td class="n">${p.kp_edge === "" ? "—" : f(Math.abs(p.kp_edge))}</td><td class="n">${p.market === "spread" ? sp(+p.last_line) : f(p.last_line)}</td>
+  <td class="pod">${p.podcast ? (p.podcast.startsWith("vs ") ? '<span class="neg">✗</span> ' + esc(p.podcast.slice(3)) : '<span class="pos">✓</span> ' + esc(p.podcast)) : "—"}</td>
   <td class="n ${p.clv > 0 ? "pos" : p.clv < 0 ? "neg" : ""}">${p.clv === null ? "—" : sp(p.clv)}</td>
   <td class="mono">${p.final_away !== "" && p.final_away !== undefined ? esc(p.final_away) + "–" + esc(p.final_home) : "—"}</td>
   <td class="st-${esc(p.status)}">${esc(p.status)}</td><td class="n">${p.units === "" ? "—" : f(p.units, 2)}</td></tr>`).join("") +

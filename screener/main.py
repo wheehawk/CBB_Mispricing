@@ -18,7 +18,7 @@ import tomllib
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import dashboard, history, kenpom, matching, model, odds, torvik
+from . import dashboard, history, kenpom, matching, model, odds, podcast, torvik
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -112,6 +112,12 @@ def main(argv=None) -> int:
         }
         rows.append(model.evaluate(row, cfg))
     rows.sort(key=lambda r: r["start"])
+
+    # 5b. Podcast locks (data/podcast_picks.json, written from episode transcripts)
+    pods = podcast.load(DATA / "podcast_picks.json", note)
+    for r in rows:
+        r["podcast"] = podcast.for_row(pods, r)
+    log(f"Podcast: {len(pods)} game(s) on file, {sum(1 for r in rows if r['podcast'])} matched to today's slate")
 
     # 6. Pick log
     picks_path = DATA / "picks.csv"
