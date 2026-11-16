@@ -40,6 +40,7 @@ Add each of these:
 | `ODDS_API_KEY` | Your key from the Odds API email |
 | `KENPOM_EMAIL` | Your KenPom login email (optional) |
 | `KENPOM_PASSWORD` | Your KenPom password (optional) |
+| `KENPOM_API_KEY` | Your KenPom API key (recommended; used instead of the website login when set) |
 
 The names must match exactly. Never paste these keys into a file, an issue, or a chat.
 

@@ -1,6 +1,6 @@
 # CBB Screener settings. Edit these to tune the screener; no code changes needed.
 # Secrets (Odds API key, KenPom login) are NOT stored here. They go in GitHub
-# repository secrets: ODDS_API_KEY, KENPOM_EMAIL, KENPOM_PASSWORD.
+# repository secrets: ODDS_API_KEY, KENPOM_API_KEY (preferred), KENPOM_EMAIL, KENPOM_PASSWORD.
 
 [thresholds]
 # Which markets to screen: "spread" and/or "total". Totals are off; add "total" to turn them back on.

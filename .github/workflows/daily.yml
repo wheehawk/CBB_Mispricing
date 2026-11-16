@@ -48,6 +48,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           KENPOM_EMAIL: ${{ secrets.KENPOM_EMAIL }}
           KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
           LOOKAHEAD_HOURS: ${{ inputs.hours }}
         run: python -m screener.main
 

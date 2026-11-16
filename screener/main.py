@@ -81,8 +81,9 @@ def main(argv=None) -> int:
     # With no games, still check today's FanMatch so a bad KenPom login shows up early.
     dates = sorted({ev["start"].astimezone(tz).date() for ev, _, _ in matched}) or [today]
     kp = {"ratings": {}, "fanmatch": {}}
-    if not args.no_kenpom and (matched or os.environ.get("KENPOM_EMAIL")):
-        kp = kenpom.load(os.environ.get("KENPOM_EMAIL"), os.environ.get("KENPOM_PASSWORD"), dates, note)
+    if not args.no_kenpom and (matched or os.environ.get("KENPOM_EMAIL") or os.environ.get("KENPOM_API_KEY")):
+        kp = kenpom.load(os.environ.get("KENPOM_EMAIL"), os.environ.get("KENPOM_PASSWORD"), dates, note,
+                         api_key=os.environ.get("KENPOM_API_KEY"))
         log(f"KenPom: {len(kp['ratings'])} team ratings, FanMatch days: {len(kp['fanmatch'])}")
 
     # 5. Build rows (sportsbook home perspective)

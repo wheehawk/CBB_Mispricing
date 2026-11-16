@@ -155,8 +155,66 @@ async def _fetch(email: str | None, password: str | None, dates: list[dt.date], 
     return ratings_html, fanmatch_html
 
 
-def load(email: str | None, password: str | None, dates: list[dt.date], log=print) -> dict:
-    """Returns {"ratings": {...}, "fanmatch": {date: [games]}}. Never raises; KenPom is optional."""
+API = "https://kenpom.com/api.php"
+
+
+def _api_get(key: str, **params):
+    import requests
+
+    r = requests.get(API, params=params, headers={"Authorization": f"Bearer {key}", "User-Agent": UA}, timeout=60)
+    if r.status_code != 200:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:120]!r}")
+    return r.json()
+
+
+def _season(day: dt.date) -> int:
+    return day.year + 1 if day.month >= 8 else day.year
+
+
+def load_api(key: str, dates: list[dt.date], log=print) -> dict | None:
+    """KenPom's official API (Authorization: Bearer <key>). No browser, no bot check.
+    FanMatch only serves dates up to today, so later dates fall back to ratings."""
+    try:
+        rows = _api_get(key, endpoint="ratings", y=_season(min(dates)))
+    except Exception as e:
+        log(f"KenPom API ratings request failed ({e}); trying the website instead.")
+        return None
+    ratings = {}
+    for r in rows:
+        o, d, t = _f(r.get("AdjOE")), _f(r.get("AdjDE")), _f(r.get("AdjTempo"))
+        if r.get("TeamName") and None not in (o, d, t):
+            ratings[_clean_team(r["TeamName"])] = {"adjo": o, "adjd": d, "adjt": t}
+    fanmatch = {}
+    for d in dates:
+        try:
+            games = _api_get(key, endpoint="fanmatch", d=d.isoformat())
+        except Exception as e:
+            print(f"[screener] KenPom API FanMatch for {d} not available ({str(e)[:80]}); using ratings for that day.", flush=True)
+            continue
+        out = []
+        for g in games or []:
+            hp, vp = _f(g.get("HomePred")), _f(g.get("VisitorPred"))
+            if hp is None or vp is None or not g.get("Home") or not g.get("Visitor"):
+                continue
+            home, vis = _clean_team(g["Home"]), _clean_team(g["Visitor"])
+            win_home = hp >= vp
+            out.append({
+                "team_a": vis, "team_b": home, "neutral": False,
+                "winner": home if win_home else vis,
+                "winner_pts": max(hp, vp), "loser_pts": min(hp, vp),
+            })
+        fanmatch[d] = out
+    print(f"[screener] KenPom API OK: {len(ratings)} team ratings, FanMatch for {sum(1 for v in fanmatch.values() if v)} of {len(dates)} day(s).", flush=True)
+    return {"ratings": ratings, "fanmatch": fanmatch}
+
+
+def load(email: str | None, password: str | None, dates: list[dt.date], log=print, api_key: str | None = None) -> dict:
+    """Returns {"ratings": {...}, "fanmatch": {date: [games]}}. Never raises; KenPom is optional.
+    Uses the KenPom API when api_key is set; otherwise (or if the API fails) the website."""
+    if api_key:
+        res = load_api(api_key, dates, log)
+        if res is not None and res["ratings"]:
+            return res
     try:
         ratings_html, fm_html = asyncio.run(_fetch(email, password, dates, log))
     except Exception as e:

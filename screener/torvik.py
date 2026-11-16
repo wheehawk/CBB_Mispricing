@@ -99,9 +99,10 @@ def load_schedule(year: int, cache_path=None, log=print) -> list[dict]:
         cache = json.loads(Path(cache_path).read_text())
         fetched = dt.datetime.fromisoformat(cache["fetched_utc"])
         age_h = (dt.datetime.now(dt.timezone.utc) - fetched).total_seconds() / 3600
-        log(f"Torvik live download unavailable ({str(e)[:80]}...); using stored copy from {age_h:.0f}h ago")
-        if age_h > 30:
-            log(f"WARNING: stored Torvik data is {age_h:.0f} hours old; projections may be stale.")
+        # Expected on GitHub (Torvik blocks its servers), so only surface it when the copy is stale.
+        print(f"[screener] Torvik live download unavailable ({str(e)[:80]}...); using stored copy from {age_h:.0f}h ago", flush=True)
+        if age_h > 14:
+            log(f"WARNING: stored Torvik copy is {age_h:.0f} hours old (the scheduled refresh may have failed); projections may be stale.")
         games = []
         for g in cache["games"]:
             g = dict(g)
