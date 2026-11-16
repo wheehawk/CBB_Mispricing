@@ -1,1 +1,251 @@
-{"episodes": {}}
+{
+ "episodes": {
+  "2-5111-a485-1436a68fd5bf": {
+   "title": "College Basketball PICKS ONLY - Monday, November 16th | TCE Trims (Ep. 1232)",
+   "url": "https://www.sportsgamblingpodcast.com",
+   "episode_date": "2026-11-16",
+   "hosts": [
+    "Host",
+    "Mac",
+    "Elliot"
+   ],
+   "processed_utc": "2026-11-16T22:10+00:00",
+   "games": [
+    {
+     "date": "2026-11-16",
+     "away": "Richmond",
+     "home": "Virginia Tech",
+     "pick": "Richmond",
+     "category": "3/3 lock",
+     "hosts": [
+      "Mac",
+      "Host",
+      "Elliot"
+     ],
+     "line": "+13",
+     "quote": "[0:10:28] Triple lock. Good spiders."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Jacksonville",
+     "home": "Georgia",
+     "pick": "Jacksonville",
+     "category": "3/3 lock",
+     "hosts": [
+      "Host",
+      "Mac",
+      "Elliot"
+     ],
+     "line": "+23.5",
+     "quote": "[0:11:47] No, Triple Lock for me."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Eastern Kentucky",
+     "home": "Kent St.",
+     "pick": "Kent St.",
+     "category": "3/3 lock",
+     "hosts": [
+      "Host",
+      "Elliot",
+      "Mac"
+     ],
+     "line": "-10.5",
+     "quote": "[0:24:56] Triple lock."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Abilene Christian",
+     "home": "Missouri St.",
+     "pick": "Abilene Christian",
+     "category": "3/3 lock",
+     "hosts": [
+      "Mac",
+      "Host",
+      "Elliot"
+     ],
+     "line": "+7",
+     "quote": "[0:34:03] All right, triple lock here on Abilene Christian"
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Grambling St.",
+     "home": "Kentucky",
+     "pick": "Grambling St.",
+     "category": "2/3 lock",
+     "hosts": [
+      "Elliot",
+      "Host"
+     ],
+     "line": "+30.5",
+     "quote": "[0:19:31] Elliot myself on Grambling, Mac on Big Blue Nation (lock battle)"
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Tarleton St.",
+     "home": "Drake",
+     "pick": "Tarleton St.",
+     "category": "2/3 lock",
+     "hosts": [
+      "Mac",
+      "Elliot"
+     ],
+     "line": "+10",
+     "quote": "[0:28:33] Double lock."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Columbia",
+     "home": "Northwestern",
+     "pick": "Northwestern",
+     "category": "2/3 lock",
+     "hosts": [
+      "Mac",
+      "Elliot"
+     ],
+     "line": "-12",
+     "quote": "[0:38:49] I'm locking up Northwestern with Mac here as well."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "East Texas A&M",
+     "home": "Oregon St.",
+     "pick": "East Texas A&M",
+     "category": "2/3 lock",
+     "hosts": [
+      "Mac",
+      "Elliot"
+     ],
+     "line": "",
+     "quote": "[0:43:08] This is a double lock between Elliott [and] Mac."
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Portland St.",
+     "home": "Saint Mary's",
+     "pick": "Portland St.",
+     "category": "2/3 lock",
+     "hosts": [
+      "Host",
+      "Elliot"
+     ],
+     "line": "+18",
+     "quote": "[0:46:08] Now with the Vikings myself and Elliot (lock battle vs Mac)"
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Texas Southern",
+     "home": "UC San Diego",
+     "pick": "UC San Diego",
+     "category": "2/3 lock",
+     "hosts": [
+      "Host",
+      "Mac"
+     ],
+     "line": "-19",
+     "quote": "[0:48:56] I'm locking up the Tritons... [0:49:04] You're locking this? Yeah"
+    },
+    {
+     "date": "2026-11-16",
+     "away": "Western Kentucky",
+     "home": "Tulsa",
+     "pick": "Western Kentucky",
+     "category": "2/3 lock",
+     "hosts": [
+      "Mac",
+      "Elliot"
+     ],
+     "line": "+7.5",
+     "quote": "[0:27:05] me and Mac are two-stepping together on this one; both list WKU in best bets/dog"
+    }
+   ],
+   "all_picks": [
+    {
+     "game": "Alcorn St. at Maryland",
+     "host": "Elliot",
+     "team": "Maryland",
+     "lock": true,
+     "quote": "[0:01:48] Elliot locking it up the Terps"
+    },
+    {
+     "game": "Florida A&M at UTEP",
+     "host": "Elliot",
+     "team": "Florida A&M",
+     "lock": true,
+     "quote": "[0:04:02] lock battle"
+    },
+    {
+     "game": "Florida A&M at UTEP",
+     "host": "Mac",
+     "team": "UTEP",
+     "lock": true,
+     "quote": "[0:04:02] lock battle"
+    },
+    {
+     "game": "Iona at UMBC",
+     "host": "Mac",
+     "team": "UMBC",
+     "lock": true,
+     "quote": "[0:05:28] Mac is locking it up"
+    },
+    {
+     "game": "Iona at UMBC",
+     "host": "Elliot",
+     "team": "Iona",
+     "lock": true,
+     "quote": "[0:06:41] So lock battle. Give me Iona."
+    },
+    {
+     "game": "Iona at UMBC",
+     "host": "Host",
+     "team": "UMBC",
+     "lock": false,
+     "quote": "[0:05:46] I'm not betting it"
+    },
+    {
+     "game": "St. Thomas at LIU",
+     "host": "Mac",
+     "team": "St. Thomas",
+     "lock": true,
+     "quote": "[0:21:23] I'm going to lock the Tommy's"
+    },
+    {
+     "game": "St. Thomas at LIU",
+     "host": "Elliot",
+     "team": "LIU",
+     "lock": true,
+     "quote": "[0:22:10] battling Mac, give me the Sharks"
+    },
+    {
+     "game": "Central Arkansas at Oklahoma St.",
+     "host": "Mac",
+     "team": "Oklahoma St.",
+     "lock": true,
+     "quote": "[0:29:57] Mac is locking the pokes"
+    },
+    {
+     "game": "Central Arkansas at Oklahoma St.",
+     "host": "Elliot",
+     "team": "Central Arkansas",
+     "lock": true,
+     "quote": "[0:31:29] lock battle between Elliot and Mac"
+    },
+    {
+     "game": "Western Kentucky at Tulsa",
+     "host": "Host",
+     "team": "Tulsa",
+     "lock": false,
+     "quote": "[0:26:55] the Golden Hurricane are my pick here"
+    }
+   ],
+   "unmatched": [],
+   "note": "Hand-processed during setup. Western Kentucky counted as a 2/3 lock from best-bet/dog mentions rather than an explicit 'lock'."
+  },
+  "3-58b3-ad9b-5c8e62f6669b": {
+   "title": "College Basketball Picks For November 16th - NCAA Basketball Banter & Best Bets (Ep. 1231)",
+   "episode_date": "2026-11-16",
+   "skipped": "same picks as 2-5111-a485-1436a68fd5bf",
+   "games": []
+  }
+ }
+}
