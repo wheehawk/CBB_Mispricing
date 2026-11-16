@@ -188,7 +188,7 @@ for (const g of D.games) {
 plays.sort((a, b) => (b.star - a.star) || (Math.min(b.tve, b.kpe) - Math.min(a.tve, a.kpe)));
 const starCell = s => `<td class="star">${s ? "*" : ""}</td>`;
 document.getElementById("playsT").innerHTML = plays.length ? `<table><thead><tr>
-  <th>Tip</th><th>Game</th><th>Play</th><th class="star">5+ both</th><th class="n">Torvik edge</th><th class="n">KenPom edge</th>
+  <th>Tip</th><th>Game</th><th>Play</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th><th class="n">Torvik edge</th><th class="n">KenPom edge</th>
   <th class="n">Market</th><th class="n">Torvik line</th><th class="n">KenPom line</th><th>Best available</th></tr></thead><tbody>` +
   plays.map(p => `<tr><td>${esc(p.g.time)}</td><td>${matchup(p.g)}</td>
   <td class="pick">${esc(p.pick)}</td>${starCell(p.star)}<td class="n flag">${f(p.tve)}</td><td class="n flag">${f(p.kpe)}</td>
@@ -202,7 +202,7 @@ function renderAll() {
   const gs = D.games.filter(g => (!q || (g.home + " " + g.away).toLowerCase().includes(q)) && (!fo || g.s_flag));
   document.getElementById("allT").innerHTML = gs.length ? `<table><thead><tr><th>Tip</th><th>Game</th>
     <th class="n">Spread (home)</th><th class="n">Torvik line</th><th class="n">KenPom line</th>
-    <th class="n">Torvik edge</th><th class="n">KenPom edge</th><th>Model side</th><th class="star">5+ both</th><th class="n">Books</th></tr></thead><tbody>` +
+    <th class="n">Torvik edge</th><th class="n">KenPom edge</th><th>Model side</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th><th class="n">Books</th></tr></thead><tbody>` +
     gs.map(g => {
       // Edge cells: points each model disagrees with the market; highlighted when 3+.
       const hit = e => e !== null && Math.abs(e) >= MIN ? "flag" : "";
@@ -222,7 +222,7 @@ renderAll();
 
 // Results
 const ps = [...D.picks].sort((a, b) => (b.start_utc || "").localeCompare(a.start_utc || ""));
-document.getElementById("resT").innerHTML = ps.length ? `<table><thead><tr><th>Date</th><th>Game</th><th>Play</th><th class="star">5+ both</th>
+document.getElementById("resT").innerHTML = ps.length ? `<table><thead><tr><th>Date</th><th>Game</th><th>Play</th><th class="star">${S.thresholds.star_edge ?? 5}+ both</th>
   <th class="n">Torvik edge</th><th class="n">KenPom edge</th><th class="n">Last line</th><th class="n">CLV</th><th>Final</th><th>Result</th><th class="n">Units</th></tr></thead><tbody>` +
   ps.map(p => `<tr><td>${esc((p.game_date || "").slice(5).replace("-", "/"))}</td><td>${esc(p.torvik_away || p.away)} at ${esc(p.torvik_home || p.home)}</td><td class="pick">${esc(p.pick_label)}</td>${starCell(p.both_5plus === "*")}
   <td class="n">${p.torvik_edge === "" ? "—" : f(Math.abs(p.torvik_edge))}</td><td class="n">${p.kp_edge === "" ? "—" : f(Math.abs(p.kp_edge))}</td><td class="n">${p.market === "spread" ? sp(+p.last_line) : f(p.last_line)}</td>

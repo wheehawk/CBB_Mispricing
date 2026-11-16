@@ -7,11 +7,11 @@
 markets = ["spread"]
 # A play is flagged only when BOTH Torvik and KenPom disagree with the market line by at
 # least this many points, on the same side.
-min_single_model_edge = 3.0
-# Plays where both models are at or above this many points get a * in the "5+ both" column.
-star_edge = 5.0
+min_single_model_edge = 1.5
+# Plays where both models are at or above this many points get a * (the "N+ both" column).
+star_edge = 3.0
 # Blended-edge minimums (the blend is the average of the two models).
-spread_edge = 3.0
+spread_edge = 1.5
 total_edge = 5.0
 require_model_agreement = true
 
