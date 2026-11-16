@@ -9,7 +9,7 @@ from pathlib import Path
 FIELDS = [
     "pick_id", "game_date", "start_utc", "away", "home", "torvik_away", "torvik_home",
     "market", "side", "pick_label", "both_5plus", "line", "best_line", "best_price", "best_book",
-    "edge", "torvik_edge", "kp_edge", "kp_source", "flagged_at", "last_line",
+    "edge", "torvik_line", "torvik_edge", "kp_line", "kp_edge", "kp_source", "flagged_at", "last_line",
     "status", "units", "final_away", "final_home",
 ]
 
@@ -30,6 +30,11 @@ def load(path: Path) -> list[dict]:
     for p in picks:  # older logs predate the 5+ column
         if not p.get("both_5plus"):
             p["both_5plus"] = star(p)
+        # Older logs predate the model-line columns; rebuild them from the line and edges.
+        for col, edge in (("torvik_line", "torvik_edge"), ("kp_line", "kp_edge")):
+            if not p.get(col) and p.get(edge) not in (None, "") and p.get("line") not in (None, ""):
+                line, e = float(p["line"]), float(p[edge])
+                p[col] = _r(line - abs(e) if p["market"] == "spread" else line + e)
     return picks
 
 
@@ -51,6 +56,16 @@ def pick_line(row: dict, market: str, side: str):
     if market == "spread":
         return row["spread"] if side == "home" else -row["spread"]
     return row["total"]
+
+
+def model_line(row: dict, market: str, side: str, model: str):
+    """A model's projected line from the pick's perspective (same notation as the pick line)."""
+    if market == "total":
+        return row.get(f"{model}_total")
+    m = row.get(f"{model}_margin")  # home margin, positive = home wins
+    if m is None:
+        return None
+    return -m if side == "home" else m
 
 
 def add_and_update(picks: list[dict], rows: list[dict], now: dt.datetime) -> int:
@@ -81,8 +96,9 @@ def add_and_update(picks: list[dict], rows: list[dict], now: dt.datetime) -> int
                 "both_5plus": "*" if row.get(f"{market}_star") else "", "line": _r(line),
                 "best_line": _r(best[0]) if best else "", "best_price": best[1] if best else "",
                 "best_book": best[2] if best else "",
-                "edge": _r(abs(edges["blend"])), "torvik_edge": _r(edges["torvik"]),
-                "kp_edge": _r(edges["kp"]), "kp_source": row.get("kp_source") or "",
+                "edge": _r(abs(edges["blend"])),
+                "torvik_line": _r(model_line(row, market, side, "torvik")), "torvik_edge": _r(edges["torvik"]),
+                "kp_line": _r(model_line(row, market, side, "kp")), "kp_edge": _r(edges["kp"]), "kp_source": row.get("kp_source") or "",
                 "flagged_at": now.isoformat(timespec="minutes"), "last_line": _r(line),
                 "status": "open", "units": "",
             }
