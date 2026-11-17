@@ -1,8 +1,193 @@
 {
- "generated_utc": "2026-11-17T13:42+00:00",
+ "generated_utc": "2026-11-17T16:02+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
+  {
+   "id": "af7d4f2070d23339d85022a5cf26f93c",
+   "priority": [
+    2,
+    1
+   ],
+   "date": "2026-11-17",
+   "tip_et": "Tue Nov 17, 7:30 PM ET",
+   "away": "Kennesaw St.",
+   "home": "Alabama",
+   "neutral": false,
+   "venue": {
+    "name": "Coleman Coliseum",
+    "city": "Tuscaloosa, AL",
+    "neutral": false,
+    "tv": [
+     "SECN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Coleman Coliseum, Tuscaloosa, AL",
+   "pick": {
+    "team": "Kennesaw St.",
+    "team_bold": "\ud835\udc0a\ud835\udc1e\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc1a\ud835\udc30 \ud835\udc12\ud835\udc2d.",
+    "side": "away",
+    "market_line": 25.5,
+    "best": [
+     25.5,
+     -108,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": 23.3,
+    "torvik_edge": 2.2,
+    "kenpom_line": 24.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 172.2,
+    "kenpom_total": 168.0,
+    "market_total": null,
+    "torvik_tempo": 80.3,
+    "kenpom_tempo": 78.0,
+    "kenpom_home_win_prob": 98.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "Kennesaw St.",
+    "hosts": [
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "+24.5",
+    "label": "2/2 agree: Kennesaw St."
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "Kennesaw St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Kennesaw+St.",
+     "record": "4-0",
+     "coach": "Antoine Pettway",
+     "conf": "CUSA",
+     "arena": "VyStar Arena, Kennesaw, GA",
+     "ratings": {
+      "AdjEM": -1.3936,
+      "RankAdjEM": 163,
+      "AdjOE": 102.789,
+      "RankAdjOE": 233,
+      "AdjDE": 104.182,
+      "RankAdjDE": 120,
+      "AdjTempo": 73.976,
+      "RankAdjTempo": 19,
+      "SOS": -10.8662,
+      "RankSOS": 318,
+      "Luck": 0.1231
+     },
+     "four_factors": {
+      "eFG_Pct": 48.7903,
+      "RankeFG_Pct": 216,
+      "TO_Pct": 19.1266,
+      "RankTO_Pct": 235,
+      "OR_Pct": 33.7349,
+      "RankOR_Pct": 142,
+      "FT_Rate": 51.6129,
+      "RankFT_Rate": 32,
+      "DeFG_Pct": 43.8053,
+      "RankDeFG_Pct": 50,
+      "DTO_Pct": 17.2139,
+      "RankDTO_Pct": 204,
+      "DOR_Pct": 19.2308,
+      "RankDOR_Pct": 2,
+      "DFT_Rate": 60.177,
+      "RankDFT_Rate": 359
+     },
+     "shooting": {
+      "FG3Pct": 25.8621,
+      "RankFG3Pct": 322,
+      "FG2Pct": 57.5758,
+      "FTPct": 59.375,
+      "F3GRate": 46.7742,
+      "RankF3GRate": 73,
+      "OppFG3Pct": 26.1905,
+      "RankOppFG3Pct": 45,
+      "BlockPct": 15.493,
+      "StlRate": 0.102,
+      "ARate": 52.8302
+     },
+     "size": {
+      "AvgHgt": 79.16,
+      "AvgHgtRank": 12,
+      "HgtEff": -0.07,
+      "Exp": 0.9622,
+      "ExpRank": 276,
+      "Bench": 40.35,
+      "Continuity": 0.2076
+     }
+    },
+    "home": {
+     "name": "Alabama",
+     "kenpom_url": "https://kenpom.com/team.php?team=Alabama",
+     "record": "4-0",
+     "coach": "Nate Oats",
+     "conf": "SEC",
+     "arena": "Coleman Coliseum, Tuscaloosa, AL",
+     "ratings": {
+      "AdjEM": 24.6317,
+      "RankAdjEM": 18,
+      "AdjOE": 122.424,
+      "RankAdjOE": 6,
+      "AdjDE": 97.7919,
+      "RankAdjDE": 41,
+      "AdjTempo": 75.6825,
+      "RankAdjTempo": 1,
+      "SOS": -4.7431,
+      "RankSOS": 244,
+      "Luck": 0.0993
+     },
+     "four_factors": {
+      "eFG_Pct": 57.7358,
+      "RankeFG_Pct": 40,
+      "TO_Pct": 17.2821,
+      "RankTO_Pct": 160,
+      "OR_Pct": 37.9085,
+      "RankOR_Pct": 63,
+      "FT_Rate": 40.7547,
+      "RankFT_Rate": 125,
+      "DeFG_Pct": 45.6522,
+      "RankDeFG_Pct": 73,
+      "DTO_Pct": 22.0826,
+      "RankDTO_Pct": 52,
+      "DOR_Pct": 37.5691,
+      "RankDOR_Pct": 295,
+      "DFT_Rate": 27.1739,
+      "RankDFT_Rate": 59
+     },
+     "shooting": {
+      "FG3Pct": 37.8378,
+      "RankFG3Pct": 62,
+      "FG2Pct": 58.9744,
+      "FTPct": 75.9259,
+      "F3GRate": 55.8491,
+      "RankF3GRate": 6,
+      "OppFG3Pct": 34.4828,
+      "RankOppFG3Pct": 239,
+      "BlockPct": 18.75,
+      "StlRate": 0.1376,
+      "ARate": 64.8
+     },
+     "size": {
+      "AvgHgt": 79.14,
+      "AvgHgtRank": 13,
+      "HgtEff": 1.1,
+      "Exp": 1.4057,
+      "ExpRank": 169,
+      "Bench": 47.9,
+      "Continuity": 0.2921
+     }
+    }
+   },
+   "players": null
+  },
   {
    "id": "ea9b9bf9131650d8502e7f35600230f1",
    "priority": [
@@ -28,18 +213,18 @@
     "team": "Eastern Washington",
     "team_bold": "\ud835\udc04\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc27 \ud835\udc16\ud835\udc1a\ud835\udc2c\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2d\ud835\udc28\ud835\udc27",
     "side": "away",
-    "market_line": 12.5,
+    "market_line": 13.0,
     "best": [
-     13.0,
-     -122,
-     "LowVig.ag"
+     13.5,
+     -118,
+     "DraftKings"
     ]
    },
    "models": {
     "torvik_line": 10.2,
-    "torvik_edge": 2.3,
+    "torvik_edge": 2.8,
     "kenpom_line": 11.0,
-    "kenpom_edge": 1.5,
+    "kenpom_edge": 2.0,
     "kenpom_source": "FanMatch",
     "torvik_total": 147.0,
     "kenpom_total": 147.0,
