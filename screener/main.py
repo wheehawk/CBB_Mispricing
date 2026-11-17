@@ -18,7 +18,7 @@ import tomllib
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import dashboard, history, kenpom, matching, model, odds, podcast, torvik
+from . import dashboard, espn, gas, history, kenpom, matching, model, odds, podcast, torvik
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -106,6 +106,7 @@ def main(argv=None) -> int:
             "flipped": flipped,
             "torvik_margin": None if tm is None else (-tm if flipped else tm),
             "torvik_total": g["torvik_total"],
+            "torvik_tempo": g.get("torvik_tempo"),
             "kp_margin": kpp["margin"] if kpp else None,
             "kp_total": kpp["total"] if kpp else None,
             "kp_source": kpp["source"] if kpp else None,
@@ -147,6 +148,16 @@ def main(argv=None) -> int:
     (ROOT / "docs").mkdir(exist_ok=True)
     (ROOT / "docs" / "index.html").write_text(out)
     (ROOT / "docs" / "summary.txt").write_text(dashboard.text_summary(rows, picks, cfg, now, notes))
+
+    # 9. Game Analysis Standard data for the morning email (flagged plays + podcast triple locks)
+    try:
+        gas_rows = [r for r in rows if r.get("spread_flag") or (r.get("podcast") or {}).get("category") == "3/3 lock"]
+        ev = espn.fetch(sorted({dt.date.fromisoformat(r["local_date"]) for r in gas_rows}), log) if gas_rows else []
+        gd = gas.build(rows, kp, ev, cfg, now)
+        gas.write(gd)
+        log(f"GAS: {len(gd['games'])} game(s) written to docs/gas_data.json ({len(ev)} ESPN events)")
+    except Exception as e:
+        note(f"GAS data could not be built ({e})")
     log("Dashboard written to docs/index.html")
     return 0
 

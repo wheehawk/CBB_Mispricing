@@ -184,6 +184,15 @@ def load_api(key: str, dates: list[dt.date], log=print) -> dict | None:
         o, d, t = _f(r.get("AdjOE")), _f(r.get("AdjDE")), _f(r.get("AdjTempo"))
         if r.get("TeamName") and None not in (o, d, t):
             ratings[_clean_team(r["TeamName"])] = {"adjo": o, "adjd": d, "adjt": t}
+    # Extra team detail for the Game Analysis Standard (GAS) write-ups; optional.
+    detail = {"ratings": {_clean_team(r["TeamName"]): r for r in rows if r.get("TeamName")}}
+    for ep in ("four-factors", "misc-stats", "height", "teams"):
+        try:
+            detail[ep] = {_clean_team(r["TeamName"]): r for r in _api_get(key, endpoint=ep, y=_season(min(dates)))
+                          if r.get("TeamName")}
+        except Exception as e:
+            print(f"[screener] KenPom API {ep} not available ({str(e)[:80]})", flush=True)
+            detail[ep] = {}
     fanmatch = {}
     for d in dates:
         try:
@@ -202,10 +211,11 @@ def load_api(key: str, dates: list[dt.date], log=print) -> dict | None:
                 "team_a": vis, "team_b": home, "neutral": False,
                 "winner": home if win_home else vis,
                 "winner_pts": max(hp, vp), "loser_pts": min(hp, vp),
+                "tempo": _f(g.get("PredTempo")), "home_wp": _f(g.get("HomeWP")),
             })
         fanmatch[d] = out
     print(f"[screener] KenPom API OK: {len(ratings)} team ratings, FanMatch for {sum(1 for v in fanmatch.values() if v)} of {len(dates)} day(s).", flush=True)
-    return {"ratings": ratings, "fanmatch": fanmatch}
+    return {"ratings": ratings, "fanmatch": fanmatch, "detail": detail}
 
 
 def load(email: str | None, password: str | None, dates: list[dt.date], log=print, api_key: str | None = None) -> dict:
