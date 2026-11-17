@@ -15,6 +15,7 @@ import io
 import json
 import sys
 from pathlib import Path
+from urllib.parse import quote_plus
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -30,6 +31,11 @@ def _num(v, nd=1):
         return None
 
 
+def kenpom_url(name: str) -> str:
+    """KenPom team page, e.g. 'Mississippi St.' -> https://kenpom.com/team.php?team=Mississippi+St."""
+    return f"https://kenpom.com/team.php?team={quote_plus(name)}"
+
+
 def _team(kp_detail: dict, name: str) -> dict:
     r = kp_detail.get("ratings", {}).get(name, {})
     ff = kp_detail.get("four-factors", {}).get(name, {})
@@ -39,6 +45,7 @@ def _team(kp_detail: dict, name: str) -> dict:
     pick = lambda d, keys: {k: d.get(k) for k in keys if d.get(k) not in (None, "")}
     return {
         "name": name,
+        "kenpom_url": kenpom_url(name),
         "record": f"{r.get('Wins')}-{r.get('Losses')}" if r else None,
         "coach": r.get("Coach") or tm.get("Coach"),
         "conf": r.get("ConfShort") or tm.get("ConfShort"),
