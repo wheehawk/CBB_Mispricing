@@ -40,3 +40,5 @@ timezone = "America/New_York"
 title = "CBB Mispricing Screener"
 # The email's "Results since" and "GAS games since" records start on this date (rules changed Nov 15-17, 2026).
 results_since = "2026-11-15"
+# The automated GAS record starts with the first GAS email (Nov 17, 2026).
+gas_since = "2026-11-17"

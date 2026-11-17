@@ -187,9 +187,11 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
     sd = dt.date.fromisoformat(since).strftime("%-m/%-d/%Y")
     recent = [p for p in graded if p["game_date"] >= since]
     # GAS games = model plays the podcast also locked on the same side (podcast tag without "vs ").
-    gas_ps = [p for p in recent if p.get("podcast") and not p["podcast"].startswith("vs ")]
+    gsince = str(cfg["display"].get("gas_since", "2026-11-17"))  # first GAS email
+    gsd = dt.date.fromisoformat(gsince).strftime("%-m/%-d/%Y")
+    gas_ps = [p for p in graded if p["game_date"] >= gsince and p.get("podcast") and not p["podcast"].startswith("vs ")]
     out.append(f"Since {sd}: {rec(recent)}")
-    out.append(f"GAS games since {sd}: {rec(gas_ps)}")
+    out.append(f"GAS games since {gsd}: {rec(gas_ps)}")
     if yd:
         yw = sum(p["status"] == "win" for p in yd); yl = sum(p["status"] == "loss" for p in yd)
         out.append(f"Yesterday: {yw}-{yl} · {sum(float(p['units']) for p in yd):+.2f}u")
