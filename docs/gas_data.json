@@ -1,6 +1,189 @@
 {
- "generated_utc": "2026-11-17T05:03+00:00",
+ "generated_utc": "2026-11-17T11:27+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "ea9b9bf9131650d8502e7f35600230f1",
+   "priority": [
+    2,
+    1
+   ],
+   "date": "2026-11-17",
+   "tip_et": "Tue Nov 17, 8:30 PM ET",
+   "away": "Eastern Washington",
+   "home": "Utah",
+   "neutral": false,
+   "venue": {
+    "name": "Jon M. Huntsman Center",
+    "city": "Salt Lake City, UT",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Huntsman Center, Salt Lake City, UT",
+   "pick": {
+    "team": "Eastern Washington",
+    "side": "away",
+    "market_line": 12.5,
+    "best": [
+     13.0,
+     -122,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 10.2,
+    "torvik_edge": 2.3,
+    "kenpom_line": 11.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 147.0,
+    "kenpom_total": 147.0,
+    "market_total": null,
+    "torvik_tempo": 68.0,
+    "kenpom_tempo": 69.0,
+    "kenpom_home_win_prob": 83.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "Eastern Washington",
+    "hosts": [
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "+12.5",
+    "label": "2/2 agree: Eastern Washington"
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "Eastern Washington",
+     "record": "1-3",
+     "coach": "Dan Monson",
+     "conf": "BSky",
+     "arena": "Reese Court, Cheney, WA",
+     "ratings": {
+      "AdjEM": -0.8801,
+      "RankAdjEM": 157,
+      "AdjOE": 108.307,
+      "RankAdjOE": 129,
+      "AdjDE": 109.187,
+      "RankAdjDE": 236,
+      "AdjTempo": 70.6568,
+      "RankAdjTempo": 132,
+      "SOS": 16.7324,
+      "RankSOS": 27,
+      "Luck": -0.0547
+     },
+     "four_factors": {
+      "eFG_Pct": 47.861,
+      "RankeFG_Pct": 236,
+      "TO_Pct": 16.7783,
+      "RankTO_Pct": 137,
+      "OR_Pct": 33.3333,
+      "RankOR_Pct": 150,
+      "FT_Rate": 31.5508,
+      "RankFT_Rate": 249,
+      "DeFG_Pct": 61.6766,
+      "RankDeFG_Pct": 354,
+      "DTO_Pct": 17.7105,
+      "RankDTO_Pct": 179,
+      "DOR_Pct": 31.25,
+      "RankDOR_Pct": 185,
+      "DFT_Rate": 45.509,
+      "RankDFT_Rate": 291
+     },
+     "shooting": {
+      "FG3Pct": 29.3103,
+      "RankFG3Pct": 260,
+      "FG2Pct": 49.6124,
+      "FTPct": 69.4915,
+      "F3GRate": 31.016,
+      "RankF3GRate": 348,
+      "OppFG3Pct": 36.1111,
+      "RankOppFG3Pct": 279,
+      "BlockPct": 6.3158,
+      "StlRate": 0.1212,
+      "ARate": 48.1481
+     },
+     "size": {
+      "AvgHgt": 77.35,
+      "AvgHgtRank": 200,
+      "HgtEff": 1,
+      "Exp": 1.0701,
+      "ExpRank": 246,
+      "Bench": 36.93,
+      "Continuity": 0.2636
+     }
+    },
+    "home": {
+     "name": "Utah",
+     "record": "3-0",
+     "coach": "Alex Jensen",
+     "conf": "B12",
+     "arena": "Huntsman Center, Salt Lake City, UT",
+     "ratings": {
+      "AdjEM": 8.5715,
+      "RankAdjEM": 95,
+      "AdjOE": 108.415,
+      "RankAdjOE": 125,
+      "AdjDE": 99.8432,
+      "RankAdjDE": 66,
+      "AdjTempo": 67.5815,
+      "RankAdjTempo": 308,
+      "SOS": -10.364,
+      "RankSOS": 312,
+      "Luck": 0.1036
+     },
+     "four_factors": {
+      "eFG_Pct": 57.1429,
+      "RankeFG_Pct": 47,
+      "TO_Pct": 22.7344,
+      "RankTO_Pct": 323,
+      "OR_Pct": 32.1839,
+      "RankOR_Pct": 179,
+      "FT_Rate": 40.9091,
+      "RankFT_Rate": 124,
+      "DeFG_Pct": 49.3902,
+      "RankDeFG_Pct": 148,
+      "DTO_Pct": 16.6719,
+      "RankDTO_Pct": 233,
+      "DOR_Pct": 20.9524,
+      "RankDOR_Pct": 4,
+      "DFT_Rate": 25.6098,
+      "RankDFT_Rate": 44
+     },
+     "shooting": {
+      "FG3Pct": 30.303,
+      "RankFG3Pct": 236,
+      "FG2Pct": 65.9091,
+      "FTPct": 66.6667,
+      "F3GRate": 42.8571,
+      "RankF3GRate": 150,
+      "OppFG3Pct": 34.375,
+      "RankOppFG3Pct": 236,
+      "BlockPct": 12,
+      "StlRate": 0.0859,
+      "ARate": 66.6667
+     },
+     "size": {
+      "AvgHgt": 78.06,
+      "AvgHgtRank": 83,
+      "HgtEff": 0.16,
+      "Exp": 2.232,
+      "ExpRank": 40,
+      "Bench": 26.27,
+      "Continuity": 0.005
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }

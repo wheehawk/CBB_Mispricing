@@ -1,33 +1,50 @@
-CBB Mispricing Screener — Tue Nov 17, 12:03 AM ET
+CBB Mispricing Screener — Tue Nov 17, 6:27 AM ET
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
-Season: 71-80, -15.46 units
-Yesterday: 3-4, -1.27 units
+Season: 71-81, -16.46 units
+Yesterday: 3-5, -2.27 units
   LOSS Florida A&M +18.5  (46-79)
   WIN  Prairie View A&M +33.5  (59-86)
   WIN  Tarleton St. +10.5  (83-79)  [podcast: 2/3 lock]
   LOSS Abilene Christian +6.5  (64-73)  [podcast: 3/3 lock]
   PUSH Western Illinois +36  (63-99)
   WIN  Southeastern Louisiana +34.5  (69-101)
+  LOSS Long Beach St. +34.5  (66-105)
   LOSS Alcorn St. +34.5  (57-117)
   LOSS East Texas A&M +16.5  (71-109)  [podcast: 2/3 lock]
 
-PLAYS (15) — both models 1.5+ pts off the line, * = both 3+
-* Tue 12:00PM  Hofstra +11.5  vs Murray St.  | Torvik +5.8 (5.7)  KenPom +8.3 (3.2)  | best +12 (-106) LowVig.ag
-* Tue 8:00PM  Eastern Illinois +44  vs Vanderbilt  | Torvik +36.4 (7.6)  KenPom +39.3 (4.7)  | best +44.5 (-118) BetMGM
-* Tue 8:30PM  Nicholls St. +30.5  vs Mississippi  | Torvik +26.1 (4.4)  KenPom +24.8 (5.7)  | best +30.5 (-102) FanDuel
-* Tue 11:00PM  Montana St. +23.5  vs Gonzaga  | Torvik +19.5 (4.0)  KenPom +17.3 (6.2)  | best +23.5 (-101) LowVig.ag
-  Tue 2:00PM  Rutgers +16.5  vs Houston  | Torvik +11.1 (5.4)  KenPom +14.4 (2.1)  | best +16.5 (-105) BetRivers
-  Tue 4:30PM  Notre Dame +15.5  vs Florida  | Torvik +10.4 (5.1)  KenPom +13.8 (1.7)  | best +16.5 (-116) LowVig.ag
-  Tue 7:00PM  Cleveland St. +34  vs Xavier  | Torvik +31.3 (2.7)  KenPom +28.5 (5.5)  | best +34.5 (-110) BetMGM
-  Tue 7:00PM  Sacred Heart +30.5  vs Providence  | Torvik +28.4 (2.1)  KenPom +25.5 (5.0)  | best +30.5 (-113) LowVig.ag
-  Tue 7:30PM  Kennesaw St. +25  vs Alabama  | Torvik +23.3 (1.7)  KenPom +23.4 (1.6)  | best +25.5 (-106) BetRivers
-  Tue 8:00PM  Maryland Eastern Shore +33.5  vs DePaul  | Torvik +31.6 (1.9)  KenPom +26.3 (7.2)  | best +34.5 (-110) FanDuel
-  Tue 8:00PM  Oral Roberts +26.5  vs SMU  | Torvik +24.2 (2.3)  KenPom +21.6 (4.9)  | best +27 (-115) Bovada
-  Tue 8:30PM  Eastern Washington +12.2  vs Utah  | Torvik +10.2 (2.0)  KenPom +9.6 (2.6)  | best +12.5 (-108) BetRivers
-  Tue 8:30PM  Sam Houston St. +11.5  vs Wyoming  | Torvik +7.7 (3.8)  KenPom +9.4 (2.1)  | best +11.5 (-101) LowVig.ag
-  Tue 10:00PM  Cal Baptist +9  vs Seattle  | Torvik +1.3 (7.7)  KenPom +6.7 (2.3)  | best +9.5 (-110) FanDuel
+PLAYS (17) — both models 1.5+ pts off the line, * = both 3+
+* Tue 12:00PM  Hofstra +11.5  vs Murray St.  | Torvik +5.8 (5.7)  KenPom +8 (3.5)  | best +12 (-106) LowVig.ag  | Podcast: OPPOSES (2/2 agree Murray St.)
+* Tue 2:00PM  Rutgers +16.5  vs Houston  | Torvik +11.2 (5.3)  KenPom +13 (3.5)  | best +16.5 (-106) LowVig.ag
+* Tue 8:00PM  Eastern Illinois +43.5  vs Vanderbilt  | Torvik +36.3 (7.2)  KenPom +40 (3.5)  | best +44 (-108) LowVig.ag
+* Tue 8:30PM  Nicholls St. +30.5  vs Mississippi  | Torvik +26.1 (4.4)  KenPom +25 (5.5)  | best +30.5 (-106) LowVig.ag
+* Tue 11:00PM  Montana St. +23.5  vs Gonzaga  | Torvik +19.6 (3.9)  KenPom +17 (6.5)  | best +23.5 (-101) LowVig.ag
+  Tue 4:30PM  Notre Dame +15.5  vs Florida  | Torvik +10.4 (5.1)  KenPom +14 (1.5)  | best +16 (-111) LowVig.ag
+  Tue 7:00PM  Cleveland St. +33  vs Xavier  | Torvik +31.3 (1.7)  KenPom +29 (4.0)  | best +33.5 (-106) BetRivers
+  Tue 7:00PM  UCF +0.2  vs Mississippi St.  | Torvik -2.6 (2.9)  KenPom -2 (2.2)  | best +1.5 (-115) BetMGM  | Podcast: OPPOSES (2/2 agree Mississippi St.)
+  Tue 7:00PM  Sacred Heart +30  vs Providence  | Torvik +28.4 (1.6)  KenPom +25 (5.0)  | best +30.5 (-113) LowVig.ag
+  Tue 8:00PM  Maryland Eastern Shore +33.5  vs DePaul  | Torvik +31.6 (1.9)  KenPom +28 (5.5)  | best +33.5 (-115) FanDuel
+  Tue 8:00PM  Oral Roberts +26.5  vs SMU  | Torvik +24.2 (2.3)  KenPom +21 (5.5)  | best +27 (-115) Bovada
+  Tue 8:30PM  Eastern Washington +12.5  vs Utah  | Torvik +10.2 (2.3)  KenPom +11 (1.5)  | best +13 (-122) LowVig.ag  | Podcast: AGREES (2/2 agree Eastern Washington)
+  Tue 8:30PM  Sam Houston St. +11.5  vs Wyoming  | Torvik +7.7 (3.8)  KenPom +9 (2.5)  | best +11.5 (-101) LowVig.ag  | Podcast: OPPOSES (2/2 agree Wyoming)
+  Tue 9:00PM  Alabama St. +10.5  vs UC Davis  | Torvik +7.6 (2.9)  KenPom +8 (2.5)  | best +10.5 (-102) FanDuel  | Podcast: OPPOSES (2/2 agree UC Davis)
+  Tue 9:30PM  UNLV +18  vs Kansas  | Torvik +15.9 (2.1)  KenPom +15 (3.0)  | best +18.5 (-110) Bovada
+  Tue 10:00PM  Cal Baptist +9  vs Seattle  | Torvik +1.3 (7.7)  KenPom +7 (2.0)  | best +9.5 (-115) DraftKings
   Wed 12:00AM  Auburn +1  vs West Virginia  | Torvik -0.7 (1.7)  KenPom -0.9 (1.9)  | best +1.5 (-120) BetMGM
+
+PODCAST LOCKS (12)
+  2/2 agree Murray St. -11.5  (Tue 12:00PM)  | models: Torvik disagree 5.7, KenPom disagree 3.5
+  2/2 agree Liberty +1.5  (Tue 6:00PM)  | models: Torvik agree 3.5, KenPom agree 0.5
+  2/2 agree Mississippi St. -0.2  (Tue 7:00PM)  | models: Torvik disagree 2.9, KenPom disagree 2.2
+  2/2 agree Monmouth +14.5  (Tue 7:00PM)  | models: Torvik disagree 0.4, KenPom disagree 0.5
+  2/2 agree Villanova -1.2  (Tue 7:00PM)  | models: Torvik agree 0.6, KenPom disagree 2.2
+  2/2 agree Tennessee St. +11.5  (Tue 7:00PM)  | models: Torvik agree 0.3, KenPom agree 0.5
+  2/2 agree Kennesaw St. +25  (Tue 7:30PM)  | models: Torvik agree 1.7, KenPom agree 1.0
+  2/2 agree Illinois St. -18.5  (Tue 8:00PM)  | models: Torvik disagree 0.4, KenPom disagree 3.5
+  2/2 agree Eastern Washington +12.5  (Tue 8:30PM)  | models: Torvik agree 2.3, KenPom agree 1.5
+  2/2 agree Wyoming -11.5  (Tue 8:30PM)  | models: Torvik disagree 3.8, KenPom disagree 2.5
+  2/2 agree UC Davis -10.5  (Tue 9:00PM)  | models: Torvik disagree 2.9, KenPom disagree 2.5
+  2/2 agree Tennessee +3  (Tue 9:00PM)  | models: Torvik agree 2.3, KenPom disagree 1.0
 
 CONFERENCE GAMES WITH HOME UNDERDOG (0)
   None on today's slate.
