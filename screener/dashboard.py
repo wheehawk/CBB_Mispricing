@@ -88,7 +88,8 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
     th = cfg["thresholds"]
     star_edge = th.get("star_edge", 5.0)
     min_edge = th["min_single_model_edge"]
-    sp = lambda x: "—" if x is None else ("PK" if abs(x) < 0.25 else f"{round(x * 2) / 2:+.1f}".replace(".0", ""))  # market lines
+    sp = lambda x: "—" if x is None else ("PK" if round(x * 2) == 0 else f"{round(x * 2) / 2:+.1f}".replace(".0", ""))  # market lines
+    pr = lambda p: f"{p:+d}" if isinstance(p, int) else str(p)  # American price, e.g. +100 / -110
     mp = lambda x: "—" if x is None else f"{x:+.1f}"  # model lines keep one decimal
     tip = lambda r: r["start"].astimezone(tz).strftime("%a %-I:%M %p")
     ml = lambda x: "—" if x is None else f"{x:+d}"
@@ -127,7 +128,7 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
         lines = [f"{'★ ' if r.get('spread_star') else ''}{bold(team)} {sp(mkt)}",
                  f"   {opp(r, side)} · {tip(r)}"]
         if best:
-            lines.append(f"   Best {sp(best[0])} ({best[1]}) {best[2]}")
+            lines.append(f"   Best {sp(best[0])} ({pr(best[1])}) {best[2]}")
         lines.append(f"   Torvik {mp(tv)} (edge {abs(e['torvik']):.1f})")
         lines.append(f"   KenPom {mp(kp)} (edge {abs(e['kp']):.1f})")
         if pod:
