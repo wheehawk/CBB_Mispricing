@@ -176,6 +176,20 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
     yday = (now.astimezone(tz).date() - dt.timedelta(days=1)).isoformat()
     yd = [p for p in graded if p["game_date"] == yday]
     out += [rule, "📈 RESULTS", rule, f"Season: {w}-{l} · {units:+.2f}u"]
+
+    def rec(ps):
+        pw = sum(p["status"] == "win" for p in ps); pl = sum(p["status"] == "loss" for p in ps)
+        pp = sum(p["status"] == "push" for p in ps)
+        pct = f" ({100 * pw / (pw + pl):.0f}%)" if pw + pl else ""
+        return f"{pw}-{pl}" + (f"-{pp}" if pp else "") + pct + f" · {sum(float(p['units']) for p in ps):+.2f}u"
+
+    since = str(cfg["display"].get("results_since", "2026-11-15"))
+    sd = dt.date.fromisoformat(since).strftime("%-m/%-d/%Y")
+    recent = [p for p in graded if p["game_date"] >= since]
+    # GAS games = model plays the podcast also locked on the same side (podcast tag without "vs ").
+    gas_ps = [p for p in recent if p.get("podcast") and not p["podcast"].startswith("vs ")]
+    out.append(f"Since {sd}: {rec(recent)}")
+    out.append(f"GAS games since {sd}: {rec(gas_ps)}")
     if yd:
         yw = sum(p["status"] == "win" for p in yd); yl = sum(p["status"] == "loss" for p in yd)
         out.append(f"Yesterday: {yw}-{yl} · {sum(float(p['units']) for p in yd):+.2f}u")

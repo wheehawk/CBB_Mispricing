@@ -38,3 +38,5 @@ grading_price = -110
 [display]
 timezone = "America/New_York"
 title = "CBB Mispricing Screener"
+# The email's "Results since" and "GAS games since" records start on this date (rules changed Nov 15-17, 2026).
+results_since = "2026-11-15"
