@@ -1,6 +1,7 @@
 """Game Analysis Standard (GAS): the data behind the morning email's per-game write-ups.
 
-Which games: every play both models flag, plus every podcast "3/3 lock" (even if the models don't flag it).
+Which games: plays both models flag (the screener thresholds) that the podcast also locked on the same side
+(3/3 triple lock, 2/3 double lock, or 2/2 agree).
 The screener (GitHub, has the KenPom key) writes docs/gas_data.json with venue/TV, model lines, tempo,
 efficiencies and Four Factors. The morning Claude run then adds Torvik player usage leaders
 (`python3 -m screener.gas players`, Torvik blocks GitHub) and searches the web for injuries and the last
@@ -53,6 +54,13 @@ def _team(kp_detail: dict, name: str) -> dict:
     }
 
 
+def qualifies(r: dict) -> bool:
+    """GAS games: both models flag the play AND the podcast locked the same side (triple or double lock)."""
+    pod = r.get("podcast")
+    return bool(r.get("spread_flag") and pod and pod["side"] == r.get("spread_side")
+                and pod["category"] in ("3/3 lock", "2/3 lock", "2/2 agree"))
+
+
 def build(rows: list[dict], kp: dict, espn_events: list[dict], cfg: dict, now: dt.datetime) -> dict:
     from . import espn
 
@@ -61,11 +69,10 @@ def build(rows: list[dict], kp: dict, espn_events: list[dict], cfg: dict, now: d
     games = []
     for r in rows:
         pod = r.get("podcast")
-        flagged = bool(r.get("spread_flag"))
-        triple = bool(pod and pod["category"] == "3/3 lock")
-        if not (flagged or triple):
+        if not qualifies(r):
             continue
-        side = r.get("spread_side") if flagged else pod["side"]
+        flagged = True
+        side = r["spread_side"]
         team = r["torvik_home"] if side == "home" else r["torvik_away"]
         k = 1 if side == "home" else -1
         line = lambda m: None if m is None else _num(k * -m)
@@ -84,7 +91,7 @@ def build(rows: list[dict], kp: dict, espn_events: list[dict], cfg: dict, now: d
         ev = espn.match(espn_events, r["away"], r["home"]) if espn_events else None
         e = r.get("spread_edge") or {}
         games.append({
-            "id": r["id"], "priority": (0 if flagged and pod and pod["side"] == side else 1 if r.get("spread_star") else 2 if flagged else 3),
+            "id": r["id"], "priority": ({"3/3 lock": 0, "2/3 lock": 1}.get(pod["category"], 2), 0 if r.get("spread_star") else 1),
             "date": r["local_date"], "tip_et": r["start"].astimezone(tz).strftime("%a %b %-d, %-I:%M %p ET"),
             "away": r["torvik_away"], "home": r["torvik_home"], "neutral": r["neutral"],
             "venue": ({"name": ev["venue"], "city": ev["city"], "neutral": ev["neutral"], "tv": ev["tv"], "note": ev["note"]}

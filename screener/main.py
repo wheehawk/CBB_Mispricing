@@ -149,9 +149,9 @@ def main(argv=None) -> int:
     (ROOT / "docs" / "index.html").write_text(out)
     (ROOT / "docs" / "summary.txt").write_text(dashboard.text_summary(rows, picks, cfg, now, notes))
 
-    # 9. Game Analysis Standard data for the morning email (flagged plays + podcast triple locks)
+    # 9. Game Analysis Standard data for the morning email (model plays the podcast also locked)
     try:
-        gas_rows = [r for r in rows if r.get("spread_flag") or (r.get("podcast") or {}).get("category") == "3/3 lock"]
+        gas_rows = [r for r in rows if gas.qualifies(r)]
         ev = espn.fetch(sorted({dt.date.fromisoformat(r["local_date"]) for r in gas_rows}), log) if gas_rows else []
         gd = gas.build(rows, kp, ev, cfg, now)
         gas.write(gd)
