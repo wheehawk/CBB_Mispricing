@@ -1,251 +1,758 @@
 {
- "episodes": {
-  "2-5111-a485-1436a68fd5bf": {
-   "title": "College Basketball PICKS ONLY - Monday, November 16th | TCE Trims (Ep. 1232)",
-   "url": "https://www.sportsgamblingpodcast.com",
-   "episode_date": "2026-11-16",
-   "hosts": [
-    "Host",
-    "Mac",
-    "Elliot"
-   ],
-   "processed_utc": "2026-11-16T22:10+00:00",
-   "games": [
-    {
-     "date": "2026-11-16",
-     "away": "Richmond",
-     "home": "Virginia Tech",
-     "pick": "Richmond",
-     "category": "3/3 lock",
-     "hosts": [
-      "Mac",
-      "Host",
-      "Elliot"
-     ],
-     "line": "+13",
-     "quote": "[0:10:28] Triple lock. Good spiders."
+  "episodes": {
+    "2-5111-a485-1436a68fd5bf": {
+      "title": "College Basketball PICKS ONLY - Monday, November 16th | TCE Trims (Ep. 1232)",
+      "url": "https://www.sportsgamblingpodcast.com",
+      "episode_date": "2026-11-16",
+      "hosts": [
+        "Host",
+        "Mac",
+        "Elliot"
+      ],
+      "processed_utc": "2026-11-16T22:10+00:00",
+      "games": [
+        {
+          "date": "2026-11-16",
+          "away": "Richmond",
+          "home": "Virginia Tech",
+          "pick": "Richmond",
+          "category": "3/3 lock",
+          "hosts": [
+            "Mac",
+            "Host",
+            "Elliot"
+          ],
+          "line": "+13",
+          "quote": "[0:10:28] Triple lock. Good spiders."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Jacksonville",
+          "home": "Georgia",
+          "pick": "Jacksonville",
+          "category": "3/3 lock",
+          "hosts": [
+            "Host",
+            "Mac",
+            "Elliot"
+          ],
+          "line": "+23.5",
+          "quote": "[0:11:47] No, Triple Lock for me."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Eastern Kentucky",
+          "home": "Kent St.",
+          "pick": "Kent St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Host",
+            "Elliot",
+            "Mac"
+          ],
+          "line": "-10.5",
+          "quote": "[0:24:56] Triple lock."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Abilene Christian",
+          "home": "Missouri St.",
+          "pick": "Abilene Christian",
+          "category": "3/3 lock",
+          "hosts": [
+            "Mac",
+            "Host",
+            "Elliot"
+          ],
+          "line": "+7",
+          "quote": "[0:34:03] All right, triple lock here on Abilene Christian"
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Grambling St.",
+          "home": "Kentucky",
+          "pick": "Grambling St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Elliot",
+            "Host"
+          ],
+          "line": "+30.5",
+          "quote": "[0:19:31] Elliot myself on Grambling, Mac on Big Blue Nation (lock battle)"
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Tarleton St.",
+          "home": "Drake",
+          "pick": "Tarleton St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Elliot"
+          ],
+          "line": "+10",
+          "quote": "[0:28:33] Double lock."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Columbia",
+          "home": "Northwestern",
+          "pick": "Northwestern",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Elliot"
+          ],
+          "line": "-12",
+          "quote": "[0:38:49] I'm locking up Northwestern with Mac here as well."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "East Texas A&M",
+          "home": "Oregon St.",
+          "pick": "East Texas A&M",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Elliot"
+          ],
+          "line": "",
+          "quote": "[0:43:08] This is a double lock between Elliott [and] Mac."
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Portland St.",
+          "home": "Saint Mary's",
+          "pick": "Portland St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Host",
+            "Elliot"
+          ],
+          "line": "+18",
+          "quote": "[0:46:08] Now with the Vikings myself and Elliot (lock battle vs Mac)"
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Texas Southern",
+          "home": "UC San Diego",
+          "pick": "UC San Diego",
+          "category": "2/3 lock",
+          "hosts": [
+            "Host",
+            "Mac"
+          ],
+          "line": "-19",
+          "quote": "[0:48:56] I'm locking up the Tritons... [0:49:04] You're locking this? Yeah"
+        },
+        {
+          "date": "2026-11-16",
+          "away": "Western Kentucky",
+          "home": "Tulsa",
+          "pick": "Western Kentucky",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Elliot"
+          ],
+          "line": "+7.5",
+          "quote": "[0:27:05] me and Mac are two-stepping together on this one; both list WKU in best bets/dog"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Alcorn St. at Maryland",
+          "host": "Elliot",
+          "team": "Maryland",
+          "lock": true,
+          "quote": "[0:01:48] Elliot locking it up the Terps"
+        },
+        {
+          "game": "Florida A&M at UTEP",
+          "host": "Elliot",
+          "team": "Florida A&M",
+          "lock": true,
+          "quote": "[0:04:02] lock battle"
+        },
+        {
+          "game": "Florida A&M at UTEP",
+          "host": "Mac",
+          "team": "UTEP",
+          "lock": true,
+          "quote": "[0:04:02] lock battle"
+        },
+        {
+          "game": "Iona at UMBC",
+          "host": "Mac",
+          "team": "UMBC",
+          "lock": true,
+          "quote": "[0:05:28] Mac is locking it up"
+        },
+        {
+          "game": "Iona at UMBC",
+          "host": "Elliot",
+          "team": "Iona",
+          "lock": true,
+          "quote": "[0:06:41] So lock battle. Give me Iona."
+        },
+        {
+          "game": "Iona at UMBC",
+          "host": "Host",
+          "team": "UMBC",
+          "lock": false,
+          "quote": "[0:05:46] I'm not betting it"
+        },
+        {
+          "game": "St. Thomas at LIU",
+          "host": "Mac",
+          "team": "St. Thomas",
+          "lock": true,
+          "quote": "[0:21:23] I'm going to lock the Tommy's"
+        },
+        {
+          "game": "St. Thomas at LIU",
+          "host": "Elliot",
+          "team": "LIU",
+          "lock": true,
+          "quote": "[0:22:10] battling Mac, give me the Sharks"
+        },
+        {
+          "game": "Central Arkansas at Oklahoma St.",
+          "host": "Mac",
+          "team": "Oklahoma St.",
+          "lock": true,
+          "quote": "[0:29:57] Mac is locking the pokes"
+        },
+        {
+          "game": "Central Arkansas at Oklahoma St.",
+          "host": "Elliot",
+          "team": "Central Arkansas",
+          "lock": true,
+          "quote": "[0:31:29] lock battle between Elliot and Mac"
+        },
+        {
+          "game": "Western Kentucky at Tulsa",
+          "host": "Host",
+          "team": "Tulsa",
+          "lock": false,
+          "quote": "[0:26:55] the Golden Hurricane are my pick here"
+        }
+      ],
+      "unmatched": [],
+      "note": "Hand-processed during setup. Western Kentucky counted as a 2/3 lock from best-bet/dog mentions rather than an explicit 'lock'."
     },
-    {
-     "date": "2026-11-16",
-     "away": "Jacksonville",
-     "home": "Georgia",
-     "pick": "Jacksonville",
-     "category": "3/3 lock",
-     "hosts": [
-      "Host",
-      "Mac",
-      "Elliot"
-     ],
-     "line": "+23.5",
-     "quote": "[0:11:47] No, Triple Lock for me."
+    "3-58b3-ad9b-5c8e62f6669b": {
+      "title": "College Basketball Picks For November 16th - NCAA Basketball Banter & Best Bets (Ep. 1231)",
+      "episode_date": "2026-11-16",
+      "skipped": "same picks as 2-5111-a485-1436a68fd5bf",
+      "games": []
     },
-    {
-     "date": "2026-11-16",
-     "away": "Eastern Kentucky",
-     "home": "Kent St.",
-     "pick": "Kent St.",
-     "category": "3/3 lock",
-     "hosts": [
-      "Host",
-      "Elliot",
-      "Mac"
-     ],
-     "line": "-10.5",
-     "quote": "[0:24:56] Triple lock."
+    "2-50c1-8b27-d605180113a3": {
+      "title": "College Basketball Picks For November 17th - NCAA Basketball Banter & Best Bets (Ep. 1234)",
+      "url": "https://www.sportsgamblingpodcast.com/2026/11/16/college-basketball-picks-for-november-17th-ncaa-basketball-banter-best-bets-ep-1234/",
+      "episode_date": "2026-11-17",
+      "hosts": [
+        "Mac",
+        "Bieniek"
+      ],
+      "processed_utc": "2026-11-17T11:27:28+00:00",
+      "games": [
+        {
+          "date": "2026-11-17",
+          "away": "Hofstra",
+          "home": "Murray St.",
+          "pick": "Murray St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-11.5",
+          "quote": "[0:24:02] Murray's the loaded dude. This is a double lock here."
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Liberty",
+          "home": "Southern Illinois",
+          "pick": "Liberty",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-1.5",
+          "quote": "[0:30:44] I'm good to lock it if you are let's go double lock on the Flaming [Flames]"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Tennessee St.",
+          "home": "South Florida",
+          "pick": "Tennessee St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+11.5",
+          "quote": "[0:35:16] I'm locking the tigers here. I'm with you ... [0:35:58] double lock"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Villanova",
+          "home": "Pittsburgh",
+          "pick": "Villanova",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+1.5",
+          "quote": "[0:38:28] I'm with you one of my favorite bets of the day locking up Nova ... [0:38:41] Double lock"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Monmouth",
+          "home": "Wake Forest",
+          "pick": "Monmouth",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+14.5",
+          "quote": "[0:44:26] I'll lock Monmouth ... [0:44:43] I'll lock this up with you"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Mississippi St.",
+          "home": "UCF",
+          "pick": "Mississippi St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+1.5",
+          "quote": "[0:45:44] I like Miss State and I'm locking this too [0:45:50] Yeah double lock"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Kennesaw St.",
+          "home": "Alabama",
+          "pick": "Kennesaw St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+24.5",
+          "quote": "[0:55:56] should we bet Kennesaw? Yep ... [0:57:05] Come on Owls, let's do it. You already play the music."
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Bellarmine",
+          "home": "Illinois St.",
+          "pick": "Illinois St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-19.5",
+          "quote": "[1:04:28] Double lock the Redbirds"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Sam Houston St.",
+          "home": "Wyoming",
+          "pick": "Wyoming",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-12.5",
+          "quote": "[1:11:43] I'll lock up Wyoming [1:12:04] Go double lock"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Eastern Washington",
+          "home": "Utah",
+          "pick": "Eastern Washington",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+12.5",
+          "quote": "[1:12:31] give me Mundsen ... [1:12:44] Let's go double lock"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Alabama St.",
+          "home": "UC Davis",
+          "pick": "UC Davis",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-10.5",
+          "quote": "[1:14:05] I'll lay with UC Davis at home. I'm gonna lock it with you ... [1:14:31] Double lock on UC Davis"
+        },
+        {
+          "date": "2026-11-17",
+          "away": "Michigan St.",
+          "home": "Tennessee",
+          "pick": "Tennessee",
+          "category": "2/2 agree",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-2.5",
+          "quote": "[1:16:42] Thompson-Boling Arena gets it done. We double lock it"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Hofstra at Murray St.",
+          "host": "Mac",
+          "team": "Murray St.",
+          "lock": true,
+          "quote": "[0:24:02] Murray's the loaded dude. This is a double lock here."
+        },
+        {
+          "game": "Hofstra at Murray St.",
+          "host": "Bieniek",
+          "team": "Murray St.",
+          "lock": true,
+          "quote": "[0:24:02] Murray's the loaded dude. This is a double lock here."
+        },
+        {
+          "game": "Liberty at Southern Illinois",
+          "host": "Mac",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[0:30:44] I'm good to lock it if you are let's go double lock on the Flaming [Flames]"
+        },
+        {
+          "game": "Liberty at Southern Illinois",
+          "host": "Bieniek",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[0:30:44] I'm good to lock it if you are let's go double lock on the Flaming [Flames]"
+        },
+        {
+          "game": "Tennessee St. at South Florida",
+          "host": "Mac",
+          "team": "Tennessee St.",
+          "lock": true,
+          "quote": "[0:35:16] I'm locking the tigers here. I'm with you ... [0:35:58] double lock"
+        },
+        {
+          "game": "Tennessee St. at South Florida",
+          "host": "Bieniek",
+          "team": "Tennessee St.",
+          "lock": true,
+          "quote": "[0:35:16] I'm locking the tigers here. I'm with you ... [0:35:58] double lock"
+        },
+        {
+          "game": "Villanova at Pittsburgh",
+          "host": "Mac",
+          "team": "Villanova",
+          "lock": true,
+          "quote": "[0:38:28] I'm with you one of my favorite bets of the day locking up Nova ... [0:38:41] Double lock"
+        },
+        {
+          "game": "Villanova at Pittsburgh",
+          "host": "Bieniek",
+          "team": "Villanova",
+          "lock": true,
+          "quote": "[0:38:28] I'm with you one of my favorite bets of the day locking up Nova ... [0:38:41] Double lock"
+        },
+        {
+          "game": "Monmouth at Wake Forest",
+          "host": "Mac",
+          "team": "Monmouth",
+          "lock": true,
+          "quote": "[0:44:26] I'll lock Monmouth ... [0:44:43] I'll lock this up with you"
+        },
+        {
+          "game": "Monmouth at Wake Forest",
+          "host": "Bieniek",
+          "team": "Monmouth",
+          "lock": true,
+          "quote": "[0:44:26] I'll lock Monmouth ... [0:44:43] I'll lock this up with you"
+        },
+        {
+          "game": "Mississippi St. at UCF",
+          "host": "Mac",
+          "team": "Mississippi St.",
+          "lock": true,
+          "quote": "[0:45:44] I like Miss State and I'm locking this too [0:45:50] Yeah double lock"
+        },
+        {
+          "game": "Mississippi St. at UCF",
+          "host": "Bieniek",
+          "team": "Mississippi St.",
+          "lock": true,
+          "quote": "[0:45:44] I like Miss State and I'm locking this too [0:45:50] Yeah double lock"
+        },
+        {
+          "game": "Kennesaw St. at Alabama",
+          "host": "Mac",
+          "team": "Kennesaw St.",
+          "lock": true,
+          "quote": "[0:55:56] should we bet Kennesaw? Yep ... [0:57:05] Come on Owls, let's do it. You already play the music."
+        },
+        {
+          "game": "Kennesaw St. at Alabama",
+          "host": "Bieniek",
+          "team": "Kennesaw St.",
+          "lock": true,
+          "quote": "[0:55:56] should we bet Kennesaw? Yep ... [0:57:05] Come on Owls, let's do it. You already play the music."
+        },
+        {
+          "game": "Bellarmine at Illinois St.",
+          "host": "Mac",
+          "team": "Illinois St.",
+          "lock": true,
+          "quote": "[1:04:28] Double lock the Redbirds"
+        },
+        {
+          "game": "Bellarmine at Illinois St.",
+          "host": "Bieniek",
+          "team": "Illinois St.",
+          "lock": true,
+          "quote": "[1:04:28] Double lock the Redbirds"
+        },
+        {
+          "game": "Sam Houston St. at Wyoming",
+          "host": "Mac",
+          "team": "Wyoming",
+          "lock": true,
+          "quote": "[1:11:43] I'll lock up Wyoming [1:12:04] Go double lock"
+        },
+        {
+          "game": "Sam Houston St. at Wyoming",
+          "host": "Bieniek",
+          "team": "Wyoming",
+          "lock": true,
+          "quote": "[1:11:43] I'll lock up Wyoming [1:12:04] Go double lock"
+        },
+        {
+          "game": "Eastern Washington at Utah",
+          "host": "Mac",
+          "team": "Eastern Washington",
+          "lock": true,
+          "quote": "[1:12:31] give me Mundsen ... [1:12:44] Let's go double lock"
+        },
+        {
+          "game": "Eastern Washington at Utah",
+          "host": "Bieniek",
+          "team": "Eastern Washington",
+          "lock": true,
+          "quote": "[1:12:31] give me Mundsen ... [1:12:44] Let's go double lock"
+        },
+        {
+          "game": "Alabama St. at UC Davis",
+          "host": "Mac",
+          "team": "UC Davis",
+          "lock": true,
+          "quote": "[1:14:05] I'll lay with UC Davis at home. I'm gonna lock it with you ... [1:14:31] Double lock on UC Davis"
+        },
+        {
+          "game": "Alabama St. at UC Davis",
+          "host": "Bieniek",
+          "team": "UC Davis",
+          "lock": true,
+          "quote": "[1:14:05] I'll lay with UC Davis at home. I'm gonna lock it with you ... [1:14:31] Double lock on UC Davis"
+        },
+        {
+          "game": "Michigan St. at Tennessee",
+          "host": "Mac",
+          "team": "Tennessee",
+          "lock": true,
+          "quote": "[1:16:42] Thompson-Boling Arena gets it done. We double lock it"
+        },
+        {
+          "game": "Michigan St. at Tennessee",
+          "host": "Bieniek",
+          "team": "Tennessee",
+          "lock": true,
+          "quote": "[1:16:42] Thompson-Boling Arena gets it done. We double lock it"
+        },
+        {
+          "game": "Houston at Rutgers",
+          "host": "Mac",
+          "team": "Rutgers",
+          "lock": true,
+          "quote": "[0:26:38] lock battle; give me Rutgers too many points"
+        },
+        {
+          "game": "Houston at Rutgers",
+          "host": "Bieniek",
+          "team": "Houston",
+          "lock": true,
+          "quote": "[0:26:36] I like Houston. I'm laying it ... lock battle"
+        },
+        {
+          "game": "Notre Dame vs Florida",
+          "host": "Mac",
+          "team": "Notre Dame",
+          "lock": false,
+          "quote": "[0:27:16] I think I'm gonna go another dog"
+        },
+        {
+          "game": "Western Carolina at Butler",
+          "host": "Mac",
+          "team": "Western Carolina",
+          "lock": false,
+          "quote": "[0:34:53] kind of smell ... Western Carolina (parlay w/ Tennessee St.)"
+        },
+        {
+          "game": "Norfolk St. at Georgia Tech",
+          "host": "Mac",
+          "team": "Norfolk St.",
+          "lock": true,
+          "quote": "[0:38:05] Give me the spot in Norfolk State lock it up"
+        },
+        {
+          "game": "Cleveland St. at Xavier",
+          "host": "Bieniek",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[0:42:52] log it up Xavier"
+        },
+        {
+          "game": "East Tennessee St. at Marshall",
+          "host": "Bieniek",
+          "team": "Marshall",
+          "lock": true,
+          "quote": "[0:46:36] I'm locking Marshall"
+        },
+        {
+          "game": "East Tennessee St. at Marshall",
+          "host": "Mac",
+          "team": "Marshall",
+          "lock": false,
+          "quote": "[0:46:14] I think I like Marshall here at home"
+        },
+        {
+          "game": "Illinois at Duke",
+          "host": "Mac",
+          "team": "Illinois",
+          "lock": true,
+          "quote": "[0:48:57] single lock the Illini for me"
+        },
+        {
+          "game": "Illinois at Duke",
+          "host": "Bieniek",
+          "team": "Duke",
+          "lock": false,
+          "quote": "[0:48:56] Give me Duke no bet"
+        },
+        {
+          "game": "Fordham at Manhattan",
+          "host": "Mac",
+          "team": "Manhattan",
+          "lock": true,
+          "quote": "[0:50:15] lock it up Manhattan the Jaspers"
+        },
+        {
+          "game": "Bowling Green at William & Mary",
+          "host": "Mac",
+          "team": "William & Mary",
+          "lock": true,
+          "quote": "[0:52:56] I will lock William & Mary go Tribe"
+        },
+        {
+          "game": "Charlotte at Davidson",
+          "host": "Bieniek",
+          "team": "Davidson",
+          "lock": true,
+          "quote": "[0:55:13] I'm locking up the Wildcats"
+        },
+        {
+          "game": "Charlotte at Davidson",
+          "host": "Mac",
+          "team": "Charlotte",
+          "lock": false,
+          "quote": "[0:55:24] No bet for me. I think Charlotte"
+        },
+        {
+          "game": "Jacksonville St. at Louisiana Tech",
+          "host": "Bieniek",
+          "team": "Louisiana Tech",
+          "lock": true,
+          "quote": "[0:58:08] Oh, you're locking. Yeah"
+        },
+        {
+          "game": "Arkansas at Indiana",
+          "host": "Mac",
+          "team": "Arkansas",
+          "lock": true,
+          "quote": "[0:59:50] we'll do battle"
+        },
+        {
+          "game": "Arkansas at Indiana",
+          "host": "Bieniek",
+          "team": "Indiana",
+          "lock": true,
+          "quote": "[0:59:34] I'm on the Hoosiers ... this is a lock for me"
+        },
+        {
+          "game": "Maryland Eastern Shore at DePaul",
+          "host": "Bieniek",
+          "team": "Maryland Eastern Shore",
+          "lock": true,
+          "quote": "[1:06:18] lock it up Eastern Shore; best bet [1:25:44]"
+        },
+        {
+          "game": "Oral Roberts at SMU",
+          "host": "Mac",
+          "team": "SMU",
+          "lock": true,
+          "quote": "[1:08:32] Give me the Stangs ... That's the lock"
+        },
+        {
+          "game": "Nicholls St. at Mississippi",
+          "host": "Mac",
+          "team": "Mississippi",
+          "lock": true,
+          "quote": "[1:13:42] single lock, Hotty Toddy"
+        },
+        {
+          "game": "Kansas at UNLV",
+          "host": "Mac",
+          "team": "UNLV",
+          "lock": true,
+          "quote": "[1:18:10] I'm locking up Vegas"
+        },
+        {
+          "game": "Auburn at West Virginia",
+          "host": "Mac",
+          "team": "West Virginia",
+          "lock": true,
+          "quote": "[1:28:35] bonus lock midnight magic"
+        },
+        {
+          "game": "Auburn at West Virginia",
+          "host": "Bieniek",
+          "team": "Auburn",
+          "lock": true,
+          "quote": "Trims [0:16:11] I like the Tigers here ... lock battle"
+        }
+      ],
+      "unmatched": [],
+      "notes": "Only 2 hosts (Moneyline Mac and the College Baseball Experience host, 'B. Nick'/Bieniek; Colby out sick), so locks are 2/2 agree. Kennesaw St. counted as a joint bet with lock music (no explicit 'double lock' words)."
     },
-    {
-     "date": "2026-11-16",
-     "away": "Abilene Christian",
-     "home": "Missouri St.",
-     "pick": "Abilene Christian",
-     "category": "3/3 lock",
-     "hosts": [
-      "Mac",
-      "Host",
-      "Elliot"
-     ],
-     "line": "+7",
-     "quote": "[0:34:03] All right, triple lock here on Abilene Christian"
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Grambling St.",
-     "home": "Kentucky",
-     "pick": "Grambling St.",
-     "category": "2/3 lock",
-     "hosts": [
-      "Elliot",
-      "Host"
-     ],
-     "line": "+30.5",
-     "quote": "[0:19:31] Elliot myself on Grambling, Mac on Big Blue Nation (lock battle)"
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Tarleton St.",
-     "home": "Drake",
-     "pick": "Tarleton St.",
-     "category": "2/3 lock",
-     "hosts": [
-      "Mac",
-      "Elliot"
-     ],
-     "line": "+10",
-     "quote": "[0:28:33] Double lock."
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Columbia",
-     "home": "Northwestern",
-     "pick": "Northwestern",
-     "category": "2/3 lock",
-     "hosts": [
-      "Mac",
-      "Elliot"
-     ],
-     "line": "-12",
-     "quote": "[0:38:49] I'm locking up Northwestern with Mac here as well."
-    },
-    {
-     "date": "2026-11-16",
-     "away": "East Texas A&M",
-     "home": "Oregon St.",
-     "pick": "East Texas A&M",
-     "category": "2/3 lock",
-     "hosts": [
-      "Mac",
-      "Elliot"
-     ],
-     "line": "",
-     "quote": "[0:43:08] This is a double lock between Elliott [and] Mac."
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Portland St.",
-     "home": "Saint Mary's",
-     "pick": "Portland St.",
-     "category": "2/3 lock",
-     "hosts": [
-      "Host",
-      "Elliot"
-     ],
-     "line": "+18",
-     "quote": "[0:46:08] Now with the Vikings myself and Elliot (lock battle vs Mac)"
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Texas Southern",
-     "home": "UC San Diego",
-     "pick": "UC San Diego",
-     "category": "2/3 lock",
-     "hosts": [
-      "Host",
-      "Mac"
-     ],
-     "line": "-19",
-     "quote": "[0:48:56] I'm locking up the Tritons... [0:49:04] You're locking this? Yeah"
-    },
-    {
-     "date": "2026-11-16",
-     "away": "Western Kentucky",
-     "home": "Tulsa",
-     "pick": "Western Kentucky",
-     "category": "2/3 lock",
-     "hosts": [
-      "Mac",
-      "Elliot"
-     ],
-     "line": "+7.5",
-     "quote": "[0:27:05] me and Mac are two-stepping together on this one; both list WKU in best bets/dog"
+    "d-4ed1-9d50-7ba2f685e3fe": {
+      "title": "Players Era Futures and Best Bets - College Basketball Picks Today | TCE Trims (Ep. 1237)",
+      "episode_date": "2026-11-17",
+      "skipped": "same picks as 2-50c1-8b27-d605180113a3",
+      "games": []
     }
-   ],
-   "all_picks": [
-    {
-     "game": "Alcorn St. at Maryland",
-     "host": "Elliot",
-     "team": "Maryland",
-     "lock": true,
-     "quote": "[0:01:48] Elliot locking it up the Terps"
-    },
-    {
-     "game": "Florida A&M at UTEP",
-     "host": "Elliot",
-     "team": "Florida A&M",
-     "lock": true,
-     "quote": "[0:04:02] lock battle"
-    },
-    {
-     "game": "Florida A&M at UTEP",
-     "host": "Mac",
-     "team": "UTEP",
-     "lock": true,
-     "quote": "[0:04:02] lock battle"
-    },
-    {
-     "game": "Iona at UMBC",
-     "host": "Mac",
-     "team": "UMBC",
-     "lock": true,
-     "quote": "[0:05:28] Mac is locking it up"
-    },
-    {
-     "game": "Iona at UMBC",
-     "host": "Elliot",
-     "team": "Iona",
-     "lock": true,
-     "quote": "[0:06:41] So lock battle. Give me Iona."
-    },
-    {
-     "game": "Iona at UMBC",
-     "host": "Host",
-     "team": "UMBC",
-     "lock": false,
-     "quote": "[0:05:46] I'm not betting it"
-    },
-    {
-     "game": "St. Thomas at LIU",
-     "host": "Mac",
-     "team": "St. Thomas",
-     "lock": true,
-     "quote": "[0:21:23] I'm going to lock the Tommy's"
-    },
-    {
-     "game": "St. Thomas at LIU",
-     "host": "Elliot",
-     "team": "LIU",
-     "lock": true,
-     "quote": "[0:22:10] battling Mac, give me the Sharks"
-    },
-    {
-     "game": "Central Arkansas at Oklahoma St.",
-     "host": "Mac",
-     "team": "Oklahoma St.",
-     "lock": true,
-     "quote": "[0:29:57] Mac is locking the pokes"
-    },
-    {
-     "game": "Central Arkansas at Oklahoma St.",
-     "host": "Elliot",
-     "team": "Central Arkansas",
-     "lock": true,
-     "quote": "[0:31:29] lock battle between Elliot and Mac"
-    },
-    {
-     "game": "Western Kentucky at Tulsa",
-     "host": "Host",
-     "team": "Tulsa",
-     "lock": false,
-     "quote": "[0:26:55] the Golden Hurricane are my pick here"
-    }
-   ],
-   "unmatched": [],
-   "note": "Hand-processed during setup. Western Kentucky counted as a 2/3 lock from best-bet/dog mentions rather than an explicit 'lock'."
-  },
-  "3-58b3-ad9b-5c8e62f6669b": {
-   "title": "College Basketball Picks For November 16th - NCAA Basketball Banter & Best Bets (Ep. 1231)",
-   "episode_date": "2026-11-16",
-   "skipped": "same picks as 2-5111-a485-1436a68fd5bf",
-   "games": []
   }
- }
 }
