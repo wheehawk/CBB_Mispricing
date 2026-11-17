@@ -18,6 +18,8 @@ from pathlib import Path
 from urllib.parse import quote_plus
 from zoneinfo import ZoneInfo
 
+from .dashboard import bold  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "gas_data.json"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
@@ -104,7 +106,7 @@ def build(rows: list[dict], kp: dict, espn_events: list[dict], cfg: dict, now: d
             "venue": ({"name": ev["venue"], "city": ev["city"], "neutral": ev["neutral"], "tv": ev["tv"], "note": ev["note"]}
                       if ev else None),
             "home_arena_kenpom": _team(detail, r["torvik_home"]).get("arena"),
-            "pick": {"team": team, "side": side, "market_line": line(-r["spread"]) if r["spread"] is not None else None,
+            "pick": {"team": team, "team_bold": bold(team), "side": side, "market_line": line(-r["spread"]) if r["spread"] is not None else None,
                      "best": r.get("best_" + side)},
             "models": {"torvik_line": line(r["torvik_margin"]), "torvik_edge": _num(abs(e["torvik"])) if e.get("torvik") is not None else None,
                        "kenpom_line": line(r["kp_margin"]), "kenpom_edge": _num(abs(e["kp"])) if e.get("kp") is not None else None,
