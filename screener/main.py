@@ -64,7 +64,10 @@ def main(argv=None) -> int:
             log("ODDS_API_KEY is not set. Add it as a repository secret.")
             return 1
         oc = cfg["odds"]
-        raw = odds.fetch(key, oc["sport"], oc["regions"], oc["bookmakers"], log, cfg["thresholds"].get("markets", ["spread", "total"]))
+        mk = list(cfg["thresholds"].get("markets", ["spread", "total"]))
+        if oc.get("moneyline", False):
+            mk.append("moneyline")  # for the email's home-underdog list (+1 Odds API credit per run)
+        raw = odds.fetch(key, oc["sport"], oc["regions"], oc["bookmakers"], log, mk)
     horizon = now + dt.timedelta(hours=args.hours)
     events = [odds.summarize(e) for e in raw]
     events = [e for e in events if now < e["start"] <= horizon and (e["spread"] is not None or e["total"] is not None)]
@@ -110,6 +113,8 @@ def main(argv=None) -> int:
             "kp_margin": kpp["margin"] if kpp else None,
             "kp_total": kpp["total"] if kpp else None,
             "kp_source": kpp["source"] if kpp else None,
+            "conf_home": ((kp.get("detail") or {}).get("ratings", {}).get(th) or {}).get("ConfShort"),
+            "conf_away": ((kp.get("detail") or {}).get("ratings", {}).get(ta) or {}).get("ConfShort"),
         }
         rows.append(model.evaluate(row, cfg))
     rows.sort(key=lambda r: r["start"])

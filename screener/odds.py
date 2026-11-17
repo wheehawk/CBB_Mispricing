@@ -17,7 +17,7 @@ def fetch(api_key: str, sport: str, regions: str, bookmakers: list[str], log=pri
     params = {
         "apiKey": api_key,
         "regions": regions,
-        "markets": ",".join({"spread": "spreads", "total": "totals"}[m] for m in markets),
+        "markets": ",".join({"spread": "spreads", "total": "totals", "moneyline": "h2h"}[m] for m in markets),
         "oddsFormat": "american",
         "dateFormat": "iso",
     }
@@ -36,7 +36,7 @@ def fetch(api_key: str, sport: str, regions: str, bookmakers: list[str], log=pri
 def summarize(event: dict) -> dict:
     """Consensus (median) and best-available lines from the home team's perspective."""
     home, away = event["home_team"], event["away_team"]
-    home_spreads, totals = [], []
+    home_spreads, totals, ml_home, ml_away = [], [], [], []
     best_home = best_away = best_over = best_under = None  # (point, price, book)
     for bk in event.get("bookmakers", []):
         book = bk.get("title", bk.get("key"))
@@ -53,6 +53,11 @@ def summarize(event: dict) -> dict:
                     elif o["name"] == away:
                         if best_away is None or (pt, pr) > best_away[:2]:
                             best_away = (pt, pr, book)
+            elif mk["key"] == "h2h":
+                for o in mk["outcomes"]:
+                    if o.get("price") is None:
+                        continue
+                    (ml_home if o["name"] == home else ml_away if o["name"] == away else []).append(o["price"])
             elif mk["key"] == "totals":
                 for o in mk["outcomes"]:
                     pt, pr = o.get("point"), o.get("price")
@@ -74,6 +79,9 @@ def summarize(event: dict) -> dict:
         "books": len(event.get("bookmakers", [])),
         "spread": statistics.median(home_spreads) if home_spreads else None,  # home line, e.g. -5.5
         "total": statistics.median(totals) if totals else None,
+        # Moneylines: median across books (American odds), e.g. home +150 / away -180.
+        "ml_home": round(statistics.median(ml_home)) if ml_home else None,
+        "ml_away": round(statistics.median(ml_away)) if ml_away else None,
         "best_home": best_home,
         "best_away": best_away,
         "best_over": best_over,

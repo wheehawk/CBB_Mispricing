@@ -129,6 +129,17 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
                 models = f"  | models: Torvik {'agree' if agree(e['torvik']) else 'disagree'} {abs(e['torvik']):.1f}, KenPom {'agree' if agree(e['kp']) else 'disagree'} {abs(e['kp']):.1f}"
             out.append(f"  {pod['category']:9} {pod['team']} {sp(mkt)}  ({r['start'].astimezone(tz).strftime('%a %-I:%M%p')}){models}")
         out.append("")
+    ml = lambda x: "—" if x is None else f"{x:+d}"
+    dogs = [r for r in rows if r.get("conf_home") and r.get("conf_home") == r.get("conf_away") and not r.get("neutral")
+            and r.get("spread") is not None and r["spread"] > 0]
+    dogs.sort(key=lambda r: r["start"])
+    out.append(f"CONFERENCE GAMES WITH HOME UNDERDOG ({len(dogs)})")
+    for r in dogs:
+        out.append(f"  {r['start'].astimezone(tz).strftime('%a %-I:%M%p')}  {r['torvik_away']} at {r['torvik_home']} ({r['conf_home']})"
+                   f"  | spread: {r['torvik_home']} {sp(r['spread'])}  | ML: {r['torvik_away']} {ml(r.get('ml_away'))}, {r['torvik_home']} {ml(r.get('ml_home'))}")
+    if not dogs:
+        out.append("  None on today's slate.")
+    out.append("")
     if notes:
         out.append("Notes:")
         out += [f"  - {n}" for n in notes]

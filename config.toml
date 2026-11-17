@@ -30,6 +30,8 @@ sport = "basketball_ncaab"
 regions = "us"
 # Leave empty for all books in the region, or list keys like ["draftkings","fanduel"].
 bookmakers = []
+# Also pull moneylines (for the email's "conference games with home underdog" list). Costs 1 extra credit per run.
+moneyline = true
 # Assumed price when grading units (American odds).
 grading_price = -110
 
