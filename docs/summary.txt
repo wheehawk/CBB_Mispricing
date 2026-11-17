@@ -1,0 +1,31 @@
+CBB Mispricing Screener — Mon Nov 16, 10:10 PM ET
+Dashboard: https://wheehawk.github.io/CBB_Mispricing/
+
+Season: 68-77, -15.19 units
+Yesterday: 7-3, +3.36 units
+  WIN  Niagara +39  (45-66)
+  WIN  Holy Cross +3.5  (62-60)
+  LOSS William & Mary +30.5  (79-123)
+  WIN  Coastal Carolina +30  (81-89)
+  LOSS Florida A&M +19  (46-79)
+  WIN  New Hampshire +22.5  (55-67)
+  WIN  Creighton +4.5  (70-69)
+  LOSS Arkansas Pine Bluff +44.5  (46-122)
+  WIN  Central Connecticut +8.5  (67-72)
+  WIN  Alabama St. +13.5  (68-80)
+
+PLAYS (13) — both models 1.5+ pts off the line, * = both 3+
+* Tue 12:00PM  Hofstra +12  vs Murray St.  | Torvik +5.8 (6.2)  KenPom +8.3 (3.7)  | best +12.5 (-115) DraftKings
+* Tue 2:00PM  Rutgers +17.5  vs Houston  | Torvik +11.2 (6.3)  KenPom +14.4 (3.1)  | best +17.5 (-106) LowVig.ag
+* Tue 8:00PM  Eastern Illinois +43.5  vs Vanderbilt  | Torvik +36.4 (7.1)  KenPom +39.3 (4.2)  | best +44.5 (-110) FanDuel
+* Tue 8:30PM  Nicholls St. +30.5  vs Mississippi  | Torvik +26.2 (4.3)  KenPom +24.8 (5.7)  | best +30.5 (-102) FanDuel
+* Tue 11:00PM  Montana St. +23.5  vs Gonzaga  | Torvik +19.6 (3.9)  KenPom +17.3 (6.2)  | best +23.5 (-106) LowVig.ag
+  Tue 4:30PM  Notre Dame +15.5  vs Florida  | Torvik +10.5 (5.0)  KenPom +13.8 (1.7)  | best +15.5 (-106) LowVig.ag
+  Tue 7:00PM  Cleveland St. +34  vs Xavier  | Torvik +31.3 (2.7)  KenPom +28.5 (5.5)  | best +34.5 (-110) BetMGM
+  Tue 7:30PM  Kennesaw St. +25.5  vs Alabama  | Torvik +23.4 (2.1)  KenPom +23.4 (2.1)  | best +25.5 (-106) LowVig.ag
+  Tue 8:00PM  Maryland Eastern Shore +33.5  vs DePaul  | Torvik +31.7 (1.8)  KenPom +26.3 (7.2)  | best +34.5 (-110) FanDuel
+  Tue 8:00PM  Oral Roberts +26.5  vs SMU  | Torvik +24.1 (2.4)  KenPom +21.5 (5.0)  | best +27.5 (-106) LowVig.ag
+  Tue 8:30PM  Eastern Washington +12  vs Utah  | Torvik +10.3 (1.7)  KenPom +9.8 (2.2)  | best +12.5 (-108) BetRivers
+  Tue 8:30PM  Sam Houston St. +11.5  vs Wyoming  | Torvik +7.7 (3.8)  KenPom +9.4 (2.1)  | best +11.5 (-101) LowVig.ag
+  Tue 10:00PM  Cal Baptist +8.5  vs Seattle  | Torvik +1.3 (7.2)  KenPom +6.8 (1.7)  | best +8.5 (-110) FanDuel
+
