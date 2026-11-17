@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-17T11:27+00:00",
+ "generated_utc": "2026-11-17T13:42+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -26,6 +26,7 @@
    "home_arena_kenpom": "Huntsman Center, Salt Lake City, UT",
    "pick": {
     "team": "Eastern Washington",
+    "team_bold": "\ud835\udc04\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc27 \ud835\udc16\ud835\udc1a\ud835\udc2c\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2d\ud835\udc28\ud835\udc27",
     "side": "away",
     "market_line": 12.5,
     "best": [
@@ -64,6 +65,7 @@
    "teams": {
     "away": {
      "name": "Eastern Washington",
+     "kenpom_url": "https://kenpom.com/team.php?team=Eastern+Washington",
      "record": "1-3",
      "coach": "Dan Monson",
      "conf": "BSky",
@@ -124,6 +126,7 @@
     },
     "home": {
      "name": "Utah",
+     "kenpom_url": "https://kenpom.com/team.php?team=Utah",
      "record": "3-0",
      "coach": "Alex Jensen",
      "conf": "B12",
