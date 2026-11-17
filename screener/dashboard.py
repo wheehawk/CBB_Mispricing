@@ -100,7 +100,10 @@ def text_summary(rows: list[dict], picks: list[dict], cfg: dict, now: dt.datetim
         return (k * r["spread"] if r["spread"] is not None else None), f(r["torvik_margin"]), f(r["kp_margin"])
 
     def opp(r, side):
-        return (f"at {r['torvik_home']}" if side == "away" else f"vs {r['torvik_away']}") + (" (neutral)" if r.get("neutral") else "")
+        other = r["torvik_home"] if side == "away" else r["torvik_away"]
+        if r.get("neutral"):
+            return f"vs {other} (neutral)"
+        return f"at {other}" if side == "away" else f"vs {other} (home)"
 
     plays = [r for r in rows if r.get("spread_flag")]
     agree = lambda r: bool(r.get("podcast")) and r["podcast"]["side"] == r["spread_side"]
