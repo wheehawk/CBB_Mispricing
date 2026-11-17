@@ -1,33 +1,33 @@
-CBB Mispricing Screener — Mon Nov 16, 10:25 PM ET
+CBB Mispricing Screener — Tue Nov 17, 12:03 AM ET
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
-Season: 68-77, -15.19 units
-Yesterday: 7-3, +3.36 units
-  WIN  Niagara +39  (45-66)
-  WIN  Holy Cross +3.5  (62-60)
-  LOSS William & Mary +30.5  (79-123)
-  WIN  Coastal Carolina +30  (81-89)
-  LOSS Florida A&M +19  (46-79)
-  WIN  New Hampshire +22.5  (55-67)
-  WIN  Creighton +4.5  (70-69)
-  LOSS Arkansas Pine Bluff +44.5  (46-122)
-  WIN  Central Connecticut +8.5  (67-72)
-  WIN  Alabama St. +13.5  (68-80)
+Season: 71-80, -15.46 units
+Yesterday: 3-4, -1.27 units
+  LOSS Florida A&M +18.5  (46-79)
+  WIN  Prairie View A&M +33.5  (59-86)
+  WIN  Tarleton St. +10.5  (83-79)  [podcast: 2/3 lock]
+  LOSS Abilene Christian +6.5  (64-73)  [podcast: 3/3 lock]
+  PUSH Western Illinois +36  (63-99)
+  WIN  Southeastern Louisiana +34.5  (69-101)
+  LOSS Alcorn St. +34.5  (57-117)
+  LOSS East Texas A&M +16.5  (71-109)  [podcast: 2/3 lock]
 
-PLAYS (13) — both models 1.5+ pts off the line, * = both 3+
+PLAYS (15) — both models 1.5+ pts off the line, * = both 3+
 * Tue 12:00PM  Hofstra +11.5  vs Murray St.  | Torvik +5.8 (5.7)  KenPom +8.3 (3.2)  | best +12 (-106) LowVig.ag
-* Tue 8:00PM  Eastern Illinois +43.5  vs Vanderbilt  | Torvik +36.4 (7.1)  KenPom +39.3 (4.2)  | best +44.5 (-107) BetRivers
-* Tue 8:30PM  Nicholls St. +30.5  vs Mississippi  | Torvik +26.2 (4.3)  KenPom +24.8 (5.7)  | best +30.5 (-102) FanDuel
-* Tue 11:00PM  Montana St. +23.5  vs Gonzaga  | Torvik +19.6 (3.9)  KenPom +17.3 (6.2)  | best +23.5 (-106) LowVig.ag
-  Tue 2:00PM  Rutgers +17  vs Houston  | Torvik +11.2 (5.8)  KenPom +14.4 (2.6)  | best +17.5 (-115) DraftKings
+* Tue 8:00PM  Eastern Illinois +44  vs Vanderbilt  | Torvik +36.4 (7.6)  KenPom +39.3 (4.7)  | best +44.5 (-118) BetMGM
+* Tue 8:30PM  Nicholls St. +30.5  vs Mississippi  | Torvik +26.1 (4.4)  KenPom +24.8 (5.7)  | best +30.5 (-102) FanDuel
+* Tue 11:00PM  Montana St. +23.5  vs Gonzaga  | Torvik +19.5 (4.0)  KenPom +17.3 (6.2)  | best +23.5 (-101) LowVig.ag
+  Tue 2:00PM  Rutgers +16.5  vs Houston  | Torvik +11.1 (5.4)  KenPom +14.4 (2.1)  | best +16.5 (-105) BetRivers
+  Tue 4:30PM  Notre Dame +15.5  vs Florida  | Torvik +10.4 (5.1)  KenPom +13.8 (1.7)  | best +16.5 (-116) LowVig.ag
   Tue 7:00PM  Cleveland St. +34  vs Xavier  | Torvik +31.3 (2.7)  KenPom +28.5 (5.5)  | best +34.5 (-110) BetMGM
-  Tue 7:00PM  Sacred Heart +30.5  vs Providence  | Torvik +28.5 (2.0)  KenPom +25.5 (5.0)  | best +30.5 (-113) LowVig.ag
-  Tue 7:30PM  Kennesaw St. +25.5  vs Alabama  | Torvik +23.4 (2.1)  KenPom +23.4 (2.1)  | best +25.5 (-106) LowVig.ag
-  Tue 8:00PM  Maryland Eastern Shore +33.5  vs DePaul  | Torvik +31.7 (1.8)  KenPom +26.3 (7.2)  | best +34.5 (-110) FanDuel
-  Tue 8:00PM  Oral Roberts +26.5  vs SMU  | Torvik +24.1 (2.4)  KenPom +21.6 (4.9)  | best +27.5 (-106) LowVig.ag
-  Tue 8:30PM  Eastern Washington +12  vs Utah  | Torvik +10.3 (1.7)  KenPom +9.8 (2.2)  | best +12.5 (-108) BetRivers
+  Tue 7:00PM  Sacred Heart +30.5  vs Providence  | Torvik +28.4 (2.1)  KenPom +25.5 (5.0)  | best +30.5 (-113) LowVig.ag
+  Tue 7:30PM  Kennesaw St. +25  vs Alabama  | Torvik +23.3 (1.7)  KenPom +23.4 (1.6)  | best +25.5 (-106) BetRivers
+  Tue 8:00PM  Maryland Eastern Shore +33.5  vs DePaul  | Torvik +31.6 (1.9)  KenPom +26.3 (7.2)  | best +34.5 (-110) FanDuel
+  Tue 8:00PM  Oral Roberts +26.5  vs SMU  | Torvik +24.2 (2.3)  KenPom +21.6 (4.9)  | best +27 (-115) Bovada
+  Tue 8:30PM  Eastern Washington +12.2  vs Utah  | Torvik +10.2 (2.0)  KenPom +9.6 (2.6)  | best +12.5 (-108) BetRivers
   Tue 8:30PM  Sam Houston St. +11.5  vs Wyoming  | Torvik +7.7 (3.8)  KenPom +9.4 (2.1)  | best +11.5 (-101) LowVig.ag
-  Tue 10:00PM  Cal Baptist +8.5  vs Seattle  | Torvik +1.3 (7.2)  KenPom +6.8 (1.7)  | best +8.5 (-110) FanDuel
+  Tue 10:00PM  Cal Baptist +9  vs Seattle  | Torvik +1.3 (7.7)  KenPom +6.7 (2.3)  | best +9.5 (-110) FanDuel
+  Wed 12:00AM  Auburn +1  vs West Virginia  | Torvik -0.7 (1.7)  KenPom -0.9 (1.9)  | best +1.5 (-120) BetMGM
 
 CONFERENCE GAMES WITH HOME UNDERDOG (0)
   None on today's slate.
