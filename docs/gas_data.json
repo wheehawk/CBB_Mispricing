@@ -1,6 +1,747 @@
 {
- "generated_utc": "2026-11-18T04:17+00:00",
+ "generated_utc": "2026-11-18T11:25+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "a5a44801fd94ef0aebd452621ac7d5fa",
+   "priority": [
+    2,
+    0
+   ],
+   "date": "2026-11-18",
+   "tip_et": "Wed Nov 18, 9:00 PM ET",
+   "away": "Bethune Cookman",
+   "home": "Creighton",
+   "neutral": false,
+   "venue": {
+    "name": "CHI Health Center Omaha",
+    "city": "Omaha, NE",
+    "neutral": false,
+    "tv": [
+     "truTV"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "CHI Health Center Omaha, Omaha, NE",
+   "pick": {
+    "team": "Bethune Cookman",
+    "team_bold": "\ud835\udc01\ud835\udc1e\ud835\udc2d\ud835\udc21\ud835\udc2e\ud835\udc27\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc28\ud835\udc24\ud835\udc26\ud835\udc1a\ud835\udc27",
+    "side": "away",
+    "market_line": 23.5,
+    "best": [
+     23.5,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 18.5,
+    "torvik_edge": 5.0,
+    "kenpom_line": 18.0,
+    "kenpom_edge": 5.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 155.4,
+    "kenpom_total": 152.0,
+    "market_total": null,
+    "torvik_tempo": 71.6,
+    "kenpom_tempo": 71.0,
+    "kenpom_home_win_prob": 94.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "Bethune Cookman",
+    "hosts": [
+     "Colby",
+     "Bieniek"
+    ],
+    "line": "+23.5",
+    "label": "2/2 agree: Bethune Cookman"
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "Bethune Cookman",
+     "kenpom_url": "https://kenpom.com/team.php?team=Bethune+Cookman",
+     "record": "1-4",
+     "coach": "Reggie Theus",
+     "conf": "SWAC",
+     "arena": "Moore Gym, Daytona Beach, FL",
+     "ratings": {
+      "AdjEM": -3.7611,
+      "RankAdjEM": 195,
+      "AdjOE": 104.663,
+      "RankAdjOE": 202,
+      "AdjDE": 108.424,
+      "RankAdjDE": 196,
+      "AdjTempo": 70.8231,
+      "RankAdjTempo": 123,
+      "SOS": 19.1521,
+      "RankSOS": 10,
+      "Luck": -0.0001
+     },
+     "four_factors": {
+      "eFG_Pct": 48.8938,
+      "RankeFG_Pct": 216,
+      "TO_Pct": 20.1809,
+      "RankTO_Pct": 269,
+      "OR_Pct": 28.0303,
+      "RankOR_Pct": 258,
+      "FT_Rate": 39.823,
+      "RankFT_Rate": 131,
+      "DeFG_Pct": 58.0718,
+      "RankDeFG_Pct": 331,
+      "DTO_Pct": 17.0494,
+      "RankDTO_Pct": 216,
+      "DOR_Pct": 33.5938,
+      "RankDOR_Pct": 228,
+      "DFT_Rate": 52.9148,
+      "RankDFT_Rate": 339
+     },
+     "shooting": {
+      "FG3Pct": 37.6623,
+      "RankFG3Pct": 61,
+      "FG2Pct": 44.9664,
+      "FTPct": 70,
+      "F3GRate": 34.0708,
+      "RankF3GRate": 306,
+      "OppFG3Pct": 35.4839,
+      "RankOppFG3Pct": 258,
+      "BlockPct": 6.9231,
+      "StlRate": 0.0974,
+      "ARate": 37.5
+     },
+     "size": {
+      "AvgHgt": 77.4,
+      "AvgHgtRank": 186,
+      "HgtEff": -0.66,
+      "Exp": 2.0567,
+      "ExpRank": 63,
+      "Bench": 42.93,
+      "Continuity": 0.1713
+     }
+    },
+    "home": {
+     "name": "Creighton",
+     "kenpom_url": "https://kenpom.com/team.php?team=Creighton",
+     "record": "3-1",
+     "coach": "Alan Huss",
+     "conf": "BE",
+     "arena": "CHI Health Center Omaha, Omaha, NE",
+     "ratings": {
+      "AdjEM": 16.5469,
+      "RankAdjEM": 51,
+      "AdjOE": 115.069,
+      "RankAdjOE": 60,
+      "AdjDE": 98.5221,
+      "RankAdjDE": 44,
+      "AdjTempo": 70.7659,
+      "RankAdjTempo": 126,
+      "SOS": 0.3888,
+      "RankSOS": 168,
+      "Luck": 0.019
+     },
+     "four_factors": {
+      "eFG_Pct": 50.4,
+      "RankeFG_Pct": 175,
+      "TO_Pct": 16.8658,
+      "RankTO_Pct": 145,
+      "OR_Pct": 34.1936,
+      "RankOR_Pct": 133,
+      "FT_Rate": 31.6,
+      "RankFT_Rate": 247,
+      "DeFG_Pct": 51.6827,
+      "RankDeFG_Pct": 207,
+      "DTO_Pct": 27.4069,
+      "RankDTO_Pct": 3,
+      "DOR_Pct": 28.0992,
+      "RankDOR_Pct": 99,
+      "DFT_Rate": 35.0962,
+      "RankDFT_Rate": 167
+     },
+     "shooting": {
+      "FG3Pct": 32.0611,
+      "RankFG3Pct": 188,
+      "FG2Pct": 52.9412,
+      "FTPct": 74.6835,
+      "F3GRate": 52.4,
+      "RankF3GRate": 17,
+      "OppFG3Pct": 32.7103,
+      "RankOppFG3Pct": 193,
+      "BlockPct": 9.901,
+      "StlRate": 0.1511,
+      "ARate": 58.0952
+     },
+     "size": {
+      "AvgHgt": 77.5,
+      "AvgHgtRank": 168,
+      "HgtEff": 0.77,
+      "Exp": 1.6794,
+      "ExpRank": 117,
+      "Bench": 37.22,
+      "Continuity": 0.2472
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "6152e11ee0f51c9e31b75aeecad708c3",
+   "priority": [
+    2,
+    1
+   ],
+   "date": "2026-11-18",
+   "tip_et": "Wed Nov 18, 7:00 PM ET",
+   "away": "North Carolina Central",
+   "home": "George Mason",
+   "neutral": false,
+   "venue": {
+    "name": "EagleBank Arena",
+    "city": "Fairfax, VA",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "EagleBank Arena, Fairfax, VA",
+   "pick": {
+    "team": "North Carolina Central",
+    "team_bold": "\ud835\udc0d\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc21 \ud835\udc02\ud835\udc1a\ud835\udc2b\ud835\udc28\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc02\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc25",
+    "side": "away",
+    "market_line": 26.5,
+    "best": [
+     27.0,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 23.6,
+    "torvik_edge": 2.9,
+    "kenpom_line": 19.0,
+    "kenpom_edge": 7.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 135.1,
+    "kenpom_total": 133.0,
+    "market_total": null,
+    "torvik_tempo": 64.4,
+    "kenpom_tempo": 65.0,
+    "kenpom_home_win_prob": 95.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "North Carolina Central",
+    "hosts": [
+     "Colby",
+     "Bieniek"
+    ],
+    "line": "+26.5",
+    "label": "2/2 agree: North Carolina Central"
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "North Carolina Central",
+     "kenpom_url": "https://kenpom.com/team.php?team=North+Carolina+Central",
+     "record": "1-4",
+     "coach": "LeVelle Moton",
+     "conf": "MEAC",
+     "arena": "McLendon-McDougald Gymnasium, Durham, NC",
+     "ratings": {
+      "AdjEM": -17.2204,
+      "RankAdjEM": 344,
+      "AdjOE": 95.3731,
+      "RankAdjOE": 343,
+      "AdjDE": 112.593,
+      "RankAdjDE": 306,
+      "AdjTempo": 67.2388,
+      "RankAdjTempo": 325,
+      "SOS": 4.6197,
+      "RankSOS": 117,
+      "Luck": -0.013
+     },
+     "four_factors": {
+      "eFG_Pct": 45.5128,
+      "RankeFG_Pct": 289,
+      "TO_Pct": 18.2158,
+      "RankTO_Pct": 200,
+      "OR_Pct": 26.8456,
+      "RankOR_Pct": 282,
+      "FT_Rate": 26.0684,
+      "RankFT_Rate": 324,
+      "DeFG_Pct": 52.3504,
+      "RankDeFG_Pct": 229,
+      "DTO_Pct": 16.7585,
+      "RankDTO_Pct": 230,
+      "DOR_Pct": 29.7872,
+      "RankDOR_Pct": 146,
+      "DFT_Rate": 34.188,
+      "RankDFT_Rate": 150
+     },
+     "shooting": {
+      "FG3Pct": 26.5625,
+      "RankFG3Pct": 317,
+      "FG2Pct": 47.6471,
+      "FTPct": 67.2131,
+      "F3GRate": 27.3504,
+      "RankF3GRate": 362,
+      "OppFG3Pct": 35.2381,
+      "RankOppFG3Pct": 254,
+      "BlockPct": 13.9535,
+      "StlRate": 0.0911,
+      "ARate": 42.8571
+     },
+     "size": {
+      "AvgHgt": 78.54,
+      "AvgHgtRank": 37,
+      "HgtEff": 1.31,
+      "Exp": 0.5137,
+      "ExpRank": 347,
+      "Bench": 32.6,
+      "Continuity": 0.0295
+     }
+    },
+    "home": {
+     "name": "George Mason",
+     "kenpom_url": "https://kenpom.com/team.php?team=George+Mason",
+     "record": "3-1",
+     "coach": "Tony Skinn",
+     "conf": "A10",
+     "arena": "EagleBank Arena, Fairfax, VA",
+     "ratings": {
+      "AdjEM": 5.7852,
+      "RankAdjEM": 108,
+      "AdjOE": 108.034,
+      "RankAdjOE": 140,
+      "AdjDE": 102.249,
+      "RankAdjDE": 88,
+      "AdjTempo": 66.6854,
+      "RankAdjTempo": 341,
+      "SOS": -13.109,
+      "RankSOS": 343,
+      "Luck": -0.1089
+     },
+     "four_factors": {
+      "eFG_Pct": 49.7674,
+      "RankeFG_Pct": 193,
+      "TO_Pct": 17.6766,
+      "RankTO_Pct": 186,
+      "OR_Pct": 33.5878,
+      "RankOR_Pct": 145,
+      "FT_Rate": 45.5814,
+      "RankFT_Rate": 64,
+      "DeFG_Pct": 43.3486,
+      "RankDeFG_Pct": 39,
+      "DTO_Pct": 20.3093,
+      "RankDTO_Pct": 82,
+      "DOR_Pct": 21.0145,
+      "RankDOR_Pct": 3,
+      "DFT_Rate": 23.3945,
+      "RankDFT_Rate": 15
+     },
+     "shooting": {
+      "FG3Pct": 31.4286,
+      "RankFG3Pct": 204,
+      "FG2Pct": 51.0345,
+      "FTPct": 74.4898,
+      "F3GRate": 32.5581,
+      "RankF3GRate": 323,
+      "OppFG3Pct": 33.7209,
+      "RankOppFG3Pct": 214,
+      "BlockPct": 6.8182,
+      "StlRate": 0.1015,
+      "ARate": 50
+     },
+     "size": {
+      "AvgHgt": 78.03,
+      "AvgHgtRank": 83,
+      "HgtEff": -0.1,
+      "Exp": 2.0211,
+      "ExpRank": 72,
+      "Bench": 30.3,
+      "Continuity": 0.1026
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "86586898f0efe3edb5f5e176c8b12f3b",
+   "priority": [
+    2,
+    1
+   ],
+   "date": "2026-11-18",
+   "tip_et": "Wed Nov 18, 7:30 PM ET",
+   "away": "Youngstown St.",
+   "home": "Cincinnati",
+   "neutral": false,
+   "venue": {
+    "name": "Fifth Third Arena (OH)",
+    "city": "Cincinnati, OH",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Fifth Third Arena, Cincinnati, OH",
+   "pick": {
+    "team": "Youngstown St.",
+    "team_bold": "\ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc20\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc30\ud835\udc27 \ud835\udc12\ud835\udc2d.",
+    "side": "away",
+    "market_line": 27.5,
+    "best": [
+     28.0,
+     -109,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 25.7,
+    "torvik_edge": 1.8,
+    "kenpom_line": 23.0,
+    "kenpom_edge": 4.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 151.2,
+    "kenpom_total": 151.0,
+    "market_total": null,
+    "torvik_tempo": 71.4,
+    "kenpom_tempo": 72.0,
+    "kenpom_home_win_prob": 98.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "Youngstown St.",
+    "hosts": [
+     "Colby",
+     "Bieniek"
+    ],
+    "line": "+27.5",
+    "label": "2/2 agree: Youngstown St."
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "Youngstown St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Youngstown+St.",
+     "record": "2-2",
+     "coach": "Ethan Faulkner",
+     "conf": "Horz",
+     "arena": "Beeghly Center, Youngstown, OH",
+     "ratings": {
+      "AdjEM": -4.7302,
+      "RankAdjEM": 207,
+      "AdjOE": 104.992,
+      "RankAdjOE": 191,
+      "AdjDE": 109.722,
+      "RankAdjDE": 243,
+      "AdjTempo": 71.366,
+      "RankAdjTempo": 89,
+      "SOS": 5.293,
+      "RankSOS": 104,
+      "Luck": 0.1701
+     },
+     "four_factors": {
+      "eFG_Pct": 49.7872,
+      "RankeFG_Pct": 191,
+      "TO_Pct": 17.528,
+      "RankTO_Pct": 172,
+      "OR_Pct": 29.2208,
+      "RankOR_Pct": 242,
+      "FT_Rate": 44.6809,
+      "RankFT_Rate": 74,
+      "DeFG_Pct": 51.7621,
+      "RankDeFG_Pct": 211,
+      "DTO_Pct": 18.5591,
+      "RankDTO_Pct": 141,
+      "DOR_Pct": 35.3846,
+      "RankDOR_Pct": 268,
+      "DFT_Rate": 51.9824,
+      "RankDFT_Rate": 334
+     },
+     "shooting": {
+      "FG3Pct": 32.3232,
+      "RankFG3Pct": 180,
+      "FG2Pct": 50.7353,
+      "FTPct": 59.0476,
+      "F3GRate": 42.1277,
+      "RankF3GRate": 164,
+      "OppFG3Pct": 30,
+      "RankOppFG3Pct": 115,
+      "BlockPct": 1.2739,
+      "StlRate": 0.0894,
+      "ARate": 53.4653
+     },
+     "size": {
+      "AvgHgt": 75.9,
+      "AvgHgtRank": 355,
+      "HgtEff": -0.51,
+      "Exp": 0.7676,
+      "ExpRank": 318,
+      "Bench": 34.09,
+      "Continuity": 0.05
+     }
+    },
+    "home": {
+     "name": "Cincinnati",
+     "kenpom_url": "https://kenpom.com/team.php?team=Cincinnati",
+     "record": "3-1",
+     "coach": "Jerrod Calhoun",
+     "conf": "B12",
+     "arena": "Fifth Third Arena, Cincinnati, OH",
+     "ratings": {
+      "AdjEM": 21.5651,
+      "RankAdjEM": 28,
+      "AdjOE": 115.669,
+      "RankAdjOE": 53,
+      "AdjDE": 94.1036,
+      "RankAdjDE": 19,
+      "AdjTempo": 70.3729,
+      "RankAdjTempo": 146,
+      "SOS": 1.4167,
+      "RankSOS": 155,
+      "Luck": -0.15
+     },
+     "four_factors": {
+      "eFG_Pct": 54.4898,
+      "RankeFG_Pct": 88,
+      "TO_Pct": 16.6275,
+      "RankTO_Pct": 131,
+      "OR_Pct": 35.5556,
+      "RankOR_Pct": 111,
+      "FT_Rate": 28.9796,
+      "RankFT_Rate": 289,
+      "DeFG_Pct": 46.6667,
+      "RankDeFG_Pct": 94,
+      "DTO_Pct": 24.2183,
+      "RankDTO_Pct": 26,
+      "DOR_Pct": 28.2443,
+      "RankDOR_Pct": 106,
+      "DFT_Rate": 36.6667,
+      "RankDFT_Rate": 194
+     },
+     "shooting": {
+      "FG3Pct": 32.4074,
+      "RankFG3Pct": 177,
+      "FG2Pct": 59.1241,
+      "FTPct": 69.0141,
+      "F3GRate": 44.0816,
+      "RankF3GRate": 122,
+      "OppFG3Pct": 28.2828,
+      "RankOppFG3Pct": 77,
+      "BlockPct": 16.2162,
+      "StlRate": 0.141,
+      "ARate": 63.7931
+     },
+     "size": {
+      "AvgHgt": 78.19,
+      "AvgHgtRank": 62,
+      "HgtEff": 0.82,
+      "Exp": 2.546,
+      "ExpRank": 10,
+      "Bench": 41.96,
+      "Continuity": 0
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "2d82f6779bd0ff45a95caa0215ae9be7",
+   "priority": [
+    2,
+    1
+   ],
+   "date": "2026-11-18",
+   "tip_et": "Wed Nov 18, 9:00 PM ET",
+   "away": "Portland",
+   "home": "Colorado",
+   "neutral": false,
+   "venue": {
+    "name": "CU Events Center",
+    "city": "Boulder, CO",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "CU Events Center, Boulder, CO",
+   "pick": {
+    "team": "Portland",
+    "team_bold": "\ud835\udc0f\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc25\ud835\udc1a\ud835\udc27\ud835\udc1d",
+    "side": "away",
+    "market_line": 14.5,
+    "best": [
+     15.0,
+     -115,
+     "Bovada"
+    ]
+   },
+   "models": {
+    "torvik_line": 11.0,
+    "torvik_edge": 3.5,
+    "kenpom_line": 13.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 152.5,
+    "kenpom_total": 151.0,
+    "market_total": null,
+    "torvik_tempo": 71.9,
+    "kenpom_tempo": 72.0,
+    "kenpom_home_win_prob": 87.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/2 agree",
+    "side": "away",
+    "team": "Portland",
+    "hosts": [
+     "Colby",
+     "Bieniek"
+    ],
+    "line": "+14.5",
+    "label": "2/2 agree: Portland"
+   },
+   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
+   "teams": {
+    "away": {
+     "name": "Portland",
+     "kenpom_url": "https://kenpom.com/team.php?team=Portland",
+     "record": "3-2",
+     "coach": "Shantay Legans",
+     "conf": "WCC",
+     "arena": "Chiles Center, Portland, OR",
+     "ratings": {
+      "AdjEM": -3.2422,
+      "RankAdjEM": 186,
+      "AdjOE": 106.051,
+      "RankAdjOE": 169,
+      "AdjDE": 109.293,
+      "RankAdjDE": 227,
+      "AdjTempo": 70.9914,
+      "RankAdjTempo": 109,
+      "SOS": -3.6115,
+      "RankSOS": 233,
+      "Luck": -0.1503
+     },
+     "four_factors": {
+      "eFG_Pct": 57.9114,
+      "RankeFG_Pct": 37,
+      "TO_Pct": 23.6166,
+      "RankTO_Pct": 345,
+      "OR_Pct": 23.8095,
+      "RankOR_Pct": 318,
+      "FT_Rate": 55.0633,
+      "RankFT_Rate": 22,
+      "DeFG_Pct": 51.9608,
+      "RankDeFG_Pct": 219,
+      "DTO_Pct": 15.4581,
+      "RankDTO_Pct": 277,
+      "DOR_Pct": 31.405,
+      "RankDOR_Pct": 185,
+      "DFT_Rate": 30.3922,
+      "RankDFT_Rate": 93
+     },
+     "shooting": {
+      "FG3Pct": 40.9836,
+      "RankFG3Pct": 24,
+      "FG2Pct": 55.6701,
+      "FTPct": 72.4138,
+      "F3GRate": 38.6076,
+      "RankF3GRate": 234,
+      "OppFG3Pct": 38.2022,
+      "RankOppFG3Pct": 317,
+      "BlockPct": 6.9565,
+      "StlRate": 0.0687,
+      "ARate": 51.8987
+     },
+     "size": {
+      "AvgHgt": 77.98,
+      "AvgHgtRank": 91,
+      "HgtEff": -0.01,
+      "Exp": 1.6913,
+      "ExpRank": 115,
+      "Bench": 25.16,
+      "Continuity": 0.2493
+     }
+    },
+    "home": {
+     "name": "Colorado",
+     "kenpom_url": "https://kenpom.com/team.php?team=Colorado",
+     "record": "2-2",
+     "coach": "Tad Boyle",
+     "conf": "B12",
+     "arena": "CU Events Center, Boulder, CO",
+     "ratings": {
+      "AdjEM": 9.2578,
+      "RankAdjEM": 93,
+      "AdjOE": 108.614,
+      "RankAdjOE": 130,
+      "AdjDE": 99.3567,
+      "RankAdjDE": 49,
+      "AdjTempo": 70.9789,
+      "RankAdjTempo": 111,
+      "SOS": 4.964,
+      "RankSOS": 113,
+      "Luck": -0.0826
+     },
+     "four_factors": {
+      "eFG_Pct": 54.0724,
+      "RankeFG_Pct": 95,
+      "TO_Pct": 21.2914,
+      "RankTO_Pct": 304,
+      "OR_Pct": 26.7717,
+      "RankOR_Pct": 285,
+      "FT_Rate": 36.1991,
+      "RankFT_Rate": 187,
+      "DeFG_Pct": 47.0464,
+      "RankDeFG_Pct": 105,
+      "DTO_Pct": 19.5462,
+      "RankDTO_Pct": 102,
+      "DOR_Pct": 29.1391,
+      "RankDOR_Pct": 131,
+      "DFT_Rate": 33.7553,
+      "RankDFT_Rate": 142
+     },
+     "shooting": {
+      "FG3Pct": 40.2174,
+      "RankFG3Pct": 33,
+      "FG2Pct": 49.6124,
+      "FTPct": 71.25,
+      "F3GRate": 41.629,
+      "RankF3GRate": 173,
+      "OppFG3Pct": 30.2083,
+      "RankOppFG3Pct": 123,
+      "BlockPct": 9.9291,
+      "StlRate": 0.1082,
+      "ARate": 58.4158
+     },
+     "size": {
+      "AvgHgt": 77.35,
+      "AvgHgtRank": 202,
+      "HgtEff": -0.75,
+      "Exp": 2.0337,
+      "ExpRank": 71,
+      "Bench": 25.16,
+      "Continuity": 0.3656
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
