@@ -1,22 +1,22 @@
 🏀 CBB SCREENER · Wed Nov 18
-19 plays · 3 with podcast lock · 0 conf home dogs
+24 plays · 4 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
 🔥 TOP PLAYS — models + podcast lock
 ────────────────────────
-𝐘𝐨𝐮𝐧𝐠𝐬𝐭𝐨𝐰𝐧 𝐒𝐭. +28
+𝐘𝐨𝐮𝐧𝐠𝐬𝐭𝐨𝐰𝐧 𝐒𝐭. +28.5
    at Cincinnati · Wed 7:30 PM
-   Best +28.5 (-108) BetRivers
-   Torvik +25.7 (edge 2.6)
-   KenPom +23.0 (edge 5.2)
+   Best +29 (-101) LowVig.ag
+   Torvik +25.7 (edge 2.8)
+   KenPom +23.0 (edge 5.5)
    🎙 Podcast AGREES: 2/2 agree Youngstown St.
 
-★ 𝐁𝐞𝐭𝐡𝐮𝐧𝐞 𝐂𝐨𝐨𝐤𝐦𝐚𝐧 +23.5
+★ 𝐁𝐞𝐭𝐡𝐮𝐧𝐞 𝐂𝐨𝐨𝐤𝐦𝐚𝐧 +24
    at Creighton · Wed 9:00 PM
-   Best +23.5 (-102) FanDuel
-   Torvik +18.5 (edge 5.0)
-   KenPom +18.0 (edge 5.5)
+   Best +24.5 (-118) BetMGM
+   Torvik +18.5 (edge 5.5)
+   KenPom +18.0 (edge 6.0)
    🎙 Podcast AGREES: 2/2 agree Bethune Cookman
 
 𝐏𝐨𝐫𝐭𝐥𝐚𝐧𝐝 +14.5
@@ -26,15 +26,40 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
    KenPom +13.0 (edge 1.5)
    🎙 Podcast AGREES: 2/2 agree Portland
 
+𝐂𝐨𝐥𝐨𝐫𝐚𝐝𝐨 𝐒𝐭. -12.5
+   vs North Dakota St. (home) · Wed 9:00 PM
+   Best -12.5 (-105) Bovada
+   Torvik -14.4 (edge 1.9)
+   KenPom -14.0 (edge 1.5)
+   🎙 Podcast AGREES: 2/2 agree Colorado St.
+
 ────────────────────────
-📊 OTHER PLAYS (16)
+📊 OTHER PLAYS (20)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐍𝐞𝐰 𝐎𝐫𝐥𝐞𝐚𝐧𝐬 +36
+★ 𝐖𝐢𝐧𝐭𝐡𝐫𝐨𝐩 +4
+   vs Chattanooga (home) · Wed 6:30 PM
+   Best +4.5 (-118) BetRivers
+   Torvik -2.6 (edge 6.6)
+   KenPom +1.0 (edge 3.0)
+
+★ 𝐏𝐞𝐧𝐧 𝐒𝐭. -17
+   vs IU Indy (home) · Wed 6:30 PM
+   Best -16.5 (-112) DraftKings
+   Torvik -22.6 (edge 5.9)
+   KenPom -20.0 (edge 3.2)
+
+★ 𝐕𝐞𝐫𝐦𝐨𝐧𝐭 +7.5
+   at Yale · Wed 7:00 PM
+   Best +7.5 (-102) FanDuel
+   Torvik +3.3 (edge 4.2)
+   KenPom +4.0 (edge 3.5)
+
+★ 𝐍𝐞𝐰 𝐎𝐫𝐥𝐞𝐚𝐧𝐬 +35.5
    at Texas Tech · Wed 7:30 PM
-   Best +36.5 (-114) BetRivers
-   Torvik +29.1 (edge 6.7)
-   KenPom +30.0 (edge 5.8)
+   Best +36 (-115) Bovada
+   Torvik +29.1 (edge 6.4)
+   KenPom +30.0 (edge 5.5)
 
 ★ 𝐀𝐫𝐤𝐚𝐧𝐬𝐚𝐬 𝐏𝐢𝐧𝐞 𝐁𝐥𝐮𝐟𝐟 +28.5
    at Arkansas St. · Wed 8:00 PM
@@ -50,15 +75,15 @@ Both models 1.5+ off · ★ = both 3+
 
 ★ 𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 𝐌𝐨𝐧𝐫𝐨𝐞 +37.5
    at LSU · Wed 8:00 PM
-   Best +37.5 (-101) LowVig.ag
+   Best +37.5 (-106) LowVig.ag
    Torvik +33.0 (edge 4.5)
    KenPom +29.0 (edge 8.5)
 
-★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +41
+★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +40.5
    at Missouri · Wed 9:00 PM
-   Best +41.5 (-114) FanDuel
-   Torvik +36.2 (edge 4.8)
-   KenPom +31.0 (edge 10.0)
+   Best +41 (-111) LowVig.ag
+   Torvik +36.2 (edge 4.3)
+   KenPom +31.0 (edge 9.5)
 
 ★ 𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 +10.5
    at San Francisco · Wed 10:00 PM
@@ -66,23 +91,35 @@ Both models 1.5+ off · ★ = both 3+
    Torvik +6.1 (edge 4.4)
    KenPom +5.0 (edge 5.5)
 
-𝐖𝐢𝐧𝐭𝐡𝐫𝐨𝐩 +3.5
-   vs Chattanooga (home) · Wed 6:30 PM
-   Best +4.5 (-117) BetRivers
-   Torvik -2.7 (edge 6.2)
-   KenPom +1.0 (edge 2.5)
+★ 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐔𝐭𝐚𝐡 +38.5
+   at Texas · Thu 8:00 PM
+   Best +38.5 (-101) LowVig.ag
+   Torvik +29.6 (edge 8.9)
+   KenPom +30.2 (edge 8.3)
 
-𝐏𝐞𝐧𝐧 𝐒𝐭. -17.5
-   vs IU Indy (home) · Wed 6:30 PM
-   Best -17 (-115) Bovada
-   Torvik -22.6 (edge 5.1)
-   KenPom -20.0 (edge 2.5)
+★ 𝐒𝐞𝐭𝐨𝐧 𝐇𝐚𝐥𝐥 +5.5
+   vs Wisconsin (neutral) · Thu 8:30 PM
+   Best +5.5 (-106) LowVig.ag
+   Torvik +1.9 (edge 3.6)
+   KenPom +2.0 (edge 3.5)
+
+★ 𝐓𝐚𝐫𝐥𝐞𝐭𝐨𝐧 𝐒𝐭. +27
+   at USC · Thu 11:00 PM
+   Best +27 (+107) LowVig.ag
+   Torvik +20.1 (edge 6.9)
+   KenPom +23.1 (edge 3.9)
 
 𝐔𝐍𝐂 𝐀𝐬𝐡𝐞𝐯𝐢𝐥𝐥𝐞 +3.5
    vs Tennessee Tech (home) · Wed 6:30 PM
    Best +3.5 (-107) BetRivers
    Torvik -0.6 (edge 4.1)
    KenPom +2.0 (edge 1.5)
+
+𝐂𝐡𝐚𝐫𝐥𝐞𝐬𝐭𝐨𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 +0.5
+   vs Wofford (home) · Wed 7:00 PM
+   Best +1.5 (-105) BetMGM
+   Torvik -1.0 (edge 1.5)
+   KenPom -2.0 (edge 2.5)
 
 𝐅𝐥𝐨𝐫𝐢𝐝𝐚 𝐀𝐭𝐥𝐚𝐧𝐭𝐢𝐜 -6.5
    vs Florida Gulf Coast (home) · Wed 7:00 PM
@@ -91,29 +128,17 @@ Both models 1.5+ off · ★ = both 3+
    KenPom -8.0 (edge 1.5)
    🎙 Podcast OPPOSES: 2/2 agree Florida Gulf Coast
 
-𝐌𝐨𝐫𝐞𝐡𝐞𝐚𝐝 𝐒𝐭. +16.5
+𝐌𝐨𝐫𝐞𝐡𝐞𝐚𝐝 𝐒𝐭. +16
    at Ohio · Wed 7:00 PM
-   Best +16.5 (-110) LowVig.ag
-   Torvik +11.9 (edge 4.6)
-   KenPom +14.0 (edge 2.5)
-
-𝐕𝐞𝐫𝐦𝐨𝐧𝐭 +7
-   at Yale · Wed 7:00 PM
-   Best +7 (-101) LowVig.ag
-   Torvik +3.2 (edge 3.5)
-   KenPom +4.0 (edge 2.8)
+   Best +16.5 (-115) DraftKings
+   Torvik +11.9 (edge 4.1)
+   KenPom +14.0 (edge 2.0)
 
 𝐎𝐚𝐤𝐥𝐚𝐧𝐝 +22.5
    at Arizona St. · Wed 9:00 PM
-   Best +22.5 (-105) Bovada
+   Best +23.5 (-120) BetRivers
    Torvik +20.6 (edge 1.9)
    KenPom +17.0 (edge 5.5)
-
-𝐅𝐫𝐞𝐬𝐧𝐨 𝐒𝐭. +6.5
-   at San Jose St. · Wed 9:00 PM
-   Best +6.5 (-112) DraftKings
-   Torvik +4.1 (edge 2.4)
-   KenPom +5.0 (edge 1.5)
 
 𝐔𝐍𝐋𝐕 +9.5
    vs Auburn (neutral) · Wed 10:00 PM
@@ -123,27 +148,30 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐂𝐚𝐥 𝐒𝐭. 𝐅𝐮𝐥𝐥𝐞𝐫𝐭𝐨𝐧 +31.5
    at UCLA · Wed 10:30 PM
-   Best +32.5 (-118) BetRivers
+   Best +31.5 (-108) LowVig.ag
    Torvik +28.9 (edge 2.6)
    KenPom +27.0 (edge 4.5)
 
-────────────────────────
-🎙 PODCAST LOCKS (12)
-────────────────────────
-2/2 agree: Houston +1.5
-   Wed 4:30 PM · models: Torvik +1.8, KenPom +0.5
+𝐒𝐚𝐜𝐫𝐚𝐦𝐞𝐧𝐭𝐨 𝐒𝐭. +16.5
+   at Stanford · Thu 10:00 PM
+   Best +16.5 (-106) LowVig.ag
+   Torvik +11.2 (edge 5.3)
+   KenPom +14.7 (edge 1.8)
 
+────────────────────────
+🎙 PODCAST LOCKS (11)
+────────────────────────
 2/2 agree: Florida Gulf Coast +6.5
    Wed 7:00 PM · ❌ models on other side
 
 2/2 agree: North Carolina Central +23
    Wed 7:00 PM · models: Torvik -0.6, KenPom +4.0
 
-2/2 agree: Youngstown St. +28
+2/2 agree: Youngstown St. +28.5
    Wed 7:30 PM · ✅ models agree
 
-2/2 agree: Boston College -3.5
-   Wed 8:00 PM · models: Torvik -3.8, KenPom +1.5
+2/2 agree: Boston College -4.5
+   Wed 8:00 PM · models: Torvik -4.8, KenPom +0.5
 
 2/2 agree: Syracuse -18.5
    Wed 8:00 PM · models: Torvik +2.3, KenPom -1.5
@@ -154,14 +182,14 @@ Both models 1.5+ off · ★ = both 3+
 2/2 agree: Arizona -3.5
    Wed 9:00 PM · models: Torvik -0.1, KenPom -0.5
 
-2/2 agree: Bethune Cookman +23.5
+2/2 agree: Bethune Cookman +24
    Wed 9:00 PM · ✅ models agree
 
 2/2 agree: Portland +14.5
    Wed 9:00 PM · ✅ models agree
 
-2/2 agree: Colorado St. -13.5
-   Wed 9:00 PM · models: Torvik +0.9, KenPom +0.5
+2/2 agree: Colorado St. -12.5
+   Wed 9:00 PM · ✅ models agree
 
 2/2 agree: Idaho +18.5
    Wed 10:00 PM · models: Torvik +3.7, KenPom +0.5
@@ -174,8 +202,8 @@ None on today's slate.
 ────────────────────────
 📈 RESULTS
 ────────────────────────
-Season: 85-93 · -15.73u
-Since 11/15/2026: 24-20-1 (55%) · +1.82u
+Season: 85-95 · -17.73u
+Since 11/15/2026: 24-22-1 (52%) · -0.18u
 GAS games since 11/17/2026: 2-0 (100%) · +1.82u
 Yesterday: 14-11 · +1.73u
 ❌ Hofstra +10 (66-82) · 🎙 vs 2/2 agree
