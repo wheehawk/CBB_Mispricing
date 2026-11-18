@@ -1,179 +1,166 @@
 🏀 CBB SCREENER · Tue Nov 17
-21 plays · 2 with podcast lock · 0 conf home dogs
+26 plays · 0 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-🔥 TOP PLAYS — models + podcast lock
-────────────────────────
-𝐊𝐞𝐧𝐧𝐞𝐬𝐚𝐰 𝐒𝐭. +25.5
-   at Alabama · Tue 7:30 PM
-   Best +25.5 (-105) FanDuel
-   Torvik +23.3 (edge 2.2)
-   KenPom +24.0 (edge 1.5)
-   🎙 Podcast AGREES: 2/2 agree Kennesaw St.
-
-𝐄𝐚𝐬𝐭𝐞𝐫𝐧 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 +13
-   at Utah · Tue 8:30 PM
-   Best +13.5 (-118) BetMGM
-   Torvik +10.2 (edge 2.6)
-   KenPom +11.0 (edge 1.8)
-   🎙 Podcast AGREES: 2/2 agree Eastern Washington
-
-────────────────────────
-📊 OTHER PLAYS (19)
+📊 PLAYS (26)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐒𝐚𝐦 𝐇𝐨𝐮𝐬𝐭𝐨𝐧 𝐒𝐭. +12
-   at Wyoming · Tue 8:30 PM
-   Best +12.5 (-115) FanDuel
-   Torvik +7.7 (edge 4.3)
-   KenPom +9.0 (edge 3.0)
-   🎙 Podcast OPPOSES: 2/2 agree Wyoming
+★ 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐒𝐭. +34.5
+   at Baylor · Wed 12:00 PM
+   Best +34.5 (+100) LowVig.ag
+   Torvik +26.9 (edge 7.6)
+   KenPom +26.4 (edge 8.1)
 
-★ 𝐀𝐥𝐚𝐛𝐚𝐦𝐚 𝐒𝐭. +12.5
-   at UC Davis · Tue 9:00 PM
-   Best +12.5 (-106) LowVig.ag
-   Torvik +7.6 (edge 4.9)
-   KenPom +8.0 (edge 4.5)
-   🎙 Podcast OPPOSES: 2/2 agree UC Davis
+★ 𝐂𝐡𝐚𝐫𝐥𝐞𝐬𝐭𝐨𝐧 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 +3.5
+   vs Wofford (home) · Wed 7:00 PM
+   Best +3.5 (+101) LowVig.ag
+   Torvik -1.0 (edge 4.5)
+   KenPom -3.3 (edge 6.8)
 
-★ 𝐍𝐨𝐫𝐭𝐡𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 +29.5
+★ 𝐍𝐨𝐫𝐭𝐡𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 +29
    at Marquette · Wed 7:30 PM
-   Best +29.5 (+109) LowVig.ag
-   Torvik +26.0 (edge 3.5)
-   KenPom +22.3 (edge 7.2)
+   Best +30.5 (-125) BetRivers
+   Torvik +26.0 (edge 3.2)
+   KenPom +22.2 (edge 7.1)
+
+★ 𝐍𝐞𝐰 𝐎𝐫𝐥𝐞𝐚𝐧𝐬 +34.5
+   at Texas Tech · Wed 7:30 PM
+   Best +34.5 (-115) DraftKings
+   Torvik +29.1 (edge 5.4)
+   KenPom +29.3 (edge 5.2)
 
 ★ 𝐂𝐚𝐦𝐩𝐛𝐞𝐥𝐥 +23.5
    at Oklahoma · Wed 8:00 PM
-   Best +23.5 (+104) LowVig.ag
-   Torvik +20.2 (edge 3.3)
-   KenPom +18.8 (edge 4.7)
+   Best +24.5 (-136) BetRivers
+   Torvik +20.3 (edge 3.2)
+   KenPom +18.9 (edge 4.6)
 
-★ 𝐎𝐚𝐤𝐥𝐚𝐧𝐝 +25
+★ 𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 𝐌𝐨𝐧𝐫𝐨𝐞 +36.5
+   at LSU · Wed 8:00 PM
+   Best +36.5 (-106) LowVig.ag
+   Torvik +33.0 (edge 3.5)
+   KenPom +30.1 (edge 6.4)
+
+★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +45
+   at Missouri · Wed 9:00 PM
+   Best +45.5 (-118) BetMGM
+   Torvik +36.3 (edge 8.7)
+   KenPom +31.1 (edge 13.9)
+
+★ 𝐎𝐚𝐤𝐥𝐚𝐧𝐝 +24.5
    at Arizona St. · Wed 9:00 PM
-   Best +25 (-106) LowVig.ag
-   Torvik +20.5 (edge 4.5)
-   KenPom +17.6 (edge 7.4)
+   Best +25.5 (-116) LowVig.ag
+   Torvik +20.5 (edge 4.0)
+   KenPom +17.5 (edge 7.0)
 
-★ 𝐏𝐨𝐫𝐭𝐥𝐚𝐧𝐝 +15.5
-   at Colorado · Wed 9:00 PM
-   Best +15.5 (-104) LowVig.ag
-   Torvik +11.1 (edge 4.4)
-   KenPom +12.2 (edge 3.3)
+★ 𝐁𝐞𝐭𝐡𝐮𝐧𝐞 𝐂𝐨𝐨𝐤𝐦𝐚𝐧 +23.5
+   at Creighton · Wed 9:00 PM
+   Best +23.5 (-106) LowVig.ag
+   Torvik +18.5 (edge 5.0)
+   KenPom +17.6 (edge 5.9)
+
+★ 𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 +10.5
+   at San Francisco · Wed 10:00 PM
+   Best +10.5 (-106) LowVig.ag
+   Torvik +6.1 (edge 4.4)
+   KenPom +5.8 (edge 4.7)
 
 ★ 𝐂𝐚𝐥 𝐒𝐭. 𝐅𝐮𝐥𝐥𝐞𝐫𝐭𝐨𝐧 +34.5
    at UCLA · Wed 10:30 PM
    Best +34.5 (-106) LowVig.ag
    Torvik +28.9 (edge 5.6)
-   KenPom +26.3 (edge 8.2)
+   KenPom +26.2 (edge 8.3)
 
-𝐌𝐚𝐫𝐢𝐬𝐭 +1.5
-   at Army · Tue 6:00 PM
-   Best +1.5 (-108) LowVig.ag
-   Torvik -4.0 (edge 5.5)
-   KenPom -1.0 (edge 2.5)
+𝐑𝐮𝐭𝐠𝐞𝐫𝐬 +3.5
+   vs Notre Dame (neutral) · Wed 2:00 PM
+   Best +3.5 (-110) DraftKings
+   Torvik +1.4 (edge 2.1)
+   KenPom +1.2 (edge 2.3)
 
-𝐒𝐚𝐜𝐫𝐞𝐝 𝐇𝐞𝐚𝐫𝐭 +30.5
-   at Providence · Tue 7:00 PM
-   Best +31.5 (-115) BetRivers
-   Torvik +28.4 (edge 2.1)
-   KenPom +25.0 (edge 5.5)
+𝐇𝐨𝐮𝐬𝐭𝐨𝐧 +2
+   vs Florida (neutral) · Wed 4:30 PM
+   Best +2.5 (-115) DraftKings
+   Torvik -0.3 (edge 2.3)
+   KenPom -0.4 (edge 2.4)
 
-𝐌𝐚𝐬𝐬𝐚𝐜𝐡𝐮𝐬𝐞𝐭𝐭𝐬 -9.5
-   vs Bryant (home) · Tue 7:30 PM
-   Best -9.5 (-115) FanDuel
-   Torvik -12.9 (edge 3.4)
-   KenPom -12.0 (edge 2.5)
+𝐃𝐞𝐭𝐫𝐨𝐢𝐭 𝐌𝐞𝐫𝐜𝐲 +12
+   at Eastern Michigan · Wed 6:30 PM
+   Best +12.5 (-129) BetRivers
+   Torvik +9.6 (edge 2.4)
+   KenPom +10.5 (edge 1.5)
 
-𝐂𝐚𝐥 𝐁𝐚𝐩𝐭𝐢𝐬𝐭 +8.5
-   vs Seattle (home) · Tue 10:00 PM
-   Best +9 (-111) LowVig.ag
-   Torvik +1.3 (edge 7.2)
-   KenPom +7.0 (edge 1.5)
+𝐏𝐞𝐧𝐧 𝐒𝐭. -17.5
+   vs IU Indy (home) · Wed 6:30 PM
+   Best -17.5 (+100) LowVig.ag
+   Torvik -22.6 (edge 5.1)
+   KenPom -20.0 (edge 2.5)
 
-𝐌𝐨𝐧𝐭𝐚𝐧𝐚 𝐒𝐭. +22.5
-   at Gonzaga · Tue 11:00 PM
-   Best +22.5 (-106) LowVig.ag
-   Torvik +19.6 (edge 2.9)
-   KenPom +17.0 (edge 5.5)
+𝐍𝐨𝐫𝐭𝐡 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐂𝐞𝐧𝐭𝐫𝐚𝐥 +26
+   at George Mason · Wed 7:00 PM
+   Best +26.5 (-110) BetMGM
+   Torvik +23.6 (edge 2.6)
+   KenPom +17.5 (edge 8.7)
+
+𝐋𝐨𝐧𝐠𝐰𝐨𝐨𝐝 -6.5
+   vs VMI (home) · Wed 7:00 PM
+   Best -6.5 (-106) LowVig.ag
+   Torvik -9.3 (edge 2.8)
+   KenPom -8.2 (edge 1.7)
 
 𝐌𝐨𝐫𝐞𝐡𝐞𝐚𝐝 𝐒𝐭. +17.5
    at Ohio · Wed 7:00 PM
    Best +17.5 (-101) LowVig.ag
    Torvik +11.9 (edge 5.6)
-   KenPom +14.9 (edge 2.6)
+   KenPom +14.8 (edge 2.7)
 
-𝐘𝐨𝐮𝐧𝐠𝐬𝐭𝐨𝐰𝐧 𝐒𝐭. +28
+𝐘𝐨𝐮𝐧𝐠𝐬𝐭𝐨𝐰𝐧 𝐒𝐭. +27.5
    at Cincinnati · Wed 7:30 PM
-   Best +28 (-106) LowVig.ag
-   Torvik +25.7 (edge 2.3)
-   KenPom +22.0 (edge 6.0)
+   Best +28 (-111) LowVig.ag
+   Torvik +25.7 (edge 1.8)
+   KenPom +21.9 (edge 5.6)
 
-𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 𝐌𝐨𝐧𝐫𝐨𝐞 +35.5
-   at LSU · Wed 8:00 PM
-   Best +35.5 (+104) LowVig.ag
-   Torvik +32.9 (edge 2.6)
-   KenPom +29.9 (edge 5.6)
+𝐀𝐫𝐤𝐚𝐧𝐬𝐚𝐬 𝐏𝐢𝐧𝐞 𝐁𝐥𝐮𝐟𝐟 +25
+   at Arkansas St. · Wed 8:00 PM
+   Best +26.5 (-118) BetMGM
+   Torvik +22.9 (edge 2.4)
+   KenPom +15.6 (edge 9.7)
 
-𝐖𝐢𝐜𝐡𝐢𝐭𝐚 𝐒𝐭. PK
+𝐓𝐞𝐱𝐚𝐬 𝐒𝐭. -18
+   vs Incarnate Word (home) · Wed 8:00 PM
+   Best -17.5 (-118) DraftKings
+   Torvik -22.9 (edge 4.9)
+   KenPom -19.9 (edge 1.9)
+
+𝐖𝐢𝐜𝐡𝐢𝐭𝐚 𝐒𝐭. -0.5
    at Loyola Chicago · Wed 8:00 PM
    Best PK (-111) LowVig.ag
-   Torvik -3.5 (edge 3.5)
-   KenPom -2.3 (edge 2.3)
+   Torvik -3.4 (edge 2.9)
+   KenPom -2.2 (edge 1.7)
+
+𝐒𝐭𝐨𝐧𝐞𝐡𝐢𝐥𝐥 +1.5
+   vs New Hampshire (home) · Wed 8:00 PM
+   Best +2.5 (-118) DraftKings
+   Torvik -0.1 (edge 1.6)
+   KenPom -0.5 (edge 2.0)
+
+𝐏𝐨𝐫𝐭𝐥𝐚𝐧𝐝 +14.5
+   at Colorado · Wed 9:00 PM
+   Best +15 (-106) LowVig.ag
+   Torvik +11.0 (edge 3.5)
+   KenPom +12.0 (edge 2.5)
 
 𝐖𝐞𝐛𝐞𝐫 𝐒𝐭. +32
    at Utah St. · Wed 9:00 PM
-   Best +32 (-101) LowVig.ag
+   Best +32.5 (-120) BetRivers
    Torvik +29.6 (edge 2.4)
    KenPom +27.8 (edge 4.2)
 
-𝐈𝐝𝐚𝐡𝐨 +19
+𝐈𝐝𝐚𝐡𝐨 +18.5
    at Nevada · Wed 10:00 PM
-   Best +19 (-101) LowVig.ag
-   Torvik +14.8 (edge 4.2)
-   KenPom +16.5 (edge 2.5)
-
-𝐋𝐨𝐮𝐢𝐬𝐢𝐚𝐧𝐚 +8
-   at San Francisco · Wed 10:00 PM
-   Best +8 (+106) LowVig.ag
-   Torvik +5.9 (edge 2.1)
-   KenPom +5.5 (edge 2.5)
-
-────────────────────────
-🎙 PODCAST LOCKS (11)
-────────────────────────
-2/2 agree: Liberty +2
-   Tue 6:00 PM · models: Torvik +4.0, KenPom +1.0
-
-2/2 agree: Mississippi St. +1.5
-   Tue 7:00 PM · models: Torvik -1.1, KenPom -0.5
-
-2/2 agree: Monmouth +14.5
-   Tue 7:00 PM · models: Torvik -0.4, KenPom -0.5
-
-2/2 agree: Villanova -1.5
-   Tue 7:00 PM · models: Torvik +0.4, KenPom -2.5
-
-2/2 agree: Tennessee St. +11
-   Tue 7:00 PM · models: Torvik -0.1, KenPom +0.0
-
-2/2 agree: Kennesaw St. +25.5
-   Tue 7:30 PM · ✅ models agree
-
-2/2 agree: Illinois St. -17.5
-   Tue 8:00 PM · models: Torvik +0.6, KenPom -2.5
-
-2/2 agree: Eastern Washington +13
-   Tue 8:30 PM · ✅ models agree
-
-2/2 agree: Wyoming -12
-   Tue 8:30 PM · ❌ models on other side
-
-2/2 agree: UC Davis -12.5
-   Tue 9:00 PM · ❌ models on other side
-
-2/2 agree: Tennessee +2.5
-   Tue 9:00 PM · models: Torvik +1.8, KenPom -1.5
+   Best +19.5 (-136) BetRivers
+   Torvik +14.8 (edge 3.7)
+   KenPom +16.5 (edge 2.0)
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)
@@ -183,9 +170,9 @@ None on today's slate.
 ────────────────────────
 📈 RESULTS
 ────────────────────────
-Season: 72-82 · -16.55u
-Since 11/15/2026: 11-9-1 (55%) · +1.00u
-GAS games since 11/17/2026: 0-0 · +0.00u
+Season: 81-90 · -16.37u
+Since 11/15/2026: 20-17-1 (54%) · +1.18u
+GAS games since 11/17/2026: 2-0 (100%) · +1.82u
 Yesterday: 3-5 · -2.27u
 ❌ Florida A&M +18.5 (46-79)
 ✅ Prairie View A&M +33.5 (59-86)
@@ -198,4 +185,7 @@ Yesterday: 3-5 · -2.27u
 ❌ East Texas A&M +16.5 (71-109) · 🎙 2/3 lock
 
 Notes:
+• Unmatched game: Samford Bulldogs at South Carolina Upstate Spartans (add to data/aliases.json if needed)
+• Unmatched game: Chicago St Cougars at UIC Flames (add to data/aliases.json if needed)
+• Unmatched game: LSU Tigers at Texas Tech Red Raiders (add to data/aliases.json if needed)
 • Unmatched game: N Colorado Bears at BYU Cougars (add to data/aliases.json if needed)
