@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-18T11:25+00:00",
+ "generated_utc": "2026-11-18T19:22+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -31,8 +31,8 @@
     "market_line": 23.5,
     "best": [
      23.5,
-     -106,
-     "LowVig.ag"
+     -102,
+     "FanDuel"
     ]
    },
    "models": {
@@ -71,15 +71,15 @@
      "conf": "SWAC",
      "arena": "Moore Gym, Daytona Beach, FL",
      "ratings": {
-      "AdjEM": -3.7611,
+      "AdjEM": -3.7638,
       "RankAdjEM": 195,
-      "AdjOE": 104.663,
+      "AdjOE": 104.749,
       "RankAdjOE": 202,
-      "AdjDE": 108.424,
+      "AdjDE": 108.513,
       "RankAdjDE": 196,
-      "AdjTempo": 70.8231,
+      "AdjTempo": 70.786,
       "RankAdjTempo": 123,
-      "SOS": 19.1521,
+      "SOS": 19.146,
       "RankSOS": 10,
       "Luck": -0.0001
      },
@@ -99,7 +99,7 @@
       "DOR_Pct": 33.5938,
       "RankDOR_Pct": 228,
       "DFT_Rate": 52.9148,
-      "RankDFT_Rate": 339
+      "RankDFT_Rate": 340
      },
      "shooting": {
       "FG3Pct": 37.6623,
@@ -132,15 +132,15 @@
      "conf": "BE",
      "arena": "CHI Health Center Omaha, Omaha, NE",
      "ratings": {
-      "AdjEM": 16.5469,
+      "AdjEM": 16.5464,
       "RankAdjEM": 51,
-      "AdjOE": 115.069,
+      "AdjOE": 115.157,
       "RankAdjOE": 60,
-      "AdjDE": 98.5221,
+      "AdjDE": 98.611,
       "RankAdjDE": 44,
-      "AdjTempo": 70.7659,
+      "AdjTempo": 70.7296,
       "RankAdjTempo": 126,
-      "SOS": 0.3888,
+      "SOS": 0.388,
       "RankSOS": 168,
       "Luck": 0.019
      },
@@ -158,13 +158,13 @@
       "DTO_Pct": 27.4069,
       "RankDTO_Pct": 3,
       "DOR_Pct": 28.0992,
-      "RankDOR_Pct": 99,
+      "RankDOR_Pct": 100,
       "DFT_Rate": 35.0962,
-      "RankDFT_Rate": 167
+      "RankDFT_Rate": 168
      },
      "shooting": {
       "FG3Pct": 32.0611,
-      "RankFG3Pct": 188,
+      "RankFG3Pct": 189,
       "FG2Pct": 52.9412,
       "FTPct": 74.6835,
       "F3GRate": 52.4,
@@ -183,191 +183,6 @@
       "ExpRank": 117,
       "Bench": 37.22,
       "Continuity": 0.2472
-     }
-    }
-   },
-   "players": null
-  },
-  {
-   "id": "6152e11ee0f51c9e31b75aeecad708c3",
-   "priority": [
-    2,
-    1
-   ],
-   "date": "2026-11-18",
-   "tip_et": "Wed Nov 18, 7:00 PM ET",
-   "away": "North Carolina Central",
-   "home": "George Mason",
-   "neutral": false,
-   "venue": {
-    "name": "EagleBank Arena",
-    "city": "Fairfax, VA",
-    "neutral": false,
-    "tv": [
-     "ESPN+"
-    ],
-    "note": ""
-   },
-   "home_arena_kenpom": "EagleBank Arena, Fairfax, VA",
-   "pick": {
-    "team": "North Carolina Central",
-    "team_bold": "\ud835\udc0d\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc21 \ud835\udc02\ud835\udc1a\ud835\udc2b\ud835\udc28\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc02\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc25",
-    "side": "away",
-    "market_line": 26.5,
-    "best": [
-     27.0,
-     -106,
-     "LowVig.ag"
-    ]
-   },
-   "models": {
-    "torvik_line": 23.6,
-    "torvik_edge": 2.9,
-    "kenpom_line": 19.0,
-    "kenpom_edge": 7.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 135.1,
-    "kenpom_total": 133.0,
-    "market_total": null,
-    "torvik_tempo": 64.4,
-    "kenpom_tempo": 65.0,
-    "kenpom_home_win_prob": 95.0
-   },
-   "flagged": true,
-   "star": false,
-   "podcast": {
-    "category": "2/2 agree",
-    "side": "away",
-    "team": "North Carolina Central",
-    "hosts": [
-     "Colby",
-     "Bieniek"
-    ],
-    "line": "+26.5",
-    "label": "2/2 agree: North Carolina Central"
-   },
-   "label": "KenPom and Torvik mispriced and a 2-host agree per TCE",
-   "teams": {
-    "away": {
-     "name": "North Carolina Central",
-     "kenpom_url": "https://kenpom.com/team.php?team=North+Carolina+Central",
-     "record": "1-4",
-     "coach": "LeVelle Moton",
-     "conf": "MEAC",
-     "arena": "McLendon-McDougald Gymnasium, Durham, NC",
-     "ratings": {
-      "AdjEM": -17.2204,
-      "RankAdjEM": 344,
-      "AdjOE": 95.3731,
-      "RankAdjOE": 343,
-      "AdjDE": 112.593,
-      "RankAdjDE": 306,
-      "AdjTempo": 67.2388,
-      "RankAdjTempo": 325,
-      "SOS": 4.6197,
-      "RankSOS": 117,
-      "Luck": -0.013
-     },
-     "four_factors": {
-      "eFG_Pct": 45.5128,
-      "RankeFG_Pct": 289,
-      "TO_Pct": 18.2158,
-      "RankTO_Pct": 200,
-      "OR_Pct": 26.8456,
-      "RankOR_Pct": 282,
-      "FT_Rate": 26.0684,
-      "RankFT_Rate": 324,
-      "DeFG_Pct": 52.3504,
-      "RankDeFG_Pct": 229,
-      "DTO_Pct": 16.7585,
-      "RankDTO_Pct": 230,
-      "DOR_Pct": 29.7872,
-      "RankDOR_Pct": 146,
-      "DFT_Rate": 34.188,
-      "RankDFT_Rate": 150
-     },
-     "shooting": {
-      "FG3Pct": 26.5625,
-      "RankFG3Pct": 317,
-      "FG2Pct": 47.6471,
-      "FTPct": 67.2131,
-      "F3GRate": 27.3504,
-      "RankF3GRate": 362,
-      "OppFG3Pct": 35.2381,
-      "RankOppFG3Pct": 254,
-      "BlockPct": 13.9535,
-      "StlRate": 0.0911,
-      "ARate": 42.8571
-     },
-     "size": {
-      "AvgHgt": 78.54,
-      "AvgHgtRank": 37,
-      "HgtEff": 1.31,
-      "Exp": 0.5137,
-      "ExpRank": 347,
-      "Bench": 32.6,
-      "Continuity": 0.0295
-     }
-    },
-    "home": {
-     "name": "George Mason",
-     "kenpom_url": "https://kenpom.com/team.php?team=George+Mason",
-     "record": "3-1",
-     "coach": "Tony Skinn",
-     "conf": "A10",
-     "arena": "EagleBank Arena, Fairfax, VA",
-     "ratings": {
-      "AdjEM": 5.7852,
-      "RankAdjEM": 108,
-      "AdjOE": 108.034,
-      "RankAdjOE": 140,
-      "AdjDE": 102.249,
-      "RankAdjDE": 88,
-      "AdjTempo": 66.6854,
-      "RankAdjTempo": 341,
-      "SOS": -13.109,
-      "RankSOS": 343,
-      "Luck": -0.1089
-     },
-     "four_factors": {
-      "eFG_Pct": 49.7674,
-      "RankeFG_Pct": 193,
-      "TO_Pct": 17.6766,
-      "RankTO_Pct": 186,
-      "OR_Pct": 33.5878,
-      "RankOR_Pct": 145,
-      "FT_Rate": 45.5814,
-      "RankFT_Rate": 64,
-      "DeFG_Pct": 43.3486,
-      "RankDeFG_Pct": 39,
-      "DTO_Pct": 20.3093,
-      "RankDTO_Pct": 82,
-      "DOR_Pct": 21.0145,
-      "RankDOR_Pct": 3,
-      "DFT_Rate": 23.3945,
-      "RankDFT_Rate": 15
-     },
-     "shooting": {
-      "FG3Pct": 31.4286,
-      "RankFG3Pct": 204,
-      "FG2Pct": 51.0345,
-      "FTPct": 74.4898,
-      "F3GRate": 32.5581,
-      "RankF3GRate": 323,
-      "OppFG3Pct": 33.7209,
-      "RankOppFG3Pct": 214,
-      "BlockPct": 6.8182,
-      "StlRate": 0.1015,
-      "ARate": 50
-     },
-     "size": {
-      "AvgHgt": 78.03,
-      "AvgHgtRank": 83,
-      "HgtEff": -0.1,
-      "Exp": 2.0211,
-      "ExpRank": 72,
-      "Bench": 30.3,
-      "Continuity": 0.1026
      }
     }
    },
@@ -398,18 +213,18 @@
     "team": "Youngstown St.",
     "team_bold": "\ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc20\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc30\ud835\udc27 \ud835\udc12\ud835\udc2d.",
     "side": "away",
-    "market_line": 27.5,
+    "market_line": 28.2,
     "best": [
-     28.0,
-     -109,
-     "LowVig.ag"
+     28.5,
+     -108,
+     "BetRivers"
     ]
    },
    "models": {
     "torvik_line": 25.7,
-    "torvik_edge": 1.8,
+    "torvik_edge": 2.6,
     "kenpom_line": 23.0,
-    "kenpom_edge": 4.5,
+    "kenpom_edge": 5.2,
     "kenpom_source": "FanMatch",
     "torvik_total": 151.2,
     "kenpom_total": 151.0,
@@ -441,15 +256,15 @@
      "conf": "Horz",
      "arena": "Beeghly Center, Youngstown, OH",
      "ratings": {
-      "AdjEM": -4.7302,
+      "AdjEM": -4.7307,
       "RankAdjEM": 207,
-      "AdjOE": 104.992,
+      "AdjOE": 105.081,
       "RankAdjOE": 191,
-      "AdjDE": 109.722,
-      "RankAdjDE": 243,
-      "AdjTempo": 71.366,
+      "AdjDE": 109.811,
+      "RankAdjDE": 242,
+      "AdjTempo": 71.3298,
       "RankAdjTempo": 89,
-      "SOS": 5.293,
+      "SOS": 5.2948,
       "RankSOS": 104,
       "Luck": 0.1701
      },
@@ -469,11 +284,11 @@
       "DOR_Pct": 35.3846,
       "RankDOR_Pct": 268,
       "DFT_Rate": 51.9824,
-      "RankDFT_Rate": 334
+      "RankDFT_Rate": 335
      },
      "shooting": {
       "FG3Pct": 32.3232,
-      "RankFG3Pct": 180,
+      "RankFG3Pct": 181,
       "FG2Pct": 50.7353,
       "FTPct": 59.0476,
       "F3GRate": 42.1277,
@@ -502,21 +317,21 @@
      "conf": "B12",
      "arena": "Fifth Third Arena, Cincinnati, OH",
      "ratings": {
-      "AdjEM": 21.5651,
-      "RankAdjEM": 28,
-      "AdjOE": 115.669,
+      "AdjEM": 21.5645,
+      "RankAdjEM": 29,
+      "AdjOE": 115.757,
       "RankAdjOE": 53,
-      "AdjDE": 94.1036,
+      "AdjDE": 94.1926,
       "RankAdjDE": 19,
-      "AdjTempo": 70.3729,
+      "AdjTempo": 70.3367,
       "RankAdjTempo": 146,
-      "SOS": 1.4167,
+      "SOS": 1.4154,
       "RankSOS": 155,
       "Luck": -0.15
      },
      "four_factors": {
       "eFG_Pct": 54.4898,
-      "RankeFG_Pct": 88,
+      "RankeFG_Pct": 89,
       "TO_Pct": 16.6275,
       "RankTO_Pct": 131,
       "OR_Pct": 35.5556,
@@ -528,13 +343,13 @@
       "DTO_Pct": 24.2183,
       "RankDTO_Pct": 26,
       "DOR_Pct": 28.2443,
-      "RankDOR_Pct": 106,
+      "RankDOR_Pct": 107,
       "DFT_Rate": 36.6667,
       "RankDFT_Rate": 194
      },
      "shooting": {
       "FG3Pct": 32.4074,
-      "RankFG3Pct": 177,
+      "RankFG3Pct": 178,
       "FG2Pct": 59.1241,
       "FTPct": 69.0141,
       "F3GRate": 44.0816,
@@ -585,9 +400,9 @@
     "side": "away",
     "market_line": 14.5,
     "best": [
-     15.0,
-     -115,
-     "Bovada"
+     14.5,
+     -107,
+     "BetRivers"
     ]
    },
    "models": {
@@ -626,15 +441,15 @@
      "conf": "WCC",
      "arena": "Chiles Center, Portland, OR",
      "ratings": {
-      "AdjEM": -3.2422,
+      "AdjEM": -3.2438,
       "RankAdjEM": 186,
-      "AdjOE": 106.051,
+      "AdjOE": 106.139,
       "RankAdjOE": 169,
-      "AdjDE": 109.293,
+      "AdjDE": 109.382,
       "RankAdjDE": 227,
-      "AdjTempo": 70.9914,
+      "AdjTempo": 70.9554,
       "RankAdjTempo": 109,
-      "SOS": -3.6115,
+      "SOS": -3.6153,
       "RankSOS": 233,
       "Luck": -0.1503
      },
@@ -648,7 +463,7 @@
       "FT_Rate": 55.0633,
       "RankFT_Rate": 22,
       "DeFG_Pct": 51.9608,
-      "RankDeFG_Pct": 219,
+      "RankDeFG_Pct": 218,
       "DTO_Pct": 15.4581,
       "RankDTO_Pct": 277,
       "DOR_Pct": 31.405,
@@ -687,23 +502,23 @@
      "conf": "B12",
      "arena": "CU Events Center, Boulder, CO",
      "ratings": {
-      "AdjEM": 9.2578,
+      "AdjEM": 9.2573,
       "RankAdjEM": 93,
-      "AdjOE": 108.614,
+      "AdjOE": 108.703,
       "RankAdjOE": 130,
-      "AdjDE": 99.3567,
+      "AdjDE": 99.4456,
       "RankAdjDE": 49,
-      "AdjTempo": 70.9789,
+      "AdjTempo": 70.9427,
       "RankAdjTempo": 111,
-      "SOS": 4.964,
+      "SOS": 4.9637,
       "RankSOS": 113,
       "Luck": -0.0826
      },
      "four_factors": {
       "eFG_Pct": 54.0724,
-      "RankeFG_Pct": 95,
+      "RankeFG_Pct": 96,
       "TO_Pct": 21.2914,
-      "RankTO_Pct": 304,
+      "RankTO_Pct": 303,
       "OR_Pct": 26.7717,
       "RankOR_Pct": 285,
       "FT_Rate": 36.1991,
@@ -715,7 +530,7 @@
       "DOR_Pct": 29.1391,
       "RankDOR_Pct": 131,
       "DFT_Rate": 33.7553,
-      "RankDFT_Rate": 142
+      "RankDFT_Rate": 143
      },
      "shooting": {
       "FG3Pct": 40.2174,
@@ -723,7 +538,7 @@
       "FG2Pct": 49.6124,
       "FTPct": 71.25,
       "F3GRate": 41.629,
-      "RankF3GRate": 173,
+      "RankF3GRate": 174,
       "OppFG3Pct": 30.2083,
       "RankOppFG3Pct": 123,
       "BlockPct": 9.9291,
