@@ -1,6 +1,563 @@
 {
- "generated_utc": "2026-11-19T04:06+00:00",
+ "generated_utc": "2026-11-19T11:33+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "32098b4b5ed4967c39128b31e6d16b6c",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-19",
+   "tip_et": "Thu Nov 19, 9:00 PM ET",
+   "away": "UTEP",
+   "home": "New Mexico St.",
+   "neutral": false,
+   "venue": {
+    "name": "Pan American Center",
+    "city": "Las Cruces, NM",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Pan American Center, Las Cruces, NM",
+   "pick": {
+    "team": "New Mexico St.",
+    "team_bold": "\ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc0c\ud835\udc1e\ud835\udc31\ud835\udc22\ud835\udc1c\ud835\udc28 \ud835\udc12\ud835\udc2d.",
+    "side": "home",
+    "market_line": -1.5,
+    "best": [
+     -1.5,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": -3.2,
+    "torvik_edge": 1.7,
+    "kenpom_line": -4.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 138.8,
+    "kenpom_total": 134.0,
+    "market_total": null,
+    "torvik_tempo": 65.6,
+    "kenpom_tempo": 66.0,
+    "kenpom_home_win_prob": 65.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "home",
+    "team": "New Mexico St.",
+    "hosts": [
+     "Colby",
+     "Bieniek",
+     "Troy"
+    ],
+    "line": "-1.5",
+    "label": "3/3 lock: New Mexico St."
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "UTEP",
+     "kenpom_url": "https://kenpom.com/team.php?team=UTEP",
+     "record": "3-1",
+     "coach": "Joe Golding",
+     "conf": "MWC",
+     "arena": "Don Haskins Center, El Paso, TX",
+     "ratings": {
+      "AdjEM": -1.2132,
+      "RankAdjEM": 158,
+      "AdjOE": 103.604,
+      "RankAdjOE": 231,
+      "AdjDE": 104.818,
+      "RankAdjDE": 121,
+      "AdjTempo": 67.001,
+      "RankAdjTempo": 327,
+      "SOS": -14.9733,
+      "RankSOS": 354,
+      "Luck": 0.0047
+     },
+     "four_factors": {
+      "eFG_Pct": 50.6024,
+      "RankeFG_Pct": 179,
+      "TO_Pct": 18.0028,
+      "RankTO_Pct": 190,
+      "OR_Pct": 39.2157,
+      "RankOR_Pct": 41,
+      "FT_Rate": 26.506,
+      "RankFT_Rate": 325,
+      "DeFG_Pct": 48.7245,
+      "RankDeFG_Pct": 138,
+      "DTO_Pct": 25.504,
+      "RankDTO_Pct": 15,
+      "DOR_Pct": 30,
+      "RankDOR_Pct": 144,
+      "DFT_Rate": 42.8571,
+      "RankDFT_Rate": 267
+     },
+     "shooting": {
+      "FG3Pct": 33.3333,
+      "RankFG3Pct": 146,
+      "FG2Pct": 51.1628,
+      "FTPct": 63.6364,
+      "F3GRate": 48.1928,
+      "RankF3GRate": 54,
+      "OppFG3Pct": 28.4091,
+      "RankOppFG3Pct": 69,
+      "BlockPct": 9.2593,
+      "StlRate": 0.1575,
+      "ARate": 66.9811
+     },
+     "size": {
+      "AvgHgt": 78.72,
+      "AvgHgtRank": 29,
+      "HgtEff": 0.69,
+      "Exp": 1.0411,
+      "ExpRank": 251,
+      "Bench": 31.4,
+      "Continuity": 0
+     }
+    },
+    "home": {
+     "name": "New Mexico St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=New+Mexico+St.",
+     "record": "1-3",
+     "coach": "Jason Hooten",
+     "conf": "CUSA",
+     "arena": "Pan American Center, Las Cruces, NM",
+     "ratings": {
+      "AdjEM": 0.4108,
+      "RankAdjEM": 146,
+      "AdjOE": 104.824,
+      "RankAdjOE": 199,
+      "AdjDE": 104.413,
+      "RankAdjDE": 115,
+      "AdjTempo": 67.5616,
+      "RankAdjTempo": 302,
+      "SOS": 17.2368,
+      "RankSOS": 22,
+      "Luck": -0.1774
+     },
+     "four_factors": {
+      "eFG_Pct": 48.2639,
+      "RankeFG_Pct": 240,
+      "TO_Pct": 30.3298,
+      "RankTO_Pct": 364,
+      "OR_Pct": 39.7727,
+      "RankOR_Pct": 37,
+      "FT_Rate": 40.9722,
+      "RankFT_Rate": 116,
+      "DeFG_Pct": 55.2023,
+      "RankDeFG_Pct": 291,
+      "DTO_Pct": 13.1429,
+      "RankDTO_Pct": 342,
+      "DOR_Pct": 36.7347,
+      "RankDOR_Pct": 289,
+      "DFT_Rate": 43.3526,
+      "RankDFT_Rate": 276
+     },
+     "shooting": {
+      "FG3Pct": 33.3333,
+      "RankFG3Pct": 146,
+      "FG2Pct": 46.9136,
+      "FTPct": 81.3559,
+      "F3GRate": 43.75,
+      "RankF3GRate": 124,
+      "OppFG3Pct": 32.4675,
+      "RankOppFG3Pct": 176,
+      "BlockPct": 4.1667,
+      "StlRate": 0.0657,
+      "ARate": 40.678
+     },
+     "size": {
+      "AvgHgt": 77.17,
+      "AvgHgtRank": 238,
+      "HgtEff": 0.37,
+      "Exp": 1.6162,
+      "ExpRank": 136,
+      "Bench": 29.22,
+      "Continuity": 0.1899
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "9b9dda4d07eb93b5e16e9fc62ff01ca3",
+   "priority": [
+    1,
+    0
+   ],
+   "date": "2026-11-19",
+   "tip_et": "Thu Nov 19, 11:00 PM ET",
+   "away": "Tarleton St.",
+   "home": "USC",
+   "neutral": false,
+   "venue": {
+    "name": "Galen Center",
+    "city": "Los Angeles, CA",
+    "neutral": false,
+    "tv": [
+     "BTN"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Galen Center, Los Angeles, CA",
+   "pick": {
+    "team": "Tarleton St.",
+    "team_bold": "\ud835\udc13\ud835\udc1a\ud835\udc2b\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc28\ud835\udc27 \ud835\udc12\ud835\udc2d.",
+    "side": "away",
+    "market_line": 26.5,
+    "best": [
+     26.5,
+     -102,
+     "FanDuel"
+    ]
+   },
+   "models": {
+    "torvik_line": 20.0,
+    "torvik_edge": 6.5,
+    "kenpom_line": 23.0,
+    "kenpom_edge": 3.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 161.3,
+    "kenpom_total": 157.0,
+    "market_total": null,
+    "torvik_tempo": 75.1,
+    "kenpom_tempo": 74.0,
+    "kenpom_home_win_prob": 98.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "Tarleton St.",
+    "hosts": [
+     "Colby",
+     "Troy"
+    ],
+    "line": "+26.5",
+    "label": "2/3 lock: Tarleton St."
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Tarleton St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Tarleton+St.",
+     "record": "4-1",
+     "coach": "Eric Haut",
+     "conf": "UAC",
+     "arena": "EECU Center, Stephenville, TX",
+     "ratings": {
+      "AdjEM": -5.1727,
+      "RankAdjEM": 215,
+      "AdjOE": 103.494,
+      "RankAdjOE": 234,
+      "AdjDE": 108.667,
+      "RankAdjDE": 208,
+      "AdjTempo": 71.3848,
+      "RankAdjTempo": 83,
+      "SOS": -4.061,
+      "RankSOS": 239,
+      "Luck": 0.1081
+     },
+     "four_factors": {
+      "eFG_Pct": 57.0988,
+      "RankeFG_Pct": 46,
+      "TO_Pct": 20.6912,
+      "RankTO_Pct": 292,
+      "OR_Pct": 29.8969,
+      "RankOR_Pct": 227,
+      "FT_Rate": 59.8765,
+      "RankFT_Rate": 8,
+      "DeFG_Pct": 46.0938,
+      "RankDeFG_Pct": 79,
+      "DTO_Pct": 17.1693,
+      "RankDTO_Pct": 208,
+      "DOR_Pct": 37.3984,
+      "RankDOR_Pct": 302,
+      "DFT_Rate": 47.3958,
+      "RankDFT_Rate": 315
+     },
+     "shooting": {
+      "FG3Pct": 34.3284,
+      "RankFG3Pct": 127,
+      "FG2Pct": 61.0526,
+      "FTPct": 62.8866,
+      "F3GRate": 41.358,
+      "RankF3GRate": 181,
+      "OppFG3Pct": 31.7647,
+      "RankOppFG3Pct": 155,
+      "BlockPct": 14.9533,
+      "StlRate": 0.0792,
+      "ARate": 54.321
+     },
+     "size": {
+      "AvgHgt": 77.22,
+      "AvgHgtRank": 227,
+      "HgtEff": -0.71,
+      "Exp": 1.0402,
+      "ExpRank": 253,
+      "Bench": 31.1,
+      "Continuity": 0.1354
+     }
+    },
+    "home": {
+     "name": "USC",
+     "kenpom_url": "https://kenpom.com/team.php?team=USC",
+     "record": "4-0",
+     "coach": "Eric Musselman",
+     "conf": "B10",
+     "arena": "Galen Center, Los Angeles, CA",
+     "ratings": {
+      "AdjEM": 21.8247,
+      "RankAdjEM": 28,
+      "AdjOE": 117.941,
+      "RankAdjOE": 32,
+      "AdjDE": 96.1164,
+      "RankAdjDE": 31,
+      "AdjTempo": 72.7379,
+      "RankAdjTempo": 35,
+      "SOS": -2.8689,
+      "RankSOS": 220,
+      "Luck": 0.1497
+     },
+     "four_factors": {
+      "eFG_Pct": 58.4,
+      "RankeFG_Pct": 33,
+      "TO_Pct": 14.9353,
+      "RankTO_Pct": 60,
+      "OR_Pct": 36.1538,
+      "RankOR_Pct": 98,
+      "FT_Rate": 48,
+      "RankFT_Rate": 49,
+      "DeFG_Pct": 41.1638,
+      "RankDeFG_Pct": 16,
+      "DTO_Pct": 21.2413,
+      "RankDTO_Pct": 60,
+      "DOR_Pct": 26.8293,
+      "RankDOR_Pct": 66,
+      "DFT_Rate": 41.3793,
+      "RankDFT_Rate": 252
+     },
+     "shooting": {
+      "FG3Pct": 38.5542,
+      "RankFG3Pct": 47,
+      "FG2Pct": 58.6826,
+      "FTPct": 79.1667,
+      "F3GRate": 33.2,
+      "RankF3GRate": 318,
+      "OppFG3Pct": 26.1364,
+      "RankOppFG3Pct": 36,
+      "BlockPct": 20.8333,
+      "StlRate": 0.1162,
+      "ARate": 69.2308
+     },
+     "size": {
+      "AvgHgt": 79.09,
+      "AvgHgtRank": 13,
+      "HgtEff": 1.84,
+      "Exp": 2.0488,
+      "ExpRank": 65,
+      "Bench": 35.83,
+      "Continuity": 0.1978
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "7f7fd17bc583d3d43cdde63affb31764",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-19",
+   "tip_et": "Thu Nov 19, 8:30 PM ET",
+   "away": "Wisconsin",
+   "home": "Seton Hall",
+   "neutral": true,
+   "venue": {
+    "name": "Baha Mar Convention Center",
+    "city": "Nassau, Bahamas",
+    "neutral": true,
+    "tv": [
+     "CBSSN"
+    ],
+    "note": "Baha Mar Championship"
+   },
+   "home_arena_kenpom": "Prudential Center, Newark, NJ",
+   "pick": {
+    "team": "Seton Hall",
+    "team_bold": "\ud835\udc12\ud835\udc1e\ud835\udc2d\ud835\udc28\ud835\udc27 \ud835\udc07\ud835\udc1a\ud835\udc25\ud835\udc25",
+    "side": "home",
+    "market_line": 4.5,
+    "best": [
+     4.5,
+     -110,
+     "FanDuel"
+    ]
+   },
+   "models": {
+    "torvik_line": 1.9,
+    "torvik_edge": 2.6,
+    "kenpom_line": 2.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 141.3,
+    "kenpom_total": 142.0,
+    "market_total": null,
+    "torvik_tempo": 68.4,
+    "kenpom_tempo": 69.0,
+    "kenpom_home_win_prob": 41.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "Seton Hall",
+    "hosts": [
+     "Colby",
+     "Troy"
+    ],
+    "line": "+5",
+    "label": "2/3 lock: Seton Hall"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Wisconsin",
+     "kenpom_url": "https://kenpom.com/team.php?team=Wisconsin",
+     "record": "4-0",
+     "coach": "Greg Gard",
+     "conf": "B10",
+     "arena": "Kohl Center, Madison, WI",
+     "ratings": {
+      "AdjEM": 16.0093,
+      "RankAdjEM": 55,
+      "AdjOE": 114.746,
+      "RankAdjOE": 66,
+      "AdjDE": 98.7364,
+      "RankAdjDE": 46,
+      "AdjTempo": 71.3599,
+      "RankAdjTempo": 87,
+      "SOS": -12.2382,
+      "RankSOS": 336,
+      "Luck": 0.1788
+     },
+     "four_factors": {
+      "eFG_Pct": 52.2,
+      "RankeFG_Pct": 136,
+      "TO_Pct": 13.9513,
+      "RankTO_Pct": 30,
+      "OR_Pct": 33.3333,
+      "RankOR_Pct": 144,
+      "FT_Rate": 38.8,
+      "RankFT_Rate": 151,
+      "DeFG_Pct": 39.8039,
+      "RankDeFG_Pct": 12,
+      "DTO_Pct": 18.1366,
+      "RankDTO_Pct": 161,
+      "DOR_Pct": 30.3571,
+      "RankDOR_Pct": 157,
+      "DFT_Rate": 25.8824,
+      "RankDFT_Rate": 31
+     },
+     "shooting": {
+      "FG3Pct": 32.7103,
+      "RankFG3Pct": 180,
+      "FG2Pct": 54.5455,
+      "FTPct": 67.0103,
+      "F3GRate": 42.8,
+      "RankF3GRate": 149,
+      "OppFG3Pct": 25.8427,
+      "RankOppFG3Pct": 32,
+      "BlockPct": 10.241,
+      "StlRate": 0.0942,
+      "ARate": 55.7522
+     },
+     "size": {
+      "AvgHgt": 78.78,
+      "AvgHgtRank": 27,
+      "HgtEff": 2.14,
+      "Exp": 2.0661,
+      "ExpRank": 61,
+      "Bench": 35.06,
+      "Continuity": 0.4273
+     }
+    },
+    "home": {
+     "name": "Seton Hall",
+     "kenpom_url": "https://kenpom.com/team.php?team=Seton+Hall",
+     "record": "3-1",
+     "coach": "Shaheen Holloway",
+     "conf": "BE",
+     "arena": "Prudential Center, Newark, NJ",
+     "ratings": {
+      "AdjEM": 12.4904,
+      "RankAdjEM": 72,
+      "AdjOE": 108.351,
+      "RankAdjOE": 134,
+      "AdjDE": 95.8611,
+      "RankAdjDE": 29,
+      "AdjTempo": 67.5836,
+      "RankAdjTempo": 300,
+      "SOS": -2.6921,
+      "RankSOS": 214,
+      "Luck": 0.0113
+     },
+     "four_factors": {
+      "eFG_Pct": 46.5909,
+      "RankeFG_Pct": 266,
+      "TO_Pct": 18.4027,
+      "RankTO_Pct": 204,
+      "OR_Pct": 32.1168,
+      "RankOR_Pct": 179,
+      "FT_Rate": 42.7273,
+      "RankFT_Rate": 93,
+      "DeFG_Pct": 44.6078,
+      "RankDeFG_Pct": 51,
+      "DTO_Pct": 23.1873,
+      "RankDTO_Pct": 29,
+      "DOR_Pct": 26.8116,
+      "RankDOR_Pct": 65,
+      "DFT_Rate": 44.1176,
+      "RankDFT_Rate": 282
+     },
+     "shooting": {
+      "FG3Pct": 31.3953,
+      "RankFG3Pct": 217,
+      "FG2Pct": 46.2687,
+      "FTPct": 76.5957,
+      "F3GRate": 39.0909,
+      "RankF3GRate": 229,
+      "OppFG3Pct": 32.5581,
+      "RankOppFG3Pct": 186,
+      "BlockPct": 13.5593,
+      "StlRate": 0.1325,
+      "ARate": 64.0449
+     },
+     "size": {
+      "AvgHgt": 77.01,
+      "AvgHgtRank": 266,
+      "HgtEff": -0.64,
+      "Exp": 2.3949,
+      "ExpRank": 23,
+      "Bench": 40.49,
+      "Continuity": 0.1785
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
