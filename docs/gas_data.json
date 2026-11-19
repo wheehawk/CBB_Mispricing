@@ -1,194 +1,8 @@
 {
- "generated_utc": "2026-11-19T19:27+00:00",
+ "generated_utc": "2026-11-19T22:17+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
-  {
-   "id": "cd5851d9377b5aa32b67f9c534385a0c",
-   "priority": [
-    0,
-    1
-   ],
-   "date": "2026-11-19",
-   "tip_et": "Thu Nov 19, 10:00 PM ET",
-   "away": "East Texas A&M",
-   "home": "California",
-   "neutral": false,
-   "venue": {
-    "name": "Haas Pavilion",
-    "city": "Berkeley, CA",
-    "neutral": false,
-    "tv": [
-     "ACCNX"
-    ],
-    "note": ""
-   },
-   "home_arena_kenpom": "Haas Pavilion, Berkeley, CA",
-   "pick": {
-    "team": "East Texas A&M",
-    "team_bold": "\ud835\udc04\ud835\udc1a\ud835\udc2c\ud835\udc2d \ud835\udc13\ud835\udc1e\ud835\udc31\ud835\udc1a\ud835\udc2c \ud835\udc00&\ud835\udc0c",
-    "side": "away",
-    "market_line": 14.5,
-    "best": [
-     14.5,
-     -110,
-     "BetRivers"
-    ]
-   },
-   "models": {
-    "torvik_line": 12.8,
-    "torvik_edge": 1.7,
-    "kenpom_line": 12.0,
-    "kenpom_edge": 2.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 143.3,
-    "kenpom_total": 146.0,
-    "market_total": null,
-    "torvik_tempo": 68.3,
-    "kenpom_tempo": 68.0,
-    "kenpom_home_win_prob": 86.0
-   },
-   "flagged": true,
-   "star": false,
-   "podcast": {
-    "category": "3/3 lock",
-    "side": "away",
-    "team": "East Texas A&M",
-    "hosts": [
-     "Colby",
-     "Bieniek",
-     "Troy"
-    ],
-    "line": "+13.5",
-    "label": "3/3 lock: East Texas A&M"
-   },
-   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
-   "teams": {
-    "away": {
-     "name": "East Texas A&M",
-     "kenpom_url": "https://kenpom.com/team.php?team=East+Texas+A%26M",
-     "record": "3-2",
-     "coach": "Jaret Von Rosenberg",
-     "conf": "Slnd",
-     "arena": "The Field House, Commerce, TX",
-     "ratings": {
-      "AdjEM": -7.5162,
-      "RankAdjEM": 249,
-      "AdjOE": 101.863,
-      "RankAdjOE": 263,
-      "AdjDE": 109.379,
-      "RankAdjDE": 227,
-      "AdjTempo": 68.4679,
-      "RankAdjTempo": 258,
-      "SOS": 3.9853,
-      "RankSOS": 122,
-      "Luck": 0.2367
-     },
-     "four_factors": {
-      "eFG_Pct": 50.9524,
-      "RankeFG_Pct": 174,
-      "TO_Pct": 22.1629,
-      "RankTO_Pct": 325,
-      "OR_Pct": 38.1443,
-      "RankOR_Pct": 66,
-      "FT_Rate": 30.1587,
-      "RankFT_Rate": 274,
-      "DeFG_Pct": 50.4983,
-      "RankDeFG_Pct": 177,
-      "DTO_Pct": 18.8795,
-      "RankDTO_Pct": 128,
-      "DOR_Pct": 41.3043,
-      "RankDOR_Pct": 342,
-      "DFT_Rate": 48.8372,
-      "RankDFT_Rate": 320
-     },
-     "shooting": {
-      "FG3Pct": 36.4238,
-      "RankFG3Pct": 85,
-      "FG2Pct": 47.561,
-      "FTPct": 63.1579,
-      "F3GRate": 47.9365,
-      "RankF3GRate": 58,
-      "OppFG3Pct": 32.4786,
-      "RankOppFG3Pct": 177,
-      "BlockPct": 7.0652,
-      "StlRate": 0.1313,
-      "ARate": 68.4211
-     },
-     "size": {
-      "AvgHgt": 76.95,
-      "AvgHgtRank": 273,
-      "HgtEff": 0.01,
-      "Exp": 1.0402,
-      "ExpRank": 252,
-      "Bench": 29.6,
-      "Continuity": 0.0074
-     }
-    },
-    "home": {
-     "name": "California",
-     "kenpom_url": "https://kenpom.com/team.php?team=California",
-     "record": "3-2",
-     "coach": "Mark Madsen",
-     "conf": "ACC",
-     "arena": "Haas Pavilion, Berkeley, CA",
-     "ratings": {
-      "AdjEM": 5.842,
-      "RankAdjEM": 105,
-      "AdjOE": 110.811,
-      "RankAdjOE": 103,
-      "AdjDE": 104.969,
-      "RankAdjDE": 127,
-      "AdjTempo": 68.9935,
-      "RankAdjTempo": 224,
-      "SOS": 5.1647,
-      "RankSOS": 108,
-      "Luck": 0.0694
-     },
-     "four_factors": {
-      "eFG_Pct": 48.419,
-      "RankeFG_Pct": 237,
-      "TO_Pct": 16.1486,
-      "RankTO_Pct": 109,
-      "OR_Pct": 32.0755,
-      "RankOR_Pct": 181,
-      "FT_Rate": 28.0632,
-      "RankFT_Rate": 309,
-      "DeFG_Pct": 51.5686,
-      "RankDeFG_Pct": 207,
-      "DTO_Pct": 17.2251,
-      "RankDTO_Pct": 205,
-      "DOR_Pct": 37.0629,
-      "RankDOR_Pct": 295,
-      "DFT_Rate": 21.9608,
-      "RankDFT_Rate": 7
-     },
-     "shooting": {
-      "FG3Pct": 33.0189,
-      "RankFG3Pct": 166,
-      "FG2Pct": 47.619,
-      "FTPct": 71.831,
-      "F3GRate": 41.8972,
-      "RankF3GRate": 168,
-      "OppFG3Pct": 32.5301,
-      "RankOppFG3Pct": 183,
-      "BlockPct": 4.0698,
-      "StlRate": 0.1112,
-      "ARate": 58.0952
-     },
-     "size": {
-      "AvgHgt": 78.07,
-      "AvgHgtRank": 79,
-      "HgtEff": 1.29,
-      "Exp": 1.1315,
-      "ExpRank": 236,
-      "Bench": 35.12,
-      "Continuity": 0.1119
-     }
-    }
-   },
-   "players": null
-  },
   {
    "id": "32098b4b5ed4967c39128b31e6d16b6c",
    "priority": [
@@ -258,15 +72,15 @@
      "conf": "MWC",
      "arena": "Don Haskins Center, El Paso, TX",
      "ratings": {
-      "AdjEM": -1.2132,
+      "AdjEM": -1.213,
       "RankAdjEM": 158,
-      "AdjOE": 103.604,
+      "AdjOE": 103.952,
       "RankAdjOE": 231,
-      "AdjDE": 104.818,
+      "AdjDE": 105.165,
       "RankAdjDE": 121,
-      "AdjTempo": 67.001,
+      "AdjTempo": 66.9666,
       "RankAdjTempo": 327,
-      "SOS": -14.9733,
+      "SOS": -14.9741,
       "RankSOS": 354,
       "Luck": 0.0047
      },
@@ -280,7 +94,7 @@
       "FT_Rate": 26.506,
       "RankFT_Rate": 325,
       "DeFG_Pct": 48.7245,
-      "RankDeFG_Pct": 138,
+      "RankDeFG_Pct": 137,
       "DTO_Pct": 25.504,
       "RankDTO_Pct": 15,
       "DOR_Pct": 30,
@@ -296,7 +110,7 @@
       "F3GRate": 48.1928,
       "RankF3GRate": 54,
       "OppFG3Pct": 28.4091,
-      "RankOppFG3Pct": 69,
+      "RankOppFG3Pct": 68,
       "BlockPct": 9.2593,
       "StlRate": 0.1575,
       "ARate": 66.9811
@@ -319,16 +133,16 @@
      "conf": "CUSA",
      "arena": "Pan American Center, Las Cruces, NM",
      "ratings": {
-      "AdjEM": 0.4108,
+      "AdjEM": 0.4106,
       "RankAdjEM": 146,
-      "AdjOE": 104.824,
+      "AdjOE": 105.172,
       "RankAdjOE": 199,
-      "AdjDE": 104.413,
+      "AdjDE": 104.761,
       "RankAdjDE": 115,
-      "AdjTempo": 67.5616,
+      "AdjTempo": 67.527,
       "RankAdjTempo": 302,
-      "SOS": 17.2368,
-      "RankSOS": 22,
+      "SOS": 17.2391,
+      "RankSOS": 21,
       "Luck": -0.1774
      },
      "four_factors": {
@@ -403,13 +217,13 @@
     "market_line": 27.8,
     "best": [
      28.5,
-     -110,
-     "BetMGM"
+     -105,
+     "DraftKings"
     ]
    },
    "models": {
     "torvik_line": 20.0,
-    "torvik_edge": 7.8,
+    "torvik_edge": 7.7,
     "kenpom_line": 23.0,
     "kenpom_edge": 4.8,
     "kenpom_source": "FanMatch",
@@ -443,15 +257,15 @@
      "conf": "UAC",
      "arena": "EECU Center, Stephenville, TX",
      "ratings": {
-      "AdjEM": -5.1727,
+      "AdjEM": -5.173,
       "RankAdjEM": 215,
-      "AdjOE": 103.494,
+      "AdjOE": 103.842,
       "RankAdjOE": 234,
-      "AdjDE": 108.667,
+      "AdjDE": 109.015,
       "RankAdjDE": 208,
-      "AdjTempo": 71.3848,
+      "AdjTempo": 71.3502,
       "RankAdjTempo": 83,
-      "SOS": -4.061,
+      "SOS": -4.0607,
       "RankSOS": 239,
       "Luck": 0.1081
      },
@@ -504,25 +318,25 @@
      "conf": "B10",
      "arena": "Galen Center, Los Angeles, CA",
      "ratings": {
-      "AdjEM": 21.8247,
+      "AdjEM": 21.8252,
       "RankAdjEM": 28,
-      "AdjOE": 117.941,
+      "AdjOE": 118.289,
       "RankAdjOE": 32,
-      "AdjDE": 96.1164,
-      "RankAdjDE": 31,
-      "AdjTempo": 72.7379,
+      "AdjDE": 96.4634,
+      "RankAdjDE": 30,
+      "AdjTempo": 72.7037,
       "RankAdjTempo": 35,
-      "SOS": -2.8689,
+      "SOS": -2.8685,
       "RankSOS": 220,
       "Luck": 0.1497
      },
      "four_factors": {
       "eFG_Pct": 58.4,
-      "RankeFG_Pct": 33,
+      "RankeFG_Pct": 34,
       "TO_Pct": 14.9353,
       "RankTO_Pct": 60,
       "OR_Pct": 36.1538,
-      "RankOR_Pct": 98,
+      "RankOR_Pct": 97,
       "FT_Rate": 48,
       "RankFT_Rate": 49,
       "DeFG_Pct": 41.1638,
@@ -530,7 +344,7 @@
       "DTO_Pct": 21.2413,
       "RankDTO_Pct": 60,
       "DOR_Pct": 26.8293,
-      "RankDOR_Pct": 66,
+      "RankDOR_Pct": 65,
       "DFT_Rate": 41.3793,
       "RankDFT_Rate": 252
      },
@@ -628,15 +442,15 @@
      "conf": "B10",
      "arena": "Kohl Center, Madison, WI",
      "ratings": {
-      "AdjEM": 16.0093,
+      "AdjEM": 16.009,
       "RankAdjEM": 55,
-      "AdjOE": 114.746,
+      "AdjOE": 115.093,
       "RankAdjOE": 66,
-      "AdjDE": 98.7364,
+      "AdjDE": 99.0844,
       "RankAdjDE": 46,
-      "AdjTempo": 71.3599,
+      "AdjTempo": 71.3254,
       "RankAdjTempo": 87,
-      "SOS": -12.2382,
+      "SOS": -12.2405,
       "RankSOS": 336,
       "Luck": 0.1788
      },
@@ -689,15 +503,15 @@
      "conf": "BE",
      "arena": "Prudential Center, Newark, NJ",
      "ratings": {
-      "AdjEM": 12.4904,
+      "AdjEM": 12.4901,
       "RankAdjEM": 72,
-      "AdjOE": 108.351,
+      "AdjOE": 108.699,
       "RankAdjOE": 134,
-      "AdjDE": 95.8611,
-      "RankAdjDE": 29,
-      "AdjTempo": 67.5836,
+      "AdjDE": 96.2093,
+      "RankAdjDE": 28,
+      "AdjTempo": 67.549,
       "RankAdjTempo": 300,
-      "SOS": -2.6921,
+      "SOS": -2.6916,
       "RankSOS": 214,
       "Luck": 0.0113
      },
@@ -715,7 +529,7 @@
       "DTO_Pct": 23.1873,
       "RankDTO_Pct": 29,
       "DOR_Pct": 26.8116,
-      "RankDOR_Pct": 65,
+      "RankDOR_Pct": 64,
       "DFT_Rate": 44.1176,
       "RankDFT_Rate": 282
      },
