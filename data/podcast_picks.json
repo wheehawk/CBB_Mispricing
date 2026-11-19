@@ -1299,6 +1299,842 @@
         }
       ],
       "unmatched": []
+    },
+    "7-5dd3-b192-0f0d7905786d": {
+      "title": "College Basketball Picks For November 19th - NCAA Basketball Banter & Best Bets (Ep. 1241)",
+      "url": "https://www.sportsgamblingpodcast.com/2026/11/19/college-basketball-picks-for-november-19th-ncaa-basketball-banter-best-bets-ep-1241/",
+      "episode_date": "2026-11-19",
+      "hosts": [
+        "Colby",
+        "Bieniek",
+        "Troy"
+      ],
+      "processed_utc": "2026-11-19T11:33:18+00:00",
+      "games": [
+        {
+          "date": "2026-11-19",
+          "away": "Florida",
+          "home": "West Virginia",
+          "pick": "Florida",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "-8.5",
+          "quote": "[0:47:29] I will lay the eight and a half with the Gators. I will lock it up ... [0:48:35] me and Troy lock it up Florida"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Murray St.",
+          "home": "N.C. State",
+          "pick": "N.C. State",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "-4",
+          "quote": "[0:51:48] I am locking up NC State minus four ... [0:53:47] me and Troy locking up the pussy pack"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Buffalo",
+          "home": "St. Bonaventure",
+          "pick": "Buffalo",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+10.5",
+          "quote": "[0:58:35] Lock me up. Buffalo plus 10 and a half ... [1:00:10] Double lock on a strong case of blue balls"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Montana St.",
+          "home": "High Point",
+          "pick": "High Point",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-13",
+          "quote": "[1:02:40] lock this lock. High Point ... [1:03:17] So triple lock. Let's go with high point."
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Little Rock",
+          "home": "Jacksonville",
+          "pick": "Jacksonville",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek"
+          ],
+          "line": "-2.5",
+          "quote": "[1:05:05] I'm laying the two and a half with Mency. Lock it up ... [1:06:02] Let's do it. Double lock."
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Texas A&M",
+          "home": "TCU",
+          "pick": "TCU",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[1:14:46] So I'm going to lock T.C.U. ... [1:16:07] I'll take the one and a half from D.C.U. Lock? Yeah of course"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Rutgers",
+          "home": "UNLV",
+          "pick": "UNLV",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+2.5",
+          "quote": "[1:22:46] lock it up the running Rebs ... [1:23:19] double lock those rebels"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Seton Hall",
+          "home": "Wisconsin",
+          "pick": "Seton Hall",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+5",
+          "quote": "[1:25:06] I'm locking up the pirates ... [1:25:27] locking the plus five though there we go double lock"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Utah Tech",
+          "home": "Washington",
+          "pick": "Utah Tech",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+18.5",
+          "quote": "[1:28:18] I'm gonna buy some stock on it too ... [1:29:02] 18 and a half's a big number let's go double lock"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Oregon",
+          "home": "Oregon St.",
+          "pick": "Oregon St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[1:29:59] give me the beefs to win this thing out right ... [1:30:34] double lock ... [1:30:39] we can triple lock the beefs"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "UTEP",
+          "home": "New Mexico St.",
+          "pick": "New Mexico St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-1.5",
+          "quote": "[1:32:15] I'm all over New Mexico state minus ... [1:32:29] locking it up with you ... [1:33:04] triple lock the eggie"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Southern Miss",
+          "home": "Grambling St.",
+          "pick": "Grambling St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[1:34:41] I think they should be favored ... so locking it ... [1:34:57] true double lock these Grambling Tigers"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "UC Santa Barbara",
+          "home": "Pepperdine",
+          "pick": "Pepperdine",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+2.5",
+          "quote": "[1:36:18] give me Pepperdine ... play that money line ... [1:37:23] double lock the waves"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "East Texas A&M",
+          "home": "California",
+          "pick": "East Texas A&M",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+13.5",
+          "quote": "[1:40:12] I will lock up commerce ... [1:41:04] I'll lock up the 13 and a half ... [1:41:04] this is going to be a triple lock"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Tarleton St.",
+          "home": "USC",
+          "pick": "Tarleton St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+26.5",
+          "quote": "[1:44:16] I'm locking up Johnson state plus 26 and a half ... [1:44:40] I'll take the points I'll lock this"
+        },
+        {
+          "date": "2026-11-19",
+          "away": "Houston",
+          "home": "Kansas",
+          "pick": "Houston",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-2",
+          "quote": "[1:45:24] I'm locking up fucking Houston ... [1:46:38] Houston lock ... [1:47:08] lock up Houston here"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Florida at West Virginia",
+          "host": "Colby",
+          "team": "Florida",
+          "lock": true,
+          "quote": "[0:47:29] I will lay the eight and a half with the Gators. I will lock it up ... [0:48:35] me and Troy lock it up Florida"
+        },
+        {
+          "game": "Florida at West Virginia",
+          "host": "Troy",
+          "team": "Florida",
+          "lock": true,
+          "quote": "[0:47:29] I will lay the eight and a half with the Gators. I will lock it up ... [0:48:35] me and Troy lock it up Florida"
+        },
+        {
+          "game": "Murray St. at N.C. State",
+          "host": "Colby",
+          "team": "N.C. State",
+          "lock": true,
+          "quote": "[0:51:48] I am locking up NC State minus four ... [0:53:47] me and Troy locking up the pussy pack"
+        },
+        {
+          "game": "Murray St. at N.C. State",
+          "host": "Troy",
+          "team": "N.C. State",
+          "lock": true,
+          "quote": "[0:51:48] I am locking up NC State minus four ... [0:53:47] me and Troy locking up the pussy pack"
+        },
+        {
+          "game": "Buffalo at St. Bonaventure",
+          "host": "Colby",
+          "team": "Buffalo",
+          "lock": true,
+          "quote": "[0:58:35] Lock me up. Buffalo plus 10 and a half ... [1:00:10] Double lock on a strong case of blue balls"
+        },
+        {
+          "game": "Buffalo at St. Bonaventure",
+          "host": "Troy",
+          "team": "Buffalo",
+          "lock": true,
+          "quote": "[0:58:35] Lock me up. Buffalo plus 10 and a half ... [1:00:10] Double lock on a strong case of blue balls"
+        },
+        {
+          "game": "Montana St. at High Point",
+          "host": "Colby",
+          "team": "High Point",
+          "lock": true,
+          "quote": "[1:02:40] lock this lock. High Point ... [1:03:17] So triple lock. Let's go with high point."
+        },
+        {
+          "game": "Montana St. at High Point",
+          "host": "Bieniek",
+          "team": "High Point",
+          "lock": true,
+          "quote": "[1:02:40] lock this lock. High Point ... [1:03:17] So triple lock. Let's go with high point."
+        },
+        {
+          "game": "Montana St. at High Point",
+          "host": "Troy",
+          "team": "High Point",
+          "lock": true,
+          "quote": "[1:02:40] lock this lock. High Point ... [1:03:17] So triple lock. Let's go with high point."
+        },
+        {
+          "game": "Little Rock at Jacksonville",
+          "host": "Colby",
+          "team": "Jacksonville",
+          "lock": true,
+          "quote": "[1:05:05] I'm laying the two and a half with Mency. Lock it up ... [1:06:02] Let's do it. Double lock."
+        },
+        {
+          "game": "Little Rock at Jacksonville",
+          "host": "Bieniek",
+          "team": "Jacksonville",
+          "lock": true,
+          "quote": "[1:05:05] I'm laying the two and a half with Mency. Lock it up ... [1:06:02] Let's do it. Double lock."
+        },
+        {
+          "game": "Texas A&M at TCU",
+          "host": "Bieniek",
+          "team": "TCU",
+          "lock": true,
+          "quote": "[1:14:46] So I'm going to lock T.C.U. ... [1:16:07] I'll take the one and a half from D.C.U. Lock? Yeah of course"
+        },
+        {
+          "game": "Texas A&M at TCU",
+          "host": "Troy",
+          "team": "TCU",
+          "lock": true,
+          "quote": "[1:14:46] So I'm going to lock T.C.U. ... [1:16:07] I'll take the one and a half from D.C.U. Lock? Yeah of course"
+        },
+        {
+          "game": "Rutgers at UNLV",
+          "host": "Bieniek",
+          "team": "UNLV",
+          "lock": true,
+          "quote": "[1:22:46] lock it up the running Rebs ... [1:23:19] double lock those rebels"
+        },
+        {
+          "game": "Rutgers at UNLV",
+          "host": "Troy",
+          "team": "UNLV",
+          "lock": true,
+          "quote": "[1:22:46] lock it up the running Rebs ... [1:23:19] double lock those rebels"
+        },
+        {
+          "game": "Seton Hall at Wisconsin",
+          "host": "Colby",
+          "team": "Seton Hall",
+          "lock": true,
+          "quote": "[1:25:06] I'm locking up the pirates ... [1:25:27] locking the plus five though there we go double lock"
+        },
+        {
+          "game": "Seton Hall at Wisconsin",
+          "host": "Troy",
+          "team": "Seton Hall",
+          "lock": true,
+          "quote": "[1:25:06] I'm locking up the pirates ... [1:25:27] locking the plus five though there we go double lock"
+        },
+        {
+          "game": "Utah Tech at Washington",
+          "host": "Bieniek",
+          "team": "Utah Tech",
+          "lock": true,
+          "quote": "[1:28:18] I'm gonna buy some stock on it too ... [1:29:02] 18 and a half's a big number let's go double lock"
+        },
+        {
+          "game": "Utah Tech at Washington",
+          "host": "Troy",
+          "team": "Utah Tech",
+          "lock": true,
+          "quote": "[1:28:18] I'm gonna buy some stock on it too ... [1:29:02] 18 and a half's a big number let's go double lock"
+        },
+        {
+          "game": "Oregon at Oregon St.",
+          "host": "Colby",
+          "team": "Oregon St.",
+          "lock": true,
+          "quote": "[1:29:59] give me the beefs to win this thing out right ... [1:30:34] double lock ... [1:30:39] we can triple lock the beefs"
+        },
+        {
+          "game": "Oregon at Oregon St.",
+          "host": "Bieniek",
+          "team": "Oregon St.",
+          "lock": true,
+          "quote": "[1:29:59] give me the beefs to win this thing out right ... [1:30:34] double lock ... [1:30:39] we can triple lock the beefs"
+        },
+        {
+          "game": "Oregon at Oregon St.",
+          "host": "Troy",
+          "team": "Oregon St.",
+          "lock": true,
+          "quote": "[1:29:59] give me the beefs to win this thing out right ... [1:30:34] double lock ... [1:30:39] we can triple lock the beefs"
+        },
+        {
+          "game": "UTEP at New Mexico St.",
+          "host": "Colby",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:32:15] I'm all over New Mexico state minus ... [1:32:29] locking it up with you ... [1:33:04] triple lock the eggie"
+        },
+        {
+          "game": "UTEP at New Mexico St.",
+          "host": "Bieniek",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:32:15] I'm all over New Mexico state minus ... [1:32:29] locking it up with you ... [1:33:04] triple lock the eggie"
+        },
+        {
+          "game": "UTEP at New Mexico St.",
+          "host": "Troy",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:32:15] I'm all over New Mexico state minus ... [1:32:29] locking it up with you ... [1:33:04] triple lock the eggie"
+        },
+        {
+          "game": "Southern Miss at Grambling St.",
+          "host": "Bieniek",
+          "team": "Grambling St.",
+          "lock": true,
+          "quote": "[1:34:41] I think they should be favored ... so locking it ... [1:34:57] true double lock these Grambling Tigers"
+        },
+        {
+          "game": "Southern Miss at Grambling St.",
+          "host": "Troy",
+          "team": "Grambling St.",
+          "lock": true,
+          "quote": "[1:34:41] I think they should be favored ... so locking it ... [1:34:57] true double lock these Grambling Tigers"
+        },
+        {
+          "game": "UC Santa Barbara at Pepperdine",
+          "host": "Colby",
+          "team": "Pepperdine",
+          "lock": true,
+          "quote": "[1:36:18] give me Pepperdine ... play that money line ... [1:37:23] double lock the waves"
+        },
+        {
+          "game": "UC Santa Barbara at Pepperdine",
+          "host": "Troy",
+          "team": "Pepperdine",
+          "lock": true,
+          "quote": "[1:36:18] give me Pepperdine ... play that money line ... [1:37:23] double lock the waves"
+        },
+        {
+          "game": "East Texas A&M at California",
+          "host": "Colby",
+          "team": "East Texas A&M",
+          "lock": true,
+          "quote": "[1:40:12] I will lock up commerce ... [1:41:04] I'll lock up the 13 and a half ... [1:41:04] this is going to be a triple lock"
+        },
+        {
+          "game": "East Texas A&M at California",
+          "host": "Bieniek",
+          "team": "East Texas A&M",
+          "lock": true,
+          "quote": "[1:40:12] I will lock up commerce ... [1:41:04] I'll lock up the 13 and a half ... [1:41:04] this is going to be a triple lock"
+        },
+        {
+          "game": "East Texas A&M at California",
+          "host": "Troy",
+          "team": "East Texas A&M",
+          "lock": true,
+          "quote": "[1:40:12] I will lock up commerce ... [1:41:04] I'll lock up the 13 and a half ... [1:41:04] this is going to be a triple lock"
+        },
+        {
+          "game": "Tarleton St. at USC",
+          "host": "Colby",
+          "team": "Tarleton St.",
+          "lock": true,
+          "quote": "[1:44:16] I'm locking up Johnson state plus 26 and a half ... [1:44:40] I'll take the points I'll lock this"
+        },
+        {
+          "game": "Tarleton St. at USC",
+          "host": "Troy",
+          "team": "Tarleton St.",
+          "lock": true,
+          "quote": "[1:44:16] I'm locking up Johnson state plus 26 and a half ... [1:44:40] I'll take the points I'll lock this"
+        },
+        {
+          "game": "Houston at Kansas",
+          "host": "Colby",
+          "team": "Houston",
+          "lock": true,
+          "quote": "[1:45:24] I'm locking up fucking Houston ... [1:46:38] Houston lock ... [1:47:08] lock up Houston here"
+        },
+        {
+          "game": "Houston at Kansas",
+          "host": "Bieniek",
+          "team": "Houston",
+          "lock": true,
+          "quote": "[1:45:24] I'm locking up fucking Houston ... [1:46:38] Houston lock ... [1:47:08] lock up Houston here"
+        },
+        {
+          "game": "Houston at Kansas",
+          "host": "Troy",
+          "team": "Houston",
+          "lock": true,
+          "quote": "[1:45:24] I'm locking up fucking Houston ... [1:46:38] Houston lock ... [1:47:08] lock up Houston here"
+        },
+        {
+          "game": "Florida at West Virginia",
+          "host": "Bieniek",
+          "team": "West Virginia",
+          "lock": false,
+          "quote": "[0:47:43] I disagree. I'm going to go Mountaineers here ... not going to bet"
+        },
+        {
+          "game": "Auburn at Notre Dame",
+          "host": "Colby",
+          "team": "Notre Dame",
+          "lock": false,
+          "quote": "[0:49:48] I'm taking the Irish ... no bet"
+        },
+        {
+          "game": "Auburn at Notre Dame",
+          "host": "Bieniek",
+          "team": "Auburn",
+          "lock": false,
+          "quote": "[0:50:32] I'll lay it with the Tigers"
+        },
+        {
+          "game": "Auburn at Notre Dame",
+          "host": "Troy",
+          "team": "Notre Dame",
+          "lock": false,
+          "quote": "[0:51:03] roll with Notre Dame and take the points"
+        },
+        {
+          "game": "Murray St. at N.C. State",
+          "host": "Bieniek",
+          "team": "Murray St.",
+          "lock": false,
+          "quote": "[0:53:08] I'm on Murray here (locked under)"
+        },
+        {
+          "game": "UMBC at Ohio St.",
+          "host": "Colby",
+          "team": "UMBC",
+          "lock": false,
+          "quote": "[0:54:32] I will take the points in UMBC"
+        },
+        {
+          "game": "UMBC at Ohio St.",
+          "host": "Bieniek",
+          "team": "Ohio St.",
+          "lock": false,
+          "quote": "[0:55:05] I will take Ohio State"
+        },
+        {
+          "game": "UMBC at Ohio St.",
+          "host": "Troy",
+          "team": "UMBC",
+          "lock": false,
+          "quote": "[0:55:46] I'll take UMBC in the points"
+        },
+        {
+          "game": "Robert Morris at Toledo",
+          "host": "Colby",
+          "team": "Toledo",
+          "lock": false,
+          "quote": "[0:56:34] I will not lock it, but I will lay the seven with Toledo"
+        },
+        {
+          "game": "Robert Morris at Toledo",
+          "host": "Bieniek",
+          "team": "Toledo",
+          "lock": true,
+          "quote": "[0:57:31] They win this thing by double digits. I'm locking it up."
+        },
+        {
+          "game": "Robert Morris at Toledo",
+          "host": "Troy",
+          "team": "Toledo",
+          "lock": false,
+          "quote": "[0:57:54] this is an official triple lock, but I'm not locking it"
+        },
+        {
+          "game": "Buffalo at St. Bonaventure",
+          "host": "Bieniek",
+          "team": "St. Bonaventure",
+          "lock": false,
+          "quote": "[0:59:33] So going Bonaese ... not locking"
+        },
+        {
+          "game": "Northeastern at Butler",
+          "host": "Colby",
+          "team": "Northeastern",
+          "lock": true,
+          "quote": "[1:00:42] Northeastern lock. I'm taking the fucking points"
+        },
+        {
+          "game": "Northeastern at Butler",
+          "host": "Bieniek",
+          "team": "Northeastern",
+          "lock": false,
+          "quote": "[1:01:18] I'll take North Eastern, but I'm going to stay off"
+        },
+        {
+          "game": "Northeastern at Butler",
+          "host": "Troy",
+          "team": "Butler",
+          "lock": true,
+          "quote": "[1:01:44] I'll lay the points with Butler. I'll lock this. We can battle here Colby"
+        },
+        {
+          "game": "Little Rock at Jacksonville",
+          "host": "Troy",
+          "team": "Jacksonville",
+          "lock": false,
+          "quote": "[1:06:27] I have no problem with laying two and a half"
+        },
+        {
+          "game": "Maine at Quinnipiac",
+          "host": "Colby",
+          "team": "Maine",
+          "lock": false,
+          "quote": "[1:07:17] I'll take the 11 and a half in Maine (no bet)"
+        },
+        {
+          "game": "Maine at Quinnipiac",
+          "host": "Bieniek",
+          "team": "Maine",
+          "lock": false,
+          "quote": "[1:07:34] I'll take the points"
+        },
+        {
+          "game": "Tulane at Louisiana Tech",
+          "host": "Colby",
+          "team": "Tulane",
+          "lock": false,
+          "quote": "[1:08:22] I'm taking Tulane. No bet."
+        },
+        {
+          "game": "Tulane at Louisiana Tech",
+          "host": "Bieniek",
+          "team": "Louisiana Tech",
+          "lock": false,
+          "quote": "[1:08:40] no bet for me here but I'll go Louisiana Tech"
+        },
+        {
+          "game": "Tulane at Louisiana Tech",
+          "host": "Troy",
+          "team": "Tulane",
+          "lock": true,
+          "quote": "[1:09:12] Troy lock it up the Green Wave"
+        },
+        {
+          "game": "Charleston at Drake",
+          "host": "Colby",
+          "team": "Charleston",
+          "lock": false,
+          "quote": "[1:10:15] give me Charleston to get the win (no bet)"
+        },
+        {
+          "game": "Charleston at Drake",
+          "host": "Bieniek",
+          "team": "Drake",
+          "lock": false,
+          "quote": "[1:10:23] I'm gonna go Bulldogs"
+        },
+        {
+          "game": "Charleston at Drake",
+          "host": "Troy",
+          "team": "Drake",
+          "lock": false,
+          "quote": "[1:10:41] I'm just picking Drake"
+        },
+        {
+          "game": "Georgia Southern at Houston Christian",
+          "host": "Colby",
+          "team": "Georgia Southern",
+          "lock": false,
+          "quote": "[1:12:56] I will take Southern at the points no bet"
+        },
+        {
+          "game": "Georgia Southern at Houston Christian",
+          "host": "Bieniek",
+          "team": "Houston Christian",
+          "lock": false,
+          "quote": "[1:12:47] I'll lay it ... not gonna get there"
+        },
+        {
+          "game": "Georgia Southern at Houston Christian",
+          "host": "Troy",
+          "team": "Houston Christian",
+          "lock": true,
+          "quote": "[1:13:28] Troy is locking up H.C.U."
+        },
+        {
+          "game": "Texas A&M at TCU",
+          "host": "Colby",
+          "team": "TCU",
+          "lock": false,
+          "quote": "[1:14:46] I'm going to take T.C.U. but no bet"
+        },
+        {
+          "game": "Southern Utah at Texas",
+          "host": "Colby",
+          "team": "Southern Utah",
+          "lock": false,
+          "quote": "[1:17:14] give me the points no bet"
+        },
+        {
+          "game": "Southern Utah at Texas",
+          "host": "Bieniek",
+          "team": "Texas",
+          "lock": false,
+          "quote": "[1:17:33] I'll lay it no bet"
+        },
+        {
+          "game": "Southern Utah at Texas",
+          "host": "Troy",
+          "team": "Southern Utah",
+          "lock": false,
+          "quote": "[1:17:39] I'll take the points"
+        },
+        {
+          "game": "Stetson at Louisville",
+          "host": "Colby",
+          "team": "Louisville",
+          "lock": false,
+          "quote": "[1:18:56] I feel like Louisville is the side"
+        },
+        {
+          "game": "Stetson at Louisville",
+          "host": "Bieniek",
+          "team": "Louisville",
+          "lock": false,
+          "quote": "[1:19:28] give me Louisville for the record"
+        },
+        {
+          "game": "Stetson at Louisville",
+          "host": "Troy",
+          "team": "Louisville",
+          "lock": false,
+          "quote": "[1:19:53] I'll pick Louisville but again no bet"
+        },
+        {
+          "game": "Southeast Missouri St. at St. Thomas",
+          "host": "Colby",
+          "team": "St. Thomas",
+          "lock": false,
+          "quote": "[1:20:37] I will lay the number (no bet)"
+        },
+        {
+          "game": "Southeast Missouri St. at St. Thomas",
+          "host": "Bieniek",
+          "team": "St. Thomas",
+          "lock": false,
+          "quote": "[1:21:05] I'll lay but no no bet"
+        },
+        {
+          "game": "Southeast Missouri St. at St. Thomas",
+          "host": "Troy",
+          "team": "St. Thomas",
+          "lock": false,
+          "quote": "[1:21:17] I would lay this with St. Thomas but I'm not there"
+        },
+        {
+          "game": "Rutgers at UNLV",
+          "host": "Colby",
+          "team": "Rutgers",
+          "lock": false,
+          "quote": "[1:21:55] I will lay it with Rutgers ... I'm staying away"
+        },
+        {
+          "game": "Seton Hall at Wisconsin",
+          "host": "Bieniek",
+          "team": "Seton Hall",
+          "lock": false,
+          "quote": "[1:25:37] I'll pick the pirates (locked under)"
+        },
+        {
+          "game": "Utah Tech at Washington",
+          "host": "Colby",
+          "team": "Utah Tech",
+          "lock": false,
+          "quote": "[1:28:10] give me the 18 and a half and Dixie state no bet"
+        },
+        {
+          "game": "UC Santa Barbara at Pepperdine",
+          "host": "Bieniek",
+          "team": "UC Santa Barbara",
+          "lock": false,
+          "quote": "[1:36:57] I will take the Gaucho's but I am staying away"
+        },
+        {
+          "game": "Sacramento St. at Stanford",
+          "host": "Colby",
+          "team": "Sacramento St.",
+          "lock": false,
+          "quote": "[1:38:25] give me Sac State no bet"
+        },
+        {
+          "game": "Sacramento St. at Stanford",
+          "host": "Bieniek",
+          "team": "Sacramento St.",
+          "lock": false,
+          "quote": "[1:38:35] I'll finally fade them here I'll go Hornets"
+        },
+        {
+          "game": "Sacramento St. at Stanford",
+          "host": "Troy",
+          "team": "Sacramento St.",
+          "lock": false,
+          "quote": "[1:39:00] take the sacks"
+        },
+        {
+          "game": "VCU at Santa Clara",
+          "host": "Colby",
+          "team": "Santa Clara",
+          "lock": true,
+          "quote": "[1:42:15] I will lay the two and a half with Santa Clara ... I'm locking this"
+        },
+        {
+          "game": "VCU at Santa Clara",
+          "host": "Bieniek",
+          "team": "Santa Clara",
+          "lock": false,
+          "quote": "[1:43:16] give me the Broncos I'll lay it"
+        },
+        {
+          "game": "VCU at Santa Clara",
+          "host": "Troy",
+          "team": "VCU",
+          "lock": false,
+          "quote": "[1:43:37] we'll take VCU keep the points"
+        },
+        {
+          "game": "Tarleton St. at USC",
+          "host": "Bieniek",
+          "team": "USC",
+          "lock": false,
+          "quote": "[1:44:31] Trojan men lock no (unclear speaker)"
+        }
+      ],
+      "unmatched": []
+    },
+    "5-5370-8670-bb08ee40e969": {
+      "title": "College Basketball PICKS ONLY - Wednesday, November 18th | TCE Trims (Ep. 1239)",
+      "episode_date": "2026-11-18",
+      "skipped": "same picks as b-53bc-9bb0-ad280e1ece41",
+      "games": []
+    },
+    "c-5881-8350-5a4e54764215": {
+      "title": "College Basketball Best Bets For November 18th - Spread & Moneyline Betting Picks | TCE Trims (Ep. 1240)",
+      "episode_date": "2026-11-18",
+      "skipped": "same picks as b-53bc-9bb0-ad280e1ece41",
+      "games": []
     }
   }
 }
