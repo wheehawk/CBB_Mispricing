@@ -1,8 +1,194 @@
 {
- "generated_utc": "2026-11-19T11:33+00:00",
+ "generated_utc": "2026-11-19T19:27+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
+  {
+   "id": "cd5851d9377b5aa32b67f9c534385a0c",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-19",
+   "tip_et": "Thu Nov 19, 10:00 PM ET",
+   "away": "East Texas A&M",
+   "home": "California",
+   "neutral": false,
+   "venue": {
+    "name": "Haas Pavilion",
+    "city": "Berkeley, CA",
+    "neutral": false,
+    "tv": [
+     "ACCNX"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Haas Pavilion, Berkeley, CA",
+   "pick": {
+    "team": "East Texas A&M",
+    "team_bold": "\ud835\udc04\ud835\udc1a\ud835\udc2c\ud835\udc2d \ud835\udc13\ud835\udc1e\ud835\udc31\ud835\udc1a\ud835\udc2c \ud835\udc00&\ud835\udc0c",
+    "side": "away",
+    "market_line": 14.5,
+    "best": [
+     14.5,
+     -110,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": 12.8,
+    "torvik_edge": 1.7,
+    "kenpom_line": 12.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 143.3,
+    "kenpom_total": 146.0,
+    "market_total": null,
+    "torvik_tempo": 68.3,
+    "kenpom_tempo": 68.0,
+    "kenpom_home_win_prob": 86.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "away",
+    "team": "East Texas A&M",
+    "hosts": [
+     "Colby",
+     "Bieniek",
+     "Troy"
+    ],
+    "line": "+13.5",
+    "label": "3/3 lock: East Texas A&M"
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "East Texas A&M",
+     "kenpom_url": "https://kenpom.com/team.php?team=East+Texas+A%26M",
+     "record": "3-2",
+     "coach": "Jaret Von Rosenberg",
+     "conf": "Slnd",
+     "arena": "The Field House, Commerce, TX",
+     "ratings": {
+      "AdjEM": -7.5162,
+      "RankAdjEM": 249,
+      "AdjOE": 101.863,
+      "RankAdjOE": 263,
+      "AdjDE": 109.379,
+      "RankAdjDE": 227,
+      "AdjTempo": 68.4679,
+      "RankAdjTempo": 258,
+      "SOS": 3.9853,
+      "RankSOS": 122,
+      "Luck": 0.2367
+     },
+     "four_factors": {
+      "eFG_Pct": 50.9524,
+      "RankeFG_Pct": 174,
+      "TO_Pct": 22.1629,
+      "RankTO_Pct": 325,
+      "OR_Pct": 38.1443,
+      "RankOR_Pct": 66,
+      "FT_Rate": 30.1587,
+      "RankFT_Rate": 274,
+      "DeFG_Pct": 50.4983,
+      "RankDeFG_Pct": 177,
+      "DTO_Pct": 18.8795,
+      "RankDTO_Pct": 128,
+      "DOR_Pct": 41.3043,
+      "RankDOR_Pct": 342,
+      "DFT_Rate": 48.8372,
+      "RankDFT_Rate": 320
+     },
+     "shooting": {
+      "FG3Pct": 36.4238,
+      "RankFG3Pct": 85,
+      "FG2Pct": 47.561,
+      "FTPct": 63.1579,
+      "F3GRate": 47.9365,
+      "RankF3GRate": 58,
+      "OppFG3Pct": 32.4786,
+      "RankOppFG3Pct": 177,
+      "BlockPct": 7.0652,
+      "StlRate": 0.1313,
+      "ARate": 68.4211
+     },
+     "size": {
+      "AvgHgt": 76.95,
+      "AvgHgtRank": 273,
+      "HgtEff": 0.01,
+      "Exp": 1.0402,
+      "ExpRank": 252,
+      "Bench": 29.6,
+      "Continuity": 0.0074
+     }
+    },
+    "home": {
+     "name": "California",
+     "kenpom_url": "https://kenpom.com/team.php?team=California",
+     "record": "3-2",
+     "coach": "Mark Madsen",
+     "conf": "ACC",
+     "arena": "Haas Pavilion, Berkeley, CA",
+     "ratings": {
+      "AdjEM": 5.842,
+      "RankAdjEM": 105,
+      "AdjOE": 110.811,
+      "RankAdjOE": 103,
+      "AdjDE": 104.969,
+      "RankAdjDE": 127,
+      "AdjTempo": 68.9935,
+      "RankAdjTempo": 224,
+      "SOS": 5.1647,
+      "RankSOS": 108,
+      "Luck": 0.0694
+     },
+     "four_factors": {
+      "eFG_Pct": 48.419,
+      "RankeFG_Pct": 237,
+      "TO_Pct": 16.1486,
+      "RankTO_Pct": 109,
+      "OR_Pct": 32.0755,
+      "RankOR_Pct": 181,
+      "FT_Rate": 28.0632,
+      "RankFT_Rate": 309,
+      "DeFG_Pct": 51.5686,
+      "RankDeFG_Pct": 207,
+      "DTO_Pct": 17.2251,
+      "RankDTO_Pct": 205,
+      "DOR_Pct": 37.0629,
+      "RankDOR_Pct": 295,
+      "DFT_Rate": 21.9608,
+      "RankDFT_Rate": 7
+     },
+     "shooting": {
+      "FG3Pct": 33.0189,
+      "RankFG3Pct": 166,
+      "FG2Pct": 47.619,
+      "FTPct": 71.831,
+      "F3GRate": 41.8972,
+      "RankF3GRate": 168,
+      "OppFG3Pct": 32.5301,
+      "RankOppFG3Pct": 183,
+      "BlockPct": 4.0698,
+      "StlRate": 0.1112,
+      "ARate": 58.0952
+     },
+     "size": {
+      "AvgHgt": 78.07,
+      "AvgHgtRank": 79,
+      "HgtEff": 1.29,
+      "Exp": 1.1315,
+      "ExpRank": 236,
+      "Bench": 35.12,
+      "Continuity": 0.1119
+     }
+    }
+   },
+   "players": null
+  },
   {
    "id": "32098b4b5ed4967c39128b31e6d16b6c",
    "priority": [
@@ -31,7 +217,7 @@
     "market_line": -1.5,
     "best": [
      -1.5,
-     -106,
+     -104,
      "LowVig.ag"
     ]
    },
@@ -214,18 +400,18 @@
     "team": "Tarleton St.",
     "team_bold": "\ud835\udc13\ud835\udc1a\ud835\udc2b\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc28\ud835\udc27 \ud835\udc12\ud835\udc2d.",
     "side": "away",
-    "market_line": 26.5,
+    "market_line": 27.8,
     "best": [
-     26.5,
-     -102,
-     "FanDuel"
+     28.5,
+     -110,
+     "BetMGM"
     ]
    },
    "models": {
     "torvik_line": 20.0,
-    "torvik_edge": 6.5,
+    "torvik_edge": 7.8,
     "kenpom_line": 23.0,
-    "kenpom_edge": 3.5,
+    "kenpom_edge": 4.8,
     "kenpom_source": "FanMatch",
     "torvik_total": 161.3,
     "kenpom_total": 157.0,
@@ -378,7 +564,7 @@
    "id": "7f7fd17bc583d3d43cdde63affb31764",
    "priority": [
     1,
-    1
+    0
    ],
    "date": "2026-11-19",
    "tip_et": "Thu Nov 19, 8:30 PM ET",
@@ -399,18 +585,18 @@
     "team": "Seton Hall",
     "team_bold": "\ud835\udc12\ud835\udc1e\ud835\udc2d\ud835\udc28\ud835\udc27 \ud835\udc07\ud835\udc1a\ud835\udc25\ud835\udc25",
     "side": "home",
-    "market_line": 4.5,
+    "market_line": 5.0,
     "best": [
-     4.5,
+     5.5,
      -110,
-     "FanDuel"
+     "BetMGM"
     ]
    },
    "models": {
     "torvik_line": 1.9,
-    "torvik_edge": 2.6,
+    "torvik_edge": 3.1,
     "kenpom_line": 2.0,
-    "kenpom_edge": 2.5,
+    "kenpom_edge": 3.0,
     "kenpom_source": "FanMatch",
     "torvik_total": 141.3,
     "kenpom_total": 142.0,
@@ -420,7 +606,7 @@
     "kenpom_home_win_prob": 41.0
    },
    "flagged": true,
-   "star": false,
+   "star": true,
    "podcast": {
     "category": "2/3 lock",
     "side": "home",

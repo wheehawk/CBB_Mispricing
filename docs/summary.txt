@@ -1,5 +1,5 @@
 🏀 CBB SCREENER · Thu Nov 19
-13 plays · 3 with podcast lock · 0 conf home dogs
+12 plays · 4 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
@@ -7,139 +7,133 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 ────────────────────────
 𝐍𝐞𝐰 𝐌𝐞𝐱𝐢𝐜𝐨 𝐒𝐭. -1.5
    vs UTEP (home) · Thu 9:00 PM
-   Best -1.5 (-106) LowVig.ag
+   Best -1.5 (-104) LowVig.ag
    Torvik -3.2 (edge 1.7)
    KenPom -4.0 (edge 2.5)
    🎙 Podcast AGREES: 3/3 lock New Mexico St.
 
-𝐒𝐞𝐭𝐨𝐧 𝐇𝐚𝐥𝐥 +4.5
+𝐄𝐚𝐬𝐭 𝐓𝐞𝐱𝐚𝐬 𝐀&𝐌 +14.5
+   at California · Thu 10:00 PM
+   Best +14.5 (-110) BetRivers
+   Torvik +12.8 (edge 1.7)
+   KenPom +12.0 (edge 2.5)
+   🎙 Podcast AGREES: 3/3 lock East Texas A&M
+
+★ 𝐒𝐞𝐭𝐨𝐧 𝐇𝐚𝐥𝐥 +5
    vs Wisconsin (neutral) · Thu 8:30 PM
-   Best +4.5 (-110) FanDuel
-   Torvik +1.9 (edge 2.6)
-   KenPom +2.0 (edge 2.5)
+   Best +5.5 (-110) BetMGM
+   Torvik +1.9 (edge 3.1)
+   KenPom +2.0 (edge 3.0)
    🎙 Podcast AGREES: 2/3 lock Seton Hall
 
-★ 𝐓𝐚𝐫𝐥𝐞𝐭𝐨𝐧 𝐒𝐭. +26.5
+★ 𝐓𝐚𝐫𝐥𝐞𝐭𝐨𝐧 𝐒𝐭. +28
    at USC · Thu 11:00 PM
-   Best +26.5 (-102) FanDuel
-   Torvik +20.0 (edge 6.5)
-   KenPom +23.0 (edge 3.5)
+   Best +28.5 (-110) BetMGM
+   Torvik +20.0 (edge 7.8)
+   KenPom +23.0 (edge 4.8)
    🎙 Podcast AGREES: 2/3 lock Tarleton St.
 
 ────────────────────────
-📊 OTHER PLAYS (10)
+📊 OTHER PLAYS (8)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐌𝐨𝐧𝐭𝐚𝐧𝐚 𝐒𝐭. +13.5
+★ 𝐒𝐭𝐞𝐭𝐬𝐨𝐧 +36.5
+   at Louisville · Thu 8:00 PM
+   Best +36.5 (-109) BetRivers
+   Torvik +30.7 (edge 5.8)
+   KenPom +26.0 (edge 10.5)
+
+★ 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐔𝐭𝐚𝐡 +35.5
+   at Texas · Thu 8:00 PM
+   Best +36.5 (-115) BetRivers
+   Torvik +29.6 (edge 5.9)
+   KenPom +30.0 (edge 5.5)
+
+𝐌𝐨𝐧𝐭𝐚𝐧𝐚 𝐒𝐭. +12.5
    at High Point · Thu 7:00 PM
-   Best +13.5 (-106) LowVig.ag
-   Torvik +10.1 (edge 3.4)
-   KenPom +10.0 (edge 3.5)
+   Best +12.5 (-101) LowVig.ag
+   Torvik +10.1 (edge 2.4)
+   KenPom +10.0 (edge 2.5)
    🎙 Podcast OPPOSES: 3/3 lock High Point
 
-★ 𝐒𝐭𝐞𝐭𝐬𝐨𝐧 +34.5
-   at Louisville · Thu 8:00 PM
-   Best +35.5 (-110) DraftKings
-   Torvik +30.7 (edge 3.8)
-   KenPom +26.0 (edge 8.5)
-
-★ 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐔𝐭𝐚𝐡 +38.5
-   at Texas · Thu 8:00 PM
-   Best +38.5 (-108) DraftKings
-   Torvik +29.6 (edge 8.9)
-   KenPom +30.0 (edge 8.5)
-
-𝐖𝐞𝐬𝐭 𝐕𝐢𝐫𝐠𝐢𝐧𝐢𝐚 +9.5
-   vs Florida (neutral) · Thu 2:30 PM
-   Best +9.5 (-110) FanDuel
-   Torvik +6.1 (edge 3.4)
-   KenPom +7.0 (edge 2.5)
-   🎙 Podcast OPPOSES: 2/3 lock Florida
-
-𝐌𝐚𝐢𝐧𝐞 +11.5
-   at Quinnipiac · Thu 7:00 PM
-   Best +11.5 (-106) LowVig.ag
-   Torvik +8.9 (edge 2.6)
-   KenPom +7.0 (edge 4.5)
-
-𝐔𝐌𝐁𝐂 +31.5
-   at Ohio St. · Thu 7:00 PM
-   Best +31.5 (-106) LowVig.ag
-   Torvik +29.1 (edge 2.4)
-   KenPom +26.0 (edge 5.5)
+𝐓𝐮𝐥𝐚𝐧𝐞 +2
+   at Louisiana Tech · Thu 7:30 PM
+   Best +2.5 (-115) DraftKings
+   Torvik -0.6 (edge 2.4)
+   KenPom -2.0 (edge 3.8)
 
 𝐇𝐨𝐮𝐬𝐭𝐨𝐧 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧 -3.5
    vs Georgia Southern (home) · Thu 8:00 PM
-   Best -3.5 (-110) Bovada
+   Best -3 (-115) Bovada
    Torvik -5.6 (edge 2.1)
    KenPom -5.0 (edge 1.5)
 
-𝐎𝐫𝐞𝐠𝐨𝐧 -1
+𝐎𝐫𝐞𝐠𝐨𝐧 -1.5
    vs Oregon St. (neutral) · Thu 9:00 PM
-   Best -1 (-101) LowVig.ag
-   Torvik -5.4 (edge 4.2)
-   KenPom -3.0 (edge 1.8)
+   Best -1.5 (-106) LowVig.ag
+   Torvik -5.4 (edge 3.9)
+   KenPom -3.0 (edge 1.5)
    🎙 Podcast OPPOSES: 3/3 lock Oregon St.
 
 𝐒𝐚𝐜𝐫𝐚𝐦𝐞𝐧𝐭𝐨 𝐒𝐭. +17
    at Stanford · Thu 10:00 PM
-   Best +17.5 (-115) BetMGM
+   Best +17.5 (-115) BetRivers
    Torvik +11.3 (edge 5.7)
    KenPom +15.0 (edge 2.0)
 
-𝐊𝐚𝐧𝐬𝐚𝐬 +2.5
+𝐊𝐚𝐧𝐬𝐚𝐬 +3.5
    vs Houston (neutral) · Thu 11:00 PM
-   Best +2.5 (-101) LowVig.ag
-   Torvik -0.2 (edge 2.7)
-   KenPom +1.0 (edge 1.5)
+   Best +3.5 (-106) LowVig.ag
+   Torvik -0.2 (edge 3.7)
+   KenPom +1.0 (edge 2.5)
    🎙 Podcast OPPOSES: 3/3 lock Houston
 
 ────────────────────────
 🎙 PODCAST LOCKS (15)
 ────────────────────────
-3/3 lock: High Point -13.5
+3/3 lock: High Point -12.5
    Thu 7:00 PM · ❌ models on other side
 
 3/3 lock: New Mexico St. -1.5
    Thu 9:00 PM · ✅ models agree
 
-3/3 lock: Oregon St. +1
+3/3 lock: Oregon St. +1.5
    Thu 9:00 PM · ❌ models on other side
 
-3/3 lock: East Texas A&M +13.5
-   Thu 10:00 PM · models: Torvik +0.7, KenPom +1.5
+3/3 lock: East Texas A&M +14.5
+   Thu 10:00 PM · ✅ models agree
 
-3/3 lock: Houston -2.5
+3/3 lock: Houston -3.5
    Thu 11:00 PM · ❌ models on other side
 
-2/3 lock: Florida -9.5
-   Thu 2:30 PM · ❌ models on other side
+2/3 lock: Florida -7.5
+   Thu 2:30 PM · models: Torvik -1.4, KenPom -0.5
 
-2/3 lock: N.C. State -4.5
-   Thu 6:00 PM · models: Torvik +3.1, KenPom -1.5
+2/3 lock: N.C. State -3.5
+   Thu 6:00 PM · models: Torvik +4.1, KenPom -0.5
 
-2/3 lock: Buffalo +10.5
-   Thu 7:00 PM · models: Torvik -1.7, KenPom +2.5
-
-2/3 lock: Grambling St. +1.5
-   Thu 7:00 PM · models: Torvik +0.3, KenPom +2.5
+2/3 lock: Buffalo +12
+   Thu 7:00 PM · models: Torvik -0.2, KenPom +4.0
 
 2/3 lock: TCU PK
-   Thu 8:00 PM · models: Torvik -0.2, KenPom -3.8
+   Thu 8:00 PM · models: Torvik -0.7, KenPom -4.2
 
 2/3 lock: UNLV +2.5
    Thu 8:30 PM · models: Torvik -1.0, KenPom +0.5
 
-2/3 lock: Seton Hall +4.5
+2/3 lock: Seton Hall +5
    Thu 8:30 PM · ✅ models agree
 
-2/3 lock: Pepperdine +2.5
-   Thu 9:00 PM · models: Torvik -0.5, KenPom -4.5
+2/3 lock: Grambling St. +1.5
+   Thu 9:00 PM · models: Torvik +0.3, KenPom +2.5
 
-2/3 lock: Utah Tech +18.5
-   Thu 9:00 PM · models: Torvik -2.2, KenPom +3.5
+2/3 lock: Pepperdine +2
+   Thu 9:00 PM · models: Torvik -0.8, KenPom -4.8
 
-2/3 lock: Tarleton St. +26.5
+2/3 lock: Utah Tech +17
+   Thu 9:00 PM · models: Torvik -3.7, KenPom +2.0
+
+2/3 lock: Tarleton St. +28
    Thu 11:00 PM · ✅ models agree
 
 ────────────────────────
