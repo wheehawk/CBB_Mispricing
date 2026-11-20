@@ -1,6 +1,193 @@
 {
- "generated_utc": "2026-11-20T11:18+00:00",
+ "generated_utc": "2026-11-20T16:05+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "70ee5e0a821c9547549edc4e946098e2",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-20",
+   "tip_et": "Fri Nov 20, 7:00 PM ET",
+   "away": "Georgia St.",
+   "home": "Jacksonville St.",
+   "neutral": false,
+   "venue": {
+    "name": "Pete Mathews Coliseum",
+    "city": "Jacksonville, AL",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Mathews Coliseum, Jacksonville, AL",
+   "pick": {
+    "team": "Jacksonville St.",
+    "team_bold": "\ud835\udc09\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc2c\ud835\udc28\ud835\udc27\ud835\udc2f\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc1e \ud835\udc12\ud835\udc2d.",
+    "side": "home",
+    "market_line": 0.0,
+    "best": [
+     1.5,
+     -122,
+     "FanDuel"
+    ]
+   },
+   "models": {
+    "torvik_line": -2.3,
+    "torvik_edge": 2.3,
+    "kenpom_line": -2.0,
+    "kenpom_edge": 2.0,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 138.7,
+    "kenpom_total": 140.0,
+    "market_total": null,
+    "torvik_tempo": 63.7,
+    "kenpom_tempo": 65.0,
+    "kenpom_home_win_prob": 58.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "home",
+    "team": "Jacksonville St.",
+    "hosts": [
+     "Bieniek",
+     "Mac",
+     "Josh"
+    ],
+    "line": "-1.5",
+    "label": "3/3 lock: Jacksonville St."
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Georgia St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Georgia+St.",
+     "record": "2-3",
+     "coach": "Jon Cremins",
+     "conf": "SB",
+     "arena": "GSU Convocation Center, Atlanta, GA",
+     "ratings": {
+      "AdjEM": -3.4393,
+      "RankAdjEM": 196,
+      "AdjOE": 106.097,
+      "RankAdjOE": 177,
+      "AdjDE": 109.537,
+      "RankAdjDE": 226,
+      "AdjTempo": 67.9792,
+      "RankAdjTempo": 275,
+      "SOS": -3.863,
+      "RankSOS": 237,
+      "Luck": -0.3239
+     },
+     "four_factors": {
+      "eFG_Pct": 55.2419,
+      "RankeFG_Pct": 72,
+      "TO_Pct": 14.4987,
+      "RankTO_Pct": 42,
+      "OR_Pct": 28.0576,
+      "RankOR_Pct": 261,
+      "FT_Rate": 23.3871,
+      "RankFT_Rate": 348,
+      "DeFG_Pct": 52.3305,
+      "RankDeFG_Pct": 228,
+      "DTO_Pct": 16.311,
+      "RankDTO_Pct": 240,
+      "DOR_Pct": 33.5616,
+      "RankDOR_Pct": 227,
+      "DFT_Rate": 38.5593,
+      "RankDFT_Rate": 214
+     },
+     "shooting": {
+      "FG3Pct": 41.8182,
+      "RankFG3Pct": 17,
+      "FG2Pct": 49.2754,
+      "FTPct": 62.069,
+      "F3GRate": 44.3548,
+      "RankF3GRate": 119,
+      "OppFG3Pct": 37.234,
+      "RankOppFG3Pct": 302,
+      "BlockPct": 11.2676,
+      "StlRate": 0.0834,
+      "ARate": 50.8772
+     },
+     "size": {
+      "AvgHgt": 75.79,
+      "AvgHgtRank": 360,
+      "HgtEff": -1.25,
+      "Exp": 2.2358,
+      "ExpRank": 42,
+      "Bench": 16.96,
+      "Continuity": 0.0221
+     }
+    },
+    "home": {
+     "name": "Jacksonville St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Jacksonville+St.",
+     "record": "2-3",
+     "coach": "Ray Harper",
+     "conf": "CUSA",
+     "arena": "Mathews Coliseum, Jacksonville, AL",
+     "ratings": {
+      "AdjEM": -3.3184,
+      "RankAdjEM": 195,
+      "AdjOE": 104.315,
+      "RankAdjOE": 222,
+      "AdjDE": 107.633,
+      "RankAdjDE": 178,
+      "AdjTempo": 66.2382,
+      "RankAdjTempo": 343,
+      "SOS": 5.6589,
+      "RankSOS": 104,
+      "Luck": -0.0356
+     },
+     "four_factors": {
+      "eFG_Pct": 48.7013,
+      "RankeFG_Pct": 225,
+      "TO_Pct": 20.2588,
+      "RankTO_Pct": 272,
+      "OR_Pct": 29.4521,
+      "RankOR_Pct": 236,
+      "FT_Rate": 25.5411,
+      "RankFT_Rate": 338,
+      "DeFG_Pct": 50.4032,
+      "RankDeFG_Pct": 167,
+      "DTO_Pct": 12.1553,
+      "RankDTO_Pct": 353,
+      "DOR_Pct": 32.8767,
+      "RankDOR_Pct": 209,
+      "DFT_Rate": 33.0645,
+      "RankDFT_Rate": 127
+     },
+     "shooting": {
+      "FG3Pct": 36.1111,
+      "RankFG3Pct": 91,
+      "FG2Pct": 43.9024,
+      "FTPct": 59.322,
+      "F3GRate": 46.7532,
+      "RankF3GRate": 72,
+      "OppFG3Pct": 29.2135,
+      "RankOppFG3Pct": 83,
+      "BlockPct": 10.0629,
+      "StlRate": 0.0921,
+      "ARate": 59.1398
+     },
+     "size": {
+      "AvgHgt": 78.11,
+      "AvgHgtRank": 72,
+      "HgtEff": -0.38,
+      "Exp": 1.2662,
+      "ExpRank": 201,
+      "Bench": 27.6,
+      "Continuity": 0
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
