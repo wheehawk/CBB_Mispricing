@@ -2147,6 +2147,446 @@
       "episode_date": "2026-11-19",
       "skipped": "same picks as 7-5dd3-b192-0f0d7905786d",
       "games": []
+    },
+    "c-5134-ab6a-fc405678c62a": {
+      "title": "College Basketball Picks For November 20th - NCAA Basketball Banter & Best Bets (Ep. 1244)",
+      "url": "https://www.sportsgamblingpodcast.com",
+      "episode_date": "2026-11-20",
+      "hosts": [
+        "Mac",
+        "Bieniek",
+        "Josh"
+      ],
+      "processed_utc": "2026-11-20T16:04:02+00:00",
+      "games": [
+        {
+          "date": "2026-11-20",
+          "away": "Dayton",
+          "home": "Utah",
+          "pick": "Dayton",
+          "category": "3/3 lock",
+          "hosts": [
+            "Mac",
+            "Bieniek",
+            "Josh"
+          ],
+          "line": "+1.5",
+          "quote": "[0:54:43] Lock Dayton ... [0:55:15] Triple lock this baby up ... I'm also in on Dayton"
+        },
+        {
+          "date": "2026-11-20",
+          "away": "Georgia St.",
+          "home": "Jacksonville St.",
+          "pick": "Jacksonville St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Mac",
+            "Josh"
+          ],
+          "line": "-1.5",
+          "quote": "[1:12:28] Let's lock up the Game Cocks here ... Yep. Lock it up ... [1:12:51] Oh baby, triple"
+        },
+        {
+          "date": "2026-11-20",
+          "away": "South Carolina St.",
+          "home": "The Citadel",
+          "pick": "South Carolina St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Mac",
+            "Bieniek",
+            "Josh"
+          ],
+          "line": "+2.5",
+          "quote": "[1:18:06] I will go SC State, and yeah, I'll lock it up with you ... Jay North ... Are you in it too? Play that music."
+        },
+        {
+          "date": "2026-11-20",
+          "away": "N.C. State",
+          "home": "Seton Hall",
+          "pick": "Seton Hall",
+          "category": "3/3 lock",
+          "hosts": [
+            "Mac",
+            "Bieniek",
+            "Josh"
+          ],
+          "line": "-1.5",
+          "quote": "[1:41:17] I'm going to lock up the Pirates ... [1:41:44] I'm locking up Shaheen ... Seton Hall ... [1:42:30] I'm also locking up Seton Hall"
+        },
+        {
+          "date": "2026-11-20",
+          "away": "Saint Louis",
+          "home": "Saint Mary's",
+          "pick": "Saint Louis",
+          "category": "3/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Mac",
+            "Josh"
+          ],
+          "line": "+1.5",
+          "quote": "[1:44:33] Give me the Billy's locking it up ... [1:44:55] Locking it up. I agree ... [1:45:16] Yeah. I'll lock it up"
+        },
+        {
+          "date": "2026-11-20",
+          "away": "George Washington",
+          "home": "UAB",
+          "pick": "UAB",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Josh"
+          ],
+          "line": "+10.5",
+          "quote": "[0:42:40] I'll take Andy Kennedy ... Lock it up ... [0:42:47] I am taking GW, but we've got a double lock on these Blazers of UAB"
+        },
+        {
+          "date": "2026-11-20",
+          "away": "East Carolina",
+          "home": "Utah Valley",
+          "pick": "East Carolina",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Josh"
+          ],
+          "line": "+3.5 (ML)",
+          "quote": "[1:32:35] there's no way I'm not taking ECU in the money line ... [1:33:42] It's a double lock. They believe in the spirit of ECU (Bieniek picked ECU no bet, locked the under)"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Dayton at Utah",
+          "host": "Mac",
+          "team": "Dayton",
+          "lock": true,
+          "quote": "[0:54:43] Lock Dayton ... [0:55:15] Triple lock this baby up ... I'm also in on Dayton"
+        },
+        {
+          "game": "Dayton at Utah",
+          "host": "Bieniek",
+          "team": "Dayton",
+          "lock": true,
+          "quote": "[0:54:43] Lock Dayton ... [0:55:15] Triple lock this baby up ... I'm also in on Dayton"
+        },
+        {
+          "game": "Dayton at Utah",
+          "host": "Josh",
+          "team": "Dayton",
+          "lock": true,
+          "quote": "[0:54:43] Lock Dayton ... [0:55:15] Triple lock this baby up ... I'm also in on Dayton"
+        },
+        {
+          "game": "Georgia St. at Jacksonville St.",
+          "host": "Bieniek",
+          "team": "Jacksonville St.",
+          "lock": true,
+          "quote": "[1:12:28] Let's lock up the Game Cocks here ... Yep. Lock it up ... [1:12:51] Oh baby, triple"
+        },
+        {
+          "game": "Georgia St. at Jacksonville St.",
+          "host": "Mac",
+          "team": "Jacksonville St.",
+          "lock": true,
+          "quote": "[1:12:28] Let's lock up the Game Cocks here ... Yep. Lock it up ... [1:12:51] Oh baby, triple"
+        },
+        {
+          "game": "Georgia St. at Jacksonville St.",
+          "host": "Josh",
+          "team": "Jacksonville St.",
+          "lock": true,
+          "quote": "[1:12:28] Let's lock up the Game Cocks here ... Yep. Lock it up ... [1:12:51] Oh baby, triple"
+        },
+        {
+          "game": "South Carolina St. at The Citadel",
+          "host": "Mac",
+          "team": "South Carolina St.",
+          "lock": true,
+          "quote": "[1:18:06] I will go SC State, and yeah, I'll lock it up with you ... Jay North ... Are you in it too? Play that music."
+        },
+        {
+          "game": "South Carolina St. at The Citadel",
+          "host": "Bieniek",
+          "team": "South Carolina St.",
+          "lock": true,
+          "quote": "[1:18:06] I will go SC State, and yeah, I'll lock it up with you ... Jay North ... Are you in it too? Play that music."
+        },
+        {
+          "game": "South Carolina St. at The Citadel",
+          "host": "Josh",
+          "team": "South Carolina St.",
+          "lock": true,
+          "quote": "[1:18:06] I will go SC State, and yeah, I'll lock it up with you ... Jay North ... Are you in it too? Play that music."
+        },
+        {
+          "game": "N.C. State at Seton Hall",
+          "host": "Mac",
+          "team": "Seton Hall",
+          "lock": true,
+          "quote": "[1:41:17] I'm going to lock up the Pirates ... [1:41:44] I'm locking up Shaheen ... Seton Hall ... [1:42:30] I'm also locking up Seton Hall"
+        },
+        {
+          "game": "N.C. State at Seton Hall",
+          "host": "Bieniek",
+          "team": "Seton Hall",
+          "lock": true,
+          "quote": "[1:41:17] I'm going to lock up the Pirates ... [1:41:44] I'm locking up Shaheen ... Seton Hall ... [1:42:30] I'm also locking up Seton Hall"
+        },
+        {
+          "game": "N.C. State at Seton Hall",
+          "host": "Josh",
+          "team": "Seton Hall",
+          "lock": true,
+          "quote": "[1:41:17] I'm going to lock up the Pirates ... [1:41:44] I'm locking up Shaheen ... Seton Hall ... [1:42:30] I'm also locking up Seton Hall"
+        },
+        {
+          "game": "Saint Louis at Saint Mary's",
+          "host": "Bieniek",
+          "team": "Saint Louis",
+          "lock": true,
+          "quote": "[1:44:33] Give me the Billy's locking it up ... [1:44:55] Locking it up. I agree ... [1:45:16] Yeah. I'll lock it up"
+        },
+        {
+          "game": "Saint Louis at Saint Mary's",
+          "host": "Mac",
+          "team": "Saint Louis",
+          "lock": true,
+          "quote": "[1:44:33] Give me the Billy's locking it up ... [1:44:55] Locking it up. I agree ... [1:45:16] Yeah. I'll lock it up"
+        },
+        {
+          "game": "Saint Louis at Saint Mary's",
+          "host": "Josh",
+          "team": "Saint Louis",
+          "lock": true,
+          "quote": "[1:44:33] Give me the Billy's locking it up ... [1:44:55] Locking it up. I agree ... [1:45:16] Yeah. I'll lock it up"
+        },
+        {
+          "game": "George Washington at UAB",
+          "host": "Mac",
+          "team": "UAB",
+          "lock": true,
+          "quote": "[0:42:40] I'll take Andy Kennedy ... Lock it up ... [0:42:47] I am taking GW, but we've got a double lock on these Blazers of UAB"
+        },
+        {
+          "game": "George Washington at UAB",
+          "host": "Josh",
+          "team": "UAB",
+          "lock": true,
+          "quote": "[0:42:40] I'll take Andy Kennedy ... Lock it up ... [0:42:47] I am taking GW, but we've got a double lock on these Blazers of UAB"
+        },
+        {
+          "game": "East Carolina at Utah Valley",
+          "host": "Mac",
+          "team": "East Carolina",
+          "lock": true,
+          "quote": "[1:32:35] there's no way I'm not taking ECU in the money line ... [1:33:42] It's a double lock. They believe in the spirit of ECU (Bieniek picked ECU no bet, locked the under)"
+        },
+        {
+          "game": "East Carolina at Utah Valley",
+          "host": "Josh",
+          "team": "East Carolina",
+          "lock": true,
+          "quote": "[1:32:35] there's no way I'm not taking ECU in the money line ... [1:33:42] It's a double lock. They believe in the spirit of ECU (Bieniek picked ECU no bet, locked the under)"
+        },
+        {
+          "game": "George Washington at UAB",
+          "host": "Bieniek",
+          "team": "George Washington",
+          "lock": false,
+          "quote": "[0:42:47] I am taking GW"
+        },
+        {
+          "game": "East Carolina at Utah Valley",
+          "host": "Bieniek",
+          "team": "East Carolina",
+          "lock": false,
+          "quote": "[1:31:54] I am going to pick East Carolina. I will stay off the bet"
+        },
+        {
+          "game": "Green Bay at Florida St.",
+          "host": "Mac",
+          "team": "Green Bay",
+          "lock": true,
+          "quote": "[0:37:17] Give me Green Bay. Lock it up."
+        },
+        {
+          "game": "Albany at Western Illinois",
+          "host": "Mac",
+          "team": "Western Illinois",
+          "lock": true,
+          "quote": "[0:44:08] I'm fucking locking up Western Illinois"
+        },
+        {
+          "game": "Indiana St. at Stephen F. Austin",
+          "host": "Bieniek",
+          "team": "Stephen F. Austin",
+          "lock": true,
+          "quote": "[0:45:16] Give me the lumberjack's lock it up"
+        },
+        {
+          "game": "Northwestern at Virginia Tech",
+          "host": "Bieniek",
+          "team": "Virginia Tech",
+          "lock": true,
+          "quote": "[0:46:30] I am locking up a Vatak"
+        },
+        {
+          "game": "Northwestern at Virginia Tech",
+          "host": "Mac",
+          "team": "Northwestern",
+          "lock": true,
+          "quote": "[0:47:07] Northwestern, lock ... [0:47:53] we got a lock battle"
+        },
+        {
+          "game": "Northwestern at Virginia Tech",
+          "host": "Josh",
+          "team": "Northwestern",
+          "lock": false,
+          "quote": "[0:47:15] I'm also going to Northwestern"
+        },
+        {
+          "game": "Liberty at Rhode Island",
+          "host": "Mac",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[0:50:32] Lock battle between Josh and Mac"
+        },
+        {
+          "game": "Liberty at Rhode Island",
+          "host": "Josh",
+          "team": "Rhode Island",
+          "lock": true,
+          "quote": "[0:50:18] I'm actually going to be on Rhode Island and bet it ... Lock battle"
+        },
+        {
+          "game": "Mercyhurst at Canisius",
+          "host": "Bieniek",
+          "team": "Mercyhurst",
+          "lock": true,
+          "quote": "[0:52:14] Gimme Mercyhurst. I'm locking that up."
+        },
+        {
+          "game": "Mercyhurst at Canisius",
+          "host": "Josh",
+          "team": "Canisius",
+          "lock": true,
+          "quote": "[0:52:44] Jay North can take the home team ... lock battle"
+        },
+        {
+          "game": "North Texas at Appalachian St.",
+          "host": "Mac",
+          "team": "Appalachian St.",
+          "lock": true,
+          "quote": "[0:58:14] Mack is locking this up solo"
+        },
+        {
+          "game": "Central Michigan at Pittsburgh",
+          "host": "Mac",
+          "team": "Central Michigan",
+          "lock": true,
+          "quote": "[1:02:09] Yeah, absolutely. Too many points."
+        },
+        {
+          "game": "UMKC at Iona",
+          "host": "Josh",
+          "team": "Iona",
+          "lock": true,
+          "quote": "[1:03:43] I'm going to lock it up though"
+        },
+        {
+          "game": "Oakland at Purdue",
+          "host": "Mac",
+          "team": "Oakland",
+          "lock": true,
+          "quote": "[1:06:21] Give me Oakland to lock it up"
+        },
+        {
+          "game": "Coastal Carolina at Tennessee",
+          "host": "Bieniek",
+          "team": "Coastal Carolina",
+          "lock": true,
+          "quote": "[1:09:34] I'm locking up these beach chickens. Plus 30 and a half"
+        },
+        {
+          "game": "Western Michigan at Mount St. Mary's",
+          "host": "Josh",
+          "team": "Western Michigan",
+          "lock": true,
+          "quote": "[1:11:46] I'm going to lock up. Michigan man."
+        },
+        {
+          "game": "Southeastern Louisiana at Kennesaw St.",
+          "host": "Bieniek",
+          "team": "Southeastern Louisiana",
+          "lock": true,
+          "quote": "[1:15:13] I will lock up Southeastern ... Max, do you agree? Yes."
+        },
+        {
+          "game": "Southeastern Louisiana at Kennesaw St.",
+          "host": "Mac",
+          "team": "Southeastern Louisiana",
+          "lock": false,
+          "quote": "[1:15:24] Yes ... That's too many points (no explicit lock)"
+        },
+        {
+          "game": "Monmouth at Princeton",
+          "host": "Josh",
+          "team": "Princeton",
+          "lock": true,
+          "quote": "[1:17:13] I'm going to lock this."
+        },
+        {
+          "game": "Iowa at Xavier",
+          "host": "Bieniek",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[1:23:36] It's a lock for me ... [1:24:16] Give me the Musketeers minus three and a half"
+        },
+        {
+          "game": "Indiana at Kentucky",
+          "host": "Josh",
+          "team": "Kentucky",
+          "lock": true,
+          "quote": "[1:27:06] I'm locking up Kentucky"
+        },
+        {
+          "game": "UCF at Vanderbilt",
+          "host": "Josh",
+          "team": "Vanderbilt",
+          "lock": true,
+          "quote": "[1:31:01] Lay it. Lock it."
+        },
+        {
+          "game": "Eastern Illinois at Illinois",
+          "host": "Mac",
+          "team": "Eastern Illinois",
+          "lock": true,
+          "quote": "[1:37:31] Locky. Eastern Illinois. Way too many."
+        },
+        {
+          "game": "Sam Houston St. at Boise St.",
+          "host": "Josh",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:40:07] Lay it. Lock it. I like Boise back at home."
+        },
+        {
+          "game": "Minnesota at Oklahoma St.",
+          "host": "Mac",
+          "team": "Oklahoma St.",
+          "lock": false,
+          "quote": "[1:51:36] best bet: my pokes to knock off Minnesota (show lock was on the over)"
+        }
+      ],
+      "unmatched": []
+    },
+    "6-5dea-a725-ec5fff12dd97": {
+      "title": "College Basketball Best Bets For November 20th - Spread & Moneyline Betting Picks | TCE Trims (Ep. 1246)",
+      "episode_date": "2026-11-20",
+      "skipped": "same picks as c-5134-ab6a-fc405678c62a",
+      "games": []
     }
   }
 }
