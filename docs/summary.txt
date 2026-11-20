@@ -1,62 +1,40 @@
 🏀 CBB SCREENER · Fri Nov 20
-15 plays · 1 with podcast lock · 0 conf home dogs
+12 plays · 0 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-🔥 TOP PLAYS — models + podcast lock
-────────────────────────
-𝐉𝐚𝐜𝐤𝐬𝐨𝐧𝐯𝐢𝐥𝐥𝐞 𝐒𝐭. PK
-   vs Georgia St. (home) · Fri 7:00 PM
-   Best +1.5 (-122) FanDuel
-   Torvik -2.3 (edge 2.3)
-   KenPom -2.0 (edge 2.0)
-   🎙 Podcast AGREES: 3/3 lock Jacksonville St.
-
-────────────────────────
-📊 OTHER PLAYS (14)
+📊 PLAYS (12)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐆𝐫𝐞𝐞𝐧 𝐁𝐚𝐲 +23
-   at Florida St. · Fri 12:00 PM
-   Best +23.5 (-110) FanDuel
-   Torvik +19.7 (edge 3.3)
-   KenPom +19.0 (edge 4.0)
-
-★ 𝐂𝐨𝐚𝐬𝐭𝐚𝐥 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 +29
-   at Tennessee · Fri 7:00 PM
-   Best +29.5 (-110) FanDuel
-   Torvik +25.0 (edge 4.0)
-   KenPom +23.0 (edge 6.0)
-
 ★ 𝐌𝐢𝐬𝐬𝐢𝐬𝐬𝐢𝐩𝐩𝐢 𝐕𝐚𝐥𝐥𝐞𝐲 𝐒𝐭. +38.5
    at Arkansas · Fri 8:00 PM
-   Best +39.5 (-112) BetRivers
+   Best +38.5 (-110) BetMGM
    Torvik +34.1 (edge 4.4)
    KenPom +33.0 (edge 5.5)
 
-★ 𝐄𝐚𝐬𝐭𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 +49
+★ 𝐄𝐚𝐬𝐭𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 +48.5
    at Illinois · Fri 9:00 PM
-   Best +49.5 (-110) BetRivers
-   Torvik +43.0 (edge 6.0)
-   KenPom +44.0 (edge 5.0)
-
-𝐌𝐢𝐝𝐝𝐥𝐞 𝐓𝐞𝐧𝐧𝐞𝐬𝐬𝐞𝐞 +3.5
-   vs Temple (neutral) · Fri 12:30 PM
-   Best +3.5 (-101) LowVig.ag
-   Torvik +1.1 (edge 2.4)
-   KenPom +1.0 (edge 2.5)
+   Best +49 (-125) Bovada
+   Torvik +43.0 (edge 5.5)
+   KenPom +44.0 (edge 4.5)
 
 𝐖𝐞𝐬𝐭𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 +6.5
    vs Albany (neutral) · Fri 3:00 PM
-   Best +6.5 (-102) FanDuel
+   Best +6.5 (-107) BetRivers
    Torvik +4.1 (edge 2.4)
    KenPom +3.0 (edge 3.5)
 
-𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 -1.5
+𝐑𝐡𝐨𝐝𝐞 𝐈𝐬𝐥𝐚𝐧𝐝 +1
+   vs Liberty (neutral) · Fri 4:30 PM
+   Best +1.5 (-118) BetMGM
+   Torvik -1.5 (edge 2.5)
+   KenPom -3.0 (edge 4.0)
+
+𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐈𝐥𝐥𝐢𝐧𝐨𝐢𝐬 -2.5
    vs Tennessee Martin (neutral) · Fri 5:30 PM
-   Best -1.5 (-110) FanDuel
-   Torvik -4.4 (edge 2.9)
-   KenPom -4.0 (edge 2.5)
+   Best -2 (-115) Bovada
+   Torvik -4.4 (edge 1.9)
+   KenPom -4.0 (edge 1.5)
 
 𝐃𝐞𝐥𝐚𝐰𝐚𝐫𝐞 +7.5
    at Cal St. Northridge · Fri 6:00 PM
@@ -66,19 +44,25 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐂𝐞𝐧𝐭𝐫𝐚𝐥 𝐌𝐢𝐜𝐡𝐢𝐠𝐚𝐧 +21.5
    at Pittsburgh · Fri 7:00 PM
-   Best +22 (-111) LowVig.ag
+   Best +21.5 (-106) LowVig.ag
    Torvik +17.4 (edge 4.1)
    KenPom +19.0 (edge 2.5)
 
+𝐂𝐨𝐚𝐬𝐭𝐚𝐥 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 +27
+   at Tennessee · Fri 7:00 PM
+   Best +27.5 (-110) BetMGM
+   Torvik +25.0 (edge 2.0)
+   KenPom +23.0 (edge 4.0)
+
 𝐇𝐨𝐥𝐲 𝐂𝐫𝐨𝐬𝐬 +12.5
    vs Harvard (home) · Fri 7:00 PM
-   Best +12.5 (-106) LowVig.ag
+   Best +12.5 (-105) Bovada
    Torvik +9.3 (edge 3.2)
    KenPom +11.0 (edge 1.5)
 
 𝐖𝐚𝐠𝐧𝐞𝐫 +34.5
    at Maryland · Fri 7:00 PM
-   Best +34.5 (-108) LowVig.ag
+   Best +34.5 (-110) FanDuel
    Torvik +32.5 (edge 2.0)
    KenPom +25.0 (edge 9.5)
 
@@ -88,38 +72,32 @@ Both models 1.5+ off · ★ = both 3+
    Torvik -5.0 (edge 1.5)
    KenPom -5.0 (edge 1.5)
 
-𝐆𝐞𝐨𝐫𝐠𝐢𝐚 𝐓𝐞𝐜𝐡 +8.5
-   vs Georgia (home) · Fri 8:00 PM
-   Best +8.5 (-109) LowVig.ag
-   Torvik +6.0 (edge 2.5)
-   KenPom +7.0 (edge 1.5)
-
 𝐋𝐞 𝐌𝐨𝐲𝐧𝐞 +36.5
    at Missouri · Fri 8:00 PM
-   Best +36.5 (-110) BetRivers
+   Best +36.5 (-106) LowVig.ag
    Torvik +33.9 (edge 2.6)
    KenPom +29.0 (edge 7.5)
 
 ────────────────────────
 🎙 PODCAST LOCKS (6)
 ────────────────────────
-3/3 lock: Dayton +1
-   Fri 5:30 PM · models: Torvik +2.0, KenPom +0.2
+3/3 lock: Dayton +1.5
+   Fri 5:30 PM · models: Torvik +2.2, KenPom +0.5
 
-3/3 lock: Jacksonville St. PK
-   Fri 7:00 PM · ✅ models agree
+3/3 lock: Jacksonville St. -1
+   Fri 7:00 PM · models: Torvik +1.1, KenPom +0.8
 
-3/3 lock: South Carolina St. +2.5
-   Fri 7:00 PM · models: Torvik +1.4, KenPom -1.5
+3/3 lock: South Carolina St. +3.5
+   Fri 7:00 PM · models: Torvik +2.4, KenPom -0.5
 
-3/3 lock: Seton Hall +2.5
-   Fri 9:30 PM · models: Torvik -1.6, KenPom +1.5
+3/3 lock: Seton Hall +3.5
+   Fri 9:30 PM · models: Torvik -0.6, KenPom +2.5
 
 3/3 lock: Saint Louis +1.5
    Fri 11:00 PM · models: Torvik -2.3, KenPom +0.5
 
-2/3 lock: East Carolina +3.5
-   Fri 8:00 PM · models: Torvik -0.1, KenPom -2.5
+2/3 lock: East Carolina +4
+   Fri 8:00 PM · models: Torvik +0.4, KenPom -2.0
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)
@@ -149,5 +127,3 @@ Yesterday: 6-9 · -3.55u
 ❌ Kansas +2.5 (92-83) · 🎙 vs 3/3 lock
 ❌ Tulane +1.75 (67-74)
 
-Notes:
-• Unmatched game: UAB Blazers at GW Revolutionaries (add to data/aliases.json if needed)
