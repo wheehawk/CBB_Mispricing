@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-21T11:29+00:00",
+ "generated_utc": "2026-11-21T16:01+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -28,18 +28,18 @@
     "team": "Detroit Mercy",
     "team_bold": "\ud835\udc03\ud835\udc1e\ud835\udc2d\ud835\udc2b\ud835\udc28\ud835\udc22\ud835\udc2d \ud835\udc0c\ud835\udc1e\ud835\udc2b\ud835\udc1c\ud835\udc32",
     "side": "away",
-    "market_line": 41.5,
+    "market_line": 40.5,
     "best": [
-     41.5,
+     40.5,
      -106,
      "LowVig.ag"
     ]
    },
    "models": {
     "torvik_line": 34.8,
-    "torvik_edge": 6.7,
+    "torvik_edge": 5.7,
     "kenpom_line": 34.0,
-    "kenpom_edge": 7.5,
+    "kenpom_edge": 6.5,
     "kenpom_source": "FanMatch",
     "torvik_total": 153.7,
     "kenpom_total": 150.0,
@@ -213,18 +213,18 @@
     "team": "Wichita St.",
     "team_bold": "\ud835\udc16\ud835\udc22\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc2d.",
     "side": "home",
-    "market_line": 2.5,
+    "market_line": 1.5,
     "best": [
      2.5,
-     -105,
-     "Bovada"
+     -112,
+     "BetRivers"
     ]
    },
    "models": {
     "torvik_line": -3.4,
-    "torvik_edge": 5.9,
+    "torvik_edge": 4.9,
     "kenpom_line": -2.0,
-    "kenpom_edge": 4.5,
+    "kenpom_edge": 3.5,
     "kenpom_source": "FanMatch",
     "torvik_total": 154.4,
     "kenpom_total": 158.0,
@@ -402,7 +402,7 @@
     "best": [
      5.5,
      -110,
-     "Bovada"
+     "BetUS"
     ]
    },
    "models": {
