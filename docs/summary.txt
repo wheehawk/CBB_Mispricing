@@ -1,46 +1,32 @@
 🏀 CBB SCREENER · Sat Nov 21
-15 plays · 3 with podcast lock · 0 conf home dogs
+12 plays · 1 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
 🔥 TOP PLAYS — models + podcast lock
 ────────────────────────
-★ 𝐃𝐞𝐭𝐫𝐨𝐢𝐭 𝐌𝐞𝐫𝐜𝐲 +40.5
-   at Michigan St. · Sat 12:00 PM
-   Best +40.5 (-106) LowVig.ag
-   Torvik +34.8 (edge 5.7)
-   KenPom +34.0 (edge 6.5)
-   🎙 Podcast AGREES: 2/2 agree Detroit Mercy
-
 ★ 𝐖𝐢𝐜𝐡𝐢𝐭𝐚 𝐒𝐭. +1.5
    vs New Mexico (home) · Sat 2:00 PM
-   Best +2.5 (-112) BetRivers
+   Best +2.5 (-120) DraftKings
    Torvik -3.4 (edge 4.9)
    KenPom -2.0 (edge 3.5)
    🎙 Podcast AGREES: 2/2 agree Wichita St.
 
-𝐒𝐚𝐢𝐧𝐭 𝐏𝐞𝐭𝐞𝐫'𝐬 +5.5
-   vs Stony Brook (home) · Sat 2:00 PM
-   Best +5.5 (-110) BetUS
-   Torvik +1.7 (edge 3.8)
-   KenPom +4.0 (edge 1.5)
-   🎙 Podcast AGREES: 2/2 agree Saint Peter's
-
 ────────────────────────
-📊 OTHER PLAYS (12)
+📊 OTHER PLAYS (11)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐂𝐚𝐧𝐢𝐬𝐢𝐮𝐬 +2
+★ 𝐂𝐚𝐧𝐢𝐬𝐢𝐮𝐬 +2.5
    vs Albany (home) · Sat 4:00 PM
-   Best +2.5 (-114) FanDuel
-   Torvik -2.3 (edge 4.3)
-   KenPom -2.0 (edge 4.0)
+   Best +3 (-115) Bovada
+   Torvik -2.3 (edge 4.8)
+   KenPom -2.0 (edge 4.5)
 
-★ 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 𝐒𝐭. +25.5
+★ 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 𝐒𝐭. +25
    vs Duke (neutral) · Sat 11:00 PM
-   Best +25.5 (-104) FanDuel
-   Torvik +19.7 (edge 5.8)
-   KenPom +17.0 (edge 8.5)
+   Best +25.5 (-110) FanDuel
+   Torvik +19.7 (edge 5.3)
+   KenPom +17.0 (edge 8.0)
 
 𝐂𝐥𝐞𝐯𝐞𝐥𝐚𝐧𝐝 𝐒𝐭. +3.5
    vs Kent St. (home) · Sat 1:00 PM
@@ -48,12 +34,6 @@ Both models 1.5+ off · ★ = both 3+
    Torvik +0.7 (edge 2.8)
    KenPom +1.0 (edge 2.5)
    🎙 Podcast OPPOSES: 2/2 agree Kent St.
-
-𝐐𝐮𝐞𝐞𝐧𝐬 +26.5
-   at LSU · Sat 1:00 PM
-   Best +26.5 (-102) FanDuel
-   Torvik +24.0 (edge 2.5)
-   KenPom +21.0 (edge 5.5)
 
 𝐁𝐢𝐧𝐠𝐡𝐚𝐦𝐭𝐨𝐧 +1.5
    vs Army (home) · Sat 3:30 PM
@@ -69,7 +49,7 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐖𝐢𝐧𝐭𝐡𝐫𝐨𝐩 +6.5
    at Wofford · Sat 5:00 PM
-   Best +6.5 (-104) LowVig.ag
+   Best +6.5 (-104) BetRivers
    Torvik +4.7 (edge 1.8)
    KenPom +1.0 (edge 5.5)
 
@@ -99,16 +79,13 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐕𝐢𝐥𝐥𝐚𝐧𝐨𝐯𝐚 +4
    vs Michigan (home) · Sat 7:00 PM
-   Best +4.5 (-110) BetRivers
+   Best +4.5 (-115) FanDuel
    Torvik -0.2 (edge 4.2)
    KenPom +2.0 (edge 2.0)
 
 ────────────────────────
-🎙 PODCAST LOCKS (10)
+🎙 PODCAST LOCKS (9)
 ────────────────────────
-2/2 agree: Detroit Mercy +40.5
-   Sat 12:00 PM · ✅ models agree
-
 2/2 agree: Kent St. -3.5
    Sat 1:00 PM · ❌ models on other side
 
@@ -121,8 +98,8 @@ Both models 1.5+ off · ★ = both 3+
 2/2 agree: Wichita St. +1.5
    Sat 2:00 PM · ✅ models agree
 
-2/2 agree: Saint Peter's +5.5
-   Sat 2:00 PM · ✅ models agree
+2/2 agree: Saint Peter's +5
+   Sat 2:00 PM · models: Torvik +3.3, KenPom +1.0
 
 2/2 agree: George Mason -3.5
    Sat 4:00 PM · models: Torvik +1.6, KenPom -2.5
