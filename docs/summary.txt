@@ -1,112 +1,140 @@
-🏀 CBB SCREENER · Fri Nov 20
-16 plays · 0 with podcast lock · 0 conf home dogs
+🏀 CBB SCREENER · Sat Nov 21
+15 plays · 3 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-📊 PLAYS (16)
-Both models 1.5+ off · ★ = both 3+
+🔥 TOP PLAYS — models + podcast lock
 ────────────────────────
 ★ 𝐃𝐞𝐭𝐫𝐨𝐢𝐭 𝐌𝐞𝐫𝐜𝐲 +41.5
    at Michigan St. · Sat 12:00 PM
    Best +41.5 (-106) LowVig.ag
-   Torvik +34.7 (edge 6.8)
-   KenPom +34.3 (edge 7.2)
+   Torvik +34.8 (edge 6.7)
+   KenPom +34.0 (edge 7.5)
+   🎙 Podcast AGREES: 2/2 agree Detroit Mercy
 
-★ 𝐐𝐮𝐞𝐞𝐧𝐬 +27
-   at LSU · Sat 1:00 PM
-   Best +27.5 (-115) DraftKings
-   Torvik +23.9 (edge 3.1)
-   KenPom +22.7 (edge 4.3)
+★ 𝐖𝐢𝐜𝐡𝐢𝐭𝐚 𝐒𝐭. +2.5
+   vs New Mexico (home) · Sat 2:00 PM
+   Best +2.5 (-105) Bovada
+   Torvik -3.4 (edge 5.9)
+   KenPom -2.0 (edge 4.5)
+   🎙 Podcast AGREES: 2/2 agree Wichita St.
 
-★ 𝐁𝐢𝐧𝐠𝐡𝐚𝐦𝐭𝐨𝐧 +1.5
-   vs Army (home) · Sat 3:30 PM
-   Best +1.5 (-105) DraftKings
-   Torvik -4.8 (edge 6.3)
-   KenPom -1.8 (edge 3.3)
+𝐒𝐚𝐢𝐧𝐭 𝐏𝐞𝐭𝐞𝐫'𝐬 +5.5
+   vs Stony Brook (home) · Sat 2:00 PM
+   Best +5.5 (-110) Bovada
+   Torvik +1.7 (edge 3.8)
+   KenPom +4.0 (edge 1.5)
+   🎙 Podcast AGREES: 2/2 agree Saint Peter's
 
+────────────────────────
+📊 OTHER PLAYS (12)
+Both models 1.5+ off · ★ = both 3+
+────────────────────────
 ★ 𝐂𝐚𝐧𝐢𝐬𝐢𝐮𝐬 +1.5
    vs Albany (home) · Sat 4:00 PM
    Best +1.5 (-106) LowVig.ag
-   Torvik -2.0 (edge 3.5)
-   KenPom -2.8 (edge 4.3)
+   Torvik -2.3 (edge 3.8)
+   KenPom -2.0 (edge 3.5)
 
-★ 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 𝐒𝐭. +26
+★ 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 𝐒𝐭. +25.5
    vs Duke (neutral) · Sat 11:00 PM
-   Best +26.5 (-132) BetRivers
-   Torvik +19.7 (edge 6.1)
-   KenPom +18.5 (edge 7.3)
+   Best +25.5 (-104) FanDuel
+   Torvik +19.7 (edge 5.8)
+   KenPom +17.0 (edge 8.5)
 
-𝐁𝐮𝐜𝐤𝐧𝐞𝐥𝐥 +6
+𝐁𝐮𝐜𝐤𝐧𝐞𝐥𝐥 +6.5
    vs Siena (home) · Sat 11:00 AM
-   Best +6.5 (-112) DraftKings
-   Torvik +4.5 (edge 1.8)
-   KenPom +4.3 (edge 1.9)
+   Best +6.5 (-110) Bovada
+   Torvik +4.6 (edge 1.9)
+   KenPom +5.0 (edge 1.5)
 
-𝐂𝐥𝐞𝐯𝐞𝐥𝐚𝐧𝐝 𝐒𝐭. +3.5
+𝐂𝐥𝐞𝐯𝐞𝐥𝐚𝐧𝐝 𝐒𝐭. +4
    vs Kent St. (home) · Sat 1:00 PM
-   Best +4 (-101) LowVig.ag
-   Torvik +0.8 (edge 2.7)
-   KenPom +0.2 (edge 3.3)
+   Best +4 (-114) LowVig.ag
+   Torvik +0.7 (edge 3.0)
+   KenPom +1.0 (edge 2.8)
+   🎙 Podcast OPPOSES: 2/2 agree Kent St.
 
-𝐖𝐢𝐜𝐡𝐢𝐭𝐚 𝐒𝐭. +1.5
-   vs New Mexico (home) · Sat 2:00 PM
+𝐐𝐮𝐞𝐞𝐧𝐬 +26.5
+   at LSU · Sat 1:00 PM
+   Best +26.5 (-110) BetMGM
+   Torvik +24.0 (edge 2.5)
+   KenPom +21.0 (edge 5.5)
+
+𝐑𝐢𝐝𝐞𝐫 +5.5
+   vs Navy (home) · Sat 2:00 PM
+   Best +6.5 (-120) Bovada
+   Torvik +3.7 (edge 1.8)
+   KenPom +4.0 (edge 1.5)
+
+𝐁𝐢𝐧𝐠𝐡𝐚𝐦𝐭𝐨𝐧 +1.5
+   vs Army (home) · Sat 3:30 PM
    Best +1.5 (-101) LowVig.ag
-   Torvik -3.5 (edge 5.0)
-   KenPom -1.4 (edge 2.9)
-
-𝐖𝐞𝐬𝐭𝐞𝐫𝐧 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 +15.5
-   at Wake Forest · Sat 2:00 PM
-   Best +15.5 (-106) LowVig.ag
-   Torvik +13.4 (edge 2.1)
-   KenPom +13.2 (edge 2.3)
-
-𝐉𝐚𝐜𝐤𝐬𝐨𝐧𝐯𝐢𝐥𝐥𝐞 +3
-   vs Central Arkansas (home) · Sat 4:00 PM
-   Best +3.5 (-112) DraftKings
-   Torvik -1.1 (edge 4.3)
-   KenPom +1.0 (edge 2.2)
+   Torvik -4.7 (edge 6.2)
+   KenPom -1.0 (edge 2.5)
 
 𝐌𝐚𝐢𝐧𝐞 +12.5
    at Massachusetts · Sat 6:00 PM
-   Best +12.5 (-106) LowVig.ag
-   Torvik +10.1 (edge 2.4)
+   Best +12.5 (-110) Bovada
+   Torvik +10.0 (edge 2.5)
    KenPom +10.0 (edge 2.5)
 
-𝐕𝐞𝐫𝐦𝐨𝐧𝐭 -4.5
+𝐕𝐞𝐫𝐦𝐨𝐧𝐭 -3.5
    vs Brown (home) · Sat 7:00 PM
-   Best -4 (-106) LowVig.ag
-   Torvik -7.4 (edge 2.9)
-   KenPom -6.5 (edge 2.0)
+   Best -3.5 (-106) LowVig.ag
+   Torvik -7.4 (edge 3.9)
+   KenPom -6.0 (edge 2.5)
 
 𝐂𝐚𝐥 𝐁𝐚𝐩𝐭𝐢𝐬𝐭 +13.5
    vs Loyola Marymount (neutral) · Sat 7:00 PM
    Best +13.5 (-108) DraftKings
    Torvik +8.9 (edge 4.6)
-   KenPom +11.4 (edge 2.1)
+   KenPom +11.0 (edge 2.5)
 
 𝐌𝐨𝐫𝐞𝐡𝐞𝐚𝐝 𝐒𝐭. +12.5
    at Elon · Sat 7:00 PM
-   Best +12.5 (-105) DraftKings
-   Torvik +9.4 (edge 3.1)
-   KenPom +10.7 (edge 1.8)
+   Best +13 (-110) Bovada
+   Torvik +9.3 (edge 3.2)
+   KenPom +10.0 (edge 2.5)
 
-𝐕𝐢𝐥𝐥𝐚𝐧𝐨𝐯𝐚 +4
+𝐕𝐢𝐥𝐥𝐚𝐧𝐨𝐯𝐚 +4.5
    vs Michigan (home) · Sat 7:00 PM
-   Best +4.5 (-120) FanDuel
-   Torvik -0.1 (edge 3.9)
-   KenPom +1.7 (edge 2.1)
-
-𝐏𝐫𝐞𝐬𝐛𝐲𝐭𝐞𝐫𝐢𝐚𝐧 +8.5
-   at Tennessee Tech · Sat 7:30 PM
-   Best +8.5 (-110) DraftKings
-   Torvik +6.8 (edge 1.7)
-   KenPom +7.0 (edge 1.5)
+   Best +4.5 (-114) BetRivers
+   Torvik -0.2 (edge 4.7)
+   KenPom +2.0 (edge 2.5)
 
 ────────────────────────
-🎙 PODCAST LOCKS (1)
+🎙 PODCAST LOCKS (10)
 ────────────────────────
-3/3 lock: Saint Louis +1.5
-   Fri 11:00 PM · models: Torvik -2.3, KenPom +0.5
+2/2 agree: Detroit Mercy +41.5
+   Sat 12:00 PM · ✅ models agree
+
+2/2 agree: Kent St. -4
+   Sat 1:00 PM · ❌ models on other side
+
+2/2 agree: Denver +7.5
+   Sat 1:00 PM · models: Torvik -3.0, KenPom -0.5
+
+2/2 agree: Cornell -6.5
+   Sat 2:00 PM · models: Torvik -2.6, KenPom +0.5
+
+2/2 agree: Wichita St. +2.5
+   Sat 2:00 PM · ✅ models agree
+
+2/2 agree: Saint Peter's +5.5
+   Sat 2:00 PM · ✅ models agree
+
+2/2 agree: George Mason -3
+   Sat 4:00 PM · models: Torvik +2.1, KenPom -2.0
+
+2/2 agree: Penn +2
+   Sat 4:00 PM · models: Torvik -0.1, KenPom +3.0
+
+2/2 agree: Nicholls St. +3.5
+   Sat 5:00 PM · models: Torvik +1.2, KenPom +2.5
+
+2/2 agree: Charleston Southern +8.5
+   Sat 7:00 PM · models: Torvik -0.4, KenPom +1.5
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)
@@ -116,29 +144,32 @@ None on today's slate.
 ────────────────────────
 📈 RESULTS
 ────────────────────────
-Season: 109-118 · -18.92u
-Since 11/15/2026: 48-45-1 (52%) · -1.37u
-GAS games since 11/17/2026: 8-5 (62%) · +2.27u
-Yesterday: 6-9 · -3.55u
-✅ Southern Utah +38.5 (68-92)
-✅ Seton Hall +5.5 (69-74) · 🎙 2/3 lock
-✅ Sacramento St. +16.5 (65-78)
-❌ Tarleton St. +27 (51-96) · 🎙 2/3 lock
-✅ Montana St. +12.5 (74-85) · 🎙 vs 3/3 lock
-✅ Maine +10.5 (69-67)
-❌ UMBC +32.5 (62-101)
-❌ Houston Christian -4 (86-79)
-✅ Stetson +35 (69-83)
-❌ New Mexico St. -1.5 (84-69) · 🎙 3/3 lock
-❌ Oregon -2 (82-71) · 🎙 vs 3/3 lock
-❌ East Texas A&M +14.5 (54-86) · 🎙 3/3 lock
-❌ West Virginia +9.5 (85-72) · 🎙 vs 2/3 lock
-❌ Kansas +2.5 (92-83) · 🎙 vs 3/3 lock
-❌ Tulane +1.75 (67-74)
+Season: 120-128 · -18.92u
+Since 11/15/2026: 59-55-1 (52%) · -1.37u
+GAS games since 11/17/2026: 9-5 (64%) · +3.18u
+Yesterday: 11-10 · -0.00u
+❌ Green Bay +23.25 (63-87)
+❌ Middle Tennessee +3 (85-76)
+❌ Southern Illinois -1.5 (76-73)
+✅ Central Michigan +23 (82-104)
+✅ Coastal Carolina +29 (51-78)
+❌ Oakland +25 (49-95)
+✅ Georgia Tech +9 (88-82)
+❌ Eastern Illinois +51 (52-114)
+✅ Western Illinois +8.5 (60-65)
+❌ Manhattan +39.5 (54-106)
+✅ Holy Cross +12.5 (77-65)
+✅ Loyola MD +43.75 (61-103)
+✅ Wagner +34.5 (45-62)
+❌ Mississippi Valley St. +43 (48-92)
+✅ Le Moyne +36.75 (64-91)
+❌ Alabama St. +10.25 (68-80)
+❌ Xavier -3.5 (83-65)
+✅ UCF +18 (74-82)
+✅ Delaware +7.5 (97-92)
+✅ Jacksonville St. +0 (77-82) · 🎙 3/3 lock
+❌ Rhode Island +1 (68-71)
 
 Notes:
 • Unmatched game: South Carolina Upstate Spartans at UNC Greensboro Spartans (add to data/aliases.json if needed)
 • Unmatched game: Arkansas-Little Rock Trojans at North Florida Ospreys (add to data/aliases.json if needed)
-• Unmatched game: Middle Tennessee Blue Raiders at Indiana St Sycamores (add to data/aliases.json if needed)
-• Unmatched game: Southern Illinois Salukis at East Carolina Pirates (add to data/aliases.json if needed)
-• Unmatched game: LSU Tigers at Texas Southern Tigers (add to data/aliases.json if needed)
