@@ -2587,6 +2587,535 @@
       "episode_date": "2026-11-20",
       "skipped": "same picks as c-5134-ab6a-fc405678c62a",
       "games": []
+    },
+    "3-57f3-b0cc-fad001b7e464": {
+      "title": "College Basketball PICKS ONLY - Friday, November 20th | TCE Trims (Ep. 1245)",
+      "episode_date": "2026-11-20",
+      "skipped": "same picks as c-5134-ab6a-fc405678c62a",
+      "games": []
+    },
+    "4-571a-b903-da595d4b302b": {
+      "title": "College Basketball Picks For November 21st - NCAA Basketball Banter & Best Bets (Ep. 1247)",
+      "url": "https://www.sportsgamblingpodcast.com/2026/11/21/college-basketball-picks-for-november-21st-ncaa-basketball-banter-best-bets-ep-1247/",
+      "episode_date": "2026-11-21",
+      "hosts": [
+        "Noah",
+        "Troy"
+      ],
+      "processed_utc": "2026-11-21T11:28:41Z",
+      "games": [
+        {
+          "date": "2026-11-21",
+          "away": "Detroit Mercy",
+          "home": "Michigan St.",
+          "pick": "Detroit Mercy",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "+41.5",
+          "quote": "[0:53:28] 'This is a double lock.' (Detroit Mercy getting 41.5); Noah best bet [2:27:53]"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Kent St.",
+          "home": "Cleveland St.",
+          "pick": "Kent St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "-4.5",
+          "quote": "[0:59:57] 'we can double lock these golden flashes'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Cornell",
+          "home": "Morgan St.",
+          "pick": "Cornell",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "-6.5",
+          "quote": "[1:07:15] 'Double lock. Cornell, laying six and a half'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Denver",
+          "home": "Eastern Michigan",
+          "pick": "Denver",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "+7.5",
+          "quote": "[1:11:14] 'Yeah, I'm locking Denver getting seven and a half for sure.'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "New Mexico",
+          "home": "Wichita St.",
+          "pick": "Wichita St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[1:23:33] 'we're double locking Wichita.'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Stony Brook",
+          "home": "Saint Peter's",
+          "pick": "Saint Peter's",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "+4.5 (ML +200)",
+          "quote": "[1:24:45] 'Lock this Moneyline up.'; Noah ML dog [2:29:10]"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "South Florida",
+          "home": "George Mason",
+          "pick": "George Mason",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "",
+          "quote": "[1:38:29] 'Troy has convinced me to lock up George Mason. That's double lock.'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Penn",
+          "home": "La Salle",
+          "pick": "Penn",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "-2.5",
+          "quote": "[1:41:52] 'I'm locking Penn here' / 'Why not? I'll join you.'"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Nicholls St.",
+          "home": "Southern Miss",
+          "pick": "Nicholls St.",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "",
+          "quote": "[1:50:46] 'Double lock.' (Nicholls)"
+        },
+        {
+          "date": "2026-11-21",
+          "away": "Charleston Southern",
+          "home": "Mercer",
+          "pick": "Charleston Southern",
+          "category": "2/2 agree",
+          "hosts": [
+            "Noah",
+            "Troy"
+          ],
+          "line": "+8.5",
+          "quote": "[2:11:44] 'I'm going to lock Charleston Southern here too.'"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Detroit Mercy at Michigan St.",
+          "host": "Noah",
+          "team": "Detroit Mercy",
+          "lock": true,
+          "quote": "[0:53:28] 'This is a double lock.' (Detroit Mercy getting 41.5); Noah best bet [2:27:53]"
+        },
+        {
+          "game": "Detroit Mercy at Michigan St.",
+          "host": "Troy",
+          "team": "Detroit Mercy",
+          "lock": true,
+          "quote": "[0:53:28] 'This is a double lock.' (Detroit Mercy getting 41.5); Noah best bet [2:27:53]"
+        },
+        {
+          "game": "Kent St. at Cleveland St.",
+          "host": "Noah",
+          "team": "Kent St.",
+          "lock": true,
+          "quote": "[0:59:57] 'we can double lock these golden flashes'"
+        },
+        {
+          "game": "Kent St. at Cleveland St.",
+          "host": "Troy",
+          "team": "Kent St.",
+          "lock": true,
+          "quote": "[0:59:57] 'we can double lock these golden flashes'"
+        },
+        {
+          "game": "Cornell at Morgan St.",
+          "host": "Noah",
+          "team": "Cornell",
+          "lock": true,
+          "quote": "[1:07:15] 'Double lock. Cornell, laying six and a half'"
+        },
+        {
+          "game": "Cornell at Morgan St.",
+          "host": "Troy",
+          "team": "Cornell",
+          "lock": true,
+          "quote": "[1:07:15] 'Double lock. Cornell, laying six and a half'"
+        },
+        {
+          "game": "Denver at Eastern Michigan",
+          "host": "Noah",
+          "team": "Denver",
+          "lock": true,
+          "quote": "[1:11:14] 'Yeah, I'm locking Denver getting seven and a half for sure.'"
+        },
+        {
+          "game": "Denver at Eastern Michigan",
+          "host": "Troy",
+          "team": "Denver",
+          "lock": true,
+          "quote": "[1:11:14] 'Yeah, I'm locking Denver getting seven and a half for sure.'"
+        },
+        {
+          "game": "New Mexico at Wichita St.",
+          "host": "Noah",
+          "team": "Wichita St.",
+          "lock": true,
+          "quote": "[1:23:33] 'we're double locking Wichita.'"
+        },
+        {
+          "game": "New Mexico at Wichita St.",
+          "host": "Troy",
+          "team": "Wichita St.",
+          "lock": true,
+          "quote": "[1:23:33] 'we're double locking Wichita.'"
+        },
+        {
+          "game": "Stony Brook at Saint Peter's",
+          "host": "Noah",
+          "team": "Saint Peter's",
+          "lock": true,
+          "quote": "[1:24:45] 'Lock this Moneyline up.'; Noah ML dog [2:29:10]"
+        },
+        {
+          "game": "Stony Brook at Saint Peter's",
+          "host": "Troy",
+          "team": "Saint Peter's",
+          "lock": true,
+          "quote": "[1:24:45] 'Lock this Moneyline up.'; Noah ML dog [2:29:10]"
+        },
+        {
+          "game": "South Florida at George Mason",
+          "host": "Noah",
+          "team": "George Mason",
+          "lock": true,
+          "quote": "[1:38:29] 'Troy has convinced me to lock up George Mason. That's double lock.'"
+        },
+        {
+          "game": "South Florida at George Mason",
+          "host": "Troy",
+          "team": "George Mason",
+          "lock": true,
+          "quote": "[1:38:29] 'Troy has convinced me to lock up George Mason. That's double lock.'"
+        },
+        {
+          "game": "Penn at La Salle",
+          "host": "Noah",
+          "team": "Penn",
+          "lock": true,
+          "quote": "[1:41:52] 'I'm locking Penn here' / 'Why not? I'll join you.'"
+        },
+        {
+          "game": "Penn at La Salle",
+          "host": "Troy",
+          "team": "Penn",
+          "lock": true,
+          "quote": "[1:41:52] 'I'm locking Penn here' / 'Why not? I'll join you.'"
+        },
+        {
+          "game": "Nicholls St. at Southern Miss",
+          "host": "Noah",
+          "team": "Nicholls St.",
+          "lock": true,
+          "quote": "[1:50:46] 'Double lock.' (Nicholls)"
+        },
+        {
+          "game": "Nicholls St. at Southern Miss",
+          "host": "Troy",
+          "team": "Nicholls St.",
+          "lock": true,
+          "quote": "[1:50:46] 'Double lock.' (Nicholls)"
+        },
+        {
+          "game": "Charleston Southern at Mercer",
+          "host": "Noah",
+          "team": "Charleston Southern",
+          "lock": true,
+          "quote": "[2:11:44] 'I'm going to lock Charleston Southern here too.'"
+        },
+        {
+          "game": "Charleston Southern at Mercer",
+          "host": "Troy",
+          "team": "Charleston Southern",
+          "lock": true,
+          "quote": "[2:11:44] 'I'm going to lock Charleston Southern here too.'"
+        },
+        {
+          "game": "Siena at Bucknell",
+          "host": "Troy",
+          "team": "Siena",
+          "lock": true,
+          "quote": "[0:49:48] 'I'm locking the Saints.'"
+        },
+        {
+          "game": "Siena at Bucknell",
+          "host": "Noah",
+          "team": "Siena",
+          "lock": false,
+          "quote": "[0:49:21] 'I'm going to let you ride solo here.'"
+        },
+        {
+          "game": "Queens at LSU",
+          "host": "Troy",
+          "team": "Queens",
+          "lock": true,
+          "quote": "[0:55:51] 'Yeah, I'm betting this.'"
+        },
+        {
+          "game": "Queens at LSU",
+          "host": "Noah",
+          "team": "Queens",
+          "lock": false,
+          "quote": "[0:55:11] 'I'll take the points, but I'm not going to run to the window'"
+        },
+        {
+          "game": "Mercyhurst at Western Illinois",
+          "host": "Troy",
+          "team": "Mercyhurst",
+          "lock": true,
+          "quote": "[1:03:27] 'So lock Mercyhurst.'"
+        },
+        {
+          "game": "Mercyhurst at Western Illinois",
+          "host": "Noah",
+          "team": "Mercyhurst",
+          "lock": false,
+          "quote": "[1:03:03] 'I'm not betting it'"
+        },
+        {
+          "game": "Navy at Rider",
+          "host": "Troy",
+          "team": "Navy",
+          "lock": true,
+          "quote": "[2:26:16] best bet 'locking the Navy midshipmen, five and a half'"
+        },
+        {
+          "game": "Navy at Rider",
+          "host": "Noah",
+          "team": "Rider",
+          "lock": false,
+          "quote": "[1:04:56] 'I'm not locking Navy.'"
+        },
+        {
+          "game": "Fordham at Portland",
+          "host": "Troy",
+          "team": "Portland",
+          "lock": true,
+          "quote": "[1:18:36] 'I'm going to lock up the pilots.' then lock battle"
+        },
+        {
+          "game": "Fordham at Portland",
+          "host": "Noah",
+          "team": "Fordham",
+          "lock": true,
+          "quote": "[2:28:26] best bet 'I like Fordham minus five and a half'"
+        },
+        {
+          "game": "St. Thomas at Milwaukee",
+          "host": "Troy",
+          "team": "Milwaukee",
+          "lock": true,
+          "quote": "[1:27:03] 'let's play the cats on the money line'"
+        },
+        {
+          "game": "St. Thomas at Milwaukee",
+          "host": "Noah",
+          "team": "Milwaukee",
+          "lock": false,
+          "quote": "[1:27:00] 'I'm not locking it'"
+        },
+        {
+          "game": "UT Rio Grande Valley at Austin Peay",
+          "host": "Troy",
+          "team": "UT Rio Grande Valley",
+          "lock": true,
+          "quote": "[1:29:55] 'Troy, locking up. UTRGV'"
+        },
+        {
+          "game": "UT Rio Grande Valley at Austin Peay",
+          "host": "Noah",
+          "team": "Austin Peay",
+          "lock": false,
+          "quote": "[1:30:01] 'I am not playing it though.'"
+        },
+        {
+          "game": "Drake at Missouri St.",
+          "host": "Troy",
+          "team": "Drake",
+          "lock": true,
+          "quote": "[1:31:31] 'Troy's locking up Drake.'"
+        },
+        {
+          "game": "Drake at Missouri St.",
+          "host": "Noah",
+          "team": "Drake",
+          "lock": false,
+          "quote": "[1:31:00] 'I don't love it'"
+        },
+        {
+          "game": "Longwood at East Tennessee St.",
+          "host": "Troy",
+          "team": "East Tennessee St.",
+          "lock": true,
+          "quote": "[1:40:06] 'Troy locking up ETSU here.'"
+        },
+        {
+          "game": "Longwood at East Tennessee St.",
+          "host": "Noah",
+          "team": "East Tennessee St.",
+          "lock": false,
+          "quote": "[1:40:09] 'Sorry I said double.' (lock status unclear)"
+        },
+        {
+          "game": "Northeastern at Stonehill",
+          "host": "Troy",
+          "team": "Stonehill",
+          "lock": true,
+          "quote": "[1:46:13] 'Troy's locking it up. Stonehill getting seven'"
+        },
+        {
+          "game": "Northeastern at Stonehill",
+          "host": "Noah",
+          "team": "Stonehill",
+          "lock": false,
+          "quote": "[1:45:13] 'one of my least confident picks'"
+        },
+        {
+          "game": "Air Force at UTSA",
+          "host": "Troy",
+          "team": "Air Force",
+          "lock": true,
+          "quote": "[1:52:09] 'Lock Air Force.'"
+        },
+        {
+          "game": "Air Force at UTSA",
+          "host": "Noah",
+          "team": "Air Force",
+          "lock": false,
+          "quote": "[1:51:52] 'I don't love it, but I'll take the Falcons.'"
+        },
+        {
+          "game": "Coppin St. at Georgetown",
+          "host": "Troy",
+          "team": "Coppin St.",
+          "lock": true,
+          "quote": "[2:26:31] best bet 'lock Coppin State plus 32 and a half'"
+        },
+        {
+          "game": "Coppin St. at Georgetown",
+          "host": "Noah",
+          "team": "Georgetown",
+          "lock": false,
+          "quote": "[1:54:56] 'I'll lay off putting actual cash on this one'"
+        },
+        {
+          "game": "Michigan at Villanova",
+          "host": "Troy",
+          "team": "Michigan",
+          "lock": true,
+          "quote": "[2:03:04] 'Yeah, I'm going to lock Michigan.'"
+        },
+        {
+          "game": "Michigan at Villanova",
+          "host": "Noah",
+          "team": "Michigan",
+          "lock": false,
+          "quote": "[2:02:44] locked the under, not a side"
+        },
+        {
+          "game": "Northern Arizona at Cal Poly",
+          "host": "Noah",
+          "team": "Cal Poly",
+          "lock": true,
+          "quote": "[2:09:15] 'I'm locking up Cal Poly, Troy.'"
+        },
+        {
+          "game": "Northern Arizona at Cal Poly",
+          "host": "Troy",
+          "team": "Northern Arizona",
+          "lock": false,
+          "quote": "[2:09:56] NAU first-half ML only"
+        },
+        {
+          "game": "Troy at Valparaiso",
+          "host": "Troy",
+          "team": "Troy",
+          "lock": true,
+          "quote": "[2:16:26] 'Just a Troy lock.'"
+        },
+        {
+          "game": "Troy at Valparaiso",
+          "host": "Noah",
+          "team": "Valparaiso",
+          "lock": false,
+          "quote": "[2:16:27] 'I am not betting Valpo.'"
+        },
+        {
+          "game": "New Orleans at Texas Southern",
+          "host": "Troy",
+          "team": "Texas Southern",
+          "lock": true,
+          "quote": "[2:17:50] 'So I'm locking Texas Southern here.'"
+        },
+        {
+          "game": "New Orleans at Texas Southern",
+          "host": "Noah",
+          "team": "New Orleans",
+          "lock": false,
+          "quote": "[2:18:46] 'I'm going to stay off.'"
+        },
+        {
+          "game": "Duke at Washington St.",
+          "host": "Troy",
+          "team": "Duke",
+          "lock": true,
+          "quote": "[2:22:51] 'this is a solo lock from Troy'"
+        },
+        {
+          "game": "Duke at Washington St.",
+          "host": "Noah",
+          "team": "Duke",
+          "lock": false,
+          "quote": "[2:21:48] 'I'm not betting it.'"
+        }
+      ],
+      "unmatched": []
     }
   }
 }
