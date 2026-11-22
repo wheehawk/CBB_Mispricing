@@ -1,6 +1,192 @@
 {
- "generated_utc": "2026-11-22T16:03+00:00",
+ "generated_utc": "2026-11-22T18:25+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "42e47ef758f2c16dcf1cc64806373809",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-22",
+   "tip_et": "Sun Nov 22, 4:30 PM ET",
+   "away": "UC Irvine",
+   "home": "Loyola Marymount",
+   "neutral": true,
+   "venue": {
+    "name": "Acrisure Arena",
+    "city": "Palm Springs, CA",
+    "neutral": true,
+    "tv": [
+     "FloSports"
+    ],
+    "note": "Acrisure Series"
+   },
+   "home_arena_kenpom": "Gersten Pavilion, Los Angeles, CA",
+   "pick": {
+    "team": "UC Irvine",
+    "team_bold": "\ud835\udc14\ud835\udc02 \ud835\udc08\ud835\udc2b\ud835\udc2f\ud835\udc22\ud835\udc27\ud835\udc1e",
+    "side": "away",
+    "market_line": -1.5,
+    "best": [
+     -1.5,
+     -110,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": -3.1,
+    "torvik_edge": 1.6,
+    "kenpom_line": -4.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 145.3,
+    "kenpom_total": 144.0,
+    "market_total": null,
+    "torvik_tempo": 68.9,
+    "kenpom_tempo": 69.0,
+    "kenpom_home_win_prob": 65.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "UC Irvine",
+    "hosts": [
+     "Colby",
+     "Mac"
+    ],
+    "line": "",
+    "label": "2/3 lock: UC Irvine"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "UC Irvine",
+     "kenpom_url": "https://kenpom.com/team.php?team=UC+Irvine",
+     "record": "3-2",
+     "coach": "Russell Turner",
+     "conf": "BW",
+     "arena": "Bren Events Center, Irvine, CA",
+     "ratings": {
+      "AdjEM": 5.4172,
+      "RankAdjEM": 110,
+      "AdjOE": 104.495,
+      "RankAdjOE": 224,
+      "AdjDE": 99.0781,
+      "RankAdjDE": 41,
+      "AdjTempo": 70.5232,
+      "RankAdjTempo": 110,
+      "SOS": 3.5871,
+      "RankSOS": 116,
+      "Luck": -0.2263
+     },
+     "four_factors": {
+      "eFG_Pct": 48.3517,
+      "RankeFG_Pct": 247,
+      "TO_Pct": 22.6424,
+      "RankTO_Pct": 336,
+      "OR_Pct": 43.8596,
+      "RankOR_Pct": 5,
+      "FT_Rate": 35.1648,
+      "RankFT_Rate": 203,
+      "DeFG_Pct": 48.6188,
+      "RankDeFG_Pct": 128,
+      "DTO_Pct": 16.8614,
+      "RankDTO_Pct": 226,
+      "DOR_Pct": 30.0885,
+      "RankDOR_Pct": 140,
+      "DFT_Rate": 27.6243,
+      "RankDFT_Rate": 48
+     },
+     "shooting": {
+      "FG3Pct": 32.2581,
+      "RankFG3Pct": 197,
+      "FG2Pct": 48.3333,
+      "FTPct": 62.5,
+      "F3GRate": 34.0659,
+      "RankF3GRate": 315,
+      "OppFG3Pct": 35.7143,
+      "RankOppFG3Pct": 272,
+      "BlockPct": 16.4948,
+      "StlRate": 0.0867,
+      "ARate": 46.1538
+     },
+     "size": {
+      "AvgHgt": 78.1,
+      "AvgHgtRank": 71,
+      "HgtEff": 2.31,
+      "Exp": 1.1431,
+      "ExpRank": 234,
+      "Bench": 31.01,
+      "Continuity": 0.2587
+     }
+    },
+    "home": {
+     "name": "Loyola Marymount",
+     "kenpom_url": "https://kenpom.com/team.php?team=Loyola+Marymount",
+     "record": "3-3",
+     "coach": "Stan Johnson",
+     "conf": "WCC",
+     "arena": "Gersten Pavilion, Los Angeles, CA",
+     "ratings": {
+      "AdjEM": -0.9358,
+      "RankAdjEM": 159,
+      "AdjOE": 109.493,
+      "RankAdjOE": 134,
+      "AdjDE": 110.429,
+      "RankAdjDE": 234,
+      "AdjTempo": 68.0765,
+      "RankAdjTempo": 267,
+      "SOS": -9.6741,
+      "RankSOS": 327,
+      "Luck": -0.2356
+     },
+     "four_factors": {
+      "eFG_Pct": 56.0261,
+      "RankeFG_Pct": 52,
+      "TO_Pct": 15.1859,
+      "RankTO_Pct": 59,
+      "OR_Pct": 38.1818,
+      "RankOR_Pct": 55,
+      "FT_Rate": 26.3844,
+      "RankFT_Rate": 333,
+      "DeFG_Pct": 51.4035,
+      "RankDeFG_Pct": 197,
+      "DTO_Pct": 13.9949,
+      "RankDTO_Pct": 331,
+      "DOR_Pct": 28.1437,
+      "RankDOR_Pct": 93,
+      "DFT_Rate": 39.2982,
+      "RankDFT_Rate": 225
+     },
+     "shooting": {
+      "FG3Pct": 34.2105,
+      "RankFG3Pct": 131,
+      "FG2Pct": 60.6452,
+      "FTPct": 71.6049,
+      "F3GRate": 49.5114,
+      "RankF3GRate": 37,
+      "OppFG3Pct": 36.2637,
+      "RankOppFG3Pct": 286,
+      "BlockPct": 11.8557,
+      "StlRate": 0.0596,
+      "ARate": 61.6438
+     },
+     "size": {
+      "AvgHgt": 78.69,
+      "AvgHgtRank": 32,
+      "HgtEff": 0.8,
+      "Exp": 2.169,
+      "ExpRank": 48,
+      "Bench": 27.04,
+      "Continuity": 0.117
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
