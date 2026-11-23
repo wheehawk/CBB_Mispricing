@@ -88,8 +88,8 @@ Both models 1.5+ off · ★ = both 3+
 3/3 lock: Eastern Washington +7.5
    Mon 10:00 PM · models: Torvik -1.1, KenPom +1.5
 
-2/3 lock: East Carolina -2.5
-   Mon 12:30 PM · models: Torvik +1.8, KenPom +0.5
+2/3 lock: East Carolina -2
+   Mon 12:30 PM · models: Torvik +2.1, KenPom +0.8
 
 2/3 lock: Tulsa +5.5
    Mon 2:00 PM · models: Torvik +3.3, KenPom +0.5
@@ -101,7 +101,7 @@ Both models 1.5+ off · ★ = both 3+
    Mon 3:30 PM · ✅ models agree
 
 2/3 lock: William & Mary -6
-   Mon 3:30 PM · models: Torvik +0.2, KenPom +0.8
+   Mon 3:30 PM · models: Torvik +0.5, KenPom +1.0
 
 2/3 lock: Yale +2.5
    Mon 4:00 PM · models: Torvik -2.4, KenPom +0.5
