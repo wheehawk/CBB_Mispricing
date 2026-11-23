@@ -1,6 +1,739 @@
 {
- "generated_utc": "2026-11-23T03:41+00:00",
+ "generated_utc": "2026-11-23T11:29+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "b1abd9ff77f5dc5c376c08041fae20ea",
+   "priority": [
+    1,
+    0
+   ],
+   "date": "2026-11-23",
+   "tip_et": "Mon Nov 23, 3:30 PM ET",
+   "away": "Arkansas St.",
+   "home": "Southern Utah",
+   "neutral": true,
+   "venue": {
+    "name": "Ocean Bank Convocation Center",
+    "city": "Miami, FL",
+    "neutral": true,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": "Florida International MTE"
+   },
+   "home_arena_kenpom": "America First Event Center, Cedar City, UT",
+   "pick": {
+    "team": "Southern Utah",
+    "team_bold": "\ud835\udc12\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc27 \ud835\udc14\ud835\udc2d\ud835\udc1a\ud835\udc21",
+    "side": "home",
+    "market_line": 7.5,
+    "best": [
+     7.5,
+     -110,
+     "BetMGM"
+    ]
+   },
+   "models": {
+    "torvik_line": 4.3,
+    "torvik_edge": 3.2,
+    "kenpom_line": 4.0,
+    "kenpom_edge": 3.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 159.9,
+    "kenpom_total": 156.0,
+    "market_total": null,
+    "torvik_tempo": 74.6,
+    "kenpom_tempo": 75.0,
+    "kenpom_home_win_prob": 36.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "Southern Utah",
+    "hosts": [
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "+7.5",
+    "label": "2/3 lock: Southern Utah"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Arkansas St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Arkansas+St.",
+     "record": "3-2",
+     "coach": "Ryan Pannone",
+     "conf": "SB",
+     "arena": "First National Bank Arena, Jonesboro, AR",
+     "ratings": {
+      "AdjEM": -4.273,
+      "RankAdjEM": 197,
+      "AdjOE": 103.245,
+      "RankAdjOE": 257,
+      "AdjDE": 107.518,
+      "RankAdjDE": 158,
+      "AdjTempo": 73.7404,
+      "RankAdjTempo": 14,
+      "SOS": -5.2463,
+      "RankSOS": 262,
+      "Luck": -0.0024
+     },
+     "four_factors": {
+      "eFG_Pct": 45.7912,
+      "RankeFG_Pct": 292,
+      "TO_Pct": 15.8454,
+      "RankTO_Pct": 84,
+      "OR_Pct": 39.0244,
+      "RankOR_Pct": 39,
+      "FT_Rate": 30.303,
+      "RankFT_Rate": 282,
+      "DeFG_Pct": 46.1832,
+      "RankDeFG_Pct": 72,
+      "DTO_Pct": 20.6961,
+      "RankDTO_Pct": 66,
+      "DOR_Pct": 40.1163,
+      "RankDOR_Pct": 340,
+      "DFT_Rate": 42.3664,
+      "RankDFT_Rate": 271
+     },
+     "shooting": {
+      "FG3Pct": 30,
+      "RankFG3Pct": 263,
+      "FG2Pct": 46.4968,
+      "FTPct": 55.5556,
+      "F3GRate": 47.138,
+      "RankF3GRate": 63,
+      "OppFG3Pct": 29.7521,
+      "RankOppFG3Pct": 83,
+      "BlockPct": 14.1844,
+      "StlRate": 0.1294,
+      "ARate": 57.3913
+     },
+     "size": {
+      "AvgHgt": 77.2,
+      "AvgHgtRank": 233,
+      "HgtEff": 0.37,
+      "Exp": 0.9536,
+      "ExpRank": 274,
+      "Bench": 45.36,
+      "Continuity": 0.052
+     }
+    },
+    "home": {
+     "name": "Southern Utah",
+     "kenpom_url": "https://kenpom.com/team.php?team=Southern+Utah",
+     "record": "3-3",
+     "coach": "Rob Jeter",
+     "conf": "BSky",
+     "arena": "America First Event Center, Cedar City, UT",
+     "ratings": {
+      "AdjEM": -9.7124,
+      "RankAdjEM": 277,
+      "AdjOE": 101.99,
+      "RankAdjOE": 272,
+      "AdjDE": 111.703,
+      "RankAdjDE": 270,
+      "AdjTempo": 71.2594,
+      "RankAdjTempo": 70,
+      "SOS": 22.7942,
+      "RankSOS": 2,
+      "Luck": -0.0005
+     },
+     "four_factors": {
+      "eFG_Pct": 44.1718,
+      "RankeFG_Pct": 323,
+      "TO_Pct": 26.5425,
+      "RankTO_Pct": 361,
+      "OR_Pct": 33.3333,
+      "RankOR_Pct": 144,
+      "FT_Rate": 38.6503,
+      "RankFT_Rate": 148,
+      "DeFG_Pct": 56.2176,
+      "RankDeFG_Pct": 316,
+      "DTO_Pct": 17.2293,
+      "RankDTO_Pct": 205,
+      "DOR_Pct": 48.4848,
+      "RankDOR_Pct": 364,
+      "DFT_Rate": 39.8964,
+      "RankDFT_Rate": 234
+     },
+     "shooting": {
+      "FG3Pct": 31.746,
+      "RankFG3Pct": 215,
+      "FG2Pct": 42,
+      "FTPct": 53.9683,
+      "F3GRate": 38.6503,
+      "RankF3GRate": 232,
+      "OppFG3Pct": 21.6667,
+      "RankOppFG3Pct": 2,
+      "BlockPct": 6.7669,
+      "StlRate": 0.0792,
+      "ARate": 62.9032
+     },
+     "size": {
+      "AvgHgt": 77.45,
+      "AvgHgtRank": 178,
+      "HgtEff": 0.62,
+      "Exp": 0.9201,
+      "ExpRank": 281,
+      "Bench": 37.44,
+      "Continuity": 0.2382
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "1af3a5acedbb908ecc006767d288d16b",
+   "priority": [
+    1,
+    0
+   ],
+   "date": "2026-11-23",
+   "tip_et": "Mon Nov 23, 7:00 PM ET",
+   "away": "Central Arkansas",
+   "home": "North Florida",
+   "neutral": false,
+   "venue": {
+    "name": "UNF Arena",
+    "city": "Jacksonville, FL",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "UNF Arena, Jacksonville, FL",
+   "pick": {
+    "team": "North Florida",
+    "team_bold": "\ud835\udc0d\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc21 \ud835\udc05\ud835\udc25\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc1d\ud835\udc1a",
+    "side": "home",
+    "market_line": 9.5,
+    "best": [
+     9.5,
+     -109,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": 5.3,
+    "torvik_edge": 4.2,
+    "kenpom_line": 6.0,
+    "kenpom_edge": 3.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 160.3,
+    "kenpom_total": 160.0,
+    "market_total": null,
+    "torvik_tempo": 75.4,
+    "kenpom_tempo": 75.0,
+    "kenpom_home_win_prob": 27.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "North Florida",
+    "hosts": [
+     "Colby",
+     "Mac"
+    ],
+    "line": "+9.5",
+    "label": "2/3 lock: North Florida"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Central Arkansas",
+     "kenpom_url": "https://kenpom.com/team.php?team=Central+Arkansas",
+     "record": "3-3",
+     "coach": "John Shulman",
+     "conf": "UAC",
+     "arena": "Farris Center, Conway, AR",
+     "ratings": {
+      "AdjEM": 0.9942,
+      "RankAdjEM": 144,
+      "AdjOE": 107.345,
+      "RankAdjOE": 170,
+      "AdjDE": 106.351,
+      "RankAdjDE": 141,
+      "AdjTempo": 69.9332,
+      "RankAdjTempo": 130,
+      "SOS": 13.9937,
+      "RankSOS": 26,
+      "Luck": -0.0135
+     },
+     "four_factors": {
+      "eFG_Pct": 51.6014,
+      "RankeFG_Pct": 161,
+      "TO_Pct": 20.3757,
+      "RankTO_Pct": 288,
+      "OR_Pct": 27.5862,
+      "RankOR_Pct": 280,
+      "FT_Rate": 35.9431,
+      "RankFT_Rate": 187,
+      "DeFG_Pct": 52.5559,
+      "RankDeFG_Pct": 229,
+      "DTO_Pct": 15.8477,
+      "RankDTO_Pct": 267,
+      "DOR_Pct": 32.5843,
+      "RankDOR_Pct": 215,
+      "DFT_Rate": 28.754,
+      "RankDFT_Rate": 68
+     },
+     "shooting": {
+      "FG3Pct": 31.7881,
+      "RankFG3Pct": 211,
+      "FG2Pct": 56.1538,
+      "FTPct": 68.3168,
+      "F3GRate": 53.7367,
+      "RankF3GRate": 10,
+      "OppFG3Pct": 33.7931,
+      "RankOppFG3Pct": 218,
+      "BlockPct": 7.7381,
+      "StlRate": 0.0962,
+      "ARate": 61.9835
+     },
+     "size": {
+      "AvgHgt": 77.38,
+      "AvgHgtRank": 197,
+      "HgtEff": -0.35,
+      "Exp": 1.3109,
+      "ExpRank": 193,
+      "Bench": 38.68,
+      "Continuity": 0.5396
+     }
+    },
+    "home": {
+     "name": "North Florida",
+     "kenpom_url": "https://kenpom.com/team.php?team=North+Florida",
+     "record": "3-3",
+     "coach": "Bobby Kennen",
+     "conf": "ASun",
+     "arena": "UNF Arena, Jacksonville, FL",
+     "ratings": {
+      "AdjEM": -11.3206,
+      "RankAdjEM": 296,
+      "AdjOE": 101.248,
+      "RankAdjOE": 289,
+      "AdjDE": 112.569,
+      "RankAdjDE": 285,
+      "AdjTempo": 75.8715,
+      "RankAdjTempo": 1,
+      "SOS": 0.623,
+      "RankSOS": 152,
+      "Luck": 0.096
+     },
+     "four_factors": {
+      "eFG_Pct": 46.0064,
+      "RankeFG_Pct": 286,
+      "TO_Pct": 20.3575,
+      "RankTO_Pct": 287,
+      "OR_Pct": 26,
+      "RankOR_Pct": 311,
+      "FT_Rate": 32.9073,
+      "RankFT_Rate": 241,
+      "DeFG_Pct": 49.256,
+      "RankDeFG_Pct": 142,
+      "DTO_Pct": 17.5584,
+      "RankDTO_Pct": 183,
+      "DOR_Pct": 36.7647,
+      "RankDOR_Pct": 297,
+      "DFT_Rate": 41.369,
+      "RankDFT_Rate": 261
+     },
+     "shooting": {
+      "FG3Pct": 28.3333,
+      "RankFG3Pct": 293,
+      "FG2Pct": 48.1865,
+      "FTPct": 67.9612,
+      "F3GRate": 38.3387,
+      "RankF3GRate": 238,
+      "OppFG3Pct": 28.2258,
+      "RankOppFG3Pct": 53,
+      "BlockPct": 7.0755,
+      "StlRate": 0.0865,
+      "ARate": 50.3937
+     },
+     "size": {
+      "AvgHgt": 76.94,
+      "AvgHgtRank": 276,
+      "HgtEff": -1.1,
+      "Exp": 1.1646,
+      "ExpRank": 227,
+      "Bench": 38.56,
+      "Continuity": 0.3531
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "7672e3ae078a7b505b50f15e46208e4f",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-23",
+   "tip_et": "Mon Nov 23, 2:00 PM ET",
+   "away": "Tulsa",
+   "home": "Oregon St.",
+   "neutral": true,
+   "venue": {
+    "name": "Acrisure Arena",
+    "city": "Palm Springs, CA",
+    "neutral": true,
+    "tv": [
+     "FloSports"
+    ],
+    "note": "Acrisure Series"
+   },
+   "home_arena_kenpom": "Gill Coliseum, Corvallis, OR",
+   "pick": {
+    "team": "Tulsa",
+    "team_bold": "\ud835\udc13\ud835\udc2e\ud835\udc25\ud835\udc2c\ud835\udc1a",
+    "side": "away",
+    "market_line": 6.5,
+    "best": [
+     6.5,
+     -107,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": 2.2,
+    "torvik_edge": 4.3,
+    "kenpom_line": 5.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 161.6,
+    "kenpom_total": 157.0,
+    "market_total": null,
+    "torvik_tempo": 73.1,
+    "kenpom_tempo": 71.0,
+    "kenpom_home_win_prob": 66.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "Tulsa",
+    "hosts": [
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "+6.5",
+    "label": "2/3 lock: Tulsa"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Tulsa",
+     "kenpom_url": "https://kenpom.com/team.php?team=Tulsa",
+     "record": "4-1",
+     "coach": "Eric Konkol",
+     "conf": "Amer",
+     "arena": "Reynolds Center, Tulsa, OK",
+     "ratings": {
+      "AdjEM": 5.7457,
+      "RankAdjEM": 106,
+      "AdjOE": 110.224,
+      "RankAdjOE": 123,
+      "AdjDE": 104.479,
+      "RankAdjDE": 103,
+      "AdjTempo": 69.041,
+      "RankAdjTempo": 194,
+      "SOS": -0.3279,
+      "RankSOS": 169,
+      "Luck": 0.0987
+     },
+     "four_factors": {
+      "eFG_Pct": 52.8169,
+      "RankeFG_Pct": 121,
+      "TO_Pct": 23.1005,
+      "RankTO_Pct": 344,
+      "OR_Pct": 37.7953,
+      "RankOR_Pct": 59,
+      "FT_Rate": 50.2347,
+      "RankFT_Rate": 30,
+      "DeFG_Pct": 46.5957,
+      "RankDeFG_Pct": 81,
+      "DTO_Pct": 14.4378,
+      "RankDTO_Pct": 322,
+      "DOR_Pct": 28.4768,
+      "RankDOR_Pct": 100,
+      "DFT_Rate": 37.8723,
+      "RankDFT_Rate": 206
+     },
+     "shooting": {
+      "FG3Pct": 28.1553,
+      "RankFG3Pct": 296,
+      "FG2Pct": 62.7273,
+      "FTPct": 71.9626,
+      "F3GRate": 48.3568,
+      "RankF3GRate": 46,
+      "OppFG3Pct": 29.2929,
+      "RankOppFG3Pct": 72,
+      "BlockPct": 9.5588,
+      "StlRate": 0.0975,
+      "ARate": 53.0612
+     },
+     "size": {
+      "AvgHgt": 78.12,
+      "AvgHgtRank": 69,
+      "HgtEff": 0.84,
+      "Exp": 2.1044,
+      "ExpRank": 56,
+      "Bench": 30.22,
+      "Continuity": 0.1476
+     }
+    },
+    "home": {
+     "name": "Oregon St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Oregon+St.",
+     "record": "6-0",
+     "coach": "Justin Joyner",
+     "conf": "P12",
+     "arena": "Gill Coliseum, Corvallis, OR",
+     "ratings": {
+      "AdjEM": 12.2676,
+      "RankAdjEM": 76,
+      "AdjOE": 116.85,
+      "RankAdjOE": 51,
+      "AdjDE": 104.582,
+      "RankAdjDE": 105,
+      "AdjTempo": 71.5106,
+      "RankAdjTempo": 64,
+      "SOS": -12.4736,
+      "RankSOS": 348,
+      "Luck": 0.035
+     },
+     "four_factors": {
+      "eFG_Pct": 59.0529,
+      "RankeFG_Pct": 23,
+      "TO_Pct": 15.2294,
+      "RankTO_Pct": 57,
+      "OR_Pct": 34.5745,
+      "RankOR_Pct": 125,
+      "FT_Rate": 46.2396,
+      "RankFT_Rate": 62,
+      "DeFG_Pct": 45.8442,
+      "RankDeFG_Pct": 63,
+      "DTO_Pct": 17.2752,
+      "RankDTO_Pct": 201,
+      "DOR_Pct": 28.5714,
+      "RankDOR_Pct": 104,
+      "DFT_Rate": 25.7143,
+      "RankDFT_Rate": 26
+     },
+     "shooting": {
+      "FG3Pct": 40,
+      "RankFG3Pct": 26,
+      "FG2Pct": 58.2474,
+      "FTPct": 84.3373,
+      "F3GRate": 45.961,
+      "RankF3GRate": 82,
+      "OppFG3Pct": 30.7143,
+      "RankOppFG3Pct": 118,
+      "BlockPct": 13.0612,
+      "StlRate": 0.0864,
+      "ARate": 59.7765
+     },
+     "size": {
+      "AvgHgt": 77.86,
+      "AvgHgtRank": 112,
+      "HgtEff": 1.67,
+      "Exp": 1.4255,
+      "ExpRank": 170,
+      "Bench": 33.1,
+      "Continuity": 0.1416
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "aee64daab1ceefa09aaf0260ed750d53",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-23",
+   "tip_et": "Mon Nov 23, 3:30 PM ET",
+   "away": "William & Mary",
+   "home": "IU Indy",
+   "neutral": true,
+   "venue": null,
+   "home_arena_kenpom": "Morris Arena, Indianapolis, IN",
+   "pick": {
+    "team": "William & Mary",
+    "team_bold": "\ud835\udc16\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc1a\ud835\udc26 & \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc32",
+    "side": "away",
+    "market_line": -4.5,
+    "best": [
+     -4.5,
+     -108,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": -6.5,
+    "torvik_edge": 2.0,
+    "kenpom_line": -7.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 167.0,
+    "kenpom_total": 165.0,
+    "market_total": null,
+    "torvik_tempo": 74.1,
+    "kenpom_tempo": 74.0,
+    "kenpom_home_win_prob": 28.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "William & Mary",
+    "hosts": [
+     "Colby",
+     "Mac"
+    ],
+    "line": "-4.5",
+    "label": "2/3 lock: William & Mary"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "William & Mary",
+     "kenpom_url": "https://kenpom.com/team.php?team=William+%26+Mary",
+     "record": "5-2",
+     "coach": "Brian Earl",
+     "conf": "CAA",
+     "arena": "Kaplan Arena, Williamsburg, VA",
+     "ratings": {
+      "AdjEM": -1.3526,
+      "RankAdjEM": 165,
+      "AdjOE": 108.461,
+      "RankAdjOE": 147,
+      "AdjDE": 109.814,
+      "RankAdjDE": 213,
+      "AdjTempo": 73.5712,
+      "RankAdjTempo": 17,
+      "SOS": -1.1513,
+      "RankSOS": 184,
+      "Luck": 0.0728
+     },
+     "four_factors": {
+      "eFG_Pct": 54.7541,
+      "RankeFG_Pct": 73,
+      "TO_Pct": 17.4834,
+      "RankTO_Pct": 167,
+      "OR_Pct": 30.3867,
+      "RankOR_Pct": 224,
+      "FT_Rate": 41.3115,
+      "RankFT_Rate": 105,
+      "DeFG_Pct": 52.7778,
+      "RankDeFG_Pct": 235,
+      "DTO_Pct": 18.2781,
+      "RankDTO_Pct": 153,
+      "DOR_Pct": 36.3636,
+      "RankDOR_Pct": 287,
+      "DFT_Rate": 35.1852,
+      "RankDFT_Rate": 155
+     },
+     "shooting": {
+      "FG3Pct": 34.0741,
+      "RankFG3Pct": 139,
+      "FG2Pct": 57.6471,
+      "FTPct": 72.2222,
+      "F3GRate": 44.2623,
+      "RankF3GRate": 110,
+      "OppFG3Pct": 36.6197,
+      "RankOppFG3Pct": 290,
+      "BlockPct": 10.989,
+      "StlRate": 0.1113,
+      "ARate": 65.9722
+     },
+     "size": {
+      "AvgHgt": 77.52,
+      "AvgHgtRank": 166,
+      "HgtEff": -0.99,
+      "Exp": 0.6885,
+      "ExpRank": 329,
+      "Bench": 45.35,
+      "Continuity": 0
+     }
+    },
+    "home": {
+     "name": "IU Indy",
+     "kenpom_url": "https://kenpom.com/team.php?team=IU+Indy",
+     "record": "4-2",
+     "coach": "Ben Howlett",
+     "conf": "Horz",
+     "arena": "Morris Arena, Indianapolis, IN",
+     "ratings": {
+      "AdjEM": -10.1334,
+      "RankAdjEM": 280,
+      "AdjOE": 105.039,
+      "RankAdjOE": 213,
+      "AdjDE": 115.172,
+      "RankAdjDE": 337,
+      "AdjTempo": 70.5865,
+      "RankAdjTempo": 99,
+      "SOS": -11.9232,
+      "RankSOS": 346,
+      "Luck": -0.0024
+     },
+     "four_factors": {
+      "eFG_Pct": 48.2919,
+      "RankeFG_Pct": 253,
+      "TO_Pct": 12.3271,
+      "RankTO_Pct": 9,
+      "OR_Pct": 33.4975,
+      "RankOR_Pct": 142,
+      "FT_Rate": 29.8137,
+      "RankFT_Rate": 292,
+      "DeFG_Pct": 50.8741,
+      "RankDeFG_Pct": 180,
+      "DTO_Pct": 19.0777,
+      "RankDTO_Pct": 114,
+      "DOR_Pct": 36.9048,
+      "RankDOR_Pct": 298,
+      "DFT_Rate": 37.4126,
+      "RankDFT_Rate": 198
+     },
+     "shooting": {
+      "FG3Pct": 31.0734,
+      "RankFG3Pct": 239,
+      "FG2Pct": 50.3448,
+      "FTPct": 70.8333,
+      "F3GRate": 54.9689,
+      "RankF3GRate": 5,
+      "OppFG3Pct": 29.3478,
+      "RankOppFG3Pct": 75,
+      "BlockPct": 10.3093,
+      "StlRate": 0.0969,
+      "ARate": 60.9375
+     },
+     "size": {
+      "AvgHgt": 77.14,
+      "AvgHgtRank": 241,
+      "HgtEff": -0.59,
+      "Exp": 1.1378,
+      "ExpRank": 234,
+      "Bench": 40.12,
+      "Continuity": 0.1308
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
