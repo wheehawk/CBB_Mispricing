@@ -1,5 +1,5 @@
 🏀 CBB SCREENER · Tue Nov 24
-22 plays · 2 with podcast lock · 0 conf home dogs
+23 plays · 2 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
@@ -7,7 +7,7 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 ────────────────────────
 𝐉𝐚𝐜𝐤𝐬𝐨𝐧𝐯𝐢𝐥𝐥𝐞 +27.5
    at Indiana · Tue 7:00 PM
-   Best +28 (-110) Bovada
+   Best +27.5 (-109) BetRivers
    Torvik +25.8 (edge 1.7)
    KenPom +23.0 (edge 4.5)
    🎙 Podcast AGREES: 2/2 agree Jacksonville
@@ -20,39 +20,21 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
    🎙 Podcast AGREES: 2/2 agree Central Michigan
 
 ────────────────────────
-📊 OTHER PLAYS (20)
+📊 OTHER PLAYS (21)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐃𝐞𝐭𝐫𝐨𝐢𝐭 𝐌𝐞𝐫𝐜𝐲 +4.5
-   vs North Dakota (neutral) · Tue 3:00 PM
-   Best +4.5 (-106) LowVig.ag
-   Torvik -0.3 (edge 4.8)
-   KenPom +1.0 (edge 3.5)
-
-★ 𝐐𝐮𝐞𝐞𝐧𝐬 +1.5
-   at Wofford · Tue 6:00 PM
-   Best +1.5 (-115) DraftKings
-   Torvik -1.7 (edge 3.2)
-   KenPom -2.0 (edge 3.5)
-
 ★ 𝐃𝐞𝐥𝐚𝐰𝐚𝐫𝐞 𝐒𝐭. +16.5
    at Chattanooga · Tue 7:00 PM
-   Best +16.5 (-102) FanDuel
+   Best +16.5 (-110) FanDuel
    Torvik +11.9 (edge 4.6)
    KenPom +13.0 (edge 3.5)
    🎙 Podcast OPPOSES: 2/2 agree Chattanooga
 
-★ 𝐒𝐭𝐞𝐭𝐬𝐨𝐧 +18.5
-   at South Florida · Tue 7:00 PM
-   Best +18.5 (-106) LowVig.ag
-   Torvik +14.3 (edge 4.2)
-   KenPom +15.0 (edge 3.5)
-
 ★ 𝐓𝐚𝐫𝐥𝐞𝐭𝐨𝐧 𝐒𝐭. +1
    at Weber St. · Tue 7:00 PM
-   Best +1.5 (-117) BetRivers
-   Torvik -2.3 (edge 3.5)
-   KenPom -2.0 (edge 3.2)
+   Best +1.5 (-112) DraftKings
+   Torvik -2.3 (edge 3.3)
+   KenPom -2.0 (edge 3.0)
 
 ★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +16.5
    at Louisiana Tech · Tue 7:30 PM
@@ -60,17 +42,11 @@ Both models 1.5+ off · ★ = both 3+
    Torvik +11.0 (edge 5.5)
    KenPom +10.0 (edge 6.5)
 
-★ 𝐅𝐥𝐨𝐫𝐢𝐝𝐚 𝐀&𝐌 +18
+★ 𝐅𝐥𝐨𝐫𝐢𝐝𝐚 𝐀&𝐌 +17.5
    at South Alabama · Tue 8:00 PM
-   Best +18.5 (-115) DraftKings
-   Torvik +12.7 (edge 5.5)
-   KenPom +13.0 (edge 5.2)
-
-★ 𝐄𝐯𝐚𝐧𝐬𝐯𝐢𝐥𝐥𝐞 +31
-   at Missouri · Tue 9:00 PM
-   Best +31.5 (-108) DraftKings
-   Torvik +27.7 (edge 3.6)
-   KenPom +25.0 (edge 6.2)
+   Best +18.5 (-117) BetRivers
+   Torvik +12.7 (edge 4.8)
+   KenPom +13.0 (edge 4.5)
 
 ★ 𝐔𝐍𝐂 𝐀𝐬𝐡𝐞𝐯𝐢𝐥𝐥𝐞 +29.5
    at Florida St. · Tue 9:00 PM
@@ -78,11 +54,11 @@ Both models 1.5+ off · ★ = both 3+
    Torvik +25.0 (edge 4.5)
    KenPom +23.0 (edge 6.5)
 
-𝐒𝐚𝐧 𝐃𝐢𝐞𝐠𝐨 𝐒𝐭. +9
+𝐒𝐚𝐧 𝐃𝐢𝐞𝐠𝐨 𝐒𝐭. +9.5
    vs Iowa St. (neutral) · Tue 5:30 PM
-   Best +9.5 (-118) BetRivers
-   Torvik +3.9 (edge 5.1)
-   KenPom +7.0 (edge 2.0)
+   Best +10 (-109) LowVig.ag
+   Torvik +3.9 (edge 5.6)
+   KenPom +7.0 (edge 2.5)
    🎙 Podcast OPPOSES: 2/2 agree Iowa St.
 
 𝐄𝐚𝐬𝐭𝐞𝐫𝐧 𝐌𝐢𝐜𝐡𝐢𝐠𝐚𝐧 +4.5
@@ -91,23 +67,29 @@ Both models 1.5+ off · ★ = both 3+
    Torvik +2.2 (edge 2.3)
    KenPom +1.0 (edge 3.5)
 
-𝐑𝐨𝐛𝐞𝐫𝐭 𝐌𝐨𝐫𝐫𝐢𝐬 +3.5
+𝐑𝐨𝐛𝐞𝐫𝐭 𝐌𝐨𝐫𝐫𝐢𝐬 +3
    vs Lamar (neutral) · Tue 6:30 PM
-   Best +3.5 (-101) LowVig.ag
-   Torvik +0.7 (edge 2.8)
-   KenPom +1.0 (edge 2.5)
+   Best +3.5 (-118) FanDuel
+   Torvik +0.7 (edge 2.3)
+   KenPom +1.0 (edge 2.0)
 
-𝐂𝐨𝐩𝐩𝐢𝐧 𝐒𝐭. +33.5
+𝐂𝐨𝐩𝐩𝐢𝐧 𝐒𝐭. +34
    at Villanova · Tue 7:00 PM
-   Best +33.5 (-110) BetMGM
-   Torvik +31.2 (edge 2.3)
-   KenPom +29.0 (edge 4.5)
+   Best +34.5 (-105) BetMGM
+   Torvik +31.2 (edge 2.8)
+   KenPom +29.0 (edge 5.0)
 
-𝐒𝐚𝐧𝐭𝐚 𝐂𝐥𝐚𝐫𝐚 +1
-   vs Nevada (neutral) · Tue 7:00 PM
-   Best +1.5 (-120) BetMGM
-   Torvik -1.2 (edge 2.2)
-   KenPom -1.0 (edge 2.0)
+𝐌𝐢𝐥𝐰𝐚𝐮𝐤𝐞𝐞 +34.5
+   at Florida · Tue 7:00 PM
+   Best +34.5 (-106) LowVig.ag
+   Torvik +33.0 (edge 1.5)
+   KenPom +33.0 (edge 1.5)
+
+𝐒𝐭𝐞𝐭𝐬𝐨𝐧 +17
+   at South Florida · Tue 7:00 PM
+   Best +17.5 (-115) BetRivers
+   Torvik +14.3 (edge 2.7)
+   KenPom +15.0 (edge 2.0)
 
 𝐀𝐢𝐫 𝐅𝐨𝐫𝐜𝐞 -3.5
    vs Army (neutral) · Tue 8:00 PM
@@ -115,57 +97,75 @@ Both models 1.5+ off · ★ = both 3+
    Torvik -7.7 (edge 4.2)
    KenPom -5.0 (edge 1.5)
 
-𝐏𝐞𝐧𝐧 -5.5
+𝐏𝐞𝐧𝐧 -6
    vs Drexel (home) · Tue 8:00 PM
    Best -5.5 (-109) BetRivers
-   Torvik -7.4 (edge 1.9)
-   KenPom -8.0 (edge 2.5)
+   Torvik -7.4 (edge 1.6)
+   KenPom -8.0 (edge 2.2)
 
-𝐔𝐓𝐄𝐏 +2.5
-   vs Charleston (neutral) · Tue 8:30 PM
-   Best +2.5 (-106) LowVig.ag
-   Torvik +0.3 (edge 2.2)
-   KenPom +1.0 (edge 1.5)
+𝐄𝐯𝐚𝐧𝐬𝐯𝐢𝐥𝐥𝐞 +30.5
+   at Missouri · Tue 9:00 PM
+   Best +30.5 (-106) BetRivers
+   Torvik +27.7 (edge 2.8)
+   KenPom +25.0 (edge 5.5)
 
-𝐎𝐫𝐞𝐠𝐨𝐧 +11
+𝐎𝐫𝐞𝐠𝐨𝐧 +10.5
    vs St. John's (neutral) · Tue 10:30 PM
-   Best +11.5 (-120) FanDuel
-   Torvik +5.0 (edge 6.0)
-   KenPom +9.0 (edge 2.0)
+   Best +10.5 (-106) BetRivers
+   Torvik +5.0 (edge 5.5)
+   KenPom +9.0 (edge 1.5)
    🎙 Podcast OPPOSES: 2/2 agree St. John's
 
-𝐂𝐨𝐥𝐨𝐫𝐚𝐝𝐨 +4.5
+𝐂𝐨𝐥𝐨𝐫𝐚𝐝𝐨 +3.5
    vs Stanford (neutral) · Tue 11:59 PM
-   Best +4.5 (-106) LowVig.ag
-   Torvik +1.2 (edge 3.3)
-   KenPom +2.0 (edge 2.5)
+   Best +4.5 (-118) DraftKings
+   Torvik +1.2 (edge 2.3)
+   KenPom +2.0 (edge 1.5)
 
-𝐊𝐚𝐧𝐬𝐚𝐬 𝐒𝐭. +16
-   vs Gonzaga (neutral) · Wed 12:30 AM
-   Best +16.5 (-115) DraftKings
-   Torvik +11.1 (edge 4.9)
-   KenPom +13.6 (edge 2.4)
+𝐑𝐢𝐜𝐞 +5
+   vs Ohio (neutral) · Wed 11:00 AM
+   Best +5.5 (-110) FanDuel
+   Torvik +1.6 (edge 3.4)
+   KenPom +3.3 (edge 1.7)
+
+𝐅𝐈𝐔 -1.5
+   vs Arkansas St. (home) · Wed 3:30 PM
+   Best -1.5 (-101) LowVig.ag
+   Torvik -6.6 (edge 5.1)
+   KenPom -4.4 (edge 2.9)
+
+𝐃𝐮𝐤𝐞 +2.5
+   vs Connecticut (neutral) · Wed 7:00 PM
+   Best +2.5 (-101) LowVig.ag
+   Torvik -1.6 (edge 4.1)
+   KenPom +0.4 (edge 2.1)
+
+𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 +21
+   at Wisconsin · Wed 7:00 PM
+   Best +21.5 (-106) LowVig.ag
+   Torvik +18.3 (edge 2.7)
+   KenPom +17.2 (edge 3.8)
+
+𝐖𝐚𝐤𝐞 𝐅𝐨𝐫𝐞𝐬𝐭 +5
+   vs Mississippi St. (neutral) · Wed 7:30 PM
+   Best +5 (-106) LowVig.ag
+   Torvik +2.7 (edge 2.3)
+   KenPom +2.8 (edge 2.2)
 
 ────────────────────────
-🎙 PODCAST LOCKS (13)
+🎙 PODCAST LOCKS (11)
 ────────────────────────
-2/2 agree: Tennessee -2.5
-   Tue 3:00 PM · models: Torvik +1.3, KenPom +3.5
+2/2 agree: Arizona -7.5
+   Tue 5:00 PM · models: Torvik +0.6, KenPom -0.5
 
-2/2 agree: Long Beach St. +5
-   Tue 3:30 PM · models: Torvik +0.2, KenPom +3.0
-
-2/2 agree: Arizona -8
-   Tue 5:00 PM · models: Torvik +0.3, KenPom -0.8
-
-2/2 agree: Iowa St. -9
+2/2 agree: Iowa St. -9.5
    Tue 5:30 PM · ❌ models on other side
 
-2/2 agree: DePaul +3
-   Tue 6:00 PM · models: Torvik +0.4, KenPom +2.0
+2/2 agree: DePaul +3.5
+   Tue 6:00 PM · models: Torvik +0.9, KenPom +2.5
 
 2/2 agree: Coastal Carolina -1
-   Tue 7:00 PM · models: Torvik +0.2, KenPom +0.8
+   Tue 7:00 PM · models: Torvik +0.4, KenPom +1.0
 
 2/2 agree: Chattanooga -16.5
    Tue 7:00 PM · ❌ models on other side
@@ -185,7 +185,7 @@ Both models 1.5+ off · ★ = both 3+
 2/2 agree: Saint Louis +2
    Tue 9:30 PM · models: Torvik -1.7, KenPom -0.2
 
-2/2 agree: St. John's -11
+2/2 agree: St. John's -10.5
    Tue 10:30 PM · ❌ models on other side
 
 ────────────────────────
@@ -214,6 +214,3 @@ Yesterday: 9-4 · +4.18u
 ✅ Fairleigh Dickinson +9.5 (49-46)
 ✅ Santa Clara -2.5 (99-102) · 🎙 3/3 lock
 
-Notes:
-• Unmatched game: SE Louisiana Lions at N Colorado Bears (add to data/aliases.json if needed)
-• Unmatched game: UIC Flames at Rice Owls (add to data/aliases.json if needed)
