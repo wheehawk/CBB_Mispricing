@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-24T11:35+00:00",
+ "generated_utc": "2026-11-24T16:02+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -28,18 +28,18 @@
     "team": "Jacksonville",
     "team_bold": "\ud835\udc09\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc2c\ud835\udc28\ud835\udc27\ud835\udc2f\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc1e",
     "side": "away",
-    "market_line": 28.0,
+    "market_line": 27.5,
     "best": [
-     28.5,
-     -115,
-     "DraftKings"
+     28.0,
+     -110,
+     "Bovada"
     ]
    },
    "models": {
     "torvik_line": 25.8,
-    "torvik_edge": 2.2,
+    "torvik_edge": 1.7,
     "kenpom_line": 23.0,
-    "kenpom_edge": 5.0,
+    "kenpom_edge": 4.5,
     "kenpom_source": "FanMatch",
     "torvik_total": 152.0,
     "kenpom_total": 149.0,
@@ -71,15 +71,15 @@
      "conf": "ASun",
      "arena": "Swisher Gymnasium, Jacksonville, FL",
      "ratings": {
-      "AdjEM": -9.1629,
+      "AdjEM": -9.1632,
       "RankAdjEM": 271,
       "AdjOE": 104.367,
       "RankAdjOE": 235,
       "AdjDE": 113.53,
-      "RankAdjDE": 297,
-      "AdjTempo": 66.4715,
+      "RankAdjDE": 298,
+      "AdjTempo": 66.4714,
       "RankAdjTempo": 316,
-      "SOS": 3.8671,
+      "SOS": 3.8672,
       "RankSOS": 109,
       "Luck": -0.0542
      },
@@ -99,7 +99,7 @@
       "DOR_Pct": 37.5,
       "RankDOR_Pct": 307,
       "DFT_Rate": 54.1219,
-      "RankDFT_Rate": 352
+      "RankDFT_Rate": 353
      },
      "shooting": {
       "FG3Pct": 30.7087,
@@ -109,7 +109,7 @@
       "F3GRate": 43.0508,
       "RankF3GRate": 137,
       "OppFG3Pct": 35.2941,
-      "RankOppFG3Pct": 260,
+      "RankOppFG3Pct": 261,
       "BlockPct": 7.6923,
       "StlRate": 0.0924,
       "ARate": 46.789
@@ -132,13 +132,13 @@
      "conf": "B10",
      "arena": "Assembly Hall, Bloomington, IN",
      "ratings": {
-      "AdjEM": 20.8166,
+      "AdjEM": 20.8162,
       "RankAdjEM": 33,
       "AdjOE": 121.518,
       "RankAdjOE": 18,
       "AdjDE": 100.701,
       "RankAdjDE": 55,
-      "AdjTempo": 68.4364,
+      "AdjTempo": 68.4363,
       "RankAdjTempo": 228,
       "SOS": 0.0823,
       "RankSOS": 166,
@@ -213,18 +213,18 @@
     "team": "Central Michigan",
     "team_bold": "\ud835\udc02\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc25 \ud835\udc0c\ud835\udc22\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc20\ud835\udc1a\ud835\udc27",
     "side": "away",
-    "market_line": 21.0,
+    "market_line": 20.8,
     "best": [
      21.5,
      -115,
-     "DraftKings"
+     "BetRivers"
     ]
    },
    "models": {
     "torvik_line": 18.1,
-    "torvik_edge": 2.9,
+    "torvik_edge": 2.7,
     "kenpom_line": 19.0,
-    "kenpom_edge": 2.0,
+    "kenpom_edge": 1.8,
     "kenpom_source": "FanMatch",
     "torvik_total": 155.8,
     "kenpom_total": 155.0,
@@ -256,13 +256,13 @@
      "conf": "MAC",
      "arena": "McGuirk Arena, Mt. Pleasant, MI",
      "ratings": {
-      "AdjEM": -6.5136,
+      "AdjEM": -6.514,
       "RankAdjEM": 236,
       "AdjOE": 106.313,
       "RankAdjOE": 193,
       "AdjDE": 112.827,
-      "RankAdjDE": 284,
-      "AdjTempo": 69.2767,
+      "RankAdjDE": 285,
+      "AdjTempo": 69.2766,
       "RankAdjTempo": 157,
       "SOS": 0.6243,
       "RankSOS": 153,
@@ -272,7 +272,7 @@
       "eFG_Pct": 52.4055,
       "RankeFG_Pct": 138,
       "TO_Pct": 20.8158,
-      "RankTO_Pct": 305,
+      "RankTO_Pct": 304,
       "OR_Pct": 38.3234,
       "RankOR_Pct": 47,
       "FT_Rate": 37.1134,
@@ -294,7 +294,7 @@
       "F3GRate": 33.677,
       "RankF3GRate": 318,
       "OppFG3Pct": 36.4486,
-      "RankOppFG3Pct": 289,
+      "RankOppFG3Pct": 290,
       "BlockPct": 6.5574,
       "StlRate": 0.0844,
       "ARate": 47.7612
@@ -317,15 +317,15 @@
      "conf": "ACC",
      "arena": "Joyce Center, South Bend, IN",
      "ratings": {
-      "AdjEM": 16.8859,
+      "AdjEM": 16.8874,
       "RankAdjEM": 51,
-      "AdjOE": 119.15,
-      "RankAdjOE": 37,
-      "AdjDE": 102.264,
+      "AdjOE": 119.21,
+      "RankAdjOE": 36,
+      "AdjDE": 102.323,
       "RankAdjDE": 77,
-      "AdjTempo": 68.9765,
-      "RankAdjTempo": 179,
-      "SOS": 4.0488,
+      "AdjTempo": 68.9705,
+      "RankAdjTempo": 180,
+      "SOS": 4.0509,
       "RankSOS": 106,
       "Luck": 0.0544
      },
@@ -345,7 +345,7 @@
       "DOR_Pct": 28.8136,
       "RankDOR_Pct": 117,
       "DFT_Rate": 40.7125,
-      "RankDFT_Rate": 248
+      "RankDFT_Rate": 249
      },
      "shooting": {
       "FG3Pct": 45.3552,
@@ -355,7 +355,7 @@
       "F3GRate": 45.9799,
       "RankF3GRate": 78,
       "OppFG3Pct": 35.2941,
-      "RankOppFG3Pct": 260,
+      "RankOppFG3Pct": 261,
       "BlockPct": 8.75,
       "StlRate": 0.1245,
       "ARate": 55.2885
