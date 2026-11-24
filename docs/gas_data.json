@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-24T16:02+00:00",
+ "generated_utc": "2026-11-24T16:04+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -226,7 +226,7 @@
     "kenpom_line": 19.0,
     "kenpom_edge": 1.8,
     "kenpom_source": "FanMatch",
-    "torvik_total": 155.8,
+    "torvik_total": 155.9,
     "kenpom_total": 155.0,
     "market_total": null,
     "torvik_tempo": 69.2,
