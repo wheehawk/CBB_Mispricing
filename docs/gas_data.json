@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-25T11:31+00:00",
+ "generated_utc": "2026-11-25T15:53+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -28,18 +28,18 @@
     "team": "Tulane",
     "team_bold": "\ud835\udc13\ud835\udc2e\ud835\udc25\ud835\udc1a\ud835\udc27\ud835\udc1e",
     "side": "away",
-    "market_line": 8.5,
+    "market_line": 9.2,
     "best": [
-     9.0,
-     -106,
-     "LowVig.ag"
+     9.5,
+     -110,
+     "DraftKings"
     ]
    },
    "models": {
     "torvik_line": 6.9,
-    "torvik_edge": 1.6,
+    "torvik_edge": 2.4,
     "kenpom_line": 7.0,
-    "kenpom_edge": 1.5,
+    "kenpom_edge": 2.2,
     "kenpom_source": "FanMatch",
     "torvik_total": 141.6,
     "kenpom_total": 141.0,
@@ -184,183 +184,6 @@
       "ExpRank": 73,
       "Bench": 28.2,
       "Continuity": 0.4166
-     }
-    }
-   },
-   "players": null
-  },
-  {
-   "id": "8e6b412432893852d1138076e71cae97",
-   "priority": [
-    1,
-    1
-   ],
-   "date": "2026-11-25",
-   "tip_et": "Wed Nov 25, 3:30 PM ET",
-   "away": "Arkansas St.",
-   "home": "FIU",
-   "neutral": false,
-   "venue": null,
-   "home_arena_kenpom": "Ocean Bank Convocation Center, Miami, FL",
-   "pick": {
-    "team": "FIU",
-    "team_bold": "\ud835\udc05\ud835\udc08\ud835\udc14",
-    "side": "home",
-    "market_line": -1.5,
-    "best": [
-     -0.5,
-     -115,
-     "BetRivers"
-    ]
-   },
-   "models": {
-    "torvik_line": -6.0,
-    "torvik_edge": 4.5,
-    "kenpom_line": -3.0,
-    "kenpom_edge": 1.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 172.0,
-    "kenpom_total": 167.0,
-    "market_total": null,
-    "torvik_tempo": 78.6,
-    "kenpom_tempo": 77.0,
-    "kenpom_home_win_prob": 59.0
-   },
-   "flagged": true,
-   "star": false,
-   "podcast": {
-    "category": "2/3 lock",
-    "side": "home",
-    "team": "FIU",
-    "hosts": [
-     "Colby",
-     "Mac"
-    ],
-    "line": "-1.5",
-    "label": "2/3 lock: FIU"
-   },
-   "label": "KenPom and Torvik mispriced and a double lock per TCE",
-   "teams": {
-    "away": {
-     "name": "Arkansas St.",
-     "kenpom_url": "https://kenpom.com/team.php?team=Arkansas+St.",
-     "record": "5-2",
-     "coach": "Ryan Pannone",
-     "conf": "SB",
-     "arena": "First National Bank Arena, Jonesboro, AR",
-     "ratings": {
-      "AdjEM": -2.0166,
-      "RankAdjEM": 172,
-      "AdjOE": 108.199,
-      "RankAdjOE": 159,
-      "AdjDE": 110.216,
-      "RankAdjDE": 222,
-      "AdjTempo": 74.6598,
-      "RankAdjTempo": 4,
-      "SOS": -6.906,
-      "RankSOS": 315,
-      "Luck": 0.0738
-     },
-     "four_factors": {
-      "eFG_Pct": 51.4874,
-      "RankeFG_Pct": 170,
-      "TO_Pct": 14.8459,
-      "RankTO_Pct": 42,
-      "OR_Pct": 38.9091,
-      "RankOR_Pct": 38,
-      "FT_Rate": 31.1213,
-      "RankFT_Rate": 270,
-      "DeFG_Pct": 49.4898,
-      "RankDeFG_Pct": 138,
-      "DTO_Pct": 20.2248,
-      "RankDTO_Pct": 75,
-      "DOR_Pct": 39.5918,
-      "RankDOR_Pct": 336,
-      "DFT_Rate": 41.3265,
-      "RankDFT_Rate": 260
-     },
-     "shooting": {
-      "FG3Pct": 32.8358,
-      "RankFG3Pct": 182,
-      "FG2Pct": 53.3898,
-      "FTPct": 60.2941,
-      "F3GRate": 45.9954,
-      "RankF3GRate": 78,
-      "OppFG3Pct": 32,
-      "RankOppFG3Pct": 154,
-      "BlockPct": 13.8249,
-      "StlRate": 0.1312,
-      "ARate": 54.6875
-     },
-     "size": {
-      "AvgHgt": 77.07,
-      "AvgHgtRank": 257,
-      "HgtEff": 0.2,
-      "Exp": 0.97,
-      "ExpRank": 271,
-      "Bench": 42.49,
-      "Continuity": 0.052
-     }
-    },
-    "home": {
-     "name": "FIU",
-     "kenpom_url": "https://kenpom.com/team.php?team=FIU",
-     "record": "5-1",
-     "coach": "Joey Cantens",
-     "conf": "CUSA",
-     "arena": "Ocean Bank Convocation Center, Miami, FL",
-     "ratings": {
-      "AdjEM": -2.9039,
-      "RankAdjEM": 184,
-      "AdjOE": 105.722,
-      "RankAdjOE": 204,
-      "AdjDE": 108.626,
-      "RankAdjDE": 175,
-      "AdjTempo": 72.6353,
-      "RankAdjTempo": 30,
-      "SOS": -9.1703,
-      "RankSOS": 334,
-      "Luck": 0.1036
-     },
-     "four_factors": {
-      "eFG_Pct": 54.2994,
-      "RankeFG_Pct": 82,
-      "TO_Pct": 17.489,
-      "RankTO_Pct": 167,
-      "OR_Pct": 29.5858,
-      "RankOR_Pct": 242,
-      "FT_Rate": 29.2994,
-      "RankFT_Rate": 299,
-      "DeFG_Pct": 47.2756,
-      "RankDeFG_Pct": 84,
-      "DTO_Pct": 19.3724,
-      "RankDTO_Pct": 108,
-      "DOR_Pct": 35.9788,
-      "RankDOR_Pct": 284,
-      "DFT_Rate": 36.859,
-      "RankDFT_Rate": 190
-     },
-     "shooting": {
-      "FG3Pct": 29.7101,
-      "RankFG3Pct": 266,
-      "FG2Pct": 61.9318,
-      "FTPct": 81.5217,
-      "F3GRate": 43.949,
-      "RankF3GRate": 117,
-      "OppFG3Pct": 31.9588,
-      "RankOppFG3Pct": 152,
-      "BlockPct": 13.9535,
-      "StlRate": 0.1049,
-      "ARate": 43.3333
-     },
-     "size": {
-      "AvgHgt": 76.06,
-      "AvgHgtRank": 352,
-      "HgtEff": -0.31,
-      "Exp": 0.6959,
-      "ExpRank": 329,
-      "Bench": 33,
-      "Continuity": 0
      }
     }
    },
