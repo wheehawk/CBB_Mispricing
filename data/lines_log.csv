@@ -5012,3 +5012,62 @@ run_utc,event_id,start_utc,away,home,neutral,spread,total,torvik_margin,torvik_t
 2026-11-25T15:53+00:00,f026af6e32a421c5d3478e37d9198de0,2026-11-26T23:00:00+00:00,TCU Horned Frogs,Creighton Bluejays,1,1.0,,2.26,153.49,2.42,153.59,ratings,2
 2026-11-25T15:53+00:00,ff463f606d0a8912ca36a58b809e5f9e,2026-11-27T02:00:00+00:00,Kansas St Wildcats,Alabama Crimson Tide,1,-13.5,,10.12,169.36,14.31,168.34,ratings,1
 2026-11-25T15:53+00:00,3cb03cfb4f93a60fd1ce506ee8555130,2026-11-27T02:00:00+00:00,St. John's Red Storm,Louisville Cardinals,1,4.5,,-3.64,158.45,-3.91,157.54,ratings,2
+2026-11-25T16:07+00:00,35ad4fa01fad6add259b5e551ba7785b,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,1,5.5,,-4.84,151.87,-5.0,151.0,FanMatch,8
+2026-11-25T16:07+00:00,ed380fcc7e826f9e50517775dcff967e,2026-11-25T17:30:00+00:00,Yale Bulldogs,Wright St Raiders,1,-4.75,,5.84,138.82,7.0,141.0,FanMatch,8
+2026-11-25T16:07+00:00,e317bb85b611c4b4f5d7c004fdc049ea,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,0,-14.5,,15.66,154.3,13.0,153.0,FanMatch,8
+2026-11-25T16:07+00:00,a4c8b95f6d672698848b8c6a7eeeaee1,2026-11-25T18:00:00+00:00,Lindenwood Lions,Stony Brook Seawolves,0,-11.5,,11.36,145.36,9.0,143.0,FanMatch,8
+2026-11-25T16:07+00:00,97f12e8f9178ef8db0b62f56e3f69f3e,2026-11-25T18:00:00+00:00,Southern Utah Thunderbirds,Long Beach St 49ers,1,-1.5,,-0.59,156.91,1.0,155.0,FanMatch,8
+2026-11-25T16:07+00:00,cb9ca75b4359850d6b98a6dad9087827,2026-11-25T18:30:00+00:00,Tulane Green Wave,Davidson Wildcats,1,-9.25,,6.9,141.63,7.0,141.0,FanMatch,8
+2026-11-25T16:07+00:00,d7e124b82ed9910d5aa3077d19c6ada1,2026-11-25T19:00:00+00:00,Abilene Christian Wildcats,South Dakota St Jackrabbits,0,-6.5,,10.53,143.78,7.0,145.0,FanMatch,8
+2026-11-25T16:07+00:00,be3aefca8fa30c9f2569e0523c7c1b1e,2026-11-25T19:00:00+00:00,LSU Tigers,Arizona St Sun Devils,1,4.5,,-4.71,149.79,-6.0,150.0,FanMatch,8
+2026-11-25T16:07+00:00,d493eae11aafe56f0c7dd6ba33cd5c7a,2026-11-25T19:00:00+00:00,Arkansas-Pine Bluff Golden Lions,South Dakota Coyotes,0,-21.5,,17.6,163.38,13.0,161.0,FanMatch,7
+2026-11-25T16:07+00:00,501158853dafff874254ca13b173db59,2026-11-25T19:00:00+00:00,Saint Peter's Peacocks,Columbia Lions,0,-13.5,,12.71,124.87,15.0,125.0,FanMatch,8
+2026-11-25T16:07+00:00,d5c1b591e907d1c36a45342828f833df,2026-11-25T19:00:00+00:00,Manhattan Jaspers,NJIT Highlanders,0,-1.5,,1.43,140.44,-1.0,141.0,FanMatch,7
+2026-11-25T16:07+00:00,12b208559611e5fd2acd8ada6b3ca2f0,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,1,-5.5,,3.15,153.33,2.0,152.0,FanMatch,8
+2026-11-25T16:07+00:00,121900856124ad773bef8181c1d657f8,2026-11-25T19:30:00+00:00,Texas A&M Aggies,Xavier Musketeers,1,3.5,,-3.41,168.34,-7.0,167.0,FanMatch,8
+2026-11-25T16:07+00:00,25c24fc20a6e617fed78032b8a9faa35,2026-11-25T20:00:00+00:00,Akron Zips,Appalachian St Mountaineers,1,4.75,,-4.54,122.88,-5.0,131.0,FanMatch,8
+2026-11-25T16:07+00:00,85499376173e989c80df07ac68e7ce5f,2026-11-25T20:00:00+00:00,Jackson St Tigers,Oklahoma St Cowboys,0,-35.5,,28.68,164.98,28.0,158.0,FanMatch,7
+2026-11-25T16:07+00:00,ce5f5c47a886dbd64ae1a0a140487282,2026-11-25T20:00:00+00:00,SE Louisiana Lions,North Dakota Fighting Hawks,1,1.25,,0.16,149.21,-2.0,150.0,FanMatch,8
+2026-11-25T16:07+00:00,8e6b412432893852d1138076e71cae97,2026-11-25T20:30:00+00:00,Arkansas St Red Wolves,Florida Int'l Golden Panthers,0,-2.0,,5.98,171.95,3.0,167.0,FanMatch,8
+2026-11-25T16:07+00:00,1f96bccafbfa0ab16abe95771c2e3222,2026-11-25T21:00:00+00:00,Georgia St Panthers,Florida Gulf Coast Eagles,1,3.0,,-2.05,144.09,-2.0,148.0,FanMatch,7
+2026-11-25T16:07+00:00,40b82f25322f12117b8fd0b3cb7be9fd,2026-11-25T21:00:00+00:00,Grambling St Tigers,New Orleans Privateers,0,-3.5,,5.89,149.46,3.0,155.0,FanMatch,7
+2026-11-25T16:07+00:00,5fa4a729523fb30e056dcc312a0feabf,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,1,-3.5,,2.29,136.34,1.0,139.0,FanMatch,8
+2026-11-25T16:07+00:00,435e247e4cbee5255718ebb5b00dd014,2026-11-25T21:00:00+00:00,Prairie View Panthers,Marshall Thundering Herd,0,-14.0,,10.93,153.81,13.0,149.0,FanMatch,7
+2026-11-25T16:07+00:00,836e49363e2e574ede8873b9e53cb5f7,2026-11-25T21:30:00+00:00,South Carolina Gamecocks,USC Trojans,1,-10.5,,10.19,147.09,11.0,151.0,FanMatch,8
+2026-11-25T16:07+00:00,c22ee437478406022ecd2ee19654a601,2026-11-25T22:00:00+00:00,Alcorn St Braves,Texas State Bobcats,1,-25.5,,28.77,151.4,23.0,149.0,FanMatch,7
+2026-11-25T16:07+00:00,f22eff13dd2b5fe4bd600f3c4e582424,2026-11-25T22:00:00+00:00,Holy Cross Crusaders,Dartmouth Big Green,0,-11.5,,9.12,146.42,10.0,146.0,FanMatch,7
+2026-11-25T16:07+00:00,c18ec6dd46547be2ebc1e120f75faa56,2026-11-25T22:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,1,3.75,,-2.75,172.51,-5.0,167.0,FanMatch,8
+2026-11-25T16:07+00:00,96400c42956813a9fac6908794caa184,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,0,-34.5,,32.14,150.22,29.0,147.0,FanMatch,7
+2026-11-25T16:07+00:00,de0e429297ac691f955fcfe5e00bd8d6,2026-11-25T22:00:00+00:00,Portland St Vikings,UC Riverside Highlanders,0,-2.5,,2.82,152.43,4.0,150.0,FanMatch,8
+2026-11-25T16:07+00:00,985ed2684e4f7145af44f9ab8ba3b240,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,1,2.5,,-2.85,152.25,-3.0,153.0,FanMatch,8
+2026-11-25T16:07+00:00,0ec8ea3a510487bfe5c36c23bbd99048,2026-11-25T23:00:00+00:00,Albany Great Danes,Syracuse Orange,0,-26.5,,24.47,152.83,23.0,151.0,FanMatch,7
+2026-11-25T16:07+00:00,7d634711ef483a1dd9f38dfaa54f6ac3,2026-11-25T23:00:00+00:00,Bethune-Cookman Wildcats,Richmond Spiders,0,-11.5,,9.02,152.45,8.0,150.0,FanMatch,7
+2026-11-25T16:07+00:00,15a92ac931f0e07923ce6f87c599a20d,2026-11-25T23:00:00+00:00,CSU Northridge Matadors,Weber State Wildcats,0,1.75,,-0.81,170.91,-2.0,166.0,FanMatch,8
+2026-11-25T16:07+00:00,f52a7bbdb47fd52438b0be34a4377f53,2026-11-25T23:00:00+00:00,Kennesaw St Owls,Charleston Cougars,1,-1.5,,-1.45,161.67,1.0,159.0,FanMatch,7
+2026-11-25T16:07+00:00,f0f0b454eef63dd1b844b600289ef264,2026-11-25T23:00:00+00:00,West Florida Argonauts,Northwestern St Demons,0,-1.5,,5.33,141.52,3.0,143.0,FanMatch,7
+2026-11-25T16:07+00:00,958410c2d9ff2a33dac7eef047ddb857,2026-11-26T00:00:00+00:00,Bellarmine Knights,Northern Kentucky Norse,0,-7.0,,5.98,150.88,3.0,151.0,FanMatch,7
+2026-11-25T16:07+00:00,482e1e1c8e5e977fcf7e2322241bb598,2026-11-26T00:00:00+00:00,Duke Blue Devils,UConn Huskies,1,-2.0,,-0.7,146.14,1.0,151.0,FanMatch,8
+2026-11-25T16:07+00:00,0923e4ff04ea3d8d024fc57027c8c536,2026-11-26T00:00:00+00:00,Longwood Lancers,George Mason Patriots,0,-16.5,,14.2,144.46,12.0,144.0,FanMatch,7
+2026-11-25T16:07+00:00,e98cf133a49531595cd592e5804d2ebc,2026-11-26T00:00:00+00:00,Norfolk St Spartans,NC State Wolfpack,0,-28.5,,32.67,156.37,24.0,154.0,FanMatch,7
+2026-11-25T16:07+00:00,6dcd15264ad340b012628f9c0f020f8e,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,0,-19.75,,17.2,157.96,16.0,156.0,FanMatch,8
+2026-11-25T16:07+00:00,7e80238993676447af08e8e875166631,2026-11-26T00:00:00+00:00,Northern Illinois Huskies,SIU-Edwardsville Cougars,0,3.5,,-1.34,141.85,-3.0,145.0,FanMatch,8
+2026-11-25T16:07+00:00,b78c222249ee2a4cd1dacf48adf9dc50,2026-11-26T00:00:00+00:00,Utah State Aggies,SMU Mustangs,1,3.5,,-1.84,164.68,-4.0,164.0,FanMatch,8
+2026-11-25T16:07+00:00,8d1c1c595c78a7bcf0fc6f7fb5df9204,2026-11-26T00:00:00+00:00,St. Thomas (MN) Tommies,UNC Wilmington Seahawks,0,-5.5,,7.0,158.53,4.0,162.0,FanMatch,8
+2026-11-25T16:07+00:00,a0ecce85720e6b272a86b2160699e242,2026-11-26T00:30:00+00:00,Wake Forest Demon Deacons,Mississippi St Bulldogs,1,-3.5,,3.34,148.57,3.0,149.0,FanMatch,8
+2026-11-25T16:07+00:00,9e899ca479a32439945504fc79ad4f15,2026-11-26T01:00:00+00:00,CSU Bakersfield Roadrunners,Pepperdine Waves,0,-9.5,,10.06,165.72,6.0,162.0,FanMatch,8
+2026-11-25T16:07+00:00,7173f005449778e483f4720fd275597e,2026-11-26T01:00:00+00:00,Omaha Mavericks,UC Davis Aggies,1,-4.5,,7.25,144.82,7.0,147.0,FanMatch,8
+2026-11-25T16:07+00:00,bd650b8329bc6b939c4f103069c3475f,2026-11-26T01:30:00+00:00,Eastern Michigan Eagles,UTEP Miners,1,-1.0,,-0.1,134.85,2.0,134.0,FanMatch,7
+2026-11-25T16:07+00:00,56c64c09e294eb0dcb834c215fe90251,2026-11-26T02:00:00+00:00,Eastern Washington Eagles,Loyola Marymount Lions,0,-7.5,,8.18,154.79,3.0,155.0,FanMatch,8
+2026-11-25T16:07+00:00,42b2cb705a43bbb8640e0c9b22eee512,2026-11-26T02:00:00+00:00,Miss Valley St Delta Devils,New Mexico Lobos,0,-36.5,,28.42,146.24,29.0,149.0,FanMatch,7
+2026-11-25T16:07+00:00,e6d087efc768954eaa920f1d884ddfb7,2026-11-26T02:30:00+00:00,Colorado Buffaloes,Grand Canyon Antelopes,1,-9.5,,8.55,154.85,8.0,154.0,FanMatch,6
+2026-11-25T16:07+00:00,40a69bfe7d0a391985e1ca60741d208e,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,1,-4.5,,2.49,147.59,3.0,147.0,FanMatch,8
+2026-11-25T16:07+00:00,164dc4e74f0a21b32e236aa28e65f1dd,2026-11-26T03:30:00+00:00,Jacksonville St Gamecocks,Pacific Tigers,1,-4.5,,5.85,134.95,3.0,135.0,FanMatch,7
+2026-11-25T16:07+00:00,a191391394bd171f41ee90ed9e9b010a,2026-11-26T04:59:00+00:00,Incarnate Word Cardinals,Hawai'i Rainbow Warriors,0,-16.5,,16.79,140.49,12.0,142.0,FanMatch,7
+2026-11-25T16:07+00:00,87fec8c093d5b8f825bc61121105cc27,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,1,-4.5,,4.17,150.78,4.0,152.0,FanMatch,6
+2026-11-25T16:07+00:00,48369de2888c9b053bc390ff138c9434,2026-11-26T05:30:00+00:00,Clemson Tigers,Colorado St Rams,1,2.5,,-2.34,150.01,-2.56,151.18,ratings,8
+2026-11-25T16:07+00:00,fce1d0e39b7353f5d69bc77cf21ee9d1,2026-11-26T18:00:00+00:00,Maryland Terrapins,San Diego St Aztecs,1,1.0,,0.99,151.85,-0.35,151.14,ratings,2
+2026-11-25T16:07+00:00,ddd97a754132d5db69231a8b2fe84a9b,2026-11-26T20:30:00+00:00,Tennessee Volunteers,Iowa State Cyclones,1,-1.5,,1.02,134.89,1.68,133.66,ratings,1
+2026-11-25T16:07+00:00,c388303afe97dac3042dcbfd2cd644a5,2026-11-26T20:30:00+00:00,Miami Hurricanes,Michigan Wolverines,1,2.5,,-1.62,163.41,-2.47,161.49,ratings,2
+2026-11-25T16:07+00:00,f026af6e32a421c5d3478e37d9198de0,2026-11-26T23:00:00+00:00,TCU Horned Frogs,Creighton Bluejays,1,1.0,,2.26,153.49,2.42,153.59,ratings,2
+2026-11-25T16:07+00:00,ff463f606d0a8912ca36a58b809e5f9e,2026-11-27T02:00:00+00:00,Kansas St Wildcats,Alabama Crimson Tide,1,-13.5,,10.12,169.36,14.31,168.34,ratings,1
+2026-11-25T16:07+00:00,3cb03cfb4f93a60fd1ce506ee8555130,2026-11-27T02:00:00+00:00,St. John's Red Storm,Louisville Cardinals,1,4.5,,-3.64,158.45,-3.91,157.54,ratings,2

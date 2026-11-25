@@ -18,13 +18,13 @@ Both models 1.5+ off · ★ = both 3+
 ────────────────────────
 ★ 𝐀𝐫𝐤𝐚𝐧𝐬𝐚𝐬 𝐏𝐢𝐧𝐞 𝐁𝐥𝐮𝐟𝐟 +21.5
    at South Dakota · Wed 2:00 PM
-   Best +22 (-106) LowVig.ag
+   Best +21.5 (-108) DraftKings
    Torvik +17.6 (edge 3.9)
    KenPom +13.0 (edge 8.5)
 
 ★ 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐒𝐭. +35.5
    at Oklahoma St. · Wed 3:00 PM
-   Best +35.5 (-107) BetRivers
+   Best +35.5 (-101) LowVig.ag
    Torvik +28.7 (edge 6.8)
    KenPom +28.0 (edge 7.5)
 
@@ -56,7 +56,7 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 +34.5
    at Nebraska · Wed 5:00 PM
-   Best +35.5 (-112) BetRivers
+   Best +35.5 (-132) BetRivers
    Torvik +32.1 (edge 2.4)
    KenPom +29.0 (edge 5.5)
 
@@ -74,7 +74,7 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐍𝐨𝐫𝐭𝐡𝐰𝐞𝐬𝐭𝐞𝐫𝐧 𝐒𝐭. -1.5
    vs West Florida (home) · Wed 6:00 PM
-   Best -1.5 (-106) LowVig.ag
+   Best -0.5 (-118) FanDuel
    Torvik -5.3 (edge 3.8)
    KenPom -3.0 (edge 1.5)
 
@@ -104,7 +104,7 @@ Both models 1.5+ off · ★ = both 3+
    🎙 Podcast OPPOSES: 2/3 lock VCU
 
 ────────────────────────
-🎙 PODCAST LOCKS (22)
+🎙 PODCAST LOCKS (21)
 ────────────────────────
 3/3 lock: Eastern Kentucky +14.5
    Wed 1:00 PM · models: Torvik -1.2, KenPom +1.5
@@ -120,9 +120,6 @@ Both models 1.5+ off · ★ = both 3+
 
 3/3 lock: Liberty -3.5
    Wed 4:00 PM · models: Torvik -1.2, KenPom -2.5
-
-2/3 lock: Northern Iowa +8.5
-   Wed 11:00 AM · models: Torvik +0.8, KenPom +0.5
 
 2/3 lock: Marquette +5.5
    Wed 12:00 PM · models: Torvik +0.7, KenPom +0.5
@@ -154,8 +151,8 @@ Both models 1.5+ off · ★ = both 3+
 2/3 lock: Norfolk St. +28.5
    Wed 7:00 PM · models: Torvik -4.2, KenPom +4.5
 
-2/3 lock: UNC Wilmington -6
-   Wed 7:00 PM · models: Torvik +1.3, KenPom -1.8
+2/3 lock: UNC Wilmington -5.5
+   Wed 7:00 PM · models: Torvik +1.5, KenPom -1.5
 
 2/3 lock: Eastern Washington +7.5
    Wed 9:00 PM · models: Torvik -0.7, KenPom +4.5
