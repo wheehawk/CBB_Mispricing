@@ -5560,6 +5560,823 @@
       "episode_date": "2026-11-24",
       "skipped": "same picks as 0-5f5a-a5d6-bfdb9f4f0791",
       "games": []
+    },
+    "5-5e54-8185-45e521a7bbda": {
+      "title": "College Basketball Picks For November 25th - NCAA Basketball Banter & Best Bets (Ep. 1261)",
+      "url": "https://www.sportsgamblingpodcast.com",
+      "episode_date": "2026-11-25",
+      "hosts": [
+        "Colby",
+        "Mac",
+        "Bieniek"
+      ],
+      "processed_utc": "2026-11-25T11:30:42+00:00",
+      "games": [
+        {
+          "date": "2026-11-25",
+          "away": "Eastern Kentucky",
+          "home": "Miami OH",
+          "pick": "Eastern Kentucky",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+14.5",
+          "quote": "[1:11:39] 'Triple lock on Eastern Kentucky getting 14 and a half'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Davidson",
+          "home": "Tulane",
+          "pick": "Tulane",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "ML +299",
+          "quote": "[1:28:10] 'Locking up... Ron Hunter as a dog' / [1:29:02] 'I got thrown into a triple lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Abilene Christian",
+          "home": "South Dakota St.",
+          "pick": "South Dakota St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-7.5",
+          "quote": "[1:38:29] 'I'm locking up the Jacks... Triple lock. Let's go.'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Texas A&M",
+          "home": "Xavier",
+          "pick": "Xavier",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "+4.5 / ML +188",
+          "quote": "[1:44:25] 'Xavier spread and moneyline lock it up. McIntosh triple lock.'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Liberty",
+          "home": "Princeton",
+          "pick": "Liberty",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-3.5",
+          "quote": "[1:58:37] 'I will lock the three and a half' / [1:59:02] 'Liberty with me to triple lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Marquette",
+          "home": "Virginia",
+          "pick": "Marquette",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+5.5 / ML +210",
+          "quote": "[1:03:31] 'lock up the golden eagles' / [2:32:53] Mac best bets: 'I love Marquette'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Saint Peter's",
+          "home": "Columbia",
+          "pick": "Saint Peter's",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+14.5",
+          "quote": "[1:34:15] 'Double lock on the peacocks from Mac and Dundee'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Arizona",
+          "home": "Mississippi",
+          "pick": "Arizona",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-5.5",
+          "quote": "[1:45:26] Mac: 'Arizona... Lock it up' / [2:34:20] Bieniek lock: 'Arizona minus five and a half'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Akron",
+          "home": "Appalachian St.",
+          "pick": "Appalachian St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+6.5",
+          "quote": "[1:49:15] 'App State, lock it up.' / 'I'm in. Those boys from Boone'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Arkansas St.",
+          "home": "FIU",
+          "pick": "FIU",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-1.5",
+          "quote": "[1:55:15] 'I'm locking FIU' / [1:56:10] 'Double lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Memphis",
+          "home": "Penn St.",
+          "pick": "Memphis",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Mac"
+          ],
+          "line": "-3.5",
+          "quote": "[2:03:15] 'locking up Memphis' / [2:04:01] 'I'll lock with Memphis'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "BYU",
+          "home": "Providence",
+          "pick": "BYU",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-3.5",
+          "quote": "[2:06:16] 'I'll lock up BYU' / [2:06:23] 'Let's go. I'm in.'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Cal St. Northridge",
+          "home": "Weber St.",
+          "pick": "Cal St. Northridge",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Colby"
+          ],
+          "line": "-2.5",
+          "quote": "[2:10:14] 'I'm locking this up... Northridge' / [2:10:38] 'Lock it up. I'll join you.'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "St. Thomas",
+          "home": "UNC Wilmington",
+          "pick": "UNC Wilmington",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-6.5",
+          "quote": "[2:13:52] 'I will lock up Wilmington minus six and a half' / [2:14:24] 'Double lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Norfolk St.",
+          "home": "N.C. State",
+          "pick": "Norfolk St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+28.5",
+          "quote": "[2:17:32] 'Double lock on the spot'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Bellarmine",
+          "home": "Northern Kentucky",
+          "pick": "Northern Kentucky",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-6.5",
+          "quote": "[2:19:30] 'I'm locking up NKU' / [2:20:01] 'Max lock it up... Northern Kentucky'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Mississippi Valley St.",
+          "home": "New Mexico",
+          "pick": "New Mexico",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "lay",
+          "quote": "[2:23:51] 'This is a lock' / [2:24:14] 'Let's go lock it up'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Eastern Washington",
+          "home": "Loyola Marymount",
+          "pick": "Eastern Washington",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+7.5",
+          "quote": "[2:25:04] 'So you guys are double locking it. Yeah. Double lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "VCU",
+          "home": "Washington",
+          "pick": "VCU",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-3.5",
+          "quote": "[2:25:15] 'I will lock up VCU laying three and a half. Yep. Same.' / [2:26:14] 'Double lock'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Jacksonville St.",
+          "home": "Pacific",
+          "pick": "Jacksonville St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+5.5",
+          "quote": "[2:26:59] 'Double lock. Jack State.'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Incarnate Word",
+          "home": "Hawaii",
+          "pick": "Hawaii",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-16.5",
+          "quote": "[2:27:21] 'I'm locking Hawaii' / [2:27:39] 'Double lock on the bows'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Clemson",
+          "home": "Colorado St.",
+          "pick": "Colorado St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek"
+          ],
+          "line": "+2.5 / ML +150",
+          "quote": "[2:28:36] 'This is a lock for me' / [2:35:33] Bieniek ML: 'Colorado State... plus 150'"
+        },
+        {
+          "date": "2026-11-25",
+          "away": "Charlotte",
+          "home": "Northern Iowa",
+          "pick": "Northern Iowa",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Colby"
+          ],
+          "line": "+7.5",
+          "quote": "[1:01:13] 'I'm locking Northern Iowa' / [1:01:21] 'Lock it up. Northern Iowa getting seven and a half'"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Eastern Kentucky at Miami OH",
+          "host": "Colby",
+          "team": "Eastern Kentucky",
+          "lock": true,
+          "quote": "[1:11:39] 'Triple lock on Eastern Kentucky getting 14 and a half'"
+        },
+        {
+          "game": "Eastern Kentucky at Miami OH",
+          "host": "Mac",
+          "team": "Eastern Kentucky",
+          "lock": true,
+          "quote": "[1:11:39] 'Triple lock on Eastern Kentucky getting 14 and a half'"
+        },
+        {
+          "game": "Eastern Kentucky at Miami OH",
+          "host": "Bieniek",
+          "team": "Eastern Kentucky",
+          "lock": true,
+          "quote": "[1:11:39] 'Triple lock on Eastern Kentucky getting 14 and a half'"
+        },
+        {
+          "game": "Davidson at Tulane",
+          "host": "Colby",
+          "team": "Tulane",
+          "lock": true,
+          "quote": "[1:28:10] 'Locking up... Ron Hunter as a dog' / [1:29:02] 'I got thrown into a triple lock'"
+        },
+        {
+          "game": "Davidson at Tulane",
+          "host": "Mac",
+          "team": "Tulane",
+          "lock": true,
+          "quote": "[1:28:10] 'Locking up... Ron Hunter as a dog' / [1:29:02] 'I got thrown into a triple lock'"
+        },
+        {
+          "game": "Davidson at Tulane",
+          "host": "Bieniek",
+          "team": "Tulane",
+          "lock": true,
+          "quote": "[1:28:10] 'Locking up... Ron Hunter as a dog' / [1:29:02] 'I got thrown into a triple lock'"
+        },
+        {
+          "game": "Abilene Christian at South Dakota St.",
+          "host": "Colby",
+          "team": "South Dakota St.",
+          "lock": true,
+          "quote": "[1:38:29] 'I'm locking up the Jacks... Triple lock. Let's go.'"
+        },
+        {
+          "game": "Abilene Christian at South Dakota St.",
+          "host": "Mac",
+          "team": "South Dakota St.",
+          "lock": true,
+          "quote": "[1:38:29] 'I'm locking up the Jacks... Triple lock. Let's go.'"
+        },
+        {
+          "game": "Abilene Christian at South Dakota St.",
+          "host": "Bieniek",
+          "team": "South Dakota St.",
+          "lock": true,
+          "quote": "[1:38:29] 'I'm locking up the Jacks... Triple lock. Let's go.'"
+        },
+        {
+          "game": "Texas A&M at Xavier",
+          "host": "Colby",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[1:44:25] 'Xavier spread and moneyline lock it up. McIntosh triple lock.'"
+        },
+        {
+          "game": "Texas A&M at Xavier",
+          "host": "Mac",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[1:44:25] 'Xavier spread and moneyline lock it up. McIntosh triple lock.'"
+        },
+        {
+          "game": "Texas A&M at Xavier",
+          "host": "Bieniek",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[1:44:25] 'Xavier spread and moneyline lock it up. McIntosh triple lock.'"
+        },
+        {
+          "game": "Liberty at Princeton",
+          "host": "Colby",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[1:58:37] 'I will lock the three and a half' / [1:59:02] 'Liberty with me to triple lock'"
+        },
+        {
+          "game": "Liberty at Princeton",
+          "host": "Mac",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[1:58:37] 'I will lock the three and a half' / [1:59:02] 'Liberty with me to triple lock'"
+        },
+        {
+          "game": "Liberty at Princeton",
+          "host": "Bieniek",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[1:58:37] 'I will lock the three and a half' / [1:59:02] 'Liberty with me to triple lock'"
+        },
+        {
+          "game": "Marquette at Virginia",
+          "host": "Colby",
+          "team": "Marquette",
+          "lock": true,
+          "quote": "[1:03:31] 'lock up the golden eagles' / [2:32:53] Mac best bets: 'I love Marquette'"
+        },
+        {
+          "game": "Marquette at Virginia",
+          "host": "Mac",
+          "team": "Marquette",
+          "lock": true,
+          "quote": "[1:03:31] 'lock up the golden eagles' / [2:32:53] Mac best bets: 'I love Marquette'"
+        },
+        {
+          "game": "Saint Peter's at Columbia",
+          "host": "Colby",
+          "team": "Saint Peter's",
+          "lock": true,
+          "quote": "[1:34:15] 'Double lock on the peacocks from Mac and Dundee'"
+        },
+        {
+          "game": "Saint Peter's at Columbia",
+          "host": "Mac",
+          "team": "Saint Peter's",
+          "lock": true,
+          "quote": "[1:34:15] 'Double lock on the peacocks from Mac and Dundee'"
+        },
+        {
+          "game": "Arizona at Mississippi",
+          "host": "Mac",
+          "team": "Arizona",
+          "lock": true,
+          "quote": "[1:45:26] Mac: 'Arizona... Lock it up' / [2:34:20] Bieniek lock: 'Arizona minus five and a half'"
+        },
+        {
+          "game": "Arizona at Mississippi",
+          "host": "Bieniek",
+          "team": "Arizona",
+          "lock": true,
+          "quote": "[1:45:26] Mac: 'Arizona... Lock it up' / [2:34:20] Bieniek lock: 'Arizona minus five and a half'"
+        },
+        {
+          "game": "Akron at Appalachian St.",
+          "host": "Colby",
+          "team": "Appalachian St.",
+          "lock": true,
+          "quote": "[1:49:15] 'App State, lock it up.' / 'I'm in. Those boys from Boone'"
+        },
+        {
+          "game": "Akron at Appalachian St.",
+          "host": "Mac",
+          "team": "Appalachian St.",
+          "lock": true,
+          "quote": "[1:49:15] 'App State, lock it up.' / 'I'm in. Those boys from Boone'"
+        },
+        {
+          "game": "Arkansas St. at FIU",
+          "host": "Colby",
+          "team": "FIU",
+          "lock": true,
+          "quote": "[1:55:15] 'I'm locking FIU' / [1:56:10] 'Double lock'"
+        },
+        {
+          "game": "Arkansas St. at FIU",
+          "host": "Mac",
+          "team": "FIU",
+          "lock": true,
+          "quote": "[1:55:15] 'I'm locking FIU' / [1:56:10] 'Double lock'"
+        },
+        {
+          "game": "Memphis at Penn St.",
+          "host": "Bieniek",
+          "team": "Memphis",
+          "lock": true,
+          "quote": "[2:03:15] 'locking up Memphis' / [2:04:01] 'I'll lock with Memphis'"
+        },
+        {
+          "game": "Memphis at Penn St.",
+          "host": "Mac",
+          "team": "Memphis",
+          "lock": true,
+          "quote": "[2:03:15] 'locking up Memphis' / [2:04:01] 'I'll lock with Memphis'"
+        },
+        {
+          "game": "BYU at Providence",
+          "host": "Colby",
+          "team": "BYU",
+          "lock": true,
+          "quote": "[2:06:16] 'I'll lock up BYU' / [2:06:23] 'Let's go. I'm in.'"
+        },
+        {
+          "game": "BYU at Providence",
+          "host": "Mac",
+          "team": "BYU",
+          "lock": true,
+          "quote": "[2:06:16] 'I'll lock up BYU' / [2:06:23] 'Let's go. I'm in.'"
+        },
+        {
+          "game": "Cal St. Northridge at Weber St.",
+          "host": "Bieniek",
+          "team": "Cal St. Northridge",
+          "lock": true,
+          "quote": "[2:10:14] 'I'm locking this up... Northridge' / [2:10:38] 'Lock it up. I'll join you.'"
+        },
+        {
+          "game": "Cal St. Northridge at Weber St.",
+          "host": "Colby",
+          "team": "Cal St. Northridge",
+          "lock": true,
+          "quote": "[2:10:14] 'I'm locking this up... Northridge' / [2:10:38] 'Lock it up. I'll join you.'"
+        },
+        {
+          "game": "St. Thomas at UNC Wilmington",
+          "host": "Colby",
+          "team": "UNC Wilmington",
+          "lock": true,
+          "quote": "[2:13:52] 'I will lock up Wilmington minus six and a half' / [2:14:24] 'Double lock'"
+        },
+        {
+          "game": "St. Thomas at UNC Wilmington",
+          "host": "Mac",
+          "team": "UNC Wilmington",
+          "lock": true,
+          "quote": "[2:13:52] 'I will lock up Wilmington minus six and a half' / [2:14:24] 'Double lock'"
+        },
+        {
+          "game": "Norfolk St. at N.C. State",
+          "host": "Colby",
+          "team": "Norfolk St.",
+          "lock": true,
+          "quote": "[2:17:32] 'Double lock on the spot'"
+        },
+        {
+          "game": "Norfolk St. at N.C. State",
+          "host": "Mac",
+          "team": "Norfolk St.",
+          "lock": true,
+          "quote": "[2:17:32] 'Double lock on the spot'"
+        },
+        {
+          "game": "Bellarmine at Northern Kentucky",
+          "host": "Colby",
+          "team": "Northern Kentucky",
+          "lock": true,
+          "quote": "[2:19:30] 'I'm locking up NKU' / [2:20:01] 'Max lock it up... Northern Kentucky'"
+        },
+        {
+          "game": "Bellarmine at Northern Kentucky",
+          "host": "Mac",
+          "team": "Northern Kentucky",
+          "lock": true,
+          "quote": "[2:19:30] 'I'm locking up NKU' / [2:20:01] 'Max lock it up... Northern Kentucky'"
+        },
+        {
+          "game": "Mississippi Valley St. at New Mexico",
+          "host": "Colby",
+          "team": "New Mexico",
+          "lock": true,
+          "quote": "[2:23:51] 'This is a lock' / [2:24:14] 'Let's go lock it up'"
+        },
+        {
+          "game": "Mississippi Valley St. at New Mexico",
+          "host": "Mac",
+          "team": "New Mexico",
+          "lock": true,
+          "quote": "[2:23:51] 'This is a lock' / [2:24:14] 'Let's go lock it up'"
+        },
+        {
+          "game": "Eastern Washington at Loyola Marymount",
+          "host": "Colby",
+          "team": "Eastern Washington",
+          "lock": true,
+          "quote": "[2:25:04] 'So you guys are double locking it. Yeah. Double lock'"
+        },
+        {
+          "game": "Eastern Washington at Loyola Marymount",
+          "host": "Mac",
+          "team": "Eastern Washington",
+          "lock": true,
+          "quote": "[2:25:04] 'So you guys are double locking it. Yeah. Double lock'"
+        },
+        {
+          "game": "VCU at Washington",
+          "host": "Colby",
+          "team": "VCU",
+          "lock": true,
+          "quote": "[2:25:15] 'I will lock up VCU laying three and a half. Yep. Same.' / [2:26:14] 'Double lock'"
+        },
+        {
+          "game": "VCU at Washington",
+          "host": "Mac",
+          "team": "VCU",
+          "lock": true,
+          "quote": "[2:25:15] 'I will lock up VCU laying three and a half. Yep. Same.' / [2:26:14] 'Double lock'"
+        },
+        {
+          "game": "Jacksonville St. at Pacific",
+          "host": "Colby",
+          "team": "Jacksonville St.",
+          "lock": true,
+          "quote": "[2:26:59] 'Double lock. Jack State.'"
+        },
+        {
+          "game": "Jacksonville St. at Pacific",
+          "host": "Mac",
+          "team": "Jacksonville St.",
+          "lock": true,
+          "quote": "[2:26:59] 'Double lock. Jack State.'"
+        },
+        {
+          "game": "Incarnate Word at Hawaii",
+          "host": "Colby",
+          "team": "Hawaii",
+          "lock": true,
+          "quote": "[2:27:21] 'I'm locking Hawaii' / [2:27:39] 'Double lock on the bows'"
+        },
+        {
+          "game": "Incarnate Word at Hawaii",
+          "host": "Mac",
+          "team": "Hawaii",
+          "lock": true,
+          "quote": "[2:27:21] 'I'm locking Hawaii' / [2:27:39] 'Double lock on the bows'"
+        },
+        {
+          "game": "Clemson at Colorado St.",
+          "host": "Colby",
+          "team": "Colorado St.",
+          "lock": true,
+          "quote": "[2:28:36] 'This is a lock for me' / [2:35:33] Bieniek ML: 'Colorado State... plus 150'"
+        },
+        {
+          "game": "Clemson at Colorado St.",
+          "host": "Bieniek",
+          "team": "Colorado St.",
+          "lock": true,
+          "quote": "[2:28:36] 'This is a lock for me' / [2:35:33] Bieniek ML: 'Colorado State... plus 150'"
+        },
+        {
+          "game": "Charlotte at Northern Iowa",
+          "host": "Mac",
+          "team": "Northern Iowa",
+          "lock": true,
+          "quote": "[1:01:13] 'I'm locking Northern Iowa' / [1:01:21] 'Lock it up. Northern Iowa getting seven and a half'"
+        },
+        {
+          "game": "Charlotte at Northern Iowa",
+          "host": "Colby",
+          "team": "Northern Iowa",
+          "lock": true,
+          "quote": "[1:01:13] 'I'm locking Northern Iowa' / [1:01:21] 'Lock it up. Northern Iowa getting seven and a half'"
+        },
+        {
+          "game": "Marquette at Virginia",
+          "host": "Bieniek",
+          "team": "Virginia",
+          "lock": true,
+          "quote": "[1:04:42] 'I will take the Hoos and lock it up, lock battle' / best bet Virginia -5"
+        },
+        {
+          "game": "Connecticut at Duke",
+          "host": "Bieniek",
+          "team": "Connecticut",
+          "lock": true,
+          "quote": "[2:12:27] 'I'm also locking up UConn' / best bet UConn -2.5"
+        },
+        {
+          "game": "BYU at Providence",
+          "host": "Bieniek",
+          "team": "Providence",
+          "lock": true,
+          "quote": "[2:07:03] 'Lock? Yeah. I'll go. Battle.'"
+        },
+        {
+          "game": "South Carolina at USC",
+          "host": "Mac",
+          "team": "South Carolina",
+          "lock": true,
+          "quote": "[2:00:43] 'I'm locking up the Gamecocks'"
+        },
+        {
+          "game": "South Carolina at USC",
+          "host": "Bieniek",
+          "team": "USC",
+          "lock": false,
+          "quote": "'I will take the Trojans'"
+        },
+        {
+          "game": "SMU at Utah St.",
+          "host": "Colby",
+          "team": "Utah St.",
+          "lock": true,
+          "quote": "[2:14:52] 'I will lock up Utah State'"
+        },
+        {
+          "game": "SMU at Utah St.",
+          "host": "Mac",
+          "team": "SMU",
+          "lock": false,
+          "quote": "'I'm going to battle you'"
+        },
+        {
+          "game": "Mississippi St. at Wake Forest",
+          "host": "Colby",
+          "team": "Mississippi St.",
+          "lock": true,
+          "quote": "[2:21:18] 'lock up Mississippi State minus four and a half'"
+        },
+        {
+          "game": "Mississippi St. at Wake Forest",
+          "host": "Mac",
+          "team": "Wake Forest",
+          "lock": false,
+          "quote": "'Give me Forbes'"
+        },
+        {
+          "game": "Cal St. Bakersfield at Pepperdine",
+          "host": "Mac",
+          "team": "Cal St. Bakersfield",
+          "lock": true,
+          "quote": "[2:23:25] 'I'm a lock for Bakersfield'"
+        },
+        {
+          "game": "Arizona St. at LSU",
+          "host": "Colby",
+          "team": "LSU",
+          "lock": true,
+          "quote": "[1:35:07] 'I'm locking up LSU' (other hosts' sides unclear in transcript)"
+        },
+        {
+          "game": "Grambling St. at New Orleans",
+          "host": "Colby",
+          "team": "Grambling St.",
+          "lock": true,
+          "quote": "[1:57:04] 'Lock it up. Grambling is going to beat them outright'"
+        },
+        {
+          "game": "West Florida at Northwestern St.",
+          "host": "Mac",
+          "team": "Northwestern St.",
+          "lock": true,
+          "quote": "[2:09:40] 'I will lock up Northwestern State'"
+        },
+        {
+          "game": "Ohio at Rice",
+          "host": "Colby",
+          "team": "Rice",
+          "lock": false,
+          "quote": "[1:02:14] 'plus 175 money line... let's bet it' (bet, no lock)"
+        },
+        {
+          "game": "Ohio at Rice",
+          "host": "Mac",
+          "team": "Rice",
+          "lock": false,
+          "quote": "'Let's bet it'"
+        },
+        {
+          "game": "Ohio at Rice",
+          "host": "Bieniek",
+          "team": "Ohio",
+          "lock": false,
+          "quote": "'I'm picking Ohio'"
+        },
+        {
+          "game": "Wright St. at Yale",
+          "host": "Colby",
+          "team": "Wright St.",
+          "lock": false,
+          "quote": "[1:06:41] 'should we go in on five and a half' (no lock)"
+        },
+        {
+          "game": "Wright St. at Yale",
+          "host": "Bieniek",
+          "team": "Yale",
+          "lock": false,
+          "quote": "'I'm picking Yale'"
+        },
+        {
+          "game": "Belmont at St. Bonaventure",
+          "host": "Colby",
+          "team": "Belmont",
+          "lock": false,
+          "quote": "[0:59:15] 'I'm taking the four and a half'"
+        },
+        {
+          "game": "Northeastern at Wisconsin",
+          "host": "Bieniek",
+          "team": "Northeastern",
+          "lock": true,
+          "quote": "[2:13:35] 'lock. Huskies' (speaker unclear)"
+        }
+      ],
+      "unmatched": []
     }
   }
 }
