@@ -1,6 +1,370 @@
 {
- "generated_utc": "2026-11-25T05:24+00:00",
+ "generated_utc": "2026-11-25T11:31+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "cb9ca75b4359850d6b98a6dad9087827",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-25",
+   "tip_et": "Wed Nov 25, 1:30 PM ET",
+   "away": "Tulane",
+   "home": "Davidson",
+   "neutral": true,
+   "venue": {
+    "name": "Suncoast Credit Union Arena",
+    "city": "Fort Myers, FL",
+    "neutral": true,
+    "tv": [
+     "PTB Live"
+    ],
+    "note": "Fort Myers Tip-Off - Palms Division"
+   },
+   "home_arena_kenpom": "Belk Arena, Davidson, NC",
+   "pick": {
+    "team": "Tulane",
+    "team_bold": "\ud835\udc13\ud835\udc2e\ud835\udc25\ud835\udc1a\ud835\udc27\ud835\udc1e",
+    "side": "away",
+    "market_line": 8.5,
+    "best": [
+     9.0,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 6.9,
+    "torvik_edge": 1.6,
+    "kenpom_line": 7.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 141.6,
+    "kenpom_total": 141.0,
+    "market_total": null,
+    "torvik_tempo": 66.3,
+    "kenpom_tempo": 67.0,
+    "kenpom_home_win_prob": 73.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "away",
+    "team": "Tulane",
+    "hosts": [
+     "Colby",
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "ML +299",
+    "label": "3/3 lock: Tulane"
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Tulane",
+     "kenpom_url": "https://kenpom.com/team.php?team=Tulane",
+     "record": "2-4",
+     "coach": "Ron Hunter",
+     "conf": "Amer",
+     "arena": "Fogelman Arena, New Orleans, LA",
+     "ratings": {
+      "AdjEM": -3.024,
+      "RankAdjEM": 187,
+      "AdjOE": 107.59,
+      "RankAdjOE": 175,
+      "AdjDE": 110.614,
+      "RankAdjDE": 230,
+      "AdjTempo": 69.0622,
+      "RankAdjTempo": 175,
+      "SOS": -5.4117,
+      "RankSOS": 282,
+      "Luck": -0.1284
+     },
+     "four_factors": {
+      "eFG_Pct": 48.3283,
+      "RankeFG_Pct": 254,
+      "TO_Pct": 15.8776,
+      "RankTO_Pct": 81,
+      "OR_Pct": 24.4019,
+      "RankOR_Pct": 328,
+      "FT_Rate": 54.7112,
+      "RankFT_Rate": 13,
+      "DeFG_Pct": 51.4825,
+      "RankDeFG_Pct": 195,
+      "DTO_Pct": 17.2786,
+      "RankDTO_Pct": 205,
+      "DOR_Pct": 32.2034,
+      "RankDOR_Pct": 206,
+      "DFT_Rate": 31.8059,
+      "RankDFT_Rate": 102
+     },
+     "shooting": {
+      "FG3Pct": 37.1681,
+      "RankFG3Pct": 56,
+      "FG2Pct": 44.4444,
+      "FTPct": 76.1111,
+      "F3GRate": 34.3465,
+      "RankF3GRate": 308,
+      "OppFG3Pct": 34.0659,
+      "RankOppFG3Pct": 226,
+      "BlockPct": 8.4656,
+      "StlRate": 0.1074,
+      "ARate": 45.6522
+     },
+     "size": {
+      "AvgHgt": 77.42,
+      "AvgHgtRank": 185,
+      "HgtEff": -0.44,
+      "Exp": 1.7216,
+      "ExpRank": 111,
+      "Bench": 26.32,
+      "Continuity": 0.2512
+     }
+    },
+    "home": {
+     "name": "Davidson",
+     "kenpom_url": "https://kenpom.com/team.php?team=Davidson",
+     "record": "4-2",
+     "coach": "Matt McKillop",
+     "conf": "A10",
+     "arena": "Belk Arena, Davidson, NC",
+     "ratings": {
+      "AdjEM": 7.3411,
+      "RankAdjEM": 99,
+      "AdjOE": 108.697,
+      "RankAdjOE": 149,
+      "AdjDE": 101.356,
+      "RankAdjDE": 65,
+      "AdjTempo": 66.0514,
+      "RankAdjTempo": 331,
+      "SOS": -4.0218,
+      "RankSOS": 255,
+      "Luck": -0.0903
+     },
+     "four_factors": {
+      "eFG_Pct": 51.9499,
+      "RankeFG_Pct": 158,
+      "TO_Pct": 15.7365,
+      "RankTO_Pct": 71,
+      "OR_Pct": 32.243,
+      "RankOR_Pct": 174,
+      "FT_Rate": 25.0696,
+      "RankFT_Rate": 345,
+      "DeFG_Pct": 44.3642,
+      "RankDeFG_Pct": 32,
+      "DTO_Pct": 17.2594,
+      "RankDTO_Pct": 207,
+      "DOR_Pct": 28.0702,
+      "RankDOR_Pct": 83,
+      "DFT_Rate": 26.3006,
+      "RankDFT_Rate": 28
+     },
+     "shooting": {
+      "FG3Pct": 33.5714,
+      "RankFG3Pct": 162,
+      "FG2Pct": 52.968,
+      "FTPct": 62.2222,
+      "F3GRate": 38.9972,
+      "RankF3GRate": 229,
+      "OppFG3Pct": 30.5785,
+      "RankOppFG3Pct": 110,
+      "BlockPct": 11.1111,
+      "StlRate": 0.1041,
+      "ARate": 51.5337
+     },
+     "size": {
+      "AvgHgt": 77.63,
+      "AvgHgtRank": 150,
+      "HgtEff": -0.12,
+      "Exp": 2.0066,
+      "ExpRank": 73,
+      "Bench": 28.2,
+      "Continuity": 0.4166
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "8e6b412432893852d1138076e71cae97",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-25",
+   "tip_et": "Wed Nov 25, 3:30 PM ET",
+   "away": "Arkansas St.",
+   "home": "FIU",
+   "neutral": false,
+   "venue": null,
+   "home_arena_kenpom": "Ocean Bank Convocation Center, Miami, FL",
+   "pick": {
+    "team": "FIU",
+    "team_bold": "\ud835\udc05\ud835\udc08\ud835\udc14",
+    "side": "home",
+    "market_line": -1.5,
+    "best": [
+     -0.5,
+     -115,
+     "BetRivers"
+    ]
+   },
+   "models": {
+    "torvik_line": -6.0,
+    "torvik_edge": 4.5,
+    "kenpom_line": -3.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 172.0,
+    "kenpom_total": 167.0,
+    "market_total": null,
+    "torvik_tempo": 78.6,
+    "kenpom_tempo": 77.0,
+    "kenpom_home_win_prob": 59.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "FIU",
+    "hosts": [
+     "Colby",
+     "Mac"
+    ],
+    "line": "-1.5",
+    "label": "2/3 lock: FIU"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Arkansas St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Arkansas+St.",
+     "record": "5-2",
+     "coach": "Ryan Pannone",
+     "conf": "SB",
+     "arena": "First National Bank Arena, Jonesboro, AR",
+     "ratings": {
+      "AdjEM": -2.0166,
+      "RankAdjEM": 172,
+      "AdjOE": 108.199,
+      "RankAdjOE": 159,
+      "AdjDE": 110.216,
+      "RankAdjDE": 222,
+      "AdjTempo": 74.6598,
+      "RankAdjTempo": 4,
+      "SOS": -6.906,
+      "RankSOS": 315,
+      "Luck": 0.0738
+     },
+     "four_factors": {
+      "eFG_Pct": 51.4874,
+      "RankeFG_Pct": 170,
+      "TO_Pct": 14.8459,
+      "RankTO_Pct": 42,
+      "OR_Pct": 38.9091,
+      "RankOR_Pct": 38,
+      "FT_Rate": 31.1213,
+      "RankFT_Rate": 270,
+      "DeFG_Pct": 49.4898,
+      "RankDeFG_Pct": 138,
+      "DTO_Pct": 20.2248,
+      "RankDTO_Pct": 75,
+      "DOR_Pct": 39.5918,
+      "RankDOR_Pct": 336,
+      "DFT_Rate": 41.3265,
+      "RankDFT_Rate": 260
+     },
+     "shooting": {
+      "FG3Pct": 32.8358,
+      "RankFG3Pct": 182,
+      "FG2Pct": 53.3898,
+      "FTPct": 60.2941,
+      "F3GRate": 45.9954,
+      "RankF3GRate": 78,
+      "OppFG3Pct": 32,
+      "RankOppFG3Pct": 154,
+      "BlockPct": 13.8249,
+      "StlRate": 0.1312,
+      "ARate": 54.6875
+     },
+     "size": {
+      "AvgHgt": 77.07,
+      "AvgHgtRank": 257,
+      "HgtEff": 0.2,
+      "Exp": 0.97,
+      "ExpRank": 271,
+      "Bench": 42.49,
+      "Continuity": 0.052
+     }
+    },
+    "home": {
+     "name": "FIU",
+     "kenpom_url": "https://kenpom.com/team.php?team=FIU",
+     "record": "5-1",
+     "coach": "Joey Cantens",
+     "conf": "CUSA",
+     "arena": "Ocean Bank Convocation Center, Miami, FL",
+     "ratings": {
+      "AdjEM": -2.9039,
+      "RankAdjEM": 184,
+      "AdjOE": 105.722,
+      "RankAdjOE": 204,
+      "AdjDE": 108.626,
+      "RankAdjDE": 175,
+      "AdjTempo": 72.6353,
+      "RankAdjTempo": 30,
+      "SOS": -9.1703,
+      "RankSOS": 334,
+      "Luck": 0.1036
+     },
+     "four_factors": {
+      "eFG_Pct": 54.2994,
+      "RankeFG_Pct": 82,
+      "TO_Pct": 17.489,
+      "RankTO_Pct": 167,
+      "OR_Pct": 29.5858,
+      "RankOR_Pct": 242,
+      "FT_Rate": 29.2994,
+      "RankFT_Rate": 299,
+      "DeFG_Pct": 47.2756,
+      "RankDeFG_Pct": 84,
+      "DTO_Pct": 19.3724,
+      "RankDTO_Pct": 108,
+      "DOR_Pct": 35.9788,
+      "RankDOR_Pct": 284,
+      "DFT_Rate": 36.859,
+      "RankDFT_Rate": 190
+     },
+     "shooting": {
+      "FG3Pct": 29.7101,
+      "RankFG3Pct": 266,
+      "FG2Pct": 61.9318,
+      "FTPct": 81.5217,
+      "F3GRate": 43.949,
+      "RankF3GRate": 117,
+      "OppFG3Pct": 31.9588,
+      "RankOppFG3Pct": 152,
+      "BlockPct": 13.9535,
+      "StlRate": 0.1049,
+      "ARate": 43.3333
+     },
+     "size": {
+      "AvgHgt": 76.06,
+      "AvgHgtRank": 352,
+      "HgtEff": -0.31,
+      "Exp": 0.6959,
+      "ExpRank": 329,
+      "Bench": 33,
+      "Continuity": 0
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
