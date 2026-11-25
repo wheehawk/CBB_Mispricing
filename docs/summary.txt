@@ -1,82 +1,54 @@
 🏀 CBB SCREENER · Wed Nov 25
-15 plays · 1 with podcast lock · 0 conf home dogs
+12 plays · 0 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-🔥 TOP PLAYS — models + podcast lock
-────────────────────────
-𝐓𝐮𝐥𝐚𝐧𝐞 +9
-   vs Davidson (neutral) · Wed 1:30 PM
-   Best +9.5 (-110) DraftKings
-   Torvik +6.9 (edge 2.4)
-   KenPom +7.0 (edge 2.2)
-   🎙 Podcast AGREES: 3/3 lock Tulane
-
-────────────────────────
-📊 OTHER PLAYS (14)
+📊 PLAYS (12)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐀𝐫𝐤𝐚𝐧𝐬𝐚𝐬 𝐏𝐢𝐧𝐞 𝐁𝐥𝐮𝐟𝐟 +21.5
-   at South Dakota · Wed 2:00 PM
-   Best +21.5 (-108) DraftKings
-   Torvik +17.6 (edge 3.9)
-   KenPom +13.0 (edge 8.5)
-
-★ 𝐉𝐚𝐜𝐤𝐬𝐨𝐧 𝐒𝐭. +35.5
-   at Oklahoma St. · Wed 3:00 PM
-   Best +35.5 (-101) LowVig.ag
-   Torvik +28.7 (edge 6.8)
-   KenPom +28.0 (edge 7.5)
-
-★ 𝐌𝐢𝐬𝐬𝐢𝐬𝐬𝐢𝐩𝐩𝐢 𝐕𝐚𝐥𝐥𝐞𝐲 𝐒𝐭. +36.5
+★ 𝐌𝐢𝐬𝐬𝐢𝐬𝐬𝐢𝐩𝐩𝐢 𝐕𝐚𝐥𝐥𝐞𝐲 𝐒𝐭. +36
    at New Mexico · Wed 9:00 PM
    Best +36.5 (-115) BetMGM
-   Torvik +28.4 (edge 8.1)
-   KenPom +29.0 (edge 7.5)
+   Torvik +28.4 (edge 7.6)
+   KenPom +29.0 (edge 7.0)
    🎙 Podcast OPPOSES: 2/3 lock New Mexico
 
-★ 𝐂𝐫𝐞𝐢𝐠𝐡𝐭𝐨𝐧 +1
-   vs TCU (neutral) · Thu 6:00 PM
-   Best +1.5 (-120) DraftKings
-   Torvik -2.3 (edge 3.3)
-   KenPom -2.4 (edge 3.4)
+★ 𝐒𝐚𝐧 𝐃𝐢𝐞𝐠𝐨 𝐒𝐭. +4
+   vs Maryland (neutral) · Thu 1:00 PM
+   Best +4.5 (-110) DraftKings
+   Torvik -1.0 (edge 5.0)
+   KenPom +0.4 (edge 3.6)
 
-𝐌𝐢𝐬𝐬𝐢𝐬𝐬𝐢𝐩𝐩𝐢 +5.5
-   vs Arizona (neutral) · Wed 2:30 PM
-   Best +6 (-109) LowVig.ag
-   Torvik +3.2 (edge 2.3)
-   KenPom +2.0 (edge 3.5)
-   🎙 Podcast OPPOSES: 2/3 lock Arizona
-
-𝐇𝐨𝐥𝐲 𝐂𝐫𝐨𝐬𝐬 +11.5
+𝐇𝐨𝐥𝐲 𝐂𝐫𝐨𝐬𝐬 +12
    at Dartmouth · Wed 5:00 PM
-   Best +11.5 (-103) LowVig.ag
-   Torvik +9.1 (edge 2.4)
-   KenPom +10.0 (edge 1.5)
+   Best +12.5 (-112) BetRivers
+   Torvik +9.1 (edge 2.9)
+   KenPom +10.0 (edge 2.0)
 
 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 +34.5
    at Nebraska · Wed 5:00 PM
-   Best +35.5 (-132) BetRivers
+   Best +34.5 (-102) FanDuel
    Torvik +32.1 (edge 2.4)
    KenPom +29.0 (edge 5.5)
 
-𝐀𝐥𝐛𝐚𝐧𝐲 +26.5
-   at Syracuse · Wed 6:00 PM
-   Best +27.5 (-139) BetRivers
-   Torvik +24.5 (edge 2.0)
-   KenPom +23.0 (edge 3.5)
-
 𝐁𝐞𝐭𝐡𝐮𝐧𝐞 𝐂𝐨𝐨𝐤𝐦𝐚𝐧 +11.5
    at Richmond · Wed 6:00 PM
-   Best +11.5 (+106) BetRivers
+   Best +12.5 (-113) BetRivers
    Torvik +9.0 (edge 2.5)
    KenPom +8.0 (edge 3.5)
 
 𝐍𝐨𝐫𝐭𝐡𝐰𝐞𝐬𝐭𝐞𝐫𝐧 𝐒𝐭. -1.5
    vs West Florida (home) · Wed 6:00 PM
-   Best -0.5 (-118) FanDuel
+   Best PK (-111) LowVig.ag
    Torvik -5.3 (edge 3.8)
    KenPom -3.0 (edge 1.5)
+
+𝐁𝐞𝐥𝐥𝐚𝐫𝐦𝐢𝐧𝐞 +7.5
+   at Northern Kentucky · Wed 7:00 PM
+   Best +7.5 (-110) Bovada
+   Torvik +6.0 (edge 1.5)
+   KenPom +3.0 (edge 4.5)
+   🎙 Podcast OPPOSES: 2/3 lock Northern Kentucky
 
 𝐋𝐨𝐧𝐠𝐰𝐨𝐨𝐝 +16.5
    at George Mason · Wed 7:00 PM
@@ -86,9 +58,9 @@ Both models 1.5+ off · ★ = both 3+
 
 𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 +20
    at Wisconsin · Wed 7:00 PM
-   Best +20.5 (-111) LowVig.ag
-   Torvik +17.2 (edge 2.5)
-   KenPom +16.0 (edge 3.8)
+   Best +20.5 (-110) BetRivers
+   Torvik +17.2 (edge 2.8)
+   KenPom +16.0 (edge 4.0)
 
 𝐔𝐂 𝐃𝐚𝐯𝐢𝐬 -4.5
    vs Nebraska Omaha (neutral) · Wed 8:00 PM
@@ -96,60 +68,44 @@ Both models 1.5+ off · ★ = both 3+
    Torvik -7.3 (edge 2.8)
    KenPom -7.0 (edge 2.5)
 
-𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 +4.5
-   vs VCU (neutral) · Wed 10:00 PM
-   Best +4.5 (-106) LowVig.ag
-   Torvik +2.5 (edge 2.0)
-   KenPom +3.0 (edge 1.5)
-   🎙 Podcast OPPOSES: 2/3 lock VCU
+𝐂𝐫𝐞𝐢𝐠𝐡𝐭𝐨𝐧 PK
+   vs TCU (neutral) · Thu 6:00 PM
+   Best +1.5 (-120) DraftKings
+   Torvik -2.3 (edge 2.3)
+   KenPom -2.4 (edge 2.4)
+
+𝐃𝐞𝐏𝐚𝐮𝐥 +1
+   vs Pittsburgh (neutral) · Thu 7:00 PM
+   Best +1 (-106) LowVig.ag
+   Torvik -1.8 (edge 2.8)
+   KenPom -0.5 (edge 1.5)
 
 ────────────────────────
-🎙 PODCAST LOCKS (21)
+🎙 PODCAST LOCKS (14)
 ────────────────────────
-3/3 lock: Eastern Kentucky +14.5
-   Wed 1:00 PM · models: Torvik -1.2, KenPom +1.5
-
-3/3 lock: Tulane +9
-   Wed 1:30 PM · ✅ models agree
-
-3/3 lock: South Dakota St. -6.5
-   Wed 2:00 PM · models: Torvik +4.0, KenPom +0.5
-
-3/3 lock: Xavier +3.5
-   Wed 2:30 PM · models: Torvik +0.1, KenPom -3.5
-
 3/3 lock: Liberty -3.5
    Wed 4:00 PM · models: Torvik -1.2, KenPom -2.5
 
-2/3 lock: Marquette +5.5
-   Wed 12:00 PM · models: Torvik +0.7, KenPom +0.5
-
-2/3 lock: Saint Peter's +13.5
-   Wed 2:00 PM · models: Torvik +0.8, KenPom -1.5
-
-2/3 lock: Arizona -5.5
-   Wed 2:30 PM · ❌ models on other side
-
-2/3 lock: Appalachian St. +5
-   Wed 3:00 PM · models: Torvik +0.2, KenPom -0.2
+3/3 lock: Xavier +3.5
+   Wed 4:15 PM · models: Torvik +0.1, KenPom -3.5
 
 2/3 lock: FIU -2
    Wed 3:30 PM · models: Torvik +4.0, KenPom +1.0
-
-2/3 lock: Memphis -4
-   Wed 5:00 PM · models: Torvik -1.0, KenPom +1.2
 
 2/3 lock: BYU -2.5
    Wed 5:30 PM · models: Torvik +0.4, KenPom +0.5
 
 2/3 lock: Cal St. Northridge -2
-   Wed 6:00 PM · models: Torvik -0.9, KenPom +0.2
+   Wed 6:00 PM · models: Torvik -1.2, KenPom +0.0
 
-2/3 lock: Northern Kentucky -7
-   Wed 7:00 PM · models: Torvik -1.0, KenPom -4.0
+2/3 lock: Memphis -4
+   Wed 6:45 PM · models: Torvik -1.2, KenPom +1.0
 
-2/3 lock: Norfolk St. +28.5
-   Wed 7:00 PM · models: Torvik -4.2, KenPom +4.5
+2/3 lock: Northern Kentucky -7.5
+   Wed 7:00 PM · ❌ models on other side
+
+2/3 lock: Norfolk St. +27.5
+   Wed 7:00 PM · models: Torvik -5.2, KenPom +3.5
 
 2/3 lock: UNC Wilmington -5.5
    Wed 7:00 PM · models: Torvik +1.5, KenPom -1.5
@@ -157,14 +113,14 @@ Both models 1.5+ off · ★ = both 3+
 2/3 lock: Eastern Washington +7.5
    Wed 9:00 PM · models: Torvik -0.7, KenPom +4.5
 
-2/3 lock: New Mexico -36.5
+2/3 lock: New Mexico -36
    Wed 9:00 PM · ❌ models on other side
 
-2/3 lock: VCU -4.5
-   Wed 10:00 PM · ❌ models on other side
+2/3 lock: VCU -4
+   Wed 10:00 PM · models: Torvik -1.5, KenPom -1.0
 
-2/3 lock: Jacksonville St. +4.5
-   Wed 10:30 PM · models: Torvik -1.3, KenPom +1.5
+2/3 lock: Jacksonville St. +3.5
+   Wed 10:30 PM · models: Torvik -2.3, KenPom +0.5
 
 2/3 lock: Hawaii -16.5
    Wed 11:59 PM · models: Torvik +0.3, KenPom -4.5
@@ -209,5 +165,4 @@ Yesterday: 14-11 · +1.73u
 ➖ Oregon +11 (79-90) · 🎙 vs 2/2 agree
 
 Notes:
-• Unmatched game: N Colorado Bears at Detroit Mercy Titans (add to data/aliases.json if needed)
 • Unmatched game: South Carolina Upstate Spartans at The Citadel Bulldogs (add to data/aliases.json if needed)
