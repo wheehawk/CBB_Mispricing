@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-26T16:01+00:00",
+ "generated_utc": "2026-11-26T20:05+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -31,7 +31,7 @@
     "market_line": -1.5,
     "best": [
      -1.5,
-     -109,
+     -106,
      "LowVig.ag"
     ]
    },
@@ -72,16 +72,16 @@
      "conf": "BE",
      "arena": "Carnesecca Arena, Jamaica, NY",
      "ratings": {
-      "AdjEM": 25.1662,
-      "RankAdjEM": 16,
-      "AdjOE": 119.499,
-      "RankAdjOE": 38,
-      "AdjDE": 94.3331,
-      "RankAdjDE": 10,
-      "AdjTempo": 72.9535,
+      "AdjEM": 25.1718,
+      "RankAdjEM": 15,
+      "AdjOE": 119.399,
+      "RankAdjOE": 37,
+      "AdjDE": 94.2272,
+      "RankAdjDE": 9,
+      "AdjTempo": 72.8678,
       "RankAdjTempo": 28,
-      "SOS": -4.4037,
-      "RankSOS": 262,
+      "SOS": -4.3986,
+      "RankSOS": 261,
       "Luck": 0.0306
      },
      "four_factors": {
@@ -92,15 +92,15 @@
       "OR_Pct": 32.8431,
       "RankOR_Pct": 155,
       "FT_Rate": 32.4051,
-      "RankFT_Rate": 254,
+      "RankFT_Rate": 253,
       "DeFG_Pct": 47.067,
-      "RankDeFG_Pct": 81,
+      "RankDeFG_Pct": 80,
       "DTO_Pct": 23.7382,
       "RankDTO_Pct": 21,
       "DOR_Pct": 25.3394,
       "RankDOR_Pct": 25,
       "DFT_Rate": 25.6983,
-      "RankDFT_Rate": 22
+      "RankDFT_Rate": 23
      },
      "shooting": {
       "FG3Pct": 36,
@@ -110,7 +110,7 @@
       "F3GRate": 37.9747,
       "RankF3GRate": 250,
       "OppFG3Pct": 28.0822,
-      "RankOppFG3Pct": 50,
+      "RankOppFG3Pct": 49,
       "BlockPct": 10.8491,
       "StlRate": 0.1242,
       "ARate": 64
@@ -133,16 +133,16 @@
      "conf": "ACC",
      "arena": "KFC Yum! Center, Louisville, KY",
      "ratings": {
-      "AdjEM": 20.511,
+      "AdjEM": 20.5126,
       "RankAdjEM": 35,
-      "AdjOE": 119.332,
-      "RankAdjOE": 39,
-      "AdjDE": 98.8208,
+      "AdjOE": 119.23,
+      "RankAdjOE": 38,
+      "AdjDE": 98.7172,
       "RankAdjDE": 37,
-      "AdjTempo": 70.5824,
-      "RankAdjTempo": 93,
-      "SOS": -2.0457,
-      "RankSOS": 207,
+      "AdjTempo": 70.496,
+      "RankAdjTempo": 91,
+      "SOS": -2.0448,
+      "RankSOS": 208,
       "Luck": 0.0926
      },
      "four_factors": {
@@ -155,7 +155,7 @@
       "FT_Rate": 37.8882,
       "RankFT_Rate": 156,
       "DeFG_Pct": 49.6805,
-      "RankDeFG_Pct": 142,
+      "RankDeFG_Pct": 141,
       "DTO_Pct": 13.7684,
       "RankDTO_Pct": 341,
       "DOR_Pct": 24.7312,
@@ -165,13 +165,13 @@
      },
      "shooting": {
       "FG3Pct": 29.2208,
-      "RankFG3Pct": 282,
+      "RankFG3Pct": 283,
       "FG2Pct": 61.9048,
       "FTPct": 66.3934,
       "F3GRate": 47.8261,
       "RankF3GRate": 54,
       "OppFG3Pct": 33.8583,
-      "RankOppFG3Pct": 217,
+      "RankOppFG3Pct": 218,
       "BlockPct": 10.2151,
       "StlRate": 0.0803,
       "ARate": 51.0067
@@ -184,191 +184,6 @@
       "ExpRank": 7,
       "Bench": 30.49,
       "Continuity": 0.1136
-     }
-    }
-   },
-   "players": null
-  },
-  {
-   "id": "fce1d0e39b7353f5d69bc77cf21ee9d1",
-   "priority": [
-    1,
-    0
-   ],
-   "date": "2026-11-26",
-   "tip_et": "Thu Nov 26, 1:00 PM ET",
-   "away": "Maryland",
-   "home": "San Diego St.",
-   "neutral": true,
-   "venue": {
-    "name": "Michelob ULTRA Arena",
-    "city": "Las Vegas, NV",
-    "neutral": true,
-    "tv": [
-     "ESPN"
-    ],
-    "note": "Players Era 16"
-   },
-   "home_arena_kenpom": "Viejas Arena, San Diego, CA",
-   "pick": {
-    "team": "San Diego St.",
-    "team_bold": "\ud835\udc12\ud835\udc1a\ud835\udc27 \ud835\udc03\ud835\udc22\ud835\udc1e\ud835\udc20\ud835\udc28 \ud835\udc12\ud835\udc2d.",
-    "side": "home",
-    "market_line": 4.5,
-    "best": [
-     4.5,
-     -104,
-     "LowVig.ag"
-    ]
-   },
-   "models": {
-    "torvik_line": -1.1,
-    "torvik_edge": 5.6,
-    "kenpom_line": 1.0,
-    "kenpom_edge": 3.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 152.2,
-    "kenpom_total": 153.0,
-    "market_total": null,
-    "torvik_tempo": 69.2,
-    "kenpom_tempo": 70.0,
-    "kenpom_home_win_prob": 49.0
-   },
-   "flagged": true,
-   "star": true,
-   "podcast": {
-    "category": "2/3 lock",
-    "side": "home",
-    "team": "San Diego St.",
-    "hosts": [
-     "Colby",
-     "Mac"
-    ],
-    "line": "+4.5",
-    "label": "2/3 lock: San Diego St."
-   },
-   "label": "KenPom and Torvik mispriced and a double lock per TCE",
-   "teams": {
-    "away": {
-     "name": "Maryland",
-     "kenpom_url": "https://kenpom.com/team.php?team=Maryland",
-     "record": "3-3",
-     "coach": "Buzz Williams",
-     "conf": "B10",
-     "arena": "Xfinity Center, College Park, MD",
-     "ratings": {
-      "AdjEM": 14.6362,
-      "RankAdjEM": 65,
-      "AdjOE": 116.431,
-      "RankAdjOE": 63,
-      "AdjDE": 101.794,
-      "RankAdjDE": 64,
-      "AdjTempo": 69.0667,
-      "RankAdjTempo": 174,
-      "SOS": -0.3804,
-      "RankSOS": 172,
-      "Luck": -0.1926
-     },
-     "four_factors": {
-      "eFG_Pct": 50.1374,
-      "RankeFG_Pct": 209,
-      "TO_Pct": 17.6327,
-      "RankTO_Pct": 175,
-      "OR_Pct": 45.3333,
-      "RankOR_Pct": 3,
-      "FT_Rate": 49.7253,
-      "RankFT_Rate": 29,
-      "DeFG_Pct": 51.7296,
-      "RankDeFG_Pct": 206,
-      "DTO_Pct": 22.8748,
-      "RankDTO_Pct": 31,
-      "DOR_Pct": 28.7179,
-      "RankDOR_Pct": 101,
-      "DFT_Rate": 39.3082,
-      "RankDFT_Rate": 232
-     },
-     "shooting": {
-      "FG3Pct": 25.6944,
-      "RankFG3Pct": 340,
-      "FG2Pct": 57.7273,
-      "FTPct": 72.3757,
-      "F3GRate": 39.5604,
-      "RankF3GRate": 216,
-      "OppFG3Pct": 36.7188,
-      "RankOppFG3Pct": 295,
-      "BlockPct": 8.4211,
-      "StlRate": 0.1168,
-      "ARate": 45.122
-     },
-     "size": {
-      "AvgHgt": 78.04,
-      "AvgHgtRank": 80,
-      "HgtEff": 0.37,
-      "Exp": 2.0625,
-      "ExpRank": 65,
-      "Bench": 38.26,
-      "Continuity": 0.1797
-     }
-    },
-    "home": {
-     "name": "San Diego St.",
-     "kenpom_url": "https://kenpom.com/team.php?team=San+Diego+St.",
-     "record": "5-1",
-     "coach": "Brian Dutcher",
-     "conf": "P12",
-     "arena": "Viejas Arena, San Diego, CA",
-     "ratings": {
-      "AdjEM": 14.2187,
-      "RankAdjEM": 66,
-      "AdjOE": 115.584,
-      "RankAdjOE": 72,
-      "AdjDE": 101.365,
-      "RankAdjDE": 60,
-      "AdjTempo": 69.917,
-      "RankAdjTempo": 118,
-      "SOS": -1.8953,
-      "RankSOS": 202,
-      "Luck": 0.0481
-     },
-     "four_factors": {
-      "eFG_Pct": 56.2865,
-      "RankeFG_Pct": 48,
-      "TO_Pct": 19.0288,
-      "RankTO_Pct": 240,
-      "OR_Pct": 37.9679,
-      "RankOR_Pct": 47,
-      "FT_Rate": 48.2456,
-      "RankFT_Rate": 37,
-      "DeFG_Pct": 44.5682,
-      "RankDeFG_Pct": 31,
-      "DTO_Pct": 19.725,
-      "RankDTO_Pct": 92,
-      "DOR_Pct": 31.982,
-      "RankDOR_Pct": 196,
-      "DFT_Rate": 33.7047,
-      "RankDFT_Rate": 132
-     },
-     "shooting": {
-      "FG3Pct": 35.3383,
-      "RankFG3Pct": 104,
-      "FG2Pct": 58.3732,
-      "FTPct": 72.7273,
-      "F3GRate": 38.8889,
-      "RankF3GRate": 234,
-      "OppFG3Pct": 28.3688,
-      "RankOppFG3Pct": 56,
-      "BlockPct": 12.3853,
-      "StlRate": 0.1114,
-      "ARate": 65.0888
-     },
-     "size": {
-      "AvgHgt": 77.93,
-      "AvgHgtRank": 103,
-      "HgtEff": -0.02,
-      "Exp": 1.3011,
-      "ExpRank": 197,
-      "Bench": 35.31,
-      "Continuity": 0.144
      }
     }
    },
