@@ -1,40 +1,81 @@
-🏀 CBB SCREENER · Wed Nov 25
-5 plays · 0 with podcast lock · 0 conf home dogs
+🏀 CBB SCREENER · Thu Nov 26
+5 plays · 2 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-📊 PLAYS (5)
-Both models 1.5+ off · ★ = both 3+
+🔥 TOP PLAYS — models + podcast lock
 ────────────────────────
+𝐔𝐭𝐚𝐡 𝐒𝐭. +3
+   vs USC (neutral) · Thu 4:30 PM
+   Best +3.5 (-110) BetMGM
+   Torvik +1.3 (edge 1.7)
+   KenPom -1.0 (edge 4.0)
+   🎙 Podcast AGREES: 3/3 lock Utah St.
+
 ★ 𝐒𝐚𝐧 𝐃𝐢𝐞𝐠𝐨 𝐒𝐭. +4.5
    vs Maryland (neutral) · Thu 1:00 PM
-   Best +4.5 (-106) LowVig.ag
-   Torvik -1.0 (edge 5.5)
-   KenPom +0.2 (edge 4.3)
+   Best +4.5 (-108) DraftKings
+   Torvik -1.1 (edge 5.6)
+   KenPom +1.0 (edge 3.5)
+   🎙 Podcast AGREES: 2/3 lock San Diego St.
 
-𝐂𝐨𝐥𝐨𝐫𝐚𝐝𝐨 𝐒𝐭. +4
-   vs Clemson (neutral) · Thu 12:30 AM
-   Best +4.5 (-110) BetMGM
-   Torvik +2.3 (edge 1.9)
-   KenPom +2.4 (edge 1.8)
+────────────────────────
+📊 OTHER PLAYS (3)
+Both models 1.5+ off · ★ = both 3+
+────────────────────────
+𝐔𝐂𝐅 -1.5
+   vs Boston College (neutral) · Thu 1:30 PM
+   Best -1.5 (-106) LowVig.ag
+   Torvik -4.5 (edge 3.0)
+   KenPom -4.0 (edge 2.5)
 
 𝐒𝐚𝐢𝐧𝐭 𝐌𝐚𝐫𝐲'𝐬 +7.5
    vs UCLA (neutral) · Thu 5:00 PM
    Best +7.5 (-106) LowVig.ag
-   Torvik +5.8 (edge 1.7)
-   KenPom +5.9 (edge 1.6)
+   Torvik +5.7 (edge 1.8)
+   KenPom +6.0 (edge 1.5)
 
-𝐒𝐭. 𝐉𝐨𝐡𝐧'𝐬 -2
-   vs Louisville (neutral) · Thu 9:00 PM
-   Best -1.5 (-120) DraftKings
-   Torvik -3.6 (edge 1.6)
-   KenPom -3.8 (edge 1.8)
+𝐎𝐫𝐞𝐠𝐨𝐧 +10
+   vs Texas Tech (neutral) · Thu 11:30 PM
+   Best +10.5 (-118) BetMGM
+   Torvik +7.2 (edge 2.5)
+   KenPom +8.0 (edge 1.8)
 
-𝐏𝐚𝐜𝐢𝐟𝐢𝐜 -7.5
-   vs Nebraska Omaha (neutral) · Thu 10:30 PM
-   Best -7.5 (-115) DraftKings
-   Torvik -12.7 (edge 5.2)
-   KenPom -9.9 (edge 2.4)
+────────────────────────
+🎙 PODCAST LOCKS (11)
+────────────────────────
+3/3 lock: Cincinnati -2.5
+   Thu 11:00 AM · models: Torvik -1.4, KenPom +0.5
+
+3/3 lock: Georgetown +8.5
+   Thu 2:30 PM · models: Torvik +2.8, KenPom -2.5
+
+3/3 lock: Arkansas +5.5
+   Thu 4:30 PM · models: Torvik +0.8, KenPom -0.5
+
+3/3 lock: Utah St. +3
+   Thu 4:30 PM · ✅ models agree
+
+3/3 lock: TCU +1.5
+   Thu 6:00 PM · models: Torvik -0.8, KenPom -1.5
+
+3/3 lock: St. John's -2
+   Thu 9:00 PM · models: Torvik +1.6, KenPom +1.0
+
+2/3 lock: San Diego St. +4.5
+   Thu 1:00 PM · ✅ models agree
+
+2/3 lock: Miami FL -2.5
+   Thu 3:30 PM · models: Torvik -0.7, KenPom -0.5
+
+2/3 lock: Jacksonville St. -1.5
+   Thu 8:00 PM · models: Torvik +1.6, KenPom +0.5
+
+2/3 lock: Alabama -15
+   Thu 9:00 PM · models: Torvik -5.1, KenPom -1.0
+
+2/3 lock: Nebraska Omaha +8
+   Thu 10:30 PM · models: Torvik -2.8, KenPom -0.8
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)
@@ -44,34 +85,29 @@ None on today's slate.
 ────────────────────────
 📈 RESULTS
 ────────────────────────
-Season: 163-159 · -10.83u
-Since 11/15/2026: 102-86-2 (54%) · +6.72u
-GAS games since 11/17/2026: 18-9 (67%) · +7.36u
-Yesterday: 14-11 · +1.73u
-✅ New Mexico St. +5 (68-69)
-✅ DePaul +4.5 (65-56) · 🎙 2/2 agree
-✅ Eastern Michigan +4 (60-56)
-✅ Milwaukee +38 (67-76)
-❌ Tarleton St. +1 (87-89)
-✅ Central Michigan +21 (70-88) · 🎙 2/2 agree
-✅ Evansville +32 (67-78)
-❌ Detroit Mercy +4.5 (77-67)
-✅ Creighton +6.5 (99-73)
-❌ Queens +1.5 (77-86)
-❌ Robert Morris +3.75 (87-62)
-✅ Jacksonville +28 (64-82) · 🎙 2/2 agree
-❌ New Hampshire +21.5 (27-73) · 🎙 2/2 agree
-❌ Stetson +18.5 (67-100)
-❌ Alcorn St. +17 (41-83)
-✅ Air Force -3.5 (79-88)
-❌ Florida A&M +18.5 (49-74)
-❌ UNC Asheville +29.5 (61-97)
-✅ Colorado +4.5 (70-65)
-✅ Delaware St. +15.5 (66-79) · 🎙 vs 2/2 agree
-❌ Santa Clara +0.5 (85-66)
-❌ San Diego St. +9 (68-81) · 🎙 vs 2/2 agree
-✅ Coppin St. +33.5 (52-70)
-✅ Penn -5.5 (74-89)
-✅ UTEP +2.5 (80-69)
-➖ Oregon +11 (79-90) · 🎙 vs 2/2 agree
+Season: 176-167 · -7.02u
+Since 11/15/2026: 115-94-2 (55%) · +10.54u
+GAS games since 11/17/2026: 18-11 (62%) · +5.36u
+Yesterday: 12-9 · +1.91u
+❌ Kansas St. +15.25 (101-61)
+✅ Rice +5 (82-74)
+❌ FIU -1.5 (92-88) · 🎙 2/3 lock
+✅ Duke +2.5 (77-63)
+❌ Northeastern +21 (54-91)
+✅ Wake Forest +5 (78-71)
+❌ Tulane +8.5 (47-74) · 🎙 3/3 lock
+❌ Arkansas Pine Bluff +21 (50-86)
+❌ Jackson St. +34.5 (58-93)
+✅ Prairie View A&M +15 (58-64)
+✅ Southern +35.5 (72-101)
+✅ Albany +26.5 (53-74)
+✅ Bethune Cookman +11.5 (79-86)
+✅ Mississippi Valley St. +36 (77-100) · 🎙 vs 2/3 lock
+❌ Mississippi +5.5 (73-84) · 🎙 vs 2/3 lock
+✅ Holy Cross +11.5 (67-65)
+✅ Northwestern St. -1.5 (57-71)
+❌ Longwood +16.5 (58-93)
+❌ UC Davis -4.5 (78-80)
+✅ Washington +4.5 (78-80) · 🎙 vs 2/3 lock
+✅ Bellarmine +7.5 (66-52) · 🎙 vs 2/3 lock
 

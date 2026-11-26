@@ -1,6 +1,378 @@
 {
- "generated_utc": "2026-11-26T04:57+00:00",
+ "generated_utc": "2026-11-26T11:25+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "ee08c726d8d81a0755cfa29f92cdedff",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-26",
+   "tip_et": "Thu Nov 26, 4:30 PM ET",
+   "away": "Utah St.",
+   "home": "USC",
+   "neutral": true,
+   "venue": {
+    "name": "Acrisure Arena",
+    "city": "Palm Springs, CA",
+    "neutral": true,
+    "tv": [
+     "CBSSN"
+    ],
+    "note": "Acrisure Series"
+   },
+   "home_arena_kenpom": "Galen Center, Los Angeles, CA",
+   "pick": {
+    "team": "Utah St.",
+    "team_bold": "\ud835\udc14\ud835\udc2d\ud835\udc1a\ud835\udc21 \ud835\udc12\ud835\udc2d.",
+    "side": "away",
+    "market_line": 3.0,
+    "best": [
+     3.5,
+     -110,
+     "BetMGM"
+    ]
+   },
+   "models": {
+    "torvik_line": 1.3,
+    "torvik_edge": 1.7,
+    "kenpom_line": -1.0,
+    "kenpom_edge": 4.0,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 159.5,
+    "kenpom_total": 161.0,
+    "market_total": null,
+    "torvik_tempo": 72.9,
+    "kenpom_tempo": 73.0,
+    "kenpom_home_win_prob": 46.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "away",
+    "team": "Utah St.",
+    "hosts": [
+     "Colby",
+     "Mac",
+     "Bieniek"
+    ],
+    "line": "+3.5",
+    "label": "3/3 lock: Utah St."
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Utah St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Utah+St.",
+     "record": "6-0",
+     "coach": "Ben Jacobson",
+     "conf": "P12",
+     "arena": "Dee Glen Smith Spectrum, Logan, UT",
+     "ratings": {
+      "AdjEM": 24.1192,
+      "RankAdjEM": 20,
+      "AdjOE": 123.44,
+      "RankAdjOE": 10,
+      "AdjDE": 99.321,
+      "RankAdjDE": 39,
+      "AdjTempo": 70.8866,
+      "RankAdjTempo": 79,
+      "SOS": -9.9617,
+      "RankSOS": 344,
+      "Luck": 0
+     },
+     "four_factors": {
+      "eFG_Pct": 65.1106,
+      "RankeFG_Pct": 1,
+      "TO_Pct": 11.3858,
+      "RankTO_Pct": 3,
+      "OR_Pct": 32.6425,
+      "RankOR_Pct": 164,
+      "FT_Rate": 28.5012,
+      "RankFT_Rate": 315,
+      "DeFG_Pct": 45.288,
+      "RankDeFG_Pct": 42,
+      "DTO_Pct": 18.3066,
+      "RankDTO_Pct": 151,
+      "DOR_Pct": 25.3112,
+      "RankDOR_Pct": 24,
+      "DFT_Rate": 23.5602,
+      "RankDFT_Rate": 8
+     },
+     "shooting": {
+      "FG3Pct": 45.9627,
+      "RankFG3Pct": 1,
+      "FG2Pct": 62.6016,
+      "FTPct": 74.1379,
+      "F3GRate": 39.5577,
+      "RankF3GRate": 217,
+      "OppFG3Pct": 27.381,
+      "RankOppFG3Pct": 37,
+      "BlockPct": 7.0094,
+      "StlRate": 0.1072,
+      "ARate": 60.0877
+     },
+     "size": {
+      "AvgHgt": 77.62,
+      "AvgHgtRank": 149,
+      "HgtEff": 0.07,
+      "Exp": 2.5622,
+      "ExpRank": 9,
+      "Bench": 27.49,
+      "Continuity": 0.2451
+     }
+    },
+    "home": {
+     "name": "USC",
+     "kenpom_url": "https://kenpom.com/team.php?team=USC",
+     "record": "7-0",
+     "coach": "Eric Musselman",
+     "conf": "B10",
+     "arena": "Galen Center, Los Angeles, CA",
+     "ratings": {
+      "AdjEM": 22.7204,
+      "RankAdjEM": 25,
+      "AdjOE": 118.363,
+      "RankAdjOE": 45,
+      "AdjDE": 95.6424,
+      "RankAdjDE": 15,
+      "AdjTempo": 72.1874,
+      "RankAdjTempo": 38,
+      "SOS": -4.0642,
+      "RankSOS": 258,
+      "Luck": 0.1241
+     },
+     "four_factors": {
+      "eFG_Pct": 57.0197,
+      "RankeFG_Pct": 39,
+      "TO_Pct": 16.0129,
+      "RankTO_Pct": 90,
+      "OR_Pct": 33.9367,
+      "RankOR_Pct": 126,
+      "FT_Rate": 53.9409,
+      "RankFT_Rate": 10,
+      "DeFG_Pct": 41.8987,
+      "RankDeFG_Pct": 11,
+      "DTO_Pct": 22.2618,
+      "RankDTO_Pct": 43,
+      "DOR_Pct": 27.5735,
+      "RankDOR_Pct": 64,
+      "DFT_Rate": 38.9873,
+      "RankDFT_Rate": 229
+     },
+     "shooting": {
+      "FG3Pct": 39.5973,
+      "RankFG3Pct": 25,
+      "FG2Pct": 55.642,
+      "FTPct": 78.9954,
+      "F3GRate": 36.6995,
+      "RankF3GRate": 270,
+      "OppFG3Pct": 29.4521,
+      "RankOppFG3Pct": 79,
+      "BlockPct": 17.6707,
+      "StlRate": 0.1172,
+      "ARate": 66.3366
+     },
+     "size": {
+      "AvgHgt": 79.23,
+      "AvgHgtRank": 10,
+      "HgtEff": 2.04,
+      "Exp": 1.9958,
+      "ExpRank": 74,
+      "Bench": 34.26,
+      "Continuity": 0.209
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "fce1d0e39b7353f5d69bc77cf21ee9d1",
+   "priority": [
+    1,
+    0
+   ],
+   "date": "2026-11-26",
+   "tip_et": "Thu Nov 26, 1:00 PM ET",
+   "away": "Maryland",
+   "home": "San Diego St.",
+   "neutral": true,
+   "venue": {
+    "name": "Michelob ULTRA Arena",
+    "city": "Las Vegas, NV",
+    "neutral": true,
+    "tv": [
+     "ESPN"
+    ],
+    "note": "Players Era 16"
+   },
+   "home_arena_kenpom": "Viejas Arena, San Diego, CA",
+   "pick": {
+    "team": "San Diego St.",
+    "team_bold": "\ud835\udc12\ud835\udc1a\ud835\udc27 \ud835\udc03\ud835\udc22\ud835\udc1e\ud835\udc20\ud835\udc28 \ud835\udc12\ud835\udc2d.",
+    "side": "home",
+    "market_line": 4.5,
+    "best": [
+     4.5,
+     -108,
+     "DraftKings"
+    ]
+   },
+   "models": {
+    "torvik_line": -1.1,
+    "torvik_edge": 5.6,
+    "kenpom_line": 1.0,
+    "kenpom_edge": 3.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 152.2,
+    "kenpom_total": 153.0,
+    "market_total": null,
+    "torvik_tempo": 69.2,
+    "kenpom_tempo": 70.0,
+    "kenpom_home_win_prob": 49.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "San Diego St.",
+    "hosts": [
+     "Colby",
+     "Mac"
+    ],
+    "line": "+4.5",
+    "label": "2/3 lock: San Diego St."
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Maryland",
+     "kenpom_url": "https://kenpom.com/team.php?team=Maryland",
+     "record": "3-3",
+     "coach": "Buzz Williams",
+     "conf": "B10",
+     "arena": "Xfinity Center, College Park, MD",
+     "ratings": {
+      "AdjEM": 14.6362,
+      "RankAdjEM": 65,
+      "AdjOE": 116.431,
+      "RankAdjOE": 63,
+      "AdjDE": 101.794,
+      "RankAdjDE": 64,
+      "AdjTempo": 69.0667,
+      "RankAdjTempo": 174,
+      "SOS": -0.3804,
+      "RankSOS": 172,
+      "Luck": -0.1926
+     },
+     "four_factors": {
+      "eFG_Pct": 50.1374,
+      "RankeFG_Pct": 209,
+      "TO_Pct": 17.6327,
+      "RankTO_Pct": 175,
+      "OR_Pct": 45.3333,
+      "RankOR_Pct": 3,
+      "FT_Rate": 49.7253,
+      "RankFT_Rate": 29,
+      "DeFG_Pct": 51.7296,
+      "RankDeFG_Pct": 206,
+      "DTO_Pct": 22.8748,
+      "RankDTO_Pct": 31,
+      "DOR_Pct": 28.7179,
+      "RankDOR_Pct": 101,
+      "DFT_Rate": 39.3082,
+      "RankDFT_Rate": 232
+     },
+     "shooting": {
+      "FG3Pct": 25.6944,
+      "RankFG3Pct": 340,
+      "FG2Pct": 57.7273,
+      "FTPct": 72.3757,
+      "F3GRate": 39.5604,
+      "RankF3GRate": 216,
+      "OppFG3Pct": 36.7188,
+      "RankOppFG3Pct": 295,
+      "BlockPct": 8.4211,
+      "StlRate": 0.1168,
+      "ARate": 45.122
+     },
+     "size": {
+      "AvgHgt": 78.04,
+      "AvgHgtRank": 80,
+      "HgtEff": 0.37,
+      "Exp": 2.0625,
+      "ExpRank": 65,
+      "Bench": 38.26,
+      "Continuity": 0.1797
+     }
+    },
+    "home": {
+     "name": "San Diego St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=San+Diego+St.",
+     "record": "5-1",
+     "coach": "Brian Dutcher",
+     "conf": "P12",
+     "arena": "Viejas Arena, San Diego, CA",
+     "ratings": {
+      "AdjEM": 14.2187,
+      "RankAdjEM": 66,
+      "AdjOE": 115.584,
+      "RankAdjOE": 72,
+      "AdjDE": 101.365,
+      "RankAdjDE": 60,
+      "AdjTempo": 69.917,
+      "RankAdjTempo": 118,
+      "SOS": -1.8953,
+      "RankSOS": 202,
+      "Luck": 0.0481
+     },
+     "four_factors": {
+      "eFG_Pct": 56.2865,
+      "RankeFG_Pct": 48,
+      "TO_Pct": 19.0288,
+      "RankTO_Pct": 240,
+      "OR_Pct": 37.9679,
+      "RankOR_Pct": 47,
+      "FT_Rate": 48.2456,
+      "RankFT_Rate": 37,
+      "DeFG_Pct": 44.5682,
+      "RankDeFG_Pct": 31,
+      "DTO_Pct": 19.725,
+      "RankDTO_Pct": 92,
+      "DOR_Pct": 31.982,
+      "RankDOR_Pct": 196,
+      "DFT_Rate": 33.7047,
+      "RankDFT_Rate": 132
+     },
+     "shooting": {
+      "FG3Pct": 35.3383,
+      "RankFG3Pct": 104,
+      "FG2Pct": 58.3732,
+      "FTPct": 72.7273,
+      "F3GRate": 38.8889,
+      "RankF3GRate": 234,
+      "OppFG3Pct": 28.3688,
+      "RankOppFG3Pct": 56,
+      "BlockPct": 12.3853,
+      "StlRate": 0.1114,
+      "ARate": 65.0888
+     },
+     "size": {
+      "AvgHgt": 77.93,
+      "AvgHgtRank": 103,
+      "HgtEff": -0.02,
+      "Exp": 1.3011,
+      "ExpRank": 197,
+      "Bench": 35.31,
+      "Continuity": 0.144
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
