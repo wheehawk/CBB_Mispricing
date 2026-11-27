@@ -1,108 +1,64 @@
 🏀 CBB SCREENER · Thu Nov 26
-11 plays · 1 with podcast lock · 0 conf home dogs
+9 plays · 0 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
-🔥 TOP PLAYS — models + podcast lock
-────────────────────────
-𝐒𝐭. 𝐉𝐨𝐡𝐧'𝐬 -1.5
-   vs Louisville (neutral) · Thu 9:00 PM
-   Best -1.5 (-106) LowVig.ag
-   Torvik -3.6 (edge 2.1)
-   KenPom -3.0 (edge 1.5)
-   🎙 Podcast AGREES: 3/3 lock St. John's
-
-────────────────────────
-📊 OTHER PLAYS (10)
+📊 PLAYS (9)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐓𝐞𝐧𝐧𝐞𝐬𝐬𝐞𝐞 +5
-   vs Iowa St. (neutral) · Thu 3:30 PM
-   Best +5.5 (-110) Bovada
-   Torvik +1.1 (edge 4.1)
-   KenPom +2.0 (edge 3.2)
+★ 𝐒𝐨𝐮𝐭𝐡𝐞𝐫𝐧 +36.5
+   at Vanderbilt · Fri 2:00 PM
+   Best +37 (-101) LowVig.ag
+   Torvik +33.0 (edge 3.5)
+   KenPom +31.7 (edge 4.8)
 
-★ 𝐁𝐨𝐢𝐬𝐞 𝐒𝐭. -3.5
-   vs Drake (neutral) · Fri 5:30 PM
-   Best -3.5 (-106) LowVig.ag
-   Torvik -7.3 (edge 3.8)
-   KenPom -8.2 (edge 4.7)
+★ 𝐁𝐞𝐥𝐥𝐚𝐫𝐦𝐢𝐧𝐞 +18.5
+   at Butler · Fri 3:00 PM
+   Best +19.5 (-112) DraftKings
+   Torvik +14.8 (edge 3.7)
+   KenPom +14.2 (edge 4.3)
 
-★ 𝐁𝐨𝐰𝐥𝐢𝐧𝐠 𝐆𝐫𝐞𝐞𝐧 +24
-   at Indiana · Fri 6:00 PM
-   Best +24 (-101) LowVig.ag
-   Torvik +20.9 (edge 3.1)
-   KenPom +20.2 (edge 3.8)
+★ 𝐀𝐫𝐤𝐚𝐧𝐬𝐚𝐬 𝐏𝐢𝐧𝐞 𝐁𝐥𝐮𝐟𝐟 +49.5
+   at Missouri · Fri 4:00 PM
+   Best +49.5 (+100) LowVig.ag
+   Torvik +44.7 (edge 4.8)
+   KenPom +37.8 (edge 11.7)
 
 ★ 𝐖𝐞𝐬𝐭𝐞𝐫𝐧 𝐊𝐞𝐧𝐭𝐮𝐜𝐤𝐲 +27.5
    at Illinois · Fri 6:00 PM
-   Best +27.5 (-106) LowVig.ag
+   Best +27.5 (+102) BetRivers
    Torvik +21.1 (edge 6.4)
    KenPom +23.1 (edge 4.4)
 
-★ 𝐎𝐚𝐤𝐥𝐚𝐧𝐝 +39
-   at Houston · Fri 7:30 PM
-   Best +40 (+109) LowVig.ag
-   Torvik +35.2 (edge 3.8)
-   KenPom +32.5 (edge 6.5)
+𝐋𝐞 𝐌𝐨𝐲𝐧𝐞 +1.5
+   vs Maine (neutral) · Fri 2:00 PM
+   Best +1.5 (-105) DraftKings
+   Torvik -1.0 (edge 2.5)
+   KenPom -2.4 (edge 3.9)
 
-𝐒𝐚𝐢𝐧𝐭 𝐌𝐚𝐫𝐲'𝐬 +7.5
-   vs UCLA (neutral) · Thu 5:00 PM
-   Best +7.5 (-101) LowVig.ag
-   Torvik +5.7 (edge 1.8)
-   KenPom +6.0 (edge 1.5)
-
-𝐏𝐚𝐜𝐢𝐟𝐢𝐜 -7.5
-   vs Nebraska Omaha (neutral) · Thu 10:30 PM
-   Best -7.5 (-106) LowVig.ag
-   Torvik -11.0 (edge 3.5)
-   KenPom -9.0 (edge 1.5)
-   🎙 Podcast OPPOSES: 2/3 lock Nebraska Omaha
-
-𝐎𝐫𝐞𝐠𝐨𝐧 +10.5
-   vs Texas Tech (neutral) · Thu 11:30 PM
-   Best +10.5 (-105) Bovada
-   Torvik +7.2 (edge 3.3)
-   KenPom +8.0 (edge 2.5)
-
-𝐎𝐥𝐝 𝐃𝐨𝐦𝐢𝐧𝐢𝐨𝐧 +18
+𝐎𝐥𝐝 𝐃𝐨𝐦𝐢𝐧𝐢𝐨𝐧 +18.5
    at Virginia Tech · Fri 5:00 PM
-   Best +18 (-106) LowVig.ag
-   Torvik +16.2 (edge 1.8)
-   KenPom +13.8 (edge 4.2)
+   Best +19 (-111) LowVig.ag
+   Torvik +16.2 (edge 2.3)
+   KenPom +13.8 (edge 4.7)
 
-𝐔𝐂𝐅 +6
-   vs Georgia (neutral) · Fri 7:00 PM
-   Best +6 (+109) LowVig.ag
-   Torvik +4.1 (edge 1.9)
-   KenPom +3.8 (edge 2.2)
+𝐁𝐨𝐢𝐬𝐞 𝐒𝐭. -5.5
+   vs Drake (neutral) · Fri 5:30 PM
+   Best -5.5 (-111) LowVig.ag
+   Torvik -7.3 (edge 1.8)
+   KenPom -8.2 (edge 2.7)
 
-────────────────────────
-🎙 PODCAST LOCKS (8)
-────────────────────────
-3/3 lock: Arkansas +5.5
-   Thu 4:30 PM · models: Torvik +0.8, KenPom -0.5
+𝐁𝐨𝐰𝐥𝐢𝐧𝐠 𝐆𝐫𝐞𝐞𝐧 +22.5
+   at Indiana · Fri 6:00 PM
+   Best +23.5 (-120) BetRivers
+   Torvik +20.9 (edge 1.6)
+   KenPom +20.2 (edge 2.3)
 
-3/3 lock: Utah St. +1.5
-   Thu 4:30 PM · models: Torvik +0.2, KenPom +2.5
-
-3/3 lock: TCU +1.5
-   Thu 6:00 PM · models: Torvik -0.8, KenPom -1.5
-
-3/3 lock: St. John's -1.5
-   Thu 9:00 PM · ✅ models agree
-
-2/3 lock: Miami FL -1.5
-   Thu 3:35 PM · models: Torvik +0.3, KenPom +0.5
-
-2/3 lock: Jacksonville St. -3
-   Thu 8:00 PM · models: Torvik -0.1, KenPom -1.2
-
-2/3 lock: Alabama -13.5
-   Thu 9:00 PM · models: Torvik -3.6, KenPom +0.5
-
-2/3 lock: Nebraska Omaha +7.5
-   Thu 10:30 PM · ❌ models on other side
+𝐎𝐚𝐤𝐥𝐚𝐧𝐝 +37
+   at Houston · Fri 7:30 PM
+   Best +37.5 (-112) BetRivers
+   Torvik +35.2 (edge 1.5)
+   KenPom +32.5 (edge 4.2)
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)
@@ -138,3 +94,9 @@ Yesterday: 12-9 · +1.91u
 ✅ Washington +4.5 (78-80) · 🎙 vs 2/3 lock
 ✅ Bellarmine +7.5 (66-52) · 🎙 vs 2/3 lock
 
+Notes:
+• Unmatched game: Iowa State Cyclones at St. John's Red Storm (add to data/aliases.json if needed)
+• Unmatched game: Tennessee Volunteers at Louisville Cardinals (add to data/aliases.json if needed)
+• Unmatched game: Georgetown Hoyas at UCLA Bruins (add to data/aliases.json if needed)
+• Unmatched game: UMBC Retrievers at GW Revolutionaries (add to data/aliases.json if needed)
+• Unmatched game: Texas Longhorns at Saint Mary's Gaels (add to data/aliases.json if needed)
