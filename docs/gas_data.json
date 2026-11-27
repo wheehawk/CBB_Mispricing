@@ -1,6 +1,377 @@
 {
- "generated_utc": "2026-11-27T04:57+00:00",
+ "generated_utc": "2026-11-27T11:34+00:00",
  "max_games": 15,
  "omitted": 0,
- "games": []
+ "games": [
+  {
+   "id": "56ba55a83df061ede47d0b562e16ce69",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-27",
+   "tip_et": "Fri Nov 27, 5:30 PM ET",
+   "away": "Drake",
+   "home": "Boise St.",
+   "neutral": true,
+   "venue": {
+    "name": "Mountain America Center",
+    "city": "Idaho Falls, ID",
+    "neutral": true,
+    "tv": [
+     "YouTube"
+    ],
+    "note": "Snake River Invitational"
+   },
+   "home_arena_kenpom": "ExtraMile Arena, Boise, ID",
+   "pick": {
+    "team": "Boise St.",
+    "team_bold": "\ud835\udc01\ud835\udc28\ud835\udc22\ud835\udc2c\ud835\udc1e \ud835\udc12\ud835\udc2d.",
+    "side": "home",
+    "market_line": -5.5,
+    "best": [
+     -5.0,
+     -111,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": -7.3,
+    "torvik_edge": 1.8,
+    "kenpom_line": -10.0,
+    "kenpom_edge": 4.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 156.6,
+    "kenpom_total": 156.0,
+    "market_total": null,
+    "torvik_tempo": 71.5,
+    "kenpom_tempo": 73.0,
+    "kenpom_home_win_prob": 81.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "Boise St.",
+    "hosts": [
+     "Bieniek",
+     "Troy"
+    ],
+    "line": "-5.5",
+    "label": "2/3 lock: Boise St."
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Drake",
+     "kenpom_url": "https://kenpom.com/team.php?team=Drake",
+     "record": "4-2",
+     "coach": "Eric Henderson",
+     "conf": "MVC",
+     "arena": "Knapp Center, Des Moines, IA",
+     "ratings": {
+      "AdjEM": -0.148,
+      "RankAdjEM": 155,
+      "AdjOE": 108.279,
+      "RankAdjOE": 166,
+      "AdjDE": 108.427,
+      "RankAdjDE": 162,
+      "AdjTempo": 68.279,
+      "RankAdjTempo": 232,
+      "SOS": -8.7473,
+      "RankSOS": 339,
+      "Luck": -0.1387
+     },
+     "four_factors": {
+      "eFG_Pct": 49.4845,
+      "RankeFG_Pct": 226,
+      "TO_Pct": 16.4562,
+      "RankTO_Pct": 109,
+      "OR_Pct": 36.5591,
+      "RankOR_Pct": 70,
+      "FT_Rate": 49.1409,
+      "RankFT_Rate": 33,
+      "DeFG_Pct": 57.6,
+      "RankDeFG_Pct": 340,
+      "DTO_Pct": 22.8077,
+      "RankDTO_Pct": 30,
+      "DOR_Pct": 23.3333,
+      "RankDOR_Pct": 6,
+      "DFT_Rate": 42.8,
+      "RankDFT_Rate": 279
+     },
+     "shooting": {
+      "FG3Pct": 32.1429,
+      "RankFG3Pct": 201,
+      "FG2Pct": 50.2793,
+      "FTPct": 68.5315,
+      "F3GRate": 38.488,
+      "RankF3GRate": 237,
+      "OppFG3Pct": 35.5932,
+      "RankOppFG3Pct": 271,
+      "BlockPct": 6.0606,
+      "StlRate": 0.1328,
+      "ARate": 52.381
+     },
+     "size": {
+      "AvgHgt": 75.95,
+      "AvgHgtRank": 356,
+      "HgtEff": -1.32,
+      "Exp": 1.469,
+      "ExpRank": 159,
+      "Bench": 27.25,
+      "Continuity": 0.3913
+     }
+    },
+    "home": {
+     "name": "Boise St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Boise+St.",
+     "record": "4-2",
+     "coach": "Leon Rice",
+     "conf": "P12",
+     "arena": "ExtraMile Arena, Boise, ID",
+     "ratings": {
+      "AdjEM": 11.1128,
+      "RankAdjEM": 82,
+      "AdjOE": 112.623,
+      "RankAdjOE": 102,
+      "AdjDE": 101.51,
+      "RankAdjDE": 61,
+      "AdjTempo": 73.9481,
+      "RankAdjTempo": 11,
+      "SOS": -0.0512,
+      "RankSOS": 178,
+      "Luck": 0.0045
+     },
+     "four_factors": {
+      "eFG_Pct": 51.4493,
+      "RankeFG_Pct": 165,
+      "TO_Pct": 13.1696,
+      "RankTO_Pct": 16,
+      "OR_Pct": 28.4314,
+      "RankOR_Pct": 265,
+      "FT_Rate": 34.2029,
+      "RankFT_Rate": 211,
+      "DeFG_Pct": 56.8562,
+      "RankDeFG_Pct": 331,
+      "DTO_Pct": 24.5663,
+      "RankDTO_Pct": 13,
+      "DOR_Pct": 30.0654,
+      "RankDOR_Pct": 135,
+      "DFT_Rate": 31.4381,
+      "RankDFT_Rate": 98
+     },
+     "shooting": {
+      "FG3Pct": 34.7561,
+      "RankFG3Pct": 124,
+      "FG2Pct": 50.8287,
+      "FTPct": 74.5763,
+      "F3GRate": 47.5362,
+      "RankF3GRate": 54,
+      "OppFG3Pct": 34.2857,
+      "RankOppFG3Pct": 233,
+      "BlockPct": 10.6918,
+      "StlRate": 0.1292,
+      "ARate": 59.0604
+     },
+     "size": {
+      "AvgHgt": 77.27,
+      "AvgHgtRank": 215,
+      "HgtEff": 0.71,
+      "Exp": 1.893,
+      "ExpRank": 88,
+      "Bench": 23.4,
+      "Continuity": 0.2715
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "ff2176f4daaef2d1975208c1449ac700",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-27",
+   "tip_et": "Fri Nov 27, 6:00 PM ET",
+   "away": "Bowling Green",
+   "home": "Indiana",
+   "neutral": false,
+   "venue": {
+    "name": "Simon Skjodt Assembly Hall",
+    "city": "Bloomington, IN",
+    "neutral": false,
+    "tv": [
+     "BTN"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Assembly Hall, Bloomington, IN",
+   "pick": {
+    "team": "Bowling Green",
+    "team_bold": "\ud835\udc01\ud835\udc28\ud835\udc30\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc06\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc27",
+    "side": "away",
+    "market_line": 22.5,
+    "best": [
+     22.5,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 20.9,
+    "torvik_edge": 1.6,
+    "kenpom_line": 20.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 161.2,
+    "kenpom_total": 158.0,
+    "market_total": null,
+    "torvik_tempo": 68.2,
+    "kenpom_tempo": 68.0,
+    "kenpom_home_win_prob": 96.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "Bowling Green",
+    "hosts": [
+     "Colby",
+     "Bieniek"
+    ],
+    "line": "+23.5",
+    "label": "2/3 lock: Bowling Green"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Bowling Green",
+     "kenpom_url": "https://kenpom.com/team.php?team=Bowling+Green",
+     "record": "4-2",
+     "coach": "Todd Simon",
+     "conf": "MAC",
+     "arena": "Stroh Center, Bowling Green, OH",
+     "ratings": {
+      "AdjEM": -3.6376,
+      "RankAdjEM": 194,
+      "AdjOE": 112.017,
+      "RankAdjOE": 108,
+      "AdjDE": 115.655,
+      "RankAdjDE": 332,
+      "AdjTempo": 67.6921,
+      "RankAdjTempo": 265,
+      "SOS": -10.5968,
+      "RankSOS": 354,
+      "Luck": 0.0331
+     },
+     "four_factors": {
+      "eFG_Pct": 61.2613,
+      "RankeFG_Pct": 10,
+      "TO_Pct": 17.9792,
+      "RankTO_Pct": 186,
+      "OR_Pct": 35.2273,
+      "RankOR_Pct": 94,
+      "FT_Rate": 36.3363,
+      "RankFT_Rate": 173,
+      "DeFG_Pct": 56.1947,
+      "RankDeFG_Pct": 324,
+      "DTO_Pct": 16.4809,
+      "RankDTO_Pct": 241,
+      "DOR_Pct": 27.3196,
+      "RankDOR_Pct": 55,
+      "DFT_Rate": 30.0885,
+      "RankDFT_Rate": 75
+     },
+     "shooting": {
+      "FG3Pct": 38.5714,
+      "RankFG3Pct": 37,
+      "FG2Pct": 63.7306,
+      "FTPct": 68.595,
+      "F3GRate": 42.042,
+      "RankF3GRate": 158,
+      "OppFG3Pct": 40.3974,
+      "RankOppFG3Pct": 350,
+      "BlockPct": 6.383,
+      "StlRate": 0.0849,
+      "ARate": 49.1525
+     },
+     "size": {
+      "AvgHgt": 77.22,
+      "AvgHgtRank": 228,
+      "HgtEff": -0.44,
+      "Exp": 0.8953,
+      "ExpRank": 285,
+      "Bench": 27.74,
+      "Continuity": 0.1742
+     }
+    },
+    "home": {
+     "name": "Indiana",
+     "kenpom_url": "https://kenpom.com/team.php?team=Indiana",
+     "record": "7-0",
+     "coach": "Darian DeVries",
+     "conf": "B10",
+     "arena": "Assembly Hall, Bloomington, IN",
+     "ratings": {
+      "AdjEM": 20.6799,
+      "RankAdjEM": 36,
+      "AdjOE": 121.607,
+      "RankAdjOE": 23,
+      "AdjDE": 100.927,
+      "RankAdjDE": 55,
+      "AdjTempo": 68.9064,
+      "RankAdjTempo": 180,
+      "SOS": -1.4589,
+      "RankSOS": 210,
+      "Luck": 0.0545
+     },
+     "four_factors": {
+      "eFG_Pct": 53.912,
+      "RankeFG_Pct": 96,
+      "TO_Pct": 16.0025,
+      "RankTO_Pct": 90,
+      "OR_Pct": 42.5532,
+      "RankOR_Pct": 10,
+      "FT_Rate": 51.5892,
+      "RankFT_Rate": 18,
+      "DeFG_Pct": 51.1194,
+      "RankDeFG_Pct": 183,
+      "DTO_Pct": 18.4644,
+      "RankDTO_Pct": 141,
+      "DOR_Pct": 25.8772,
+      "RankDOR_Pct": 27,
+      "DFT_Rate": 28.607,
+      "RankDFT_Rate": 55
+     },
+     "shooting": {
+      "FG3Pct": 34.9112,
+      "RankFG3Pct": 116,
+      "FG2Pct": 55,
+      "FTPct": 79.6208,
+      "F3GRate": 41.3203,
+      "RankF3GRate": 176,
+      "OppFG3Pct": 32.8859,
+      "RankOppFG3Pct": 187,
+      "BlockPct": 8.6957,
+      "StlRate": 0.0841,
+      "ARate": 52.8796
+     },
+     "size": {
+      "AvgHgt": 78.99,
+      "AvgHgtRank": 16,
+      "HgtEff": 2.7,
+      "Exp": 2.1597,
+      "ExpRank": 51,
+      "Bench": 31.15,
+      "Continuity": 0.1469
+     }
+    }
+   },
+   "players": null
+  }
+ ]
 }
