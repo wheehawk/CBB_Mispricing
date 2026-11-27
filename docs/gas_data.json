@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-27T16:02+00:00",
+ "generated_utc": "2026-11-27T19:53+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -28,18 +28,18 @@
     "team": "Tennessee",
     "team_bold": "\ud835\udc13\ud835\udc1e\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc1e\ud835\udc1e",
     "side": "away",
-    "market_line": 2.5,
+    "market_line": 3.5,
     "best": [
-     3.0,
-     -115,
-     "Bovada"
+     4.5,
+     -124,
+     "BetRivers"
     ]
    },
    "models": {
     "torvik_line": -0.8,
-    "torvik_edge": 3.3,
+    "torvik_edge": 4.3,
     "kenpom_line": -3.0,
-    "kenpom_edge": 5.5,
+    "kenpom_edge": 6.5,
     "kenpom_source": "FanMatch",
     "torvik_total": 147.4,
     "kenpom_total": 149.0,
@@ -72,21 +72,21 @@
      "conf": "SEC",
      "arena": "Thompson Boling Arena, Knoxville, TN",
      "ratings": {
-      "AdjEM": 25.0537,
+      "AdjEM": 25.0582,
       "RankAdjEM": 14,
-      "AdjOE": 116.998,
+      "AdjOE": 117.086,
       "RankAdjOE": 55,
-      "AdjDE": 91.9442,
+      "AdjDE": 92.0278,
       "RankAdjDE": 3,
-      "AdjTempo": 68.1398,
-      "RankAdjTempo": 240,
-      "SOS": 0.6316,
+      "AdjTempo": 68.1261,
+      "RankAdjTempo": 239,
+      "SOS": 0.6396,
       "RankSOS": 161,
       "Luck": 0.0368
      },
      "four_factors": {
       "eFG_Pct": 54.522,
-      "RankeFG_Pct": 75,
+      "RankeFG_Pct": 74,
       "TO_Pct": 20.2874,
       "RankTO_Pct": 287,
       "OR_Pct": 32.8704,
@@ -98,13 +98,13 @@
       "DTO_Pct": 16.5988,
       "RankDTO_Pct": 233,
       "DOR_Pct": 35.6322,
-      "RankDOR_Pct": 276,
+      "RankDOR_Pct": 277,
       "DFT_Rate": 33.4056,
-      "RankDFT_Rate": 125
+      "RankDFT_Rate": 124
      },
      "shooting": {
       "FG3Pct": 32.0513,
-      "RankFG3Pct": 206,
+      "RankFG3Pct": 207,
       "FG2Pct": 58.8745,
       "FTPct": 72.7891,
       "F3GRate": 40.3101,
@@ -133,16 +133,16 @@
      "conf": "ACC",
      "arena": "KFC Yum! Center, Louisville, KY",
      "ratings": {
-      "AdjEM": 21.1663,
+      "AdjEM": 21.1661,
       "RankAdjEM": 31,
-      "AdjOE": 121.746,
+      "AdjOE": 121.833,
       "RankAdjOE": 20,
-      "AdjDE": 100.58,
-      "RankAdjDE": 51,
-      "AdjTempo": 70.1817,
+      "AdjDE": 100.666,
+      "RankAdjDE": 50,
+      "AdjTempo": 70.1695,
       "RankAdjTempo": 107,
-      "SOS": 4.3614,
-      "RankSOS": 94,
+      "SOS": 4.3615,
+      "RankSOS": 93,
       "Luck": 0.1344
      },
      "four_factors": {
@@ -155,13 +155,13 @@
       "FT_Rate": 37.8866,
       "RankFT_Rate": 155,
       "DeFG_Pct": 50.6775,
-      "RankDeFG_Pct": 169,
+      "RankDeFG_Pct": 168,
       "DTO_Pct": 13.36,
       "RankDTO_Pct": 348,
       "DOR_Pct": 26.2673,
       "RankDOR_Pct": 36,
       "DFT_Rate": 27.1003,
-      "RankDFT_Rate": 33
+      "RankDFT_Rate": 32
      },
      "shooting": {
       "FG3Pct": 29.4444,
@@ -184,191 +184,6 @@
       "ExpRank": 6,
       "Bench": 27.19,
       "Continuity": 0.1136
-     }
-    }
-   },
-   "players": null
-  },
-  {
-   "id": "56ba55a83df061ede47d0b562e16ce69",
-   "priority": [
-    1,
-    1
-   ],
-   "date": "2026-11-27",
-   "tip_et": "Fri Nov 27, 5:30 PM ET",
-   "away": "Drake",
-   "home": "Boise St.",
-   "neutral": true,
-   "venue": {
-    "name": "Mountain America Center",
-    "city": "Idaho Falls, ID",
-    "neutral": true,
-    "tv": [
-     "YouTube"
-    ],
-    "note": "Snake River Invitational"
-   },
-   "home_arena_kenpom": "ExtraMile Arena, Boise, ID",
-   "pick": {
-    "team": "Boise St.",
-    "team_bold": "\ud835\udc01\ud835\udc28\ud835\udc22\ud835\udc2c\ud835\udc1e \ud835\udc12\ud835\udc2d.",
-    "side": "home",
-    "market_line": -5.5,
-    "best": [
-     -5.5,
-     -106,
-     "LowVig.ag"
-    ]
-   },
-   "models": {
-    "torvik_line": -7.3,
-    "torvik_edge": 1.8,
-    "kenpom_line": -10.0,
-    "kenpom_edge": 4.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 156.6,
-    "kenpom_total": 156.0,
-    "market_total": null,
-    "torvik_tempo": 71.5,
-    "kenpom_tempo": 73.0,
-    "kenpom_home_win_prob": 81.0
-   },
-   "flagged": true,
-   "star": false,
-   "podcast": {
-    "category": "2/3 lock",
-    "side": "home",
-    "team": "Boise St.",
-    "hosts": [
-     "Bieniek",
-     "Troy"
-    ],
-    "line": "-5.5",
-    "label": "2/3 lock: Boise St."
-   },
-   "label": "KenPom and Torvik mispriced and a double lock per TCE",
-   "teams": {
-    "away": {
-     "name": "Drake",
-     "kenpom_url": "https://kenpom.com/team.php?team=Drake",
-     "record": "4-2",
-     "coach": "Eric Henderson",
-     "conf": "MVC",
-     "arena": "Knapp Center, Des Moines, IA",
-     "ratings": {
-      "AdjEM": -0.148,
-      "RankAdjEM": 155,
-      "AdjOE": 108.279,
-      "RankAdjOE": 166,
-      "AdjDE": 108.427,
-      "RankAdjDE": 162,
-      "AdjTempo": 68.279,
-      "RankAdjTempo": 232,
-      "SOS": -8.7473,
-      "RankSOS": 339,
-      "Luck": -0.1387
-     },
-     "four_factors": {
-      "eFG_Pct": 49.4845,
-      "RankeFG_Pct": 226,
-      "TO_Pct": 16.4562,
-      "RankTO_Pct": 109,
-      "OR_Pct": 36.5591,
-      "RankOR_Pct": 70,
-      "FT_Rate": 49.1409,
-      "RankFT_Rate": 33,
-      "DeFG_Pct": 57.6,
-      "RankDeFG_Pct": 340,
-      "DTO_Pct": 22.8077,
-      "RankDTO_Pct": 30,
-      "DOR_Pct": 23.3333,
-      "RankDOR_Pct": 6,
-      "DFT_Rate": 42.8,
-      "RankDFT_Rate": 279
-     },
-     "shooting": {
-      "FG3Pct": 32.1429,
-      "RankFG3Pct": 201,
-      "FG2Pct": 50.2793,
-      "FTPct": 68.5315,
-      "F3GRate": 38.488,
-      "RankF3GRate": 237,
-      "OppFG3Pct": 35.5932,
-      "RankOppFG3Pct": 271,
-      "BlockPct": 6.0606,
-      "StlRate": 0.1328,
-      "ARate": 52.381
-     },
-     "size": {
-      "AvgHgt": 75.95,
-      "AvgHgtRank": 356,
-      "HgtEff": -1.32,
-      "Exp": 1.469,
-      "ExpRank": 159,
-      "Bench": 27.25,
-      "Continuity": 0.3913
-     }
-    },
-    "home": {
-     "name": "Boise St.",
-     "kenpom_url": "https://kenpom.com/team.php?team=Boise+St.",
-     "record": "4-2",
-     "coach": "Leon Rice",
-     "conf": "P12",
-     "arena": "ExtraMile Arena, Boise, ID",
-     "ratings": {
-      "AdjEM": 11.1128,
-      "RankAdjEM": 82,
-      "AdjOE": 112.623,
-      "RankAdjOE": 102,
-      "AdjDE": 101.51,
-      "RankAdjDE": 61,
-      "AdjTempo": 73.9481,
-      "RankAdjTempo": 11,
-      "SOS": -0.0512,
-      "RankSOS": 178,
-      "Luck": 0.0045
-     },
-     "four_factors": {
-      "eFG_Pct": 51.4493,
-      "RankeFG_Pct": 165,
-      "TO_Pct": 13.1696,
-      "RankTO_Pct": 16,
-      "OR_Pct": 28.4314,
-      "RankOR_Pct": 265,
-      "FT_Rate": 34.2029,
-      "RankFT_Rate": 211,
-      "DeFG_Pct": 56.8562,
-      "RankDeFG_Pct": 331,
-      "DTO_Pct": 24.5663,
-      "RankDTO_Pct": 13,
-      "DOR_Pct": 30.0654,
-      "RankDOR_Pct": 135,
-      "DFT_Rate": 31.4381,
-      "RankDFT_Rate": 98
-     },
-     "shooting": {
-      "FG3Pct": 34.7561,
-      "RankFG3Pct": 124,
-      "FG2Pct": 50.8287,
-      "FTPct": 74.5763,
-      "F3GRate": 47.5362,
-      "RankF3GRate": 54,
-      "OppFG3Pct": 34.2857,
-      "RankOppFG3Pct": 233,
-      "BlockPct": 10.6918,
-      "StlRate": 0.1292,
-      "ARate": 59.0604
-     },
-     "size": {
-      "AvgHgt": 77.27,
-      "AvgHgtRank": 215,
-      "HgtEff": 0.71,
-      "Exp": 1.893,
-      "ExpRank": 88,
-      "Bench": 23.4,
-      "Continuity": 0.2715
      }
     }
    },
