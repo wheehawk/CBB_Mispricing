@@ -1,8 +1,194 @@
 {
- "generated_utc": "2026-11-27T11:34+00:00",
+ "generated_utc": "2026-11-27T16:02+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
+  {
+   "id": "8df0c9cd54ab128fd63e0f56b9ee0a2e",
+   "priority": [
+    0,
+    0
+   ],
+   "date": "2026-11-27",
+   "tip_et": "Fri Nov 27, 9:00 PM ET",
+   "away": "Tennessee",
+   "home": "Louisville",
+   "neutral": true,
+   "venue": {
+    "name": "Michelob ULTRA Arena",
+    "city": "Las Vegas, NV",
+    "neutral": true,
+    "tv": [
+     "ESPN"
+    ],
+    "note": "Players Era 16 - Bracket Final"
+   },
+   "home_arena_kenpom": "KFC Yum! Center, Louisville, KY",
+   "pick": {
+    "team": "Tennessee",
+    "team_bold": "\ud835\udc13\ud835\udc1e\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc1e\ud835\udc1e",
+    "side": "away",
+    "market_line": 2.5,
+    "best": [
+     3.0,
+     -115,
+     "Bovada"
+    ]
+   },
+   "models": {
+    "torvik_line": -0.8,
+    "torvik_edge": 3.3,
+    "kenpom_line": -3.0,
+    "kenpom_edge": 5.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 147.4,
+    "kenpom_total": 149.0,
+    "market_total": null,
+    "torvik_tempo": 68.7,
+    "kenpom_tempo": 69.0,
+    "kenpom_home_win_prob": 41.0
+   },
+   "flagged": true,
+   "star": true,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "away",
+    "team": "Tennessee",
+    "hosts": [
+     "Colby",
+     "Bieniek",
+     "Troy"
+    ],
+    "line": "-1.5",
+    "label": "3/3 lock: Tennessee"
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Tennessee",
+     "kenpom_url": "https://kenpom.com/team.php?team=Tennessee",
+     "record": "7-0",
+     "coach": "Rick Barnes",
+     "conf": "SEC",
+     "arena": "Thompson Boling Arena, Knoxville, TN",
+     "ratings": {
+      "AdjEM": 25.0537,
+      "RankAdjEM": 14,
+      "AdjOE": 116.998,
+      "RankAdjOE": 55,
+      "AdjDE": 91.9442,
+      "RankAdjDE": 3,
+      "AdjTempo": 68.1398,
+      "RankAdjTempo": 240,
+      "SOS": 0.6316,
+      "RankSOS": 161,
+      "Luck": 0.0368
+     },
+     "four_factors": {
+      "eFG_Pct": 54.522,
+      "RankeFG_Pct": 75,
+      "TO_Pct": 20.2874,
+      "RankTO_Pct": 287,
+      "OR_Pct": 32.8704,
+      "RankOR_Pct": 154,
+      "FT_Rate": 37.9845,
+      "RankFT_Rate": 154,
+      "DeFG_Pct": 32.8633,
+      "RankDeFG_Pct": 1,
+      "DTO_Pct": 16.5988,
+      "RankDTO_Pct": 233,
+      "DOR_Pct": 35.6322,
+      "RankDOR_Pct": 276,
+      "DFT_Rate": 33.4056,
+      "RankDFT_Rate": 125
+     },
+     "shooting": {
+      "FG3Pct": 32.0513,
+      "RankFG3Pct": 206,
+      "FG2Pct": 58.8745,
+      "FTPct": 72.7891,
+      "F3GRate": 40.3101,
+      "RankF3GRate": 204,
+      "OppFG3Pct": 22.5131,
+      "RankOppFG3Pct": 3,
+      "BlockPct": 15.1852,
+      "StlRate": 0.084,
+      "ARate": 62.3656
+     },
+     "size": {
+      "AvgHgt": 77.96,
+      "AvgHgtRank": 98,
+      "HgtEff": 0.09,
+      "Exp": 2.322,
+      "ExpRank": 31,
+      "Bench": 36.72,
+      "Continuity": 0.0953
+     }
+    },
+    "home": {
+     "name": "Louisville",
+     "kenpom_url": "https://kenpom.com/team.php?team=Louisville",
+     "record": "5-1",
+     "coach": "Pat Kelsey",
+     "conf": "ACC",
+     "arena": "KFC Yum! Center, Louisville, KY",
+     "ratings": {
+      "AdjEM": 21.1663,
+      "RankAdjEM": 31,
+      "AdjOE": 121.746,
+      "RankAdjOE": 20,
+      "AdjDE": 100.58,
+      "RankAdjDE": 51,
+      "AdjTempo": 70.1817,
+      "RankAdjTempo": 107,
+      "SOS": 4.3614,
+      "RankSOS": 94,
+      "Luck": 0.1344
+     },
+     "four_factors": {
+      "eFG_Pct": 53.7371,
+      "RankeFG_Pct": 98,
+      "TO_Pct": 15.7457,
+      "RankTO_Pct": 71,
+      "OR_Pct": 44.1048,
+      "RankOR_Pct": 6,
+      "FT_Rate": 37.8866,
+      "RankFT_Rate": 155,
+      "DeFG_Pct": 50.6775,
+      "RankDeFG_Pct": 169,
+      "DTO_Pct": 13.36,
+      "RankDTO_Pct": 348,
+      "DOR_Pct": 26.2673,
+      "RankDOR_Pct": 36,
+      "DFT_Rate": 27.1003,
+      "RankDFT_Rate": 33
+     },
+     "shooting": {
+      "FG3Pct": 29.4444,
+      "RankFG3Pct": 279,
+      "FG2Pct": 62.0192,
+      "FTPct": 68.0272,
+      "F3GRate": 46.3918,
+      "RankF3GRate": 67,
+      "OppFG3Pct": 32.8767,
+      "RankOppFG3Pct": 186,
+      "BlockPct": 8.9686,
+      "StlRate": 0.074,
+      "ARate": 48.9011
+     },
+     "size": {
+      "AvgHgt": 77.9,
+      "AvgHgtRank": 108,
+      "HgtEff": 1.52,
+      "Exp": 2.7057,
+      "ExpRank": 6,
+      "Bench": 27.19,
+      "Continuity": 0.1136
+     }
+    }
+   },
+   "players": null
+  },
   {
    "id": "56ba55a83df061ede47d0b562e16ce69",
    "priority": [
@@ -30,8 +216,8 @@
     "side": "home",
     "market_line": -5.5,
     "best": [
-     -5.0,
-     -111,
+     -5.5,
+     -106,
      "LowVig.ag"
     ]
    },
@@ -183,191 +369,6 @@
       "ExpRank": 88,
       "Bench": 23.4,
       "Continuity": 0.2715
-     }
-    }
-   },
-   "players": null
-  },
-  {
-   "id": "ff2176f4daaef2d1975208c1449ac700",
-   "priority": [
-    1,
-    1
-   ],
-   "date": "2026-11-27",
-   "tip_et": "Fri Nov 27, 6:00 PM ET",
-   "away": "Bowling Green",
-   "home": "Indiana",
-   "neutral": false,
-   "venue": {
-    "name": "Simon Skjodt Assembly Hall",
-    "city": "Bloomington, IN",
-    "neutral": false,
-    "tv": [
-     "BTN"
-    ],
-    "note": ""
-   },
-   "home_arena_kenpom": "Assembly Hall, Bloomington, IN",
-   "pick": {
-    "team": "Bowling Green",
-    "team_bold": "\ud835\udc01\ud835\udc28\ud835\udc30\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc06\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc27",
-    "side": "away",
-    "market_line": 22.5,
-    "best": [
-     22.5,
-     -106,
-     "LowVig.ag"
-    ]
-   },
-   "models": {
-    "torvik_line": 20.9,
-    "torvik_edge": 1.6,
-    "kenpom_line": 20.0,
-    "kenpom_edge": 2.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 161.2,
-    "kenpom_total": 158.0,
-    "market_total": null,
-    "torvik_tempo": 68.2,
-    "kenpom_tempo": 68.0,
-    "kenpom_home_win_prob": 96.0
-   },
-   "flagged": true,
-   "star": false,
-   "podcast": {
-    "category": "2/3 lock",
-    "side": "away",
-    "team": "Bowling Green",
-    "hosts": [
-     "Colby",
-     "Bieniek"
-    ],
-    "line": "+23.5",
-    "label": "2/3 lock: Bowling Green"
-   },
-   "label": "KenPom and Torvik mispriced and a double lock per TCE",
-   "teams": {
-    "away": {
-     "name": "Bowling Green",
-     "kenpom_url": "https://kenpom.com/team.php?team=Bowling+Green",
-     "record": "4-2",
-     "coach": "Todd Simon",
-     "conf": "MAC",
-     "arena": "Stroh Center, Bowling Green, OH",
-     "ratings": {
-      "AdjEM": -3.6376,
-      "RankAdjEM": 194,
-      "AdjOE": 112.017,
-      "RankAdjOE": 108,
-      "AdjDE": 115.655,
-      "RankAdjDE": 332,
-      "AdjTempo": 67.6921,
-      "RankAdjTempo": 265,
-      "SOS": -10.5968,
-      "RankSOS": 354,
-      "Luck": 0.0331
-     },
-     "four_factors": {
-      "eFG_Pct": 61.2613,
-      "RankeFG_Pct": 10,
-      "TO_Pct": 17.9792,
-      "RankTO_Pct": 186,
-      "OR_Pct": 35.2273,
-      "RankOR_Pct": 94,
-      "FT_Rate": 36.3363,
-      "RankFT_Rate": 173,
-      "DeFG_Pct": 56.1947,
-      "RankDeFG_Pct": 324,
-      "DTO_Pct": 16.4809,
-      "RankDTO_Pct": 241,
-      "DOR_Pct": 27.3196,
-      "RankDOR_Pct": 55,
-      "DFT_Rate": 30.0885,
-      "RankDFT_Rate": 75
-     },
-     "shooting": {
-      "FG3Pct": 38.5714,
-      "RankFG3Pct": 37,
-      "FG2Pct": 63.7306,
-      "FTPct": 68.595,
-      "F3GRate": 42.042,
-      "RankF3GRate": 158,
-      "OppFG3Pct": 40.3974,
-      "RankOppFG3Pct": 350,
-      "BlockPct": 6.383,
-      "StlRate": 0.0849,
-      "ARate": 49.1525
-     },
-     "size": {
-      "AvgHgt": 77.22,
-      "AvgHgtRank": 228,
-      "HgtEff": -0.44,
-      "Exp": 0.8953,
-      "ExpRank": 285,
-      "Bench": 27.74,
-      "Continuity": 0.1742
-     }
-    },
-    "home": {
-     "name": "Indiana",
-     "kenpom_url": "https://kenpom.com/team.php?team=Indiana",
-     "record": "7-0",
-     "coach": "Darian DeVries",
-     "conf": "B10",
-     "arena": "Assembly Hall, Bloomington, IN",
-     "ratings": {
-      "AdjEM": 20.6799,
-      "RankAdjEM": 36,
-      "AdjOE": 121.607,
-      "RankAdjOE": 23,
-      "AdjDE": 100.927,
-      "RankAdjDE": 55,
-      "AdjTempo": 68.9064,
-      "RankAdjTempo": 180,
-      "SOS": -1.4589,
-      "RankSOS": 210,
-      "Luck": 0.0545
-     },
-     "four_factors": {
-      "eFG_Pct": 53.912,
-      "RankeFG_Pct": 96,
-      "TO_Pct": 16.0025,
-      "RankTO_Pct": 90,
-      "OR_Pct": 42.5532,
-      "RankOR_Pct": 10,
-      "FT_Rate": 51.5892,
-      "RankFT_Rate": 18,
-      "DeFG_Pct": 51.1194,
-      "RankDeFG_Pct": 183,
-      "DTO_Pct": 18.4644,
-      "RankDTO_Pct": 141,
-      "DOR_Pct": 25.8772,
-      "RankDOR_Pct": 27,
-      "DFT_Rate": 28.607,
-      "RankDFT_Rate": 55
-     },
-     "shooting": {
-      "FG3Pct": 34.9112,
-      "RankFG3Pct": 116,
-      "FG2Pct": 55,
-      "FTPct": 79.6208,
-      "F3GRate": 41.3203,
-      "RankF3GRate": 176,
-      "OppFG3Pct": 32.8859,
-      "RankOppFG3Pct": 187,
-      "BlockPct": 8.6957,
-      "StlRate": 0.0841,
-      "ARate": 52.8796
-     },
-     "size": {
-      "AvgHgt": 78.99,
-      "AvgHgtRank": 16,
-      "HgtEff": 2.7,
-      "Exp": 2.1597,
-      "ExpRank": 51,
-      "Bench": 31.15,
-      "Continuity": 0.1469
      }
     }
    },
