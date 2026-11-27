@@ -6979,6 +6979,696 @@
       "episode_date": "2026-11-26",
       "skipped": "same picks as f-52a5-b768-d53a94719216",
       "games": []
+    },
+    "4-5a36-b397-ac105638b264": {
+      "title": "College Basketball Picks For November 27th - NCAA Basketball Banter & Best Bets (Ep. 1267)",
+      "url": "https://www.sportsgamblingpodcast.com/2026/11/27/college-basketball-picks-for-november-27th-ncaa-basketball-banter-best-bets-ep-1267/",
+      "episode_date": "2026-11-27",
+      "hosts": [
+        "Colby",
+        "Mac",
+        "Bieniek",
+        "Troy"
+      ],
+      "processed_utc": "2026-11-27T11:33:47Z",
+      "games": [
+        {
+          "date": "2026-11-27",
+          "away": "Virginia",
+          "home": "Xavier",
+          "pick": "Xavier",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "+7.5",
+          "quote": "[0:51:58] Colby 'Lock me up these Musketeers plus seven and a half' / [0:52:21] Mac 'I'll lock up Xavier'; Bieniek 'Xavier covers, no bet'"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Liberty",
+          "home": "St. Thomas",
+          "pick": "Liberty",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac"
+          ],
+          "line": "-1.5",
+          "quote": "[0:53:26] Colby 'Liberty's going to beat St Thomas. Lock it up' / [0:53:55] Mac 'I'll lay it, lock it with Liberty' / [0:55:19] 'Double lock on the Flaming Libs'; Bieniek Liberty no bet"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Memphis",
+          "home": "Wake Forest",
+          "pick": "Memphis",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-2.5",
+          "quote": "[1:01:24] Colby 'I will lock up Memphis laying two and a half' / Mac 'Lock it up' / Bieniek 'had this coming into the show as a lock... let's go Tigers'; Colby top play"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Navy",
+          "home": "Fairfield",
+          "pick": "Fairfield",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-5.5",
+          "quote": "[1:04:20] Colby 'I will lock up Fairfield' / Mac 'Double lock' / [1:04:39] Bieniek 'Let's go on Fairfield. Triple lock'"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "UMBC",
+          "home": "George Washington",
+          "pick": "George Washington",
+          "category": "2/3 lock",
+          "hosts": [
+            "Mac",
+            "Bieniek"
+          ],
+          "line": "-22.5",
+          "quote": "[1:16:45] 'Double lock from Bieniek and Mac on the Colonials, lay 22 and a half'; Colby lays it no bet; Troy also top-3 lock GW -22.5"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Saint Mary's",
+          "home": "Texas",
+          "pick": "Texas",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "-7.5",
+          "quote": "[1:26:13] Colby 'I will lock up the horns' / [1:26:29] Troy 'Lock me up the horns... Double lock those horns'; Bieniek Texas no bet; Colby top play"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Boise St.",
+          "home": "Drake",
+          "pick": "Boise St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-5.5",
+          "quote": "[1:31:02] Bieniek 'I'm locking up the Broncos here' / [1:31:12] Troy 'I'll join you... lay it with the Broncos too'; Colby Boise no explicit lock"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Bowling Green",
+          "home": "Indiana",
+          "pick": "Bowling Green",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek"
+          ],
+          "line": "+23.5",
+          "quote": "[1:35:46] 'Actually fuck it, let's do it' / [1:37:17] 'Sold. Let's go double lock on them Falcons'; Bieniek top-3 lock BG +23.5; Troy no lock"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Georgia",
+          "home": "UCF",
+          "pick": "Georgia",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-5.5",
+          "quote": "[1:43:52] Colby 'lay the five and a half with them dogs. Lock it up' / Bieniek 'So you're locked. Yep' / [1:44:35] Troy 'let's lock the dogs' / [1:45:05] 'Triple'"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Alabama",
+          "home": "Miami FL",
+          "pick": "Alabama",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[2:04:09] Bieniek 'I'm on the Crimson Tide... Lock' / [2:04:19] Troy 'I will lock Alabama'; Colby Miami no bet"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Wichita St.",
+          "home": "Kentucky",
+          "pick": "Kentucky",
+          "category": "2/3 lock",
+          "hosts": [
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-3.5",
+          "quote": "[2:05:46] 'I'll lock up Big Blue Nation from Troy and Bieniek'; Bieniek top lock #1 Kentucky -3.5; Colby Wichita no bet"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Louisville",
+          "home": "Tennessee",
+          "pick": "Tennessee",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Bieniek",
+            "Troy"
+          ],
+          "line": "-1.5",
+          "quote": "[2:08:47] Colby 'Give me Tennessee. Lock it up. Triple lock, Troy?' / Troy 'Yeah, Rick Barnes in November'; Bieniek top-3 lock Tennessee -1.5"
+        },
+        {
+          "date": "2026-11-27",
+          "away": "Creighton",
+          "home": "Gonzaga",
+          "pick": "Gonzaga",
+          "category": "2/3 lock",
+          "hosts": [
+            "Troy",
+            "Bieniek"
+          ],
+          "line": "-5 (no line posted; proj)",
+          "quote": "[2:12:05] Troy 'lay it with Gonzaga. Yeah, lock up Gonzaga' / [2:15:46] Bieniek top lock 'fire on Gonzaga anything under seven'; Colby would bet but no line"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Virginia at Xavier",
+          "host": "Colby",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[0:51:58] Colby 'Lock me up these Musketeers plus seven and a half' / [0:52:21] Mac 'I'll lock up Xavier'; Bieniek 'Xavi"
+        },
+        {
+          "game": "Virginia at Xavier",
+          "host": "Mac",
+          "team": "Xavier",
+          "lock": true,
+          "quote": "[0:51:58] Colby 'Lock me up these Musketeers plus seven and a half' / [0:52:21] Mac 'I'll lock up Xavier'; Bieniek 'Xavi"
+        },
+        {
+          "game": "Liberty at St. Thomas",
+          "host": "Colby",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[0:53:26] Colby 'Liberty's going to beat St Thomas. Lock it up' / [0:53:55] Mac 'I'll lay it, lock it with Liberty' / [0"
+        },
+        {
+          "game": "Liberty at St. Thomas",
+          "host": "Mac",
+          "team": "Liberty",
+          "lock": true,
+          "quote": "[0:53:26] Colby 'Liberty's going to beat St Thomas. Lock it up' / [0:53:55] Mac 'I'll lay it, lock it with Liberty' / [0"
+        },
+        {
+          "game": "Memphis at Wake Forest",
+          "host": "Colby",
+          "team": "Memphis",
+          "lock": true,
+          "quote": "[1:01:24] Colby 'I will lock up Memphis laying two and a half' / Mac 'Lock it up' / Bieniek 'had this coming into the sh"
+        },
+        {
+          "game": "Memphis at Wake Forest",
+          "host": "Mac",
+          "team": "Memphis",
+          "lock": true,
+          "quote": "[1:01:24] Colby 'I will lock up Memphis laying two and a half' / Mac 'Lock it up' / Bieniek 'had this coming into the sh"
+        },
+        {
+          "game": "Memphis at Wake Forest",
+          "host": "Bieniek",
+          "team": "Memphis",
+          "lock": true,
+          "quote": "[1:01:24] Colby 'I will lock up Memphis laying two and a half' / Mac 'Lock it up' / Bieniek 'had this coming into the sh"
+        },
+        {
+          "game": "Navy at Fairfield",
+          "host": "Colby",
+          "team": "Fairfield",
+          "lock": true,
+          "quote": "[1:04:20] Colby 'I will lock up Fairfield' / Mac 'Double lock' / [1:04:39] Bieniek 'Let's go on Fairfield. Triple lock'"
+        },
+        {
+          "game": "Navy at Fairfield",
+          "host": "Mac",
+          "team": "Fairfield",
+          "lock": true,
+          "quote": "[1:04:20] Colby 'I will lock up Fairfield' / Mac 'Double lock' / [1:04:39] Bieniek 'Let's go on Fairfield. Triple lock'"
+        },
+        {
+          "game": "Navy at Fairfield",
+          "host": "Bieniek",
+          "team": "Fairfield",
+          "lock": true,
+          "quote": "[1:04:20] Colby 'I will lock up Fairfield' / Mac 'Double lock' / [1:04:39] Bieniek 'Let's go on Fairfield. Triple lock'"
+        },
+        {
+          "game": "UMBC at George Washington",
+          "host": "Mac",
+          "team": "George Washington",
+          "lock": true,
+          "quote": "[1:16:45] 'Double lock from Bieniek and Mac on the Colonials, lay 22 and a half'; Colby lays it no bet; Troy also top-3 "
+        },
+        {
+          "game": "UMBC at George Washington",
+          "host": "Bieniek",
+          "team": "George Washington",
+          "lock": true,
+          "quote": "[1:16:45] 'Double lock from Bieniek and Mac on the Colonials, lay 22 and a half'; Colby lays it no bet; Troy also top-3 "
+        },
+        {
+          "game": "Saint Mary's at Texas",
+          "host": "Colby",
+          "team": "Texas",
+          "lock": true,
+          "quote": "[1:26:13] Colby 'I will lock up the horns' / [1:26:29] Troy 'Lock me up the horns... Double lock those horns'; Bieniek T"
+        },
+        {
+          "game": "Saint Mary's at Texas",
+          "host": "Troy",
+          "team": "Texas",
+          "lock": true,
+          "quote": "[1:26:13] Colby 'I will lock up the horns' / [1:26:29] Troy 'Lock me up the horns... Double lock those horns'; Bieniek T"
+        },
+        {
+          "game": "Boise St. at Drake",
+          "host": "Bieniek",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:31:02] Bieniek 'I'm locking up the Broncos here' / [1:31:12] Troy 'I'll join you... lay it with the Broncos too'; Col"
+        },
+        {
+          "game": "Boise St. at Drake",
+          "host": "Troy",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:31:02] Bieniek 'I'm locking up the Broncos here' / [1:31:12] Troy 'I'll join you... lay it with the Broncos too'; Col"
+        },
+        {
+          "game": "Bowling Green at Indiana",
+          "host": "Colby",
+          "team": "Bowling Green",
+          "lock": true,
+          "quote": "[1:35:46] 'Actually fuck it, let's do it' / [1:37:17] 'Sold. Let's go double lock on them Falcons'; Bieniek top-3 lock B"
+        },
+        {
+          "game": "Bowling Green at Indiana",
+          "host": "Bieniek",
+          "team": "Bowling Green",
+          "lock": true,
+          "quote": "[1:35:46] 'Actually fuck it, let's do it' / [1:37:17] 'Sold. Let's go double lock on them Falcons'; Bieniek top-3 lock B"
+        },
+        {
+          "game": "Georgia at UCF",
+          "host": "Colby",
+          "team": "Georgia",
+          "lock": true,
+          "quote": "[1:43:52] Colby 'lay the five and a half with them dogs. Lock it up' / Bieniek 'So you're locked. Yep' / [1:44:35] Troy "
+        },
+        {
+          "game": "Georgia at UCF",
+          "host": "Bieniek",
+          "team": "Georgia",
+          "lock": true,
+          "quote": "[1:43:52] Colby 'lay the five and a half with them dogs. Lock it up' / Bieniek 'So you're locked. Yep' / [1:44:35] Troy "
+        },
+        {
+          "game": "Georgia at UCF",
+          "host": "Troy",
+          "team": "Georgia",
+          "lock": true,
+          "quote": "[1:43:52] Colby 'lay the five and a half with them dogs. Lock it up' / Bieniek 'So you're locked. Yep' / [1:44:35] Troy "
+        },
+        {
+          "game": "Alabama at Miami FL",
+          "host": "Bieniek",
+          "team": "Alabama",
+          "lock": true,
+          "quote": "[2:04:09] Bieniek 'I'm on the Crimson Tide... Lock' / [2:04:19] Troy 'I will lock Alabama'; Colby Miami no bet"
+        },
+        {
+          "game": "Alabama at Miami FL",
+          "host": "Troy",
+          "team": "Alabama",
+          "lock": true,
+          "quote": "[2:04:09] Bieniek 'I'm on the Crimson Tide... Lock' / [2:04:19] Troy 'I will lock Alabama'; Colby Miami no bet"
+        },
+        {
+          "game": "Wichita St. at Kentucky",
+          "host": "Bieniek",
+          "team": "Kentucky",
+          "lock": true,
+          "quote": "[2:05:46] 'I'll lock up Big Blue Nation from Troy and Bieniek'; Bieniek top lock #1 Kentucky -3.5; Colby Wichita no bet"
+        },
+        {
+          "game": "Wichita St. at Kentucky",
+          "host": "Troy",
+          "team": "Kentucky",
+          "lock": true,
+          "quote": "[2:05:46] 'I'll lock up Big Blue Nation from Troy and Bieniek'; Bieniek top lock #1 Kentucky -3.5; Colby Wichita no bet"
+        },
+        {
+          "game": "Louisville at Tennessee",
+          "host": "Colby",
+          "team": "Tennessee",
+          "lock": true,
+          "quote": "[2:08:47] Colby 'Give me Tennessee. Lock it up. Triple lock, Troy?' / Troy 'Yeah, Rick Barnes in November'; Bieniek top-"
+        },
+        {
+          "game": "Louisville at Tennessee",
+          "host": "Bieniek",
+          "team": "Tennessee",
+          "lock": true,
+          "quote": "[2:08:47] Colby 'Give me Tennessee. Lock it up. Triple lock, Troy?' / Troy 'Yeah, Rick Barnes in November'; Bieniek top-"
+        },
+        {
+          "game": "Louisville at Tennessee",
+          "host": "Troy",
+          "team": "Tennessee",
+          "lock": true,
+          "quote": "[2:08:47] Colby 'Give me Tennessee. Lock it up. Triple lock, Troy?' / Troy 'Yeah, Rick Barnes in November'; Bieniek top-"
+        },
+        {
+          "game": "Creighton at Gonzaga",
+          "host": "Troy",
+          "team": "Gonzaga",
+          "lock": true,
+          "quote": "[2:12:05] Troy 'lay it with Gonzaga. Yeah, lock up Gonzaga' / [2:15:46] Bieniek top lock 'fire on Gonzaga anything under"
+        },
+        {
+          "game": "Creighton at Gonzaga",
+          "host": "Bieniek",
+          "team": "Gonzaga",
+          "lock": true,
+          "quote": "[2:12:05] Troy 'lay it with Gonzaga. Yeah, lock up Gonzaga' / [2:15:46] Bieniek top lock 'fire on Gonzaga anything under"
+        },
+        {
+          "game": "Virginia at Xavier",
+          "host": "Bieniek",
+          "team": "Xavier",
+          "lock": false,
+          "quote": "Virginia wins, Xavier covers, no bet"
+        },
+        {
+          "game": "Liberty at St. Thomas",
+          "host": "Bieniek",
+          "team": "Liberty",
+          "lock": false,
+          "quote": "Give me Liberty, no bet"
+        },
+        {
+          "game": "Hampton at UMass Lowell",
+          "host": "Bieniek",
+          "team": "UMass Lowell",
+          "lock": true,
+          "quote": "[0:56:55] lock it up the River Hawks"
+        },
+        {
+          "game": "Hampton at UMass Lowell",
+          "host": "Colby",
+          "team": "Hampton",
+          "lock": false,
+          "quote": "Pirates no bet"
+        },
+        {
+          "game": "Hampton at UMass Lowell",
+          "host": "Mac",
+          "team": "Hampton",
+          "lock": false,
+          "quote": "Hampton no bet"
+        },
+        {
+          "game": "Fresno St. at South Alabama",
+          "host": "Colby",
+          "team": "South Alabama",
+          "lock": false,
+          "quote": "all three on the Jags, no locks"
+        },
+        {
+          "game": "Fresno St. at South Alabama",
+          "host": "Mac",
+          "team": "South Alabama",
+          "lock": false,
+          "quote": ""
+        },
+        {
+          "game": "Fresno St. at South Alabama",
+          "host": "Bieniek",
+          "team": "South Alabama",
+          "lock": false,
+          "quote": "I do not love it"
+        },
+        {
+          "game": "Colgate at Hofstra",
+          "host": "Mac",
+          "team": "Colgate",
+          "lock": true,
+          "quote": "[1:14:34] 'Mac locking up the Colgate Raiders'"
+        },
+        {
+          "game": "Colgate at Hofstra",
+          "host": "Colby",
+          "team": "Colgate",
+          "lock": false,
+          "quote": "Colgate plus the points"
+        },
+        {
+          "game": "UMBC at George Washington",
+          "host": "Troy",
+          "team": "George Washington",
+          "lock": true,
+          "quote": "top-3 lock GW -22.5 (Troy joined after Mac left)"
+        },
+        {
+          "game": "UMBC at George Washington",
+          "host": "Colby",
+          "team": "George Washington",
+          "lock": false,
+          "quote": "I'll lay that number, not bet it"
+        },
+        {
+          "game": "Radford at American",
+          "host": "Bieniek",
+          "team": "Radford",
+          "lock": true,
+          "quote": "[1:18:09] locking up Radford +8.5"
+        },
+        {
+          "game": "Radford at American",
+          "host": "Colby",
+          "team": "Radford",
+          "lock": false,
+          "quote": "Radford no bet"
+        },
+        {
+          "game": "Boston College at Cincinnati",
+          "host": "Colby",
+          "team": "Boston College",
+          "lock": true,
+          "quote": "[1:20:28] BC's going to cover, locking up the 8.5"
+        },
+        {
+          "game": "Boston College at Cincinnati",
+          "host": "Bieniek",
+          "team": "Boston College",
+          "lock": false,
+          "quote": "I will pick BC, not joining"
+        },
+        {
+          "game": "Old Dominion at Virginia Tech",
+          "host": "Colby",
+          "team": "Old Dominion",
+          "lock": true,
+          "quote": "[1:21:13] lock up Old Dominion +18.5; other hosts' locks unclear in transcript"
+        },
+        {
+          "game": "Villanova at Kansas",
+          "host": "Troy",
+          "team": "Kansas",
+          "lock": true,
+          "quote": "[1:23:42] I'll lock Kansas here / 'Troy, lock it up'"
+        },
+        {
+          "game": "Villanova at Kansas",
+          "host": "Bieniek",
+          "team": "Kansas",
+          "lock": false,
+          "quote": "go Kansas"
+        },
+        {
+          "game": "Villanova at Kansas",
+          "host": "Colby",
+          "team": "Villanova",
+          "lock": false,
+          "quote": "can't bet it"
+        },
+        {
+          "game": "Saint Mary's at Texas",
+          "host": "Bieniek",
+          "team": "Texas",
+          "lock": false,
+          "quote": "I like Texas, no bet"
+        },
+        {
+          "game": "Boise St. at Drake",
+          "host": "Colby",
+          "team": "Boise St.",
+          "lock": false,
+          "quote": "lay it with Boise, don't love laying points"
+        },
+        {
+          "game": "Kansas St. at Michigan",
+          "host": "Troy",
+          "team": "Kansas St.",
+          "lock": true,
+          "quote": "top dog: Kansas St. moneyline"
+        },
+        {
+          "game": "Western Kentucky at Illinois",
+          "host": "Colby",
+          "team": "Western Kentucky",
+          "lock": true,
+          "quote": "[1:33:41] lock up Western Kentucky +27.5"
+        },
+        {
+          "game": "Bowling Green at Indiana",
+          "host": "Troy",
+          "team": "Bowling Green",
+          "lock": false,
+          "quote": "you guys can double lock this"
+        },
+        {
+          "game": "Towson at Penn",
+          "host": "Colby",
+          "team": "Towson",
+          "lock": true,
+          "quote": "top dog Towson +4.5"
+        },
+        {
+          "game": "Towson at Penn",
+          "host": "Troy",
+          "team": "Towson",
+          "lock": false,
+          "quote": "take the 4.5 with you"
+        },
+        {
+          "game": "Towson at Penn",
+          "host": "Bieniek",
+          "team": "Penn",
+          "lock": false,
+          "quote": "picking the Quakers"
+        },
+        {
+          "game": "North Carolina at West Virginia",
+          "host": "Mac",
+          "team": "West Virginia",
+          "lock": true,
+          "quote": "lock battle (Mac had left; Colby imitating Mac)"
+        },
+        {
+          "game": "North Carolina at West Virginia",
+          "host": "Bieniek",
+          "team": "North Carolina",
+          "lock": true,
+          "quote": "lock battle; top moneyline UNC"
+        },
+        {
+          "game": "Georgia at UCF",
+          "host": "Colby",
+          "team": "UCF",
+          "lock": false,
+          "quote": "joke 'as Mac' pick UCF; real pick Georgia lock"
+        },
+        {
+          "game": "Oakland at Houston",
+          "host": "Troy",
+          "team": "Houston",
+          "lock": true,
+          "quote": "top-3 lock Houston -36.5"
+        },
+        {
+          "game": "Oakland at Houston",
+          "host": "Colby",
+          "team": "Oakland",
+          "lock": false,
+          "quote": "Oakland no bet"
+        },
+        {
+          "game": "Arkansas Pine Bluff at Missouri",
+          "host": "Troy",
+          "team": "Missouri",
+          "lock": true,
+          "quote": "top-3 lock Missouri -49.5"
+        },
+        {
+          "game": "Arkansas Pine Bluff at Missouri",
+          "host": "Colby",
+          "team": "Arkansas Pine Bluff",
+          "lock": false,
+          "quote": "take the points"
+        },
+        {
+          "game": "Missouri St. at Oral Roberts",
+          "host": "Troy",
+          "team": "Missouri St.",
+          "lock": true,
+          "quote": "[1:55:35] I'll lock Missouri State"
+        },
+        {
+          "game": "Northeastern at Northwestern",
+          "host": "Bieniek",
+          "team": "Northeastern",
+          "lock": true,
+          "quote": "[2:00:22] lock up the 12.5"
+        },
+        {
+          "game": "Northeastern at Northwestern",
+          "host": "Colby",
+          "team": "Northeastern",
+          "lock": false,
+          "quote": "take the points, not betting"
+        },
+        {
+          "game": "Alabama at Miami FL",
+          "host": "Colby",
+          "team": "Miami FL",
+          "lock": false,
+          "quote": "give me the Canes, don't love it"
+        },
+        {
+          "game": "Wichita St. at Kentucky",
+          "host": "Colby",
+          "team": "Wichita St.",
+          "lock": false,
+          "quote": "staying away"
+        },
+        {
+          "game": "Creighton at Gonzaga",
+          "host": "Colby",
+          "team": "Gonzaga",
+          "lock": false,
+          "quote": "would bet Gonzaga, no line"
+        }
+      ],
+      "unmatched": [
+        "Old Dominion +18.5 at Virginia Tech: Colby lock; whether Bieniek/Mac also locked is unclear in transcript, not categorized",
+        "Mac left ~1:22 (storm outage); Troy took his seat for the rest of the show"
+      ]
     }
   }
 }
