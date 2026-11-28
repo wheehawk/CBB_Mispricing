@@ -1,5 +1,5 @@
 🏀 CBB SCREENER · Sat Nov 28
-15 plays · 6 with podcast lock · 0 conf home dogs
+22 plays · 10 with podcast lock · 0 conf home dogs
 Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 
 ────────────────────────
@@ -7,10 +7,17 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
 ────────────────────────
 𝐏𝐫𝐢𝐧𝐜𝐞𝐭𝐨𝐧 +2.5
    vs St. Thomas (neutral) · Sat 12:00 PM
-   Best +2.5 (-106) LowVig.ag
+   Best +2.5 (-107) LowVig.ag
    Torvik +0.3 (edge 2.2)
    KenPom +1.0 (edge 1.5)
    🎙 Podcast AGREES: 3/3 lock Princeton
+
+𝐍𝐞𝐰 𝐌𝐞𝐱𝐢𝐜𝐨 𝐒𝐭. -3.5
+   vs Denver (home) · Sat 3:00 PM
+   Best -3 (-111) LowVig.ag
+   Torvik -5.0 (edge 1.5)
+   KenPom -6.0 (edge 2.5)
+   🎙 Podcast AGREES: 3/3 lock New Mexico St.
 
 𝐁𝐨𝐢𝐬𝐞 𝐒𝐭. -4.5
    vs North Texas (neutral) · Sat 3:30 PM
@@ -19,149 +26,193 @@ Dashboard: https://wheehawk.github.io/CBB_Mispricing/
    KenPom -9.0 (edge 4.5)
    🎙 Podcast AGREES: 3/3 lock Boise St.
 
-★ 𝐂𝐡𝐢𝐜𝐚𝐠𝐨 𝐒𝐭. +15.5
+𝐂𝐡𝐢𝐜𝐚𝐠𝐨 𝐒𝐭. +13.5
    at Bradley · Sat 2:00 PM
-   Best +15.5 (-110) BetRivers
-   Torvik +10.9 (edge 4.6)
-   KenPom +11.0 (edge 4.5)
+   Best +14.5 (-113) BetRivers
+   Torvik +10.9 (edge 2.6)
+   KenPom +11.0 (edge 2.5)
    🎙 Podcast AGREES: 2/3 lock Chicago St.
 
 𝐅𝐮𝐫𝐦𝐚𝐧 -7
    vs Austin Peay (home) · Sat 4:00 PM
-   Best -6.5 (-120) FanDuel
-   Torvik -9.1 (edge 2.1)
-   KenPom -9.0 (edge 2.0)
+   Best -7 (-106) LowVig.ag
+   Torvik -9.1 (edge 1.9)
+   KenPom -9.0 (edge 1.8)
    🎙 Podcast AGREES: 2/3 lock Furman
+
+𝐃𝐞𝐥𝐚𝐰𝐚𝐫𝐞 +6
+   at Stony Brook · Sat 4:00 PM
+   Best +6.5 (-114) FanDuel
+   Torvik +4.2 (edge 1.8)
+   KenPom +2.0 (edge 4.0)
+   🎙 Podcast AGREES: 2/3 lock Delaware
+
+𝐍𝐨𝐫𝐭𝐡𝐞𝐫𝐧 𝐀𝐫𝐢𝐳𝐨𝐧𝐚 +6.5
+   at Cal St. Bakersfield · Sat 5:00 PM
+   Best +7 (-108) LowVig.ag
+   Torvik +4.5 (edge 2.0)
+   KenPom +5.0 (edge 1.5)
+   🎙 Podcast AGREES: 2/3 lock Northern Arizona
 
 ★ 𝐁𝐞𝐭𝐡𝐮𝐧𝐞 𝐂𝐨𝐨𝐤𝐦𝐚𝐧 +9.5
    at San Francisco · Sat 7:00 PM
-   Best +10 (-116) LowVig.ag
+   Best +9.5 (-102) FanDuel
    Torvik +2.4 (edge 7.1)
    KenPom +4.0 (edge 5.5)
    🎙 Podcast AGREES: 2/3 lock Bethune Cookman
 
-★ 𝐒𝐨𝐮𝐭𝐡 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐒𝐭. +19.5
+𝐌𝐨𝐧𝐦𝐨𝐮𝐭𝐡 +4.5
+   vs Saint Joseph's (home) · Sat 7:00 PM
+   Best +4.5 (-108) LowVig.ag
+   Torvik +2.1 (edge 2.4)
+   KenPom +2.0 (edge 2.5)
+   🎙 Podcast AGREES: 2/3 lock Monmouth
+
+𝐒𝐨𝐮𝐭𝐡 𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐒𝐭. +18.5
    at Duquesne · Sat 7:30 PM
-   Best +20.5 (-113) BetRivers
-   Torvik +15.3 (edge 4.2)
-   KenPom +16.0 (edge 3.5)
+   Best +18.5 (-106) LowVig.ag
+   Torvik +15.3 (edge 3.2)
+   KenPom +16.0 (edge 2.5)
    🎙 Podcast AGREES: 2/3 lock South Carolina St.
 
 ────────────────────────
-📊 OTHER PLAYS (9)
+📊 OTHER PLAYS (12)
 Both models 1.5+ off · ★ = both 3+
 ────────────────────────
-★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +27.5
+★ 𝐀𝐥𝐜𝐨𝐫𝐧 𝐒𝐭. +27
    at Georgia Tech · Sat 1:00 PM
-   Best +27.5 (-109) BetRivers
-   Torvik +23.1 (edge 4.4)
-   KenPom +19.0 (edge 8.5)
+   Best +27.5 (-110) BetMGM
+   Torvik +23.1 (edge 3.9)
+   KenPom +19.0 (edge 8.0)
 
-★ 𝐌𝐚𝐫𝐢𝐬𝐭 +20
+★ 𝐌𝐚𝐫𝐢𝐬𝐭 +21.5
    at George Mason · Sat 2:00 PM
-   Best +20.5 (-104) FanDuel
-   Torvik +16.5 (edge 3.8)
-   KenPom +16.0 (edge 4.2)
+   Best +21.5 (-108) LowVig.ag
+   Torvik +16.5 (edge 5.0)
+   KenPom +16.0 (edge 5.5)
 
 ★ 𝐏𝐫𝐚𝐢𝐫𝐢𝐞 𝐕𝐢𝐞𝐰 𝐀&𝐌 +33.5
    at Iowa · Sat 2:00 PM
-   Best +34.5 (-109) BetRivers
+   Best +33.5 (-106) LowVig.ag
    Torvik +28.1 (edge 5.4)
    KenPom +25.0 (edge 8.5)
 
-𝐓𝐡𝐞 𝐂𝐢𝐭𝐚𝐝𝐞𝐥 +26.5
-   at High Point · Sat 2:00 PM
-   Best +26.5 (-108) BetRivers
-   Torvik +25.0 (edge 1.5)
-   KenPom +21.0 (edge 5.5)
-
-𝐔𝐌𝐊𝐂 -2.5
+★ 𝐔𝐌𝐊𝐂 -2
    vs Southeast Missouri St. (home) · Sat 3:00 PM
-   Best -1.5 (-120) FanDuel
-   Torvik -5.7 (edge 3.2)
-   KenPom -5.0 (edge 2.5)
+   Best -1.5 (-112) BetRivers
+   Torvik -5.7 (edge 3.7)
+   KenPom -5.0 (edge 3.0)
    🎙 Podcast OPPOSES: 2/3 lock Southeast Missouri St.
+
+★ 𝐂𝐚𝐥 𝐒𝐭. 𝐅𝐮𝐥𝐥𝐞𝐫𝐭𝐨𝐧 -10.5
+   vs Weber St. (home) · Sat 5:00 PM
+   Best -10 (-110) BetUS
+   Torvik -15.2 (edge 4.7)
+   KenPom -14.0 (edge 3.5)
+
+𝐒𝐞𝐭𝐨𝐧 𝐇𝐚𝐥𝐥 -15.5
+   vs Siena (home) · Sat 12:00 PM
+   Best -15 (-110) LowVig.ag
+   Torvik -17.5 (edge 2.0)
+   KenPom -18.0 (edge 2.5)
+   🎙 Podcast OPPOSES: 2/3 lock Siena
+
+𝐓𝐫𝐨𝐲 +5
+   at Chattanooga · Sat 2:00 PM
+   Best +5.5 (-111) DraftKings
+   Torvik +3.1 (edge 1.9)
+   KenPom +2.0 (edge 3.0)
+   🎙 Podcast OPPOSES: 2/3 lock Chattanooga
 
 𝐔𝐍𝐋𝐕 -10.5
    vs UT Rio Grande Valley (home) · Sat 3:00 PM
-   Best -10.5 (-109) BetRivers
+   Best -10 (-106) LowVig.ag
    Torvik -12.3 (edge 1.8)
    KenPom -12.0 (edge 1.5)
 
-𝐂𝐚𝐥 𝐒𝐭. 𝐅𝐮𝐥𝐥𝐞𝐫𝐭𝐨𝐧 -11.5
-   vs Weber St. (home) · Sat 5:00 PM
-   Best -10.5 (-118) BetRivers
-   Torvik -15.2 (edge 3.7)
-   KenPom -14.0 (edge 2.5)
+𝐁𝐮𝐟𝐟𝐚𝐥𝐨 +3.5
+   vs Towson (neutral) · Sat 3:30 PM
+   Best +4 (-115) Bovada
+   Torvik +1.6 (edge 1.9)
+   KenPom +2.0 (edge 1.5)
+   🎙 Podcast OPPOSES: 3/3 lock Towson
 
-𝐍𝐨𝐫𝐭𝐡 𝐃𝐚𝐤𝐨𝐭𝐚 𝐒𝐭. +5.5
+𝐄𝐚𝐬𝐭𝐞𝐫𝐧 𝐊𝐞𝐧𝐭𝐮𝐜𝐤𝐲 +6
+   vs Tennessee Tech (home) · Sat 4:00 PM
+   Best +6.5 (-120) FanDuel
+   Torvik +3.1 (edge 2.6)
+   KenPom +4.0 (edge 1.8)
+   🎙 Podcast OPPOSES: 2/3 lock Tennessee Tech
+
+𝐍𝐨𝐫𝐭𝐡 𝐃𝐚𝐤𝐨𝐭𝐚 𝐒𝐭. +5
    vs Drake (neutral) · Sat 6:00 PM
-   Best +5.5 (-110) FanDuel
-   Torvik +2.0 (edge 3.5)
-   KenPom +3.0 (edge 2.5)
+   Best +5 (-110) BetUS
+   Torvik +2.0 (edge 2.7)
+   KenPom +3.0 (edge 1.8)
 
-𝐏𝐨𝐫𝐭𝐥𝐚𝐧𝐝 𝐒𝐭. +7.5
-   at Southern Illinois · Sat 7:00 PM
-   Best +7.5 (-109) BetRivers
-   Torvik +5.4 (edge 2.1)
-   KenPom +6.0 (edge 1.5)
+𝐂𝐫𝐞𝐢𝐠𝐡𝐭𝐨𝐧 +5.5
+   vs Louisville (neutral) · Sat 10:30 PM
+   Best +6 (-108) LowVig.ag
+   Torvik +3.5 (edge 2.0)
+   KenPom +2.0 (edge 3.5)
+   🎙 Podcast OPPOSES: 3/3 lock Louisville
 
 ────────────────────────
 🎙 PODCAST LOCKS (33)
 ────────────────────────
-3/3 lock: Elon +20.5
-   Sat 12:00 PM · models: Torvik +1.0, KenPom +3.5
+3/3 lock: Elon +20
+   Sat 12:00 PM · models: Torvik +0.7, KenPom +3.2
 
 3/3 lock: Princeton +2.5
    Sat 12:00 PM · ✅ models agree
 
-3/3 lock: North Carolina Central +1.5
-   Sat 1:00 PM · models: Torvik +0.4, KenPom +0.5
+3/3 lock: North Carolina Central +2.5
+   Sat 1:00 PM · models: Torvik +1.4, KenPom +1.5
 
-3/3 lock: Central Connecticut -1.5
-   Sat 2:00 PM · models: Torvik +1.1, KenPom -0.5
+3/3 lock: Central Connecticut -1
+   Sat 2:00 PM · models: Torvik +1.6, KenPom +0.0
 
-3/3 lock: Marshall -8.5
-   Sat 2:00 PM · models: Torvik +0.7, KenPom -0.5
+3/3 lock: Marshall -7
+   Sat 2:00 PM · models: Torvik +2.2, KenPom +1.0
 
 3/3 lock: Air Force -2.5
    Sat 3:00 PM · models: Torvik +0.1, KenPom -0.5
 
-3/3 lock: New Mexico St. -4
-   Sat 3:00 PM · models: Torvik +1.3, KenPom +2.2
+3/3 lock: New Mexico St. -3.5
+   Sat 3:00 PM · ✅ models agree
 
 3/3 lock: Boise St. -4.5
    Sat 3:30 PM · ✅ models agree
 
-3/3 lock: Towson -3
-   Sat 3:30 PM · models: Torvik -1.6, KenPom -1.2
+3/3 lock: Towson -3.5
+   Sat 3:30 PM · ❌ models on other side
 
-3/3 lock: Utah Valley -6
-   Sat 4:00 PM · models: Torvik +4.1, KenPom -0.0
+3/3 lock: Utah Valley -5.5
+   Sat 4:00 PM · models: Torvik +4.6, KenPom +0.5
 
-3/3 lock: Bucknell +15.5
-   Sat 6:00 PM · models: Torvik +0.3, KenPom +1.5
+3/3 lock: Bucknell +14.5
+   Sat 6:00 PM · models: Torvik -0.7, KenPom +0.5
 
-3/3 lock: Louisville -4.5
-   Sat 10:30 PM · models: Torvik -1.0, KenPom -2.5
+3/3 lock: Louisville -5.5
+   Sat 10:30 PM · ❌ models on other side
 
-2/3 lock: Siena +17.5
-   Sat 12:00 PM · models: Torvik +0.0, KenPom -0.5
+2/3 lock: Siena +15.5
+   Sat 12:00 PM · ❌ models on other side
 
-2/3 lock: Radford -1.5
-   Sat 1:00 PM · models: Torvik +0.6, KenPom +2.5
+2/3 lock: Radford -2.5
+   Sat 1:00 PM · models: Torvik -0.4, KenPom +1.5
 
-2/3 lock: Pepperdine -9.5
-   Sat 1:30 PM · models: Torvik +0.3, KenPom -2.5
+2/3 lock: Pepperdine -10.5
+   Sat 1:30 PM · models: Torvik -0.7, KenPom -3.5
 
-2/3 lock: Chicago St. +15.5
+2/3 lock: Chicago St. +13.5
    Sat 2:00 PM · ✅ models agree
 
-2/3 lock: Chattanooga -4.5
-   Sat 2:00 PM · models: Torvik -1.4, KenPom -2.5
+2/3 lock: Chattanooga -5
+   Sat 2:00 PM · ❌ models on other side
 
-2/3 lock: Georgia Southern -1.5
-   Sat 2:00 PM · models: Torvik -4.1, KenPom -0.5
+2/3 lock: Georgia Southern -1
+   Sat 2:00 PM · models: Torvik -3.6, KenPom +0.0
 
 2/3 lock: Manhattan +2.5
    Sat 2:00 PM · models: Torvik -0.8, KenPom +3.5
@@ -169,26 +220,26 @@ Both models 1.5+ off · ★ = both 3+
 2/3 lock: Northern Illinois -11
    Sat 3:00 PM · models: Torvik -2.6, KenPom +0.0
 
-2/3 lock: UNC Wilmington -5.5
-   Sat 3:00 PM · models: Torvik -0.5, KenPom -0.5
+2/3 lock: UNC Wilmington -4.5
+   Sat 3:00 PM · models: Torvik +0.5, KenPom +0.5
 
-2/3 lock: Southeast Missouri St. +2.5
+2/3 lock: Southeast Missouri St. +2
    Sat 3:00 PM · ❌ models on other side
 
 2/3 lock: Furman -7
    Sat 4:00 PM · ✅ models agree
 
-2/3 lock: Delaware +5.5
-   Sat 4:00 PM · models: Torvik +1.3, KenPom +3.5
+2/3 lock: Delaware +6
+   Sat 4:00 PM · ✅ models agree
 
-2/3 lock: Tennessee Tech -4.5
-   Sat 4:00 PM · models: Torvik -1.4, KenPom -0.5
+2/3 lock: Tennessee Tech -6
+   Sat 4:00 PM · ❌ models on other side
 
-2/3 lock: Northern Arizona +5.5
-   Sat 5:00 PM · models: Torvik +1.0, KenPom +0.5
+2/3 lock: Northern Arizona +6.5
+   Sat 5:00 PM · ✅ models agree
 
-2/3 lock: South Dakota St. -1
-   Sat 6:00 PM · models: Torvik -0.9, KenPom -0.0
+2/3 lock: South Dakota St. PK
+   Sat 6:00 PM · models: Torvik -0.2, KenPom +0.8
 
 2/3 lock: Rider +8.5
    Sat 7:00 PM · models: Torvik +0.5, KenPom +1.5
@@ -196,17 +247,17 @@ Both models 1.5+ off · ★ = both 3+
 2/3 lock: Bethune Cookman +9.5
    Sat 7:00 PM · ✅ models agree
 
-2/3 lock: Monmouth +2.5
-   Sat 7:00 PM · models: Torvik +0.4, KenPom +0.5
+2/3 lock: Monmouth +4.5
+   Sat 7:00 PM · ✅ models agree
 
-2/3 lock: South Carolina St. +19.5
+2/3 lock: South Carolina St. +18.5
    Sat 7:30 PM · ✅ models agree
 
-2/3 lock: Minnesota -7
-   Sat 8:00 PM · models: Torvik -1.2, KenPom +3.8
+2/3 lock: Minnesota -6
+   Sat 8:00 PM · models: Torvik -0.2, KenPom +4.8
 
-2/3 lock: Loyola Marymount +1.5
-   Sat 10:00 PM · models: Torvik +1.9, KenPom -0.5
+2/3 lock: Loyola Marymount +2
+   Sat 10:00 PM · models: Torvik +2.4, KenPom +0.0
 
 ────────────────────────
 🏠 CONF GAMES, HOME UNDERDOG (0)

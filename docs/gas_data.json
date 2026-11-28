@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-28T11:28+00:00",
+ "generated_utc": "2026-11-28T16:04+00:00",
  "max_games": 15,
  "omitted": 0,
  "games": [
@@ -29,7 +29,7 @@
     "market_line": 2.5,
     "best": [
      2.5,
-     -106,
+     -107,
      "LowVig.ag"
     ]
    },
@@ -182,6 +182,192 @@
       "ExpRank": 111,
       "Bench": 35.76,
       "Continuity": 0.7718
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "272849edde5e6d9a5c5a87943769a3c4",
+   "priority": [
+    0,
+    1
+   ],
+   "date": "2026-11-28",
+   "tip_et": "Sat Nov 28, 3:00 PM ET",
+   "away": "Denver",
+   "home": "New Mexico St.",
+   "neutral": false,
+   "venue": {
+    "name": "Pan American Center",
+    "city": "Las Cruces, NM",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Pan American Center, Las Cruces, NM",
+   "pick": {
+    "team": "New Mexico St.",
+    "team_bold": "\ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc0c\ud835\udc1e\ud835\udc31\ud835\udc22\ud835\udc1c\ud835\udc28 \ud835\udc12\ud835\udc2d.",
+    "side": "home",
+    "market_line": -3.5,
+    "best": [
+     -3.0,
+     -111,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": -5.0,
+    "torvik_edge": 1.5,
+    "kenpom_line": -6.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 142.2,
+    "kenpom_total": 142.0,
+    "market_total": null,
+    "torvik_tempo": 66.1,
+    "kenpom_tempo": 67.0,
+    "kenpom_home_win_prob": 68.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "3/3 lock",
+    "side": "home",
+    "team": "New Mexico St.",
+    "hosts": [
+     "Colby",
+     "Cap",
+     "Troy"
+    ],
+    "line": "-3.5",
+    "label": "3/3 lock: New Mexico St."
+   },
+   "label": "KenPom and Torvik mispriced and a triple lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Denver",
+     "kenpom_url": "https://kenpom.com/team.php?team=Denver",
+     "record": "1-5",
+     "coach": "Tim Bergstraser",
+     "conf": "WCC",
+     "arena": "Hamilton Gymnasium, Denver, CO",
+     "ratings": {
+      "AdjEM": -6.0006,
+      "RankAdjEM": 226,
+      "AdjOE": 105.178,
+      "RankAdjOE": 233,
+      "AdjDE": 111.178,
+      "RankAdjDE": 223,
+      "AdjTempo": 67.8782,
+      "RankAdjTempo": 243,
+      "SOS": 11.0267,
+      "RankSOS": 29,
+      "Luck": -0.1304
+     },
+     "four_factors": {
+      "eFG_Pct": 47.3684,
+      "RankeFG_Pct": 267,
+      "TO_Pct": 20.184,
+      "RankTO_Pct": 281,
+      "OR_Pct": 25,
+      "RankOR_Pct": 323,
+      "FT_Rate": 32.7068,
+      "RankFT_Rate": 244,
+      "DeFG_Pct": 52.623,
+      "RankDeFG_Pct": 236,
+      "DTO_Pct": 15.7317,
+      "RankDTO_Pct": 272,
+      "DOR_Pct": 32.1839,
+      "RankDOR_Pct": 198,
+      "DFT_Rate": 26.5574,
+      "RankDFT_Rate": 26
+     },
+     "shooting": {
+      "FG3Pct": 25,
+      "RankFG3Pct": 346,
+      "FG2Pct": 53.7037,
+      "FTPct": 73.5632,
+      "F3GRate": 39.0977,
+      "RankF3GRate": 228,
+      "OppFG3Pct": 29.4118,
+      "RankOppFG3Pct": 71,
+      "BlockPct": 4.8387,
+      "StlRate": 0.098,
+      "ARate": 30.0885
+     },
+     "size": {
+      "AvgHgt": 77.36,
+      "AvgHgtRank": 198,
+      "HgtEff": -0.28,
+      "Exp": 1.2299,
+      "ExpRank": 211,
+      "Bench": 27.85,
+      "Continuity": 0.2617
+     }
+    },
+    "home": {
+     "name": "New Mexico St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=New+Mexico+St.",
+     "record": "1-6",
+     "coach": "Jason Hooten",
+     "conf": "CUSA",
+     "arena": "Pan American Center, Las Cruces, NM",
+     "ratings": {
+      "AdjEM": -2.9996,
+      "RankAdjEM": 181,
+      "AdjOE": 105.047,
+      "RankAdjOE": 236,
+      "AdjDE": 108.047,
+      "RankAdjDE": 149,
+      "AdjTempo": 67.2742,
+      "RankAdjTempo": 281,
+      "SOS": 7.2488,
+      "RankSOS": 58,
+      "Luck": -0.197
+     },
+     "four_factors": {
+      "eFG_Pct": 45.5696,
+      "RankeFG_Pct": 301,
+      "TO_Pct": 23.1038,
+      "RankTO_Pct": 348,
+      "OR_Pct": 33.9713,
+      "RankOR_Pct": 124,
+      "FT_Rate": 45.8861,
+      "RankFT_Rate": 50,
+      "DeFG_Pct": 53.4954,
+      "RankDeFG_Pct": 266,
+      "DTO_Pct": 16.7807,
+      "RankDTO_Pct": 223,
+      "DOR_Pct": 34.8259,
+      "RankDOR_Pct": 262,
+      "DFT_Rate": 54.7112,
+      "RankDFT_Rate": 356
+     },
+     "shooting": {
+      "FG3Pct": 30.3448,
+      "RankFG3Pct": 253,
+      "FG2Pct": 45.614,
+      "FTPct": 79.3103,
+      "F3GRate": 45.8861,
+      "RankF3GRate": 78,
+      "OppFG3Pct": 34.8993,
+      "RankOppFG3Pct": 257,
+      "BlockPct": 7.2222,
+      "StlRate": 0.09,
+      "ARate": 46.7213
+     },
+     "size": {
+      "AvgHgt": 76.8,
+      "AvgHgtRank": 292,
+      "HgtEff": -0.06,
+      "Exp": 1.5542,
+      "ExpRank": 144,
+      "Bench": 35.76,
+      "Continuity": 0.1803
      }
     }
    },
@@ -374,191 +560,6 @@
    "players": null
   },
   {
-   "id": "8b06f4d875045427bb05d25baca8f79a",
-   "priority": [
-    1,
-    0
-   ],
-   "date": "2026-11-28",
-   "tip_et": "Sat Nov 28, 2:00 PM ET",
-   "away": "Chicago St.",
-   "home": "Bradley",
-   "neutral": false,
-   "venue": {
-    "name": "Carver Arena",
-    "city": "Peoria, IL",
-    "neutral": false,
-    "tv": [
-     "ESPN+"
-    ],
-    "note": ""
-   },
-   "home_arena_kenpom": "Carver Arena, Peoria, IL",
-   "pick": {
-    "team": "Chicago St.",
-    "team_bold": "\ud835\udc02\ud835\udc21\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc20\ud835\udc28 \ud835\udc12\ud835\udc2d.",
-    "side": "away",
-    "market_line": 15.5,
-    "best": [
-     15.5,
-     -110,
-     "BetRivers"
-    ]
-   },
-   "models": {
-    "torvik_line": 10.9,
-    "torvik_edge": 4.6,
-    "kenpom_line": 11.0,
-    "kenpom_edge": 4.5,
-    "kenpom_source": "FanMatch",
-    "torvik_total": 128.9,
-    "kenpom_total": 131.0,
-    "market_total": null,
-    "torvik_tempo": 62.9,
-    "kenpom_tempo": 63.0,
-    "kenpom_home_win_prob": 83.0
-   },
-   "flagged": true,
-   "star": true,
-   "podcast": {
-    "category": "2/3 lock",
-    "side": "away",
-    "team": "Chicago St.",
-    "hosts": [
-     "Colby",
-     "Cap"
-    ],
-    "line": "+15.5",
-    "label": "2/3 lock: Chicago St."
-   },
-   "label": "KenPom and Torvik mispriced and a double lock per TCE",
-   "teams": {
-    "away": {
-     "name": "Chicago St.",
-     "kenpom_url": "https://kenpom.com/team.php?team=Chicago+St.",
-     "record": "2-6",
-     "coach": "Landon Bussie",
-     "conf": "NEC",
-     "arena": "Jones Convocation Center, Chicago, IL",
-     "ratings": {
-      "AdjEM": -16.4225,
-      "RankAdjEM": 337,
-      "AdjOE": 100.532,
-      "RankAdjOE": 314,
-      "AdjDE": 116.955,
-      "RankAdjDE": 345,
-      "AdjTempo": 65.244,
-      "RankAdjTempo": 346,
-      "SOS": 4.3444,
-      "RankSOS": 101,
-      "Luck": 0.0128
-     },
-     "four_factors": {
-      "eFG_Pct": 45.8716,
-      "RankeFG_Pct": 291,
-      "TO_Pct": 21.8731,
-      "RankTO_Pct": 338,
-      "OR_Pct": 36.1011,
-      "RankOR_Pct": 77,
-      "FT_Rate": 35.3211,
-      "RankFT_Rate": 187,
-      "DeFG_Pct": 59.9089,
-      "RankDeFG_Pct": 353,
-      "DTO_Pct": 17.8439,
-      "RankDTO_Pct": 173,
-      "DOR_Pct": 39.6624,
-      "RankDOR_Pct": 341,
-      "DFT_Rate": 38.9522,
-      "RankDFT_Rate": 233
-     },
-     "shooting": {
-      "FG3Pct": 34.4371,
-      "RankFG3Pct": 130,
-      "FG2Pct": 42.807,
-      "FTPct": 66.8831,
-      "F3GRate": 34.633,
-      "RankF3GRate": 307,
-      "OppFG3Pct": 41.9048,
-      "RankOppFG3Pct": 358,
-      "BlockPct": 8.7336,
-      "StlRate": 0.0883,
-      "ARate": 50.5747
-     },
-     "size": {
-      "AvgHgt": 76.3,
-      "AvgHgtRank": 340,
-      "HgtEff": -1.35,
-      "Exp": 0.8333,
-      "ExpRank": 307,
-      "Bench": 43.46,
-      "Continuity": 0.0762
-     }
-    },
-    "home": {
-     "name": "Bradley",
-     "kenpom_url": "https://kenpom.com/team.php?team=Bradley",
-     "record": "3-4",
-     "coach": "Brian Wardle",
-     "conf": "MVC",
-     "arena": "Carver Arena, Peoria, IL",
-     "ratings": {
-      "AdjEM": -5.7903,
-      "RankAdjEM": 223,
-      "AdjOE": 100.558,
-      "RankAdjOE": 313,
-      "AdjDE": 106.348,
-      "RankAdjDE": 125,
-      "AdjTempo": 65.9797,
-      "RankAdjTempo": 327,
-      "SOS": -0.2359,
-      "RankSOS": 192,
-      "Luck": 0.0895
-     },
-     "four_factors": {
-      "eFG_Pct": 44.164,
-      "RankeFG_Pct": 331,
-      "TO_Pct": 21.7534,
-      "RankTO_Pct": 337,
-      "OR_Pct": 29.3839,
-      "RankOR_Pct": 249,
-      "FT_Rate": 29.3375,
-      "RankFT_Rate": 302,
-      "DeFG_Pct": 49.3671,
-      "RankDeFG_Pct": 131,
-      "DTO_Pct": 20.705,
-      "RankDTO_Pct": 58,
-      "DOR_Pct": 31.5,
-      "RankDOR_Pct": 176,
-      "DFT_Rate": 32.5949,
-      "RankDFT_Rate": 109
-     },
-     "shooting": {
-      "FG3Pct": 30.0654,
-      "RankFG3Pct": 262,
-      "FG2Pct": 43.2927,
-      "FTPct": 75.2688,
-      "F3GRate": 48.265,
-      "RankF3GRate": 42,
-      "OppFG3Pct": 32,
-      "RankOppFG3Pct": 152,
-      "BlockPct": 5.7592,
-      "StlRate": 0.1048,
-      "ARate": 53.8462
-     },
-     "size": {
-      "AvgHgt": 78.77,
-      "AvgHgtRank": 25,
-      "HgtEff": -0.06,
-      "Exp": 0.6418,
-      "ExpRank": 335,
-      "Bench": 36.26,
-      "Continuity": 0.1104
-     }
-    }
-   },
-   "players": null
-  },
-  {
    "id": "72a6c6f2d7b437d489d489b8850db58a",
    "priority": [
     1,
@@ -585,9 +586,9 @@
     "side": "away",
     "market_line": 9.5,
     "best": [
-     10.0,
-     -116,
-     "LowVig.ag"
+     9.5,
+     -102,
+     "FanDuel"
     ]
    },
    "models": {
@@ -744,185 +745,185 @@
    "players": null
   },
   {
-   "id": "89d7f45fe31e4356f1089f7590e2f644",
+   "id": "8b06f4d875045427bb05d25baca8f79a",
    "priority": [
     1,
-    0
+    1
    ],
    "date": "2026-11-28",
-   "tip_et": "Sat Nov 28, 7:30 PM ET",
-   "away": "South Carolina St.",
-   "home": "Duquesne",
+   "tip_et": "Sat Nov 28, 2:00 PM ET",
+   "away": "Chicago St.",
+   "home": "Bradley",
    "neutral": false,
    "venue": {
-    "name": "UPMC Cooper Fieldhouse",
-    "city": "Pittsburgh, PA",
+    "name": "Carver Arena",
+    "city": "Peoria, IL",
     "neutral": false,
     "tv": [
      "ESPN+"
     ],
     "note": ""
    },
-   "home_arena_kenpom": "UPMC Cooper Fieldhouse, Pittsburgh, PA",
+   "home_arena_kenpom": "Carver Arena, Peoria, IL",
    "pick": {
-    "team": "South Carolina St.",
-    "team_bold": "\ud835\udc12\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc21 \ud835\udc02\ud835\udc1a\ud835\udc2b\ud835\udc28\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc12\ud835\udc2d.",
+    "team": "Chicago St.",
+    "team_bold": "\ud835\udc02\ud835\udc21\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc20\ud835\udc28 \ud835\udc12\ud835\udc2d.",
     "side": "away",
-    "market_line": 19.5,
+    "market_line": 13.5,
     "best": [
-     20.5,
+     14.5,
      -113,
      "BetRivers"
     ]
    },
    "models": {
-    "torvik_line": 15.3,
-    "torvik_edge": 4.2,
-    "kenpom_line": 16.0,
-    "kenpom_edge": 3.5,
+    "torvik_line": 10.9,
+    "torvik_edge": 2.6,
+    "kenpom_line": 11.0,
+    "kenpom_edge": 2.5,
     "kenpom_source": "FanMatch",
-    "torvik_total": 146.4,
-    "kenpom_total": 146.0,
+    "torvik_total": 128.9,
+    "kenpom_total": 131.0,
     "market_total": null,
-    "torvik_tempo": 69.1,
-    "kenpom_tempo": 69.0,
-    "kenpom_home_win_prob": 92.0
+    "torvik_tempo": 62.9,
+    "kenpom_tempo": 63.0,
+    "kenpom_home_win_prob": 83.0
    },
    "flagged": true,
-   "star": true,
+   "star": false,
    "podcast": {
     "category": "2/3 lock",
     "side": "away",
-    "team": "South Carolina St.",
+    "team": "Chicago St.",
     "hosts": [
-     "Cap",
-     "Troy"
+     "Colby",
+     "Cap"
     ],
-    "line": "+20.5",
-    "label": "2/3 lock: South Carolina St."
+    "line": "+15.5",
+    "label": "2/3 lock: Chicago St."
    },
    "label": "KenPom and Torvik mispriced and a double lock per TCE",
    "teams": {
     "away": {
-     "name": "South Carolina St.",
-     "kenpom_url": "https://kenpom.com/team.php?team=South+Carolina+St.",
-     "record": "3-4",
-     "coach": "Erik Martin",
-     "conf": "MEAC",
-     "arena": "Smith Hammond Middleton Center, Orangeburg, SC",
+     "name": "Chicago St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=Chicago+St.",
+     "record": "2-6",
+     "coach": "Landon Bussie",
+     "conf": "NEC",
+     "arena": "Jones Convocation Center, Chicago, IL",
      "ratings": {
-      "AdjEM": -17.7581,
-      "RankAdjEM": 342,
-      "AdjOE": 95.2938,
-      "RankAdjOE": 351,
-      "AdjDE": 113.052,
-      "RankAdjDE": 269,
-      "AdjTempo": 71.7489,
-      "RankAdjTempo": 45,
-      "SOS": -4.9545,
-      "RankSOS": 288,
-      "Luck": 0.0186
+      "AdjEM": -16.4225,
+      "RankAdjEM": 337,
+      "AdjOE": 100.532,
+      "RankAdjOE": 314,
+      "AdjDE": 116.955,
+      "RankAdjDE": 345,
+      "AdjTempo": 65.244,
+      "RankAdjTempo": 346,
+      "SOS": 4.3444,
+      "RankSOS": 101,
+      "Luck": 0.0128
      },
      "four_factors": {
-      "eFG_Pct": 42.803,
-      "RankeFG_Pct": 341,
-      "TO_Pct": 15.8758,
-      "RankTO_Pct": 82,
-      "OR_Pct": 30.6773,
-      "RankOR_Pct": 217,
-      "FT_Rate": 25.7576,
-      "RankFT_Rate": 339,
-      "DeFG_Pct": 56.051,
-      "RankDeFG_Pct": 322,
-      "DTO_Pct": 21.6278,
-      "RankDTO_Pct": 47,
-      "DOR_Pct": 30.3867,
-      "RankDOR_Pct": 136,
-      "DFT_Rate": 53.5032,
-      "RankDFT_Rate": 353
+      "eFG_Pct": 45.8716,
+      "RankeFG_Pct": 291,
+      "TO_Pct": 21.8731,
+      "RankTO_Pct": 338,
+      "OR_Pct": 36.1011,
+      "RankOR_Pct": 77,
+      "FT_Rate": 35.3211,
+      "RankFT_Rate": 187,
+      "DeFG_Pct": 59.9089,
+      "RankDeFG_Pct": 353,
+      "DTO_Pct": 17.8439,
+      "RankDTO_Pct": 173,
+      "DOR_Pct": 39.6624,
+      "RankDOR_Pct": 341,
+      "DFT_Rate": 38.9522,
+      "RankDFT_Rate": 233
      },
      "shooting": {
-      "FG3Pct": 28.2609,
-      "RankFG3Pct": 303,
-      "FG2Pct": 43.0233,
-      "FTPct": 67.6471,
-      "F3GRate": 34.8485,
-      "RankF3GRate": 305,
-      "OppFG3Pct": 38.2979,
-      "RankOppFG3Pct": 327,
-      "BlockPct": 9.2486,
-      "StlRate": 0.115,
-      "ARate": 46.6667
+      "FG3Pct": 34.4371,
+      "RankFG3Pct": 130,
+      "FG2Pct": 42.807,
+      "FTPct": 66.8831,
+      "F3GRate": 34.633,
+      "RankF3GRate": 307,
+      "OppFG3Pct": 41.9048,
+      "RankOppFG3Pct": 358,
+      "BlockPct": 8.7336,
+      "StlRate": 0.0883,
+      "ARate": 50.5747
      },
      "size": {
-      "AvgHgt": 77.53,
-      "AvgHgtRank": 165,
-      "HgtEff": -0.16,
-      "Exp": 0.8519,
-      "ExpRank": 300,
-      "Bench": 51.33,
-      "Continuity": 0.286
+      "AvgHgt": 76.3,
+      "AvgHgtRank": 340,
+      "HgtEff": -1.35,
+      "Exp": 0.8333,
+      "ExpRank": 307,
+      "Bench": 43.46,
+      "Continuity": 0.0762
      }
     },
     "home": {
-     "name": "Duquesne",
-     "kenpom_url": "https://kenpom.com/team.php?team=Duquesne",
-     "record": "5-2",
-     "coach": "Dru Joyce",
-     "conf": "A10",
-     "arena": "UPMC Cooper Fieldhouse, Pittsburgh, PA",
+     "name": "Bradley",
+     "kenpom_url": "https://kenpom.com/team.php?team=Bradley",
+     "record": "3-4",
+     "coach": "Brian Wardle",
+     "conf": "MVC",
+     "arena": "Carver Arena, Peoria, IL",
      "ratings": {
-      "AdjEM": 1.5948,
-      "RankAdjEM": 139,
-      "AdjOE": 109.953,
-      "RankAdjOE": 137,
-      "AdjDE": 108.359,
-      "RankAdjDE": 157,
-      "AdjTempo": 66.7437,
-      "RankAdjTempo": 298,
-      "SOS": -2.0547,
-      "RankSOS": 223,
-      "Luck": 0.1485
+      "AdjEM": -5.7903,
+      "RankAdjEM": 223,
+      "AdjOE": 100.558,
+      "RankAdjOE": 313,
+      "AdjDE": 106.348,
+      "RankAdjDE": 125,
+      "AdjTempo": 65.9797,
+      "RankAdjTempo": 327,
+      "SOS": -0.2359,
+      "RankSOS": 192,
+      "Luck": 0.0895
      },
      "four_factors": {
-      "eFG_Pct": 52.8146,
-      "RankeFG_Pct": 118,
-      "TO_Pct": 18.7468,
-      "RankTO_Pct": 226,
-      "OR_Pct": 32.2034,
-      "RankOR_Pct": 174,
-      "FT_Rate": 49.6689,
-      "RankFT_Rate": 27,
-      "DeFG_Pct": 52.7108,
-      "RankDeFG_Pct": 244,
-      "DTO_Pct": 19.0036,
-      "RankDTO_Pct": 120,
-      "DOR_Pct": 32.1429,
-      "RankDOR_Pct": 194,
-      "DFT_Rate": 29.5181,
-      "RankDFT_Rate": 64
+      "eFG_Pct": 44.164,
+      "RankeFG_Pct": 331,
+      "TO_Pct": 21.7534,
+      "RankTO_Pct": 337,
+      "OR_Pct": 29.3839,
+      "RankOR_Pct": 249,
+      "FT_Rate": 29.3375,
+      "RankFT_Rate": 302,
+      "DeFG_Pct": 49.3671,
+      "RankDeFG_Pct": 131,
+      "DTO_Pct": 20.705,
+      "RankDTO_Pct": 58,
+      "DOR_Pct": 31.5,
+      "RankDOR_Pct": 176,
+      "DFT_Rate": 32.5949,
+      "RankDFT_Rate": 109
      },
      "shooting": {
-      "FG3Pct": 28.7129,
-      "RankFG3Pct": 298,
-      "FG2Pct": 57.7114,
-      "FTPct": 71.3333,
-      "F3GRate": 33.4437,
-      "RankF3GRate": 327,
-      "OppFG3Pct": 40,
-      "RankOppFG3Pct": 348,
-      "BlockPct": 9.901,
-      "StlRate": 0.1027,
-      "ARate": 52.4138
+      "FG3Pct": 30.0654,
+      "RankFG3Pct": 262,
+      "FG2Pct": 43.2927,
+      "FTPct": 75.2688,
+      "F3GRate": 48.265,
+      "RankF3GRate": 42,
+      "OppFG3Pct": 32,
+      "RankOppFG3Pct": 152,
+      "BlockPct": 5.7592,
+      "StlRate": 0.1048,
+      "ARate": 53.8462
      },
      "size": {
-      "AvgHgt": 77.91,
-      "AvgHgtRank": 105,
-      "HgtEff": 0.26,
-      "Exp": 1.3774,
-      "ExpRank": 176,
-      "Bench": 28.58,
-      "Continuity": 0.0864
+      "AvgHgt": 78.77,
+      "AvgHgtRank": 25,
+      "HgtEff": -0.06,
+      "Exp": 0.6418,
+      "ExpRank": 335,
+      "Bench": 36.26,
+      "Continuity": 0.1104
      }
     }
    },
@@ -953,18 +954,18 @@
     "team": "Furman",
     "team_bold": "\ud835\udc05\ud835\udc2e\ud835\udc2b\ud835\udc26\ud835\udc1a\ud835\udc27",
     "side": "home",
-    "market_line": -7.0,
+    "market_line": -7.2,
     "best": [
-     -6.5,
-     -120,
-     "FanDuel"
+     -7.0,
+     -106,
+     "LowVig.ag"
     ]
    },
    "models": {
     "torvik_line": -9.1,
-    "torvik_edge": 2.1,
+    "torvik_edge": 1.9,
     "kenpom_line": -9.0,
-    "kenpom_edge": 2.0,
+    "kenpom_edge": 1.8,
     "kenpom_source": "FanMatch",
     "torvik_total": 146.4,
     "kenpom_total": 149.0,
@@ -1108,6 +1109,748 @@
       "ExpRank": 131,
       "Bench": 33.75,
       "Continuity": 0.319
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "53f34d62a4396a78eba1a3f07bf441b8",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-28",
+   "tip_et": "Sat Nov 28, 4:00 PM ET",
+   "away": "Delaware",
+   "home": "Stony Brook",
+   "neutral": false,
+   "venue": {
+    "name": "Stony Brook Arena",
+    "city": "Stony Brook, NY",
+    "neutral": false,
+    "tv": [
+     "FloSports",
+     "SNY"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Stony Brook Arena, Stony Brook, NY",
+   "pick": {
+    "team": "Delaware",
+    "team_bold": "\ud835\udc03\ud835\udc1e\ud835\udc25\ud835\udc1a\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e",
+    "side": "away",
+    "market_line": 6.0,
+    "best": [
+     6.5,
+     -114,
+     "FanDuel"
+    ]
+   },
+   "models": {
+    "torvik_line": 4.2,
+    "torvik_edge": 1.8,
+    "kenpom_line": 2.0,
+    "kenpom_edge": 4.0,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 139.2,
+    "kenpom_total": 140.0,
+    "market_total": null,
+    "torvik_tempo": 64.4,
+    "kenpom_tempo": 65.0,
+    "kenpom_home_win_prob": 57.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "Delaware",
+    "hosts": [
+     "Cap",
+     "Troy"
+    ],
+    "line": "+5.5",
+    "label": "2/3 lock: Delaware"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Delaware",
+     "kenpom_url": "https://kenpom.com/team.php?team=Delaware",
+     "record": "4-3",
+     "coach": "Martin Ingelsby",
+     "conf": "CUSA",
+     "arena": "Bob Carpenter Center, Newark, DE",
+     "ratings": {
+      "AdjEM": -5.1565,
+      "RankAdjEM": 211,
+      "AdjOE": 105.147,
+      "RankAdjOE": 234,
+      "AdjDE": 110.303,
+      "RankAdjDE": 204,
+      "AdjTempo": 66.4666,
+      "RankAdjTempo": 310,
+      "SOS": 7.815,
+      "RankSOS": 54,
+      "Luck": 0.0996
+     },
+     "four_factors": {
+      "eFG_Pct": 47.331,
+      "RankeFG_Pct": 269,
+      "TO_Pct": 19.4633,
+      "RankTO_Pct": 259,
+      "OR_Pct": 26.7045,
+      "RankOR_Pct": 298,
+      "FT_Rate": 32.3843,
+      "RankFT_Rate": 256,
+      "DeFG_Pct": 49.1883,
+      "RankDeFG_Pct": 122,
+      "DTO_Pct": 14.5249,
+      "RankDTO_Pct": 323,
+      "DOR_Pct": 34.9206,
+      "RankDOR_Pct": 264,
+      "DFT_Rate": 35.7143,
+      "RankDFT_Rate": 173
+     },
+     "shooting": {
+      "FG3Pct": 38.5965,
+      "RankFG3Pct": 35,
+      "FG2Pct": 40.1198,
+      "FTPct": 74.7253,
+      "F3GRate": 40.5694,
+      "RankF3GRate": 190,
+      "OppFG3Pct": 25.8929,
+      "RankOppFG3Pct": 16,
+      "BlockPct": 6.6327,
+      "StlRate": 0.0871,
+      "ARate": 53.1532
+     },
+     "size": {
+      "AvgHgt": 77.12,
+      "AvgHgtRank": 245,
+      "HgtEff": -0.65,
+      "Exp": 1.6801,
+      "ExpRank": 119,
+      "Bench": 29.18,
+      "Continuity": 0.0979
+     }
+    },
+    "home": {
+     "name": "Stony Brook",
+     "kenpom_url": "https://kenpom.com/team.php?team=Stony+Brook",
+     "record": "4-2",
+     "coach": "Geno Ford",
+     "conf": "CAA",
+     "arena": "Stony Brook Arena, Stony Brook, NY",
+     "ratings": {
+      "AdjEM": -5.6565,
+      "RankAdjEM": 220,
+      "AdjOE": 105.615,
+      "RankAdjOE": 224,
+      "AdjDE": 111.271,
+      "RankAdjDE": 227,
+      "AdjTempo": 66.486,
+      "RankAdjTempo": 309,
+      "SOS": -4.4352,
+      "RankSOS": 274,
+      "Luck": 0.0185
+     },
+     "four_factors": {
+      "eFG_Pct": 45.0472,
+      "RankeFG_Pct": 316,
+      "TO_Pct": 13.4348,
+      "RankTO_Pct": 14,
+      "OR_Pct": 25.3623,
+      "RankOR_Pct": 320,
+      "FT_Rate": 43.3962,
+      "RankFT_Rate": 69,
+      "DeFG_Pct": 50.9524,
+      "RankDeFG_Pct": 182,
+      "DTO_Pct": 21.7327,
+      "RankDTO_Pct": 44,
+      "DOR_Pct": 33.8583,
+      "RankDOR_Pct": 242,
+      "DFT_Rate": 29.5238,
+      "RankDFT_Rate": 65
+     },
+     "shooting": {
+      "FG3Pct": 23.9583,
+      "RankFG3Pct": 356,
+      "FG2Pct": 52.5862,
+      "FTPct": 75,
+      "F3GRate": 45.283,
+      "RankF3GRate": 90,
+      "OppFG3Pct": 39.1304,
+      "RankOppFG3Pct": 338,
+      "BlockPct": 11.0169,
+      "StlRate": 0.0869,
+      "ARate": 48.8095
+     },
+     "size": {
+      "AvgHgt": 77.45,
+      "AvgHgtRank": 174,
+      "HgtEff": -0.38,
+      "Exp": 1.7583,
+      "ExpRank": 102,
+      "Bench": 28.16,
+      "Continuity": 0.2561
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "4d3181aff49adf02f99ab8b2329d95ff",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-28",
+   "tip_et": "Sat Nov 28, 5:00 PM ET",
+   "away": "Northern Arizona",
+   "home": "Cal St. Bakersfield",
+   "neutral": false,
+   "venue": {
+    "name": "Icardo Center",
+    "city": "Bakersfield, CA",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "Icardo Center, Bakersfield, CA",
+   "pick": {
+    "team": "Northern Arizona",
+    "team_bold": "\ud835\udc0d\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc27 \ud835\udc00\ud835\udc2b\ud835\udc22\ud835\udc33\ud835\udc28\ud835\udc27\ud835\udc1a",
+    "side": "away",
+    "market_line": 6.5,
+    "best": [
+     7.0,
+     -108,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 4.5,
+    "torvik_edge": 2.0,
+    "kenpom_line": 5.0,
+    "kenpom_edge": 1.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 156.2,
+    "kenpom_total": 155.0,
+    "market_total": null,
+    "torvik_tempo": 66.1,
+    "kenpom_tempo": 66.0,
+    "kenpom_home_win_prob": 67.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "Northern Arizona",
+    "hosts": [
+     "Cap",
+     "Troy"
+    ],
+    "line": "+6.5",
+    "label": "2/3 lock: Northern Arizona"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Northern Arizona",
+     "kenpom_url": "https://kenpom.com/team.php?team=Northern+Arizona",
+     "record": "1-5",
+     "coach": "Shane Burcar",
+     "conf": "BSky",
+     "arena": "Walkup Skydome, Flagstaff, AZ",
+     "ratings": {
+      "AdjEM": -7.8067,
+      "RankAdjEM": 257,
+      "AdjOE": 111.778,
+      "RankAdjOE": 114,
+      "AdjDE": 119.585,
+      "RankAdjDE": 360,
+      "AdjTempo": 63.8929,
+      "RankAdjTempo": 360,
+      "SOS": 16.2888,
+      "RankSOS": 10,
+      "Luck": -0.158
+     },
+     "four_factors": {
+      "eFG_Pct": 57.8125,
+      "RankeFG_Pct": 26,
+      "TO_Pct": 20.5215,
+      "RankTO_Pct": 296,
+      "OR_Pct": 27.5862,
+      "RankOR_Pct": 281,
+      "FT_Rate": 36.3281,
+      "RankFT_Rate": 175,
+      "DeFG_Pct": 61.4007,
+      "RankDeFG_Pct": 359,
+      "DTO_Pct": 10.1076,
+      "RankDTO_Pct": 365,
+      "DOR_Pct": 35,
+      "RankDOR_Pct": 268,
+      "DFT_Rate": 28.6645,
+      "RankDFT_Rate": 56
+     },
+     "shooting": {
+      "FG3Pct": 40.6015,
+      "RankFG3Pct": 22,
+      "FG2Pct": 54.4715,
+      "FTPct": 75.2688,
+      "F3GRate": 51.9531,
+      "RankF3GRate": 16,
+      "OppFG3Pct": 37.6923,
+      "RankOppFG3Pct": 317,
+      "BlockPct": 5.0848,
+      "StlRate": 0.0459,
+      "ARate": 57.0248
+     },
+     "size": {
+      "AvgHgt": 77.39,
+      "AvgHgtRank": 192,
+      "HgtEff": 0.29,
+      "Exp": 1.2046,
+      "ExpRank": 218,
+      "Bench": 22.96,
+      "Continuity": 0.284
+     }
+    },
+    "home": {
+     "name": "Cal St. Bakersfield",
+     "kenpom_url": "https://kenpom.com/team.php?team=Cal+St.+Bakersfield",
+     "record": "4-2",
+     "coach": "Todd Lee",
+     "conf": "BW",
+     "arena": "Icardo Center, Bakersfield, CA",
+     "ratings": {
+      "AdjEM": -4.6633,
+      "RankAdjEM": 200,
+      "AdjOE": 108.101,
+      "RankAdjOE": 180,
+      "AdjDE": 112.764,
+      "RankAdjDE": 263,
+      "AdjTempo": 70.5437,
+      "RankAdjTempo": 88,
+      "SOS": -4.5993,
+      "RankSOS": 282,
+      "Luck": -0.1234
+     },
+     "four_factors": {
+      "eFG_Pct": 56.8421,
+      "RankeFG_Pct": 34,
+      "TO_Pct": 16.2858,
+      "RankTO_Pct": 104,
+      "OR_Pct": 27.972,
+      "RankOR_Pct": 279,
+      "FT_Rate": 36.8421,
+      "RankFT_Rate": 167,
+      "DeFG_Pct": 52.4917,
+      "RankDeFG_Pct": 230,
+      "DTO_Pct": 15.4435,
+      "RankDTO_Pct": 280,
+      "DOR_Pct": 26.1364,
+      "RankDOR_Pct": 37,
+      "DFT_Rate": 34.5515,
+      "RankDFT_Rate": 148
+     },
+     "shooting": {
+      "FG3Pct": 35.8974,
+      "RankFG3Pct": 86,
+      "FG2Pct": 57.971,
+      "FTPct": 76.1905,
+      "F3GRate": 27.3684,
+      "RankF3GRate": 361,
+      "OppFG3Pct": 34.0741,
+      "RankOppFG3Pct": 230,
+      "BlockPct": 16.8675,
+      "StlRate": 0.0646,
+      "ARate": 43.9189
+     },
+     "size": {
+      "AvgHgt": 77.73,
+      "AvgHgtRank": 126,
+      "HgtEff": 0.07,
+      "Exp": 0.9467,
+      "ExpRank": 275,
+      "Bench": 25.13,
+      "Continuity": 0.0584
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "23fa84767409d0b0926e13fc1acf4c8d",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-28",
+   "tip_et": "Sat Nov 28, 7:00 PM ET",
+   "away": "Saint Joseph's",
+   "home": "Monmouth",
+   "neutral": false,
+   "venue": {
+    "name": "Hackensack Meridian Athletic Center",
+    "city": "West Long Branch, NJ",
+    "neutral": false,
+    "tv": [
+     "FloSports",
+     "NBC Sports Phil"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "OceanFirst Bank Center, West Long Branch, NJ",
+   "pick": {
+    "team": "Monmouth",
+    "team_bold": "\ud835\udc0c\ud835\udc28\ud835\udc27\ud835\udc26\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc21",
+    "side": "home",
+    "market_line": 4.5,
+    "best": [
+     4.5,
+     -108,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 2.1,
+    "torvik_edge": 2.4,
+    "kenpom_line": 2.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 142.8,
+    "kenpom_total": 146.0,
+    "market_total": null,
+    "torvik_tempo": 72.1,
+    "kenpom_tempo": 72.0,
+    "kenpom_home_win_prob": 42.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "home",
+    "team": "Monmouth",
+    "hosts": [
+     "Colby",
+     "Cap"
+    ],
+    "line": "+2.5",
+    "label": "2/3 lock: Monmouth"
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "Saint Joseph's",
+     "kenpom_url": "https://kenpom.com/team.php?team=Saint+Joseph%27s",
+     "record": "6-1",
+     "coach": "Steve Donahue",
+     "conf": "A10",
+     "arena": "Hagan Arena, Philadelphia, PA",
+     "ratings": {
+      "AdjEM": 2.0215,
+      "RankAdjEM": 135,
+      "AdjOE": 104.792,
+      "RankAdjOE": 238,
+      "AdjDE": 102.771,
+      "RankAdjDE": 72,
+      "AdjTempo": 71.5973,
+      "RankAdjTempo": 51,
+      "SOS": -7.0144,
+      "RankSOS": 327,
+      "Luck": 0.1261
+     },
+     "four_factors": {
+      "eFG_Pct": 44.9109,
+      "RankeFG_Pct": 317,
+      "TO_Pct": 11.2589,
+      "RankTO_Pct": 1,
+      "OR_Pct": 28.0303,
+      "RankOR_Pct": 277,
+      "FT_Rate": 44.5293,
+      "RankFT_Rate": 58,
+      "DeFG_Pct": 49.4398,
+      "RankDeFG_Pct": 132,
+      "DTO_Pct": 24.9462,
+      "RankDTO_Pct": 9,
+      "DOR_Pct": 31.1927,
+      "RankDOR_Pct": 163,
+      "DFT_Rate": 29.972,
+      "RankDFT_Rate": 69
+     },
+     "shooting": {
+      "FG3Pct": 28.6667,
+      "RankFG3Pct": 300,
+      "FG2Pct": 46.0905,
+      "FTPct": 62.8571,
+      "F3GRate": 38.1679,
+      "RankF3GRate": 244,
+      "OppFG3Pct": 30.8989,
+      "RankOppFG3Pct": 109,
+      "BlockPct": 19.5531,
+      "StlRate": 0.1391,
+      "ARate": 52.2581
+     },
+     "size": {
+      "AvgHgt": 76.53,
+      "AvgHgtRank": 318,
+      "HgtEff": -0.21,
+      "Exp": 1.2377,
+      "ExpRank": 207,
+      "Bench": 25.08,
+      "Continuity": 0.3558
+     }
+    },
+    "home": {
+     "name": "Monmouth",
+     "kenpom_url": "https://kenpom.com/team.php?team=Monmouth",
+     "record": "1-5",
+     "coach": "King Rice",
+     "conf": "CAA",
+     "arena": "OceanFirst Bank Center, West Long Branch, NJ",
+     "ratings": {
+      "AdjEM": -4.8454,
+      "RankAdjEM": 206,
+      "AdjOE": 103.438,
+      "RankAdjOE": 268,
+      "AdjDE": 108.283,
+      "RankAdjDE": 155,
+      "AdjTempo": 70.2021,
+      "RankAdjTempo": 100,
+      "SOS": 12.2883,
+      "RankSOS": 23,
+      "Luck": 0.0008
+     },
+     "four_factors": {
+      "eFG_Pct": 44.1761,
+      "RankeFG_Pct": 330,
+      "TO_Pct": 17.4622,
+      "RankTO_Pct": 171,
+      "OR_Pct": 24.4019,
+      "RankOR_Pct": 330,
+      "FT_Rate": 30.6818,
+      "RankFT_Rate": 279,
+      "DeFG_Pct": 50.8108,
+      "RankDeFG_Pct": 177,
+      "DTO_Pct": 15.1339,
+      "RankDTO_Pct": 294,
+      "DOR_Pct": 31.7308,
+      "RankDOR_Pct": 181,
+      "DFT_Rate": 35.6757,
+      "RankDFT_Rate": 171
+     },
+     "shooting": {
+      "FG3Pct": 27.193,
+      "RankFG3Pct": 325,
+      "FG2Pct": 45.7983,
+      "FTPct": 71.2963,
+      "F3GRate": 32.3864,
+      "RankF3GRate": 336,
+      "OppFG3Pct": 31.6667,
+      "RankOppFG3Pct": 138,
+      "BlockPct": 6.4,
+      "StlRate": 0.0885,
+      "ARate": 45.7143
+     },
+     "size": {
+      "AvgHgt": 78.08,
+      "AvgHgtRank": 73,
+      "HgtEff": 0.6,
+      "Exp": 2.2794,
+      "ExpRank": 34,
+      "Bench": 34.3,
+      "Continuity": 0.2783
+     }
+    }
+   },
+   "players": null
+  },
+  {
+   "id": "89d7f45fe31e4356f1089f7590e2f644",
+   "priority": [
+    1,
+    1
+   ],
+   "date": "2026-11-28",
+   "tip_et": "Sat Nov 28, 7:30 PM ET",
+   "away": "South Carolina St.",
+   "home": "Duquesne",
+   "neutral": false,
+   "venue": {
+    "name": "UPMC Cooper Fieldhouse",
+    "city": "Pittsburgh, PA",
+    "neutral": false,
+    "tv": [
+     "ESPN+"
+    ],
+    "note": ""
+   },
+   "home_arena_kenpom": "UPMC Cooper Fieldhouse, Pittsburgh, PA",
+   "pick": {
+    "team": "South Carolina St.",
+    "team_bold": "\ud835\udc12\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc21 \ud835\udc02\ud835\udc1a\ud835\udc2b\ud835\udc28\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc12\ud835\udc2d.",
+    "side": "away",
+    "market_line": 18.5,
+    "best": [
+     18.5,
+     -106,
+     "LowVig.ag"
+    ]
+   },
+   "models": {
+    "torvik_line": 15.3,
+    "torvik_edge": 3.2,
+    "kenpom_line": 16.0,
+    "kenpom_edge": 2.5,
+    "kenpom_source": "FanMatch",
+    "torvik_total": 146.4,
+    "kenpom_total": 146.0,
+    "market_total": null,
+    "torvik_tempo": 69.1,
+    "kenpom_tempo": 69.0,
+    "kenpom_home_win_prob": 92.0
+   },
+   "flagged": true,
+   "star": false,
+   "podcast": {
+    "category": "2/3 lock",
+    "side": "away",
+    "team": "South Carolina St.",
+    "hosts": [
+     "Cap",
+     "Troy"
+    ],
+    "line": "+20.5",
+    "label": "2/3 lock: South Carolina St."
+   },
+   "label": "KenPom and Torvik mispriced and a double lock per TCE",
+   "teams": {
+    "away": {
+     "name": "South Carolina St.",
+     "kenpom_url": "https://kenpom.com/team.php?team=South+Carolina+St.",
+     "record": "3-4",
+     "coach": "Erik Martin",
+     "conf": "MEAC",
+     "arena": "Smith Hammond Middleton Center, Orangeburg, SC",
+     "ratings": {
+      "AdjEM": -17.7581,
+      "RankAdjEM": 342,
+      "AdjOE": 95.2938,
+      "RankAdjOE": 351,
+      "AdjDE": 113.052,
+      "RankAdjDE": 269,
+      "AdjTempo": 71.7489,
+      "RankAdjTempo": 45,
+      "SOS": -4.9545,
+      "RankSOS": 288,
+      "Luck": 0.0186
+     },
+     "four_factors": {
+      "eFG_Pct": 42.803,
+      "RankeFG_Pct": 341,
+      "TO_Pct": 15.8758,
+      "RankTO_Pct": 82,
+      "OR_Pct": 30.6773,
+      "RankOR_Pct": 217,
+      "FT_Rate": 25.7576,
+      "RankFT_Rate": 339,
+      "DeFG_Pct": 56.051,
+      "RankDeFG_Pct": 322,
+      "DTO_Pct": 21.6278,
+      "RankDTO_Pct": 47,
+      "DOR_Pct": 30.3867,
+      "RankDOR_Pct": 136,
+      "DFT_Rate": 53.5032,
+      "RankDFT_Rate": 353
+     },
+     "shooting": {
+      "FG3Pct": 28.2609,
+      "RankFG3Pct": 303,
+      "FG2Pct": 43.0233,
+      "FTPct": 67.6471,
+      "F3GRate": 34.8485,
+      "RankF3GRate": 305,
+      "OppFG3Pct": 38.2979,
+      "RankOppFG3Pct": 327,
+      "BlockPct": 9.2486,
+      "StlRate": 0.115,
+      "ARate": 46.6667
+     },
+     "size": {
+      "AvgHgt": 77.53,
+      "AvgHgtRank": 165,
+      "HgtEff": -0.16,
+      "Exp": 0.8519,
+      "ExpRank": 300,
+      "Bench": 51.33,
+      "Continuity": 0.286
+     }
+    },
+    "home": {
+     "name": "Duquesne",
+     "kenpom_url": "https://kenpom.com/team.php?team=Duquesne",
+     "record": "5-2",
+     "coach": "Dru Joyce",
+     "conf": "A10",
+     "arena": "UPMC Cooper Fieldhouse, Pittsburgh, PA",
+     "ratings": {
+      "AdjEM": 1.5948,
+      "RankAdjEM": 139,
+      "AdjOE": 109.953,
+      "RankAdjOE": 137,
+      "AdjDE": 108.359,
+      "RankAdjDE": 157,
+      "AdjTempo": 66.7437,
+      "RankAdjTempo": 298,
+      "SOS": -2.0547,
+      "RankSOS": 223,
+      "Luck": 0.1485
+     },
+     "four_factors": {
+      "eFG_Pct": 52.8146,
+      "RankeFG_Pct": 118,
+      "TO_Pct": 18.7468,
+      "RankTO_Pct": 226,
+      "OR_Pct": 32.2034,
+      "RankOR_Pct": 174,
+      "FT_Rate": 49.6689,
+      "RankFT_Rate": 27,
+      "DeFG_Pct": 52.7108,
+      "RankDeFG_Pct": 244,
+      "DTO_Pct": 19.0036,
+      "RankDTO_Pct": 120,
+      "DOR_Pct": 32.1429,
+      "RankDOR_Pct": 194,
+      "DFT_Rate": 29.5181,
+      "RankDFT_Rate": 64
+     },
+     "shooting": {
+      "FG3Pct": 28.7129,
+      "RankFG3Pct": 298,
+      "FG2Pct": 57.7114,
+      "FTPct": 71.3333,
+      "F3GRate": 33.4437,
+      "RankF3GRate": 327,
+      "OppFG3Pct": 40,
+      "RankOppFG3Pct": 348,
+      "BlockPct": 9.901,
+      "StlRate": 0.1027,
+      "ARate": 52.4138
+     },
+     "size": {
+      "AvgHgt": 77.91,
+      "AvgHgtRank": 105,
+      "HgtEff": 0.26,
+      "Exp": 1.3774,
+      "ExpRank": 176,
+      "Bench": 28.58,
+      "Continuity": 0.0864
      }
     }
    },
