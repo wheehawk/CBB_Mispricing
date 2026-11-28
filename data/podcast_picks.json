@@ -7681,6 +7681,1128 @@
       "episode_date": "2026-11-27",
       "skipped": "same picks as 4-5a36-b397-ac105638b264",
       "games": []
+    },
+    "b-5779-894d-0ea41afd8a09": {
+      "title": "College Basketball Picks For November 28th - NCAA Basketball Banter & Best Bets (Ep. 1270)",
+      "url": "https://www.sportsgamblingpodcast.com/2026/11/28/college-basketball-picks-for-november-28th-ncaa-basketball-banter-best-bets-ep-1270/",
+      "episode_date": "2026-11-28",
+      "hosts": [
+        "Colby",
+        "Cap",
+        "Troy"
+      ],
+      "processed_utc": "2026-11-28T11:27:54Z",
+      "games": [
+        {
+          "date": "2026-11-28",
+          "away": "Princeton",
+          "home": "St. Thomas",
+          "pick": "Princeton",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "+2.5",
+          "quote": "[0:55:55] 'I will crack open the next beer to the Princeton Tigers and a triple lock right off the bat'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Siena",
+          "home": "Seton Hall",
+          "pick": "Siena",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+17.5",
+          "quote": "[0:58:30] 'I'm fucking locking up Siena 17 and a half' / Troy 'I'll ride with you'; 'Double lock'; Cap stays off"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Elon",
+          "home": "N.C. State",
+          "pick": "Elon",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "+20.5",
+          "quote": "[0:59:21] 'Lock little brother... triple lock on the Phoenix'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Hampton",
+          "home": "Radford",
+          "pick": "Radford",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "-1.5",
+          "quote": "[1:04:17] 'Troy, you're not locking this though, right? ... you guys double lock on Radford'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "North Carolina Central",
+          "home": "Gardner Webb",
+          "pick": "North Carolina Central",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "+1.5",
+          "quote": "[1:05:13] 'Lock up Central... Triple lock. NC Central'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Lehigh",
+          "home": "Pepperdine",
+          "pick": "Pepperdine",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "-10.5",
+          "quote": "[1:12:21] Troy 'I'm with Dundee. I'm going to bet Pepperdine' / [1:13:01] Colby 'I'm locking up Pepperdine'; Cap Lehigh no lock"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "East Texas A&M",
+          "home": "Marshall",
+          "pick": "Marshall",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-8.5",
+          "quote": "[1:15:22] 'Lock Marshall. Triple.'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Chicago St.",
+          "home": "Bradley",
+          "pick": "Chicago St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "+15.5",
+          "quote": "[1:16:18] Colby 'I'm locking up the Cougs plus 15 and a half' / [1:18:07] Cap 'Let's all lock up Chicago State'; Troy locked 1H ML only"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Manhattan",
+          "home": "Morgan St.",
+          "pick": "Manhattan",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+2.5",
+          "quote": "[1:20:03] 'Double lock on the Jaspers'; Colby 'I'm staying away'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Georgia Southern",
+          "home": "UNC Asheville",
+          "pick": "Georgia Southern",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "-1.5",
+          "quote": "[1:27:20] 'Double lock Georgia Southern from Cap and Troy'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Central Connecticut",
+          "home": "Navy",
+          "pick": "Central Connecticut",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-1.5",
+          "quote": "[1:28:31] 'Let's go triple lock the real blue devils'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Troy",
+          "home": "Chattanooga",
+          "pick": "Chattanooga",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "-4.5",
+          "quote": "[1:33:24] 'Cap who you want? Double lock Chattanooga'; Troy locked Troy (lock battle)"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Liberty",
+          "home": "UNC Wilmington",
+          "pick": "UNC Wilmington",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "-5.5",
+          "quote": "[1:38:51] 'Double lock from Cap and Troy on the Seahawks lay at five and a half'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Southeast Missouri St.",
+          "home": "UMKC",
+          "pick": "Southeast Missouri St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+2.5",
+          "quote": "[1:41:28] 'Double lock on SEMO from Cap and Troy'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Brown",
+          "home": "Air Force",
+          "pick": "Air Force",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-2.5",
+          "quote": "[1:43:21] 'triple lock on Air Force'; Colby top play"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Northern Illinois",
+          "home": "Eastern Illinois",
+          "pick": "Northern Illinois",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "-10.5",
+          "quote": "[1:46:50] 'Oh wait, I'll lock it... Double lock. The Huskies lay 10 and a half'; Troy roots only"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Denver",
+          "home": "New Mexico St.",
+          "pick": "New Mexico St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-3.5",
+          "quote": "[1:52:07] Troy 'We can triple lock this' / 'Yes, triple lock'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Boise St.",
+          "home": "North Texas",
+          "pick": "Boise St.",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-4.5",
+          "quote": "[1:54:05] 'Triple lock up Boise State'; Cap best bet"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Buffalo",
+          "home": "Towson",
+          "pick": "Towson",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-2.5",
+          "quote": "[1:54:20] 'lock up Towson laying 2 and a half... Double... Triple? Yeah, I'm locking that for sure'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Austin Peay",
+          "home": "Furman",
+          "pick": "Furman",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "-7.5",
+          "quote": "[2:01:37] 'Double lock from Troy and Cap on the Paladins of Furman'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Delaware",
+          "home": "Stony Brook",
+          "pick": "Delaware",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+5.5",
+          "quote": "[2:05:07] 'Double lock the Blue Hens'; Colby stays away"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "San Jose St.",
+          "home": "Utah Valley",
+          "pick": "Utah Valley",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-5.5",
+          "quote": "[2:05:29] 'I'm going to lock up Utah Valley laying five and a half' / [2:05:48] 'I believe I can speak for Troy when I say this is a triple lock'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Tennessee Tech",
+          "home": "Eastern Kentucky",
+          "pick": "Tennessee Tech",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "",
+          "quote": "[2:07:20] 'I am definitely locking up... Tennessee Tech' / [2:07:41] Troy 'I'll lock Tennessee Tech'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Northern Arizona",
+          "home": "Cal St. Bakersfield",
+          "pick": "Northern Arizona",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+6.5",
+          "quote": "[2:14:13] 'Double lock on Northern Arizona'; Colby points no bet"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "South Alabama",
+          "home": "South Dakota St.",
+          "pick": "South Dakota St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "-1.5",
+          "quote": "[2:16:56] 'I will lock up South Dakota State laying one and a half' / [2:17:35] 'let's lock South Dakota with you. Double lock on the Jacks'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Bucknell",
+          "home": "Penn",
+          "pick": "Bucknell",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "+15.5",
+          "quote": "[2:18:13] 'I will lock up Bucknell plus 15 and a half' / Troy 'I'll lock Bucknell' / 'Triple lock'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Rider",
+          "home": "Army",
+          "pick": "Rider",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Troy"
+          ],
+          "line": "+9.5",
+          "quote": "[2:21:56] 'Lock up the Broncos. Double. You push me over'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Bethune Cookman",
+          "home": "San Francisco",
+          "pick": "Bethune Cookman",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+9.5",
+          "quote": "[2:24:46] Cap 'plus nine and a half, first half ML and game ML' / [2:37:34] Troy 'I'm riding with Bethune with Cap' (best-bet dog)"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Saint Joseph's",
+          "home": "Monmouth",
+          "pick": "Monmouth",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "+2.5",
+          "quote": "[2:25:55] 'Double. The Hawks.'; Troy stays away"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "South Carolina St.",
+          "home": "Duquesne",
+          "pick": "South Carolina St.",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "+20.5",
+          "quote": "[2:27:54] 'Lock the bulldogs, lock South Carolina State... Double lock these dogs'"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "California",
+          "home": "Minnesota",
+          "pick": "Minnesota",
+          "category": "2/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap"
+          ],
+          "line": "-6.5",
+          "quote": "[2:28:42] 'I'm going to lock up Minnesota... double lock the Gophers'; Troy stays away"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Loyola Marymount",
+          "home": "UC San Diego",
+          "pick": "Loyola Marymount",
+          "category": "2/3 lock",
+          "hosts": [
+            "Cap",
+            "Troy"
+          ],
+          "line": "",
+          "quote": "[2:31:00] 'This is a lock on Marymount... Double lock on Marymount'; Colby no bet"
+        },
+        {
+          "date": "2026-11-28",
+          "away": "Creighton",
+          "home": "Louisville",
+          "pick": "Louisville",
+          "category": "3/3 lock",
+          "hosts": [
+            "Colby",
+            "Cap",
+            "Troy"
+          ],
+          "line": "-4.5",
+          "quote": "[2:32:57] 'Triple lock on the Cards'"
+        }
+      ],
+      "all_picks": [
+        {
+          "game": "Princeton at St. Thomas",
+          "host": "Colby",
+          "team": "Princeton",
+          "lock": true,
+          "quote": "[0:55:55] 'I will crack open the next beer to the Princeton Tigers and a triple lock right off the bat'"
+        },
+        {
+          "game": "Princeton at St. Thomas",
+          "host": "Cap",
+          "team": "Princeton",
+          "lock": true,
+          "quote": "[0:55:55] 'I will crack open the next beer to the Princeton Tigers and a triple lock right off the bat'"
+        },
+        {
+          "game": "Princeton at St. Thomas",
+          "host": "Troy",
+          "team": "Princeton",
+          "lock": true,
+          "quote": "[0:55:55] 'I will crack open the next beer to the Princeton Tigers and a triple lock right off the bat'"
+        },
+        {
+          "game": "Siena at Seton Hall",
+          "host": "Colby",
+          "team": "Siena",
+          "lock": true,
+          "quote": "[0:58:30] 'I'm fucking locking up Siena 17 and a half' / Troy 'I'll ride with you'; 'Double lock'; Cap stays off"
+        },
+        {
+          "game": "Siena at Seton Hall",
+          "host": "Troy",
+          "team": "Siena",
+          "lock": true,
+          "quote": "[0:58:30] 'I'm fucking locking up Siena 17 and a half' / Troy 'I'll ride with you'; 'Double lock'; Cap stays off"
+        },
+        {
+          "game": "Elon at N.C. State",
+          "host": "Colby",
+          "team": "Elon",
+          "lock": true,
+          "quote": "[0:59:21] 'Lock little brother... triple lock on the Phoenix'"
+        },
+        {
+          "game": "Elon at N.C. State",
+          "host": "Cap",
+          "team": "Elon",
+          "lock": true,
+          "quote": "[0:59:21] 'Lock little brother... triple lock on the Phoenix'"
+        },
+        {
+          "game": "Elon at N.C. State",
+          "host": "Troy",
+          "team": "Elon",
+          "lock": true,
+          "quote": "[0:59:21] 'Lock little brother... triple lock on the Phoenix'"
+        },
+        {
+          "game": "Hampton at Radford",
+          "host": "Colby",
+          "team": "Radford",
+          "lock": true,
+          "quote": "[1:04:17] 'Troy, you're not locking this though, right? ... you guys double lock on Radford'"
+        },
+        {
+          "game": "Hampton at Radford",
+          "host": "Cap",
+          "team": "Radford",
+          "lock": true,
+          "quote": "[1:04:17] 'Troy, you're not locking this though, right? ... you guys double lock on Radford'"
+        },
+        {
+          "game": "North Carolina Central at Gardner Webb",
+          "host": "Colby",
+          "team": "North Carolina Central",
+          "lock": true,
+          "quote": "[1:05:13] 'Lock up Central... Triple lock. NC Central'"
+        },
+        {
+          "game": "North Carolina Central at Gardner Webb",
+          "host": "Cap",
+          "team": "North Carolina Central",
+          "lock": true,
+          "quote": "[1:05:13] 'Lock up Central... Triple lock. NC Central'"
+        },
+        {
+          "game": "North Carolina Central at Gardner Webb",
+          "host": "Troy",
+          "team": "North Carolina Central",
+          "lock": true,
+          "quote": "[1:05:13] 'Lock up Central... Triple lock. NC Central'"
+        },
+        {
+          "game": "Lehigh at Pepperdine",
+          "host": "Colby",
+          "team": "Pepperdine",
+          "lock": true,
+          "quote": "[1:12:21] Troy 'I'm with Dundee. I'm going to bet Pepperdine' / [1:13:01] Colby 'I'm locking up Pepperdine'; Cap Lehigh no lock"
+        },
+        {
+          "game": "Lehigh at Pepperdine",
+          "host": "Troy",
+          "team": "Pepperdine",
+          "lock": true,
+          "quote": "[1:12:21] Troy 'I'm with Dundee. I'm going to bet Pepperdine' / [1:13:01] Colby 'I'm locking up Pepperdine'; Cap Lehigh no lock"
+        },
+        {
+          "game": "East Texas A&M at Marshall",
+          "host": "Colby",
+          "team": "Marshall",
+          "lock": true,
+          "quote": "[1:15:22] 'Lock Marshall. Triple.'"
+        },
+        {
+          "game": "East Texas A&M at Marshall",
+          "host": "Cap",
+          "team": "Marshall",
+          "lock": true,
+          "quote": "[1:15:22] 'Lock Marshall. Triple.'"
+        },
+        {
+          "game": "East Texas A&M at Marshall",
+          "host": "Troy",
+          "team": "Marshall",
+          "lock": true,
+          "quote": "[1:15:22] 'Lock Marshall. Triple.'"
+        },
+        {
+          "game": "Chicago St. at Bradley",
+          "host": "Colby",
+          "team": "Chicago St.",
+          "lock": true,
+          "quote": "[1:16:18] Colby 'I'm locking up the Cougs plus 15 and a half' / [1:18:07] Cap 'Let's all lock up Chicago State'; Troy locked 1H ML only"
+        },
+        {
+          "game": "Chicago St. at Bradley",
+          "host": "Cap",
+          "team": "Chicago St.",
+          "lock": true,
+          "quote": "[1:16:18] Colby 'I'm locking up the Cougs plus 15 and a half' / [1:18:07] Cap 'Let's all lock up Chicago State'; Troy locked 1H ML only"
+        },
+        {
+          "game": "Manhattan at Morgan St.",
+          "host": "Cap",
+          "team": "Manhattan",
+          "lock": true,
+          "quote": "[1:20:03] 'Double lock on the Jaspers'; Colby 'I'm staying away'"
+        },
+        {
+          "game": "Manhattan at Morgan St.",
+          "host": "Troy",
+          "team": "Manhattan",
+          "lock": true,
+          "quote": "[1:20:03] 'Double lock on the Jaspers'; Colby 'I'm staying away'"
+        },
+        {
+          "game": "Georgia Southern at UNC Asheville",
+          "host": "Cap",
+          "team": "Georgia Southern",
+          "lock": true,
+          "quote": "[1:27:20] 'Double lock Georgia Southern from Cap and Troy'"
+        },
+        {
+          "game": "Georgia Southern at UNC Asheville",
+          "host": "Troy",
+          "team": "Georgia Southern",
+          "lock": true,
+          "quote": "[1:27:20] 'Double lock Georgia Southern from Cap and Troy'"
+        },
+        {
+          "game": "Central Connecticut at Navy",
+          "host": "Colby",
+          "team": "Central Connecticut",
+          "lock": true,
+          "quote": "[1:28:31] 'Let's go triple lock the real blue devils'"
+        },
+        {
+          "game": "Central Connecticut at Navy",
+          "host": "Cap",
+          "team": "Central Connecticut",
+          "lock": true,
+          "quote": "[1:28:31] 'Let's go triple lock the real blue devils'"
+        },
+        {
+          "game": "Central Connecticut at Navy",
+          "host": "Troy",
+          "team": "Central Connecticut",
+          "lock": true,
+          "quote": "[1:28:31] 'Let's go triple lock the real blue devils'"
+        },
+        {
+          "game": "Troy at Chattanooga",
+          "host": "Colby",
+          "team": "Chattanooga",
+          "lock": true,
+          "quote": "[1:33:24] 'Cap who you want? Double lock Chattanooga'; Troy locked Troy (lock battle)"
+        },
+        {
+          "game": "Troy at Chattanooga",
+          "host": "Cap",
+          "team": "Chattanooga",
+          "lock": true,
+          "quote": "[1:33:24] 'Cap who you want? Double lock Chattanooga'; Troy locked Troy (lock battle)"
+        },
+        {
+          "game": "Liberty at UNC Wilmington",
+          "host": "Cap",
+          "team": "UNC Wilmington",
+          "lock": true,
+          "quote": "[1:38:51] 'Double lock from Cap and Troy on the Seahawks lay at five and a half'"
+        },
+        {
+          "game": "Liberty at UNC Wilmington",
+          "host": "Troy",
+          "team": "UNC Wilmington",
+          "lock": true,
+          "quote": "[1:38:51] 'Double lock from Cap and Troy on the Seahawks lay at five and a half'"
+        },
+        {
+          "game": "Southeast Missouri St. at UMKC",
+          "host": "Cap",
+          "team": "Southeast Missouri St.",
+          "lock": true,
+          "quote": "[1:41:28] 'Double lock on SEMO from Cap and Troy'"
+        },
+        {
+          "game": "Southeast Missouri St. at UMKC",
+          "host": "Troy",
+          "team": "Southeast Missouri St.",
+          "lock": true,
+          "quote": "[1:41:28] 'Double lock on SEMO from Cap and Troy'"
+        },
+        {
+          "game": "Brown at Air Force",
+          "host": "Colby",
+          "team": "Air Force",
+          "lock": true,
+          "quote": "[1:43:21] 'triple lock on Air Force'; Colby top play"
+        },
+        {
+          "game": "Brown at Air Force",
+          "host": "Cap",
+          "team": "Air Force",
+          "lock": true,
+          "quote": "[1:43:21] 'triple lock on Air Force'; Colby top play"
+        },
+        {
+          "game": "Brown at Air Force",
+          "host": "Troy",
+          "team": "Air Force",
+          "lock": true,
+          "quote": "[1:43:21] 'triple lock on Air Force'; Colby top play"
+        },
+        {
+          "game": "Northern Illinois at Eastern Illinois",
+          "host": "Colby",
+          "team": "Northern Illinois",
+          "lock": true,
+          "quote": "[1:46:50] 'Oh wait, I'll lock it... Double lock. The Huskies lay 10 and a half'; Troy roots only"
+        },
+        {
+          "game": "Northern Illinois at Eastern Illinois",
+          "host": "Cap",
+          "team": "Northern Illinois",
+          "lock": true,
+          "quote": "[1:46:50] 'Oh wait, I'll lock it... Double lock. The Huskies lay 10 and a half'; Troy roots only"
+        },
+        {
+          "game": "Denver at New Mexico St.",
+          "host": "Colby",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:52:07] Troy 'We can triple lock this' / 'Yes, triple lock'"
+        },
+        {
+          "game": "Denver at New Mexico St.",
+          "host": "Cap",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:52:07] Troy 'We can triple lock this' / 'Yes, triple lock'"
+        },
+        {
+          "game": "Denver at New Mexico St.",
+          "host": "Troy",
+          "team": "New Mexico St.",
+          "lock": true,
+          "quote": "[1:52:07] Troy 'We can triple lock this' / 'Yes, triple lock'"
+        },
+        {
+          "game": "Boise St. at North Texas",
+          "host": "Colby",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:54:05] 'Triple lock up Boise State'; Cap best bet"
+        },
+        {
+          "game": "Boise St. at North Texas",
+          "host": "Cap",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:54:05] 'Triple lock up Boise State'; Cap best bet"
+        },
+        {
+          "game": "Boise St. at North Texas",
+          "host": "Troy",
+          "team": "Boise St.",
+          "lock": true,
+          "quote": "[1:54:05] 'Triple lock up Boise State'; Cap best bet"
+        },
+        {
+          "game": "Buffalo at Towson",
+          "host": "Colby",
+          "team": "Towson",
+          "lock": true,
+          "quote": "[1:54:20] 'lock up Towson laying 2 and a half... Double... Triple? Yeah, I'm locking that for sure'"
+        },
+        {
+          "game": "Buffalo at Towson",
+          "host": "Cap",
+          "team": "Towson",
+          "lock": true,
+          "quote": "[1:54:20] 'lock up Towson laying 2 and a half... Double... Triple? Yeah, I'm locking that for sure'"
+        },
+        {
+          "game": "Buffalo at Towson",
+          "host": "Troy",
+          "team": "Towson",
+          "lock": true,
+          "quote": "[1:54:20] 'lock up Towson laying 2 and a half... Double... Triple? Yeah, I'm locking that for sure'"
+        },
+        {
+          "game": "Austin Peay at Furman",
+          "host": "Cap",
+          "team": "Furman",
+          "lock": true,
+          "quote": "[2:01:37] 'Double lock from Troy and Cap on the Paladins of Furman'"
+        },
+        {
+          "game": "Austin Peay at Furman",
+          "host": "Troy",
+          "team": "Furman",
+          "lock": true,
+          "quote": "[2:01:37] 'Double lock from Troy and Cap on the Paladins of Furman'"
+        },
+        {
+          "game": "Delaware at Stony Brook",
+          "host": "Cap",
+          "team": "Delaware",
+          "lock": true,
+          "quote": "[2:05:07] 'Double lock the Blue Hens'; Colby stays away"
+        },
+        {
+          "game": "Delaware at Stony Brook",
+          "host": "Troy",
+          "team": "Delaware",
+          "lock": true,
+          "quote": "[2:05:07] 'Double lock the Blue Hens'; Colby stays away"
+        },
+        {
+          "game": "San Jose St. at Utah Valley",
+          "host": "Colby",
+          "team": "Utah Valley",
+          "lock": true,
+          "quote": "[2:05:29] 'I'm going to lock up Utah Valley laying five and a half' / [2:05:48] 'I believe I can speak for Troy when I say this is a triple lock'"
+        },
+        {
+          "game": "San Jose St. at Utah Valley",
+          "host": "Cap",
+          "team": "Utah Valley",
+          "lock": true,
+          "quote": "[2:05:29] 'I'm going to lock up Utah Valley laying five and a half' / [2:05:48] 'I believe I can speak for Troy when I say this is a triple lock'"
+        },
+        {
+          "game": "San Jose St. at Utah Valley",
+          "host": "Troy",
+          "team": "Utah Valley",
+          "lock": true,
+          "quote": "[2:05:29] 'I'm going to lock up Utah Valley laying five and a half' / [2:05:48] 'I believe I can speak for Troy when I say this is a triple lock'"
+        },
+        {
+          "game": "Tennessee Tech at Eastern Kentucky",
+          "host": "Cap",
+          "team": "Tennessee Tech",
+          "lock": true,
+          "quote": "[2:07:20] 'I am definitely locking up... Tennessee Tech' / [2:07:41] Troy 'I'll lock Tennessee Tech'"
+        },
+        {
+          "game": "Tennessee Tech at Eastern Kentucky",
+          "host": "Troy",
+          "team": "Tennessee Tech",
+          "lock": true,
+          "quote": "[2:07:20] 'I am definitely locking up... Tennessee Tech' / [2:07:41] Troy 'I'll lock Tennessee Tech'"
+        },
+        {
+          "game": "Northern Arizona at Cal St. Bakersfield",
+          "host": "Cap",
+          "team": "Northern Arizona",
+          "lock": true,
+          "quote": "[2:14:13] 'Double lock on Northern Arizona'; Colby points no bet"
+        },
+        {
+          "game": "Northern Arizona at Cal St. Bakersfield",
+          "host": "Troy",
+          "team": "Northern Arizona",
+          "lock": true,
+          "quote": "[2:14:13] 'Double lock on Northern Arizona'; Colby points no bet"
+        },
+        {
+          "game": "South Alabama at South Dakota St.",
+          "host": "Colby",
+          "team": "South Dakota St.",
+          "lock": true,
+          "quote": "[2:16:56] 'I will lock up South Dakota State laying one and a half' / [2:17:35] 'let's lock South Dakota with you. Double lock on the Jacks'"
+        },
+        {
+          "game": "South Alabama at South Dakota St.",
+          "host": "Troy",
+          "team": "South Dakota St.",
+          "lock": true,
+          "quote": "[2:16:56] 'I will lock up South Dakota State laying one and a half' / [2:17:35] 'let's lock South Dakota with you. Double lock on the Jacks'"
+        },
+        {
+          "game": "Bucknell at Penn",
+          "host": "Colby",
+          "team": "Bucknell",
+          "lock": true,
+          "quote": "[2:18:13] 'I will lock up Bucknell plus 15 and a half' / Troy 'I'll lock Bucknell' / 'Triple lock'"
+        },
+        {
+          "game": "Bucknell at Penn",
+          "host": "Cap",
+          "team": "Bucknell",
+          "lock": true,
+          "quote": "[2:18:13] 'I will lock up Bucknell plus 15 and a half' / Troy 'I'll lock Bucknell' / 'Triple lock'"
+        },
+        {
+          "game": "Bucknell at Penn",
+          "host": "Troy",
+          "team": "Bucknell",
+          "lock": true,
+          "quote": "[2:18:13] 'I will lock up Bucknell plus 15 and a half' / Troy 'I'll lock Bucknell' / 'Triple lock'"
+        },
+        {
+          "game": "Rider at Army",
+          "host": "Colby",
+          "team": "Rider",
+          "lock": true,
+          "quote": "[2:21:56] 'Lock up the Broncos. Double. You push me over'"
+        },
+        {
+          "game": "Rider at Army",
+          "host": "Troy",
+          "team": "Rider",
+          "lock": true,
+          "quote": "[2:21:56] 'Lock up the Broncos. Double. You push me over'"
+        },
+        {
+          "game": "Bethune Cookman at San Francisco",
+          "host": "Cap",
+          "team": "Bethune Cookman",
+          "lock": true,
+          "quote": "[2:24:46] Cap 'plus nine and a half, first half ML and game ML' / [2:37:34] Troy 'I'm riding with Bethune with Cap' (best-bet dog)"
+        },
+        {
+          "game": "Bethune Cookman at San Francisco",
+          "host": "Troy",
+          "team": "Bethune Cookman",
+          "lock": true,
+          "quote": "[2:24:46] Cap 'plus nine and a half, first half ML and game ML' / [2:37:34] Troy 'I'm riding with Bethune with Cap' (best-bet dog)"
+        },
+        {
+          "game": "Saint Joseph's at Monmouth",
+          "host": "Colby",
+          "team": "Monmouth",
+          "lock": true,
+          "quote": "[2:25:55] 'Double. The Hawks.'; Troy stays away"
+        },
+        {
+          "game": "Saint Joseph's at Monmouth",
+          "host": "Cap",
+          "team": "Monmouth",
+          "lock": true,
+          "quote": "[2:25:55] 'Double. The Hawks.'; Troy stays away"
+        },
+        {
+          "game": "South Carolina St. at Duquesne",
+          "host": "Cap",
+          "team": "South Carolina St.",
+          "lock": true,
+          "quote": "[2:27:54] 'Lock the bulldogs, lock South Carolina State... Double lock these dogs'"
+        },
+        {
+          "game": "South Carolina St. at Duquesne",
+          "host": "Troy",
+          "team": "South Carolina St.",
+          "lock": true,
+          "quote": "[2:27:54] 'Lock the bulldogs, lock South Carolina State... Double lock these dogs'"
+        },
+        {
+          "game": "California at Minnesota",
+          "host": "Colby",
+          "team": "Minnesota",
+          "lock": true,
+          "quote": "[2:28:42] 'I'm going to lock up Minnesota... double lock the Gophers'; Troy stays away"
+        },
+        {
+          "game": "California at Minnesota",
+          "host": "Cap",
+          "team": "Minnesota",
+          "lock": true,
+          "quote": "[2:28:42] 'I'm going to lock up Minnesota... double lock the Gophers'; Troy stays away"
+        },
+        {
+          "game": "Loyola Marymount at UC San Diego",
+          "host": "Cap",
+          "team": "Loyola Marymount",
+          "lock": true,
+          "quote": "[2:31:00] 'This is a lock on Marymount... Double lock on Marymount'; Colby no bet"
+        },
+        {
+          "game": "Loyola Marymount at UC San Diego",
+          "host": "Troy",
+          "team": "Loyola Marymount",
+          "lock": true,
+          "quote": "[2:31:00] 'This is a lock on Marymount... Double lock on Marymount'; Colby no bet"
+        },
+        {
+          "game": "Creighton at Louisville",
+          "host": "Colby",
+          "team": "Louisville",
+          "lock": true,
+          "quote": "[2:32:57] 'Triple lock on the Cards'"
+        },
+        {
+          "game": "Creighton at Louisville",
+          "host": "Cap",
+          "team": "Louisville",
+          "lock": true,
+          "quote": "[2:32:57] 'Triple lock on the Cards'"
+        },
+        {
+          "game": "Creighton at Louisville",
+          "host": "Troy",
+          "team": "Louisville",
+          "lock": true,
+          "quote": "[2:32:57] 'Triple lock on the Cards'"
+        },
+        {
+          "game": "Alcorn St. at Georgia Tech",
+          "host": "Troy",
+          "team": "Georgia Tech",
+          "lock": true,
+          "quote": "[1:03:25] 'Troy, lock it up the jackets'"
+        },
+        {
+          "game": "Alcorn St. at Georgia Tech",
+          "host": "Colby",
+          "team": "Alcorn St.",
+          "lock": false,
+          "quote": "[1:03:14] 'I'm on the points. I'm not betting'"
+        },
+        {
+          "game": "Colgate at Vermont",
+          "host": "Troy",
+          "team": "Colgate",
+          "lock": true,
+          "quote": "[1:07:08] 'Give me the toothpaste. Lock.' (Colby/Cap also on Colgate; unclear if locked); Troy best bet"
+        },
+        {
+          "game": "Colgate at Vermont",
+          "host": "Colby",
+          "team": "Colgate",
+          "lock": false,
+          "quote": "[1:06:12] 'I think we should bet Colgate'"
+        },
+        {
+          "game": "Colgate at Vermont",
+          "host": "Cap",
+          "team": "Colgate",
+          "lock": false,
+          "quote": "[1:06:31] 'Even if he's playing, I think I still want Colgate'"
+        },
+        {
+          "game": "Prairie View A&M at Iowa",
+          "host": "Cap",
+          "team": "Prairie View A&M",
+          "lock": true,
+          "quote": "[1:21:09] 'Cap and lock it up PV'"
+        },
+        {
+          "game": "North Florida at Columbia",
+          "host": "Colby",
+          "team": "North Florida",
+          "lock": true,
+          "quote": "[1:25:37] 'North Florida plus 14 and a half. Lock.'"
+        },
+        {
+          "game": "Delaware St. at North Carolina A&T",
+          "host": "Cap",
+          "team": "Delaware St.",
+          "lock": true,
+          "quote": "[1:31:08] 'Cap. Lock it up the Hornets'; best bet +10.5"
+        },
+        {
+          "game": "Troy at Chattanooga",
+          "host": "Troy",
+          "team": "Troy",
+          "lock": true,
+          "quote": "[1:33:04] 'I promised I'd bet Troy plus four and a half' (lock battle)"
+        },
+        {
+          "game": "Sacramento St. at Presbyterian",
+          "host": "Colby",
+          "team": "Presbyterian",
+          "lock": true,
+          "quote": "[1:37:13] 'I'm locking up Presbyterian'"
+        },
+        {
+          "game": "Toledo at Valparaiso",
+          "host": "Colby",
+          "team": "Valparaiso",
+          "lock": true,
+          "quote": "[1:44:36] 'I'm locking it. Lay the three and a half with these Crusaders'"
+        },
+        {
+          "game": "McNeese St. at Louisiana",
+          "host": "Troy",
+          "team": "Louisiana",
+          "lock": true,
+          "quote": "[1:57:04] 'Give me the points with the Ragin Cajuns. Lock that up' (lock battle)"
+        },
+        {
+          "game": "McNeese St. at Louisiana",
+          "host": "Cap",
+          "team": "McNeese St.",
+          "lock": true,
+          "quote": "[1:57:31] 'Cap, lock it up McNeese State'"
+        },
+        {
+          "game": "UMass Lowell at American",
+          "host": "Cap",
+          "team": "UMass Lowell",
+          "lock": true,
+          "quote": "[2:00:14] 'I will lock up Lowell plus six and a half'"
+        },
+        {
+          "game": "Drake at North Dakota St.",
+          "host": "Troy",
+          "team": "Drake",
+          "lock": true,
+          "quote": "[2:16:28] 'I'll lay Drake. Lock? Yeah. I'll lock it' (lock battle)"
+        },
+        {
+          "game": "Drake at North Dakota St.",
+          "host": "Cap",
+          "team": "North Dakota St.",
+          "lock": true,
+          "quote": "[2:16:41] 'Cap. On the Bison'"
+        },
+        {
+          "game": "Merrimack at Hofstra",
+          "host": "Colby",
+          "team": "Hofstra",
+          "lock": false,
+          "quote": "[1:55:02] 'Yeah, we have to bet Hofstra' (no lock called)"
+        }
+      ],
+      "unmatched": []
     }
   }
 }
